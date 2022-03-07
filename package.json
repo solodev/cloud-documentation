@@ -1,0 +1,22 @@
+{
+  "name": "cms-documentation",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {
+    "retypeapp": "^1.11.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/solodev/cms-documentation.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/solodev/cms-documentation/issues"
+  },
+  "homepage": "https://github.com/solodev/cms-documentation#readme"
+}
