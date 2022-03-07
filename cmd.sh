@@ -8,6 +8,7 @@ tag(){
 }
 
 #DEVOPS
+export AWS_PROFILE=default
 DATE=$(date +%d%H%M)
 
 init(){
