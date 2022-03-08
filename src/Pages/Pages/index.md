@@ -1,6 +1,6 @@
 # Pages
 
-This is a paragraph.
+This is a paragraph....and a very short one
 
 Both [internal](README.md) and [external](https://example.com) links work.
 
