@@ -24,6 +24,7 @@ build(){
 }
 
 s3(){
+    export AWS_PROFILE=default
     ./deploy.sh
 }
 
