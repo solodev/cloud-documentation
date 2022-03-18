@@ -1,6 +1,6 @@
 # Deployments
 
-## Overview
+## Introduction
 In the previous article, we discussed how developers can leverage containers to deploy applications, services, and websites at light speed and manage them all in one place with minimal configuration. Developers who link their AWS account to Solodev Cloud can leverage the power of deployments and launch CloudFormation applications in very little time. Deployments are ideal for Enterprise sys-admins interested in high availability server instances and managing single tenant applications. In addition to the granular permissions offered by Solodev Cloud, administrators can enjoy the added security provided by AWS Identity Access Management (IAM) to further control access to resources.   
 
 ## Considerations and advantages
@@ -13,13 +13,13 @@ Since the deployments offered by Solodev tend to differ in technical complexity,
  
 
 ## Enterprise options
-Solodev CMS Professional Edition -- Users are able to build a professional-grade websites, apps, or portals with the power of Solodev, backed by PHP, Apache Mongo and more -- all on a single EC2 instance with an external Amazon RDS MySQL database that can be managed by AWS Opsworks.
+[Solodev CMS Professional Edition](https://github.com/solodev/aws/blob/master/pages/solodev-cms-pro.md) -- Users are able to build a professional-grade websites, apps, or portals with the power of Solodev, backed by PHP, Apache Mongo and more -- all on a single EC2 instance with an external Amazon RDS MySQL database that can be managed by AWS Opsworks.
 
-Solodev CMS Enterprise Edition -- Quickly and easily deploy Solodev Enterprise to build websites, portals or applications that can handle any amount of traffic, leveraging multiple geographic data centers for unmatched redundancy, security and scalability. 
+[Solodev CMS Enterprise Edition](https://www.solodev.com/enterprise/) -- Quickly and easily deploy Solodev Enterprise to build websites, portals or applications that can handle any amount of traffic, leveraging multiple geographic data centers for unmatched redundancy, security and scalability. 
 
-Solodev Personalize -- Automate the process of deploying event trackers. 
+[Solodev Personalize](https://www.solodev.com/marketplace/personalize) -- Automate the process of deploying event trackers. 
 
-IoT -- manage licenses, updates, and deploy code through serverless lambda calls.
+[Solodev IoT](https://www.solodev.com/marketplace/iot) -- manage licenses, updates, and deploy code through serverless lambda calls.
 
 ## Add Deployments
 
@@ -78,3 +78,36 @@ Before launching a deployment, Solodev Cloud developers should:
 - Click Launch.
 
  
+ ## Update Deployments
+
+ The update button allows users to delete their deployments or grant other users access to their deployments. Controlling access to deployments and deleting deployments will be outlined in the permissions and delete sections that follow. 
+
+ ### Permissions
+
+- On the Solodev Cloud workspace, click Infrastructure.
+- Click the desired deployment. 
+- Click the dropdown arrow on the update button.
+- Click Permissions. 
+- Type a Name of the user in your organization. 
+- Select the role. 
+- Click the **+** button. 
+- Click Submit. 
+
+To remove deployment access from other users, please refer to the steps below: 
+- On the Solodev Cloud workspace, click Infrastructure.
+- Click the desired deployment. 
+- Click the dropdown arrow on the update button.
+- Click Permissions. 
+- Click the x icon next to the user in the permissions modal. 
+- Click Submit. 
+
+### Delete Deployments
+
+Developers are able to remove deployments from their organizations. Please note that deleting deployments will delete all other assets linked to the deployment such as Apps, Modules or Sites. Please refer to the instructions below to remove your deployment. 
+
+- On the Solodev Cloud workspace, click Infrastructure.
+- Click the desired deployment. 
+- Click the Update button. 
+- Click the advanced dropdown box. 
+- Type 'DELETE' in the Delete box. 
+- Click Delete. 
