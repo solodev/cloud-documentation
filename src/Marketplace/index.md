@@ -31,7 +31,7 @@ Solodev Cloud users can make purchases from the Solodev Store and have apps, the
 
 To begin using Marketplace, a user must first activate it from their main dashboard, as shown below. This can be done by selecting “Marketplace” in the left navigation, or through the promo card (“Become a galatic seller”).
 
- Once selected, the user is directed to their Marketplace dashboard, where they are automatically set to a free Developer Plan in the Solodev Marketplace.
+Once selected, the user is directed to their Marketplace dashboard, where they are automatically set to a free Developer Plan in the Solodev Marketplace.
 
  
 
@@ -120,9 +120,9 @@ Marketplace users can upgrade from a Developer plan to a Seller plan for a fee o
 ##### Prerequisites
 The following tasks should be completed before upgrading to a Seller Plan:
 
-Users should have a credit card on file.
+- Users should have a credit card on file.
 
-Custom applications should be containerized.
+- Custom applications should be containerized.
 
 ##### Activating your Solodev Seller plan
 - Click Marketplace from the Solodev Dashboard.
