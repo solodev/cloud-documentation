@@ -20,14 +20,26 @@ To use this feature, users should create an account with AWS, create an IAM user
 
  
 
-### Step 1: Adding an account
+### Step 1: Adding a provider
 - From the Solodev Cloud dashboard, click Infrastructure.
 
-- Click Accounts.
+- Click Provider.
 
-- Click the Add account card.
+- Click the Add Provider card.
 
-- Enter the Name of the account.
+- Choose the desired provider card ( the AWS card).
+
+- Click Set up plan.
+
+- Click Install for free. 
+
+- Click Complete Purchase. 
+
+- Click Install.
+
+- Enter the Provider Name.
+
+- Enter the Region.
 
 - Enter the Access key ID.
 
@@ -35,24 +47,40 @@ To use this feature, users should create an account with AWS, create an IAM user
 
 - Click Connect.
 
-- The user is directed to the accounts page.
+- The user is directed to the detail page for the newly created provider.
 
-### Step 2: Updating the account
+### Step 2: Updating the provider
  
+- From the Provider page, select the desired provider.
 
-- From the Accounts page, select the desired account.
-
-- Click the Update account button.
+- Click the Update button.
 
 - Administrators can change the Name, Region, Access Key ID and Secret Access Key.
 
 - Once the appropriate changes are made, click Submit.
 
+### Step 3: Granting access to the provider
 
-### Step 3: Deleting an account 
-- From the Accounts page, select the desired account.
+- From the Provider page, select the desired provider.
 
-- Click the Update account button.
+- Click the dropdown arrow to the right of the Update button.
+
+- Click Permissions to bring up the permissions modal window. 
+
+- Type a Name of the user in your organization. 
+
+- Select the role. 
+
+- Click the **+** button. 
+
+- Click Submit. 
+
+
+### Step 4: Deleting a provider 
+
+- From the Provider page, select the desired provider.
+
+- Click the Update button.
 
 - Click Advanced accordion to display the Delete textbox.
 
