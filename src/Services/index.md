@@ -1,8 +1,9 @@
-# Solodev Services
 
-## Introduction
+# Services
 
 The Solodev Store allows developers to connect a variety of applications for use with the Solodev CMS system or standalone applications with services provided by Solodev and various third-parties. Developers can access the store from the Solodev website or via the Solodev Cloud application. Solodev Store offers four categories of applications: Applications, Modules, Themes, and Third-party applications and services. In these categories developers and organizations can find products and services to enhance functionality of their digital products, simplify data management and launch campaigns.
+
+---
 
 ## Applications
 
