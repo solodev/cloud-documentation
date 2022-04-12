@@ -5,7 +5,7 @@ The Solodev Store allows developers to connect a variety of applications for use
 
 ---
 
-### Applications
+## Applications
 
 A library of digital products and services that are integrated with Solodev CMS and can be considered add-ons. These addons expand the features and capabilities of the CMS. For example, developers can leverage CMS addons to track customer engagement or drive campaigns. 
 
