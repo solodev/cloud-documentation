@@ -3,7 +3,7 @@ output: dist
 url: cloud.solodev.net
 
 branding:
-  logo: /dist/retype-logo.svg
+  logo: logo.png
   label: v1.0.1
 
 meta:

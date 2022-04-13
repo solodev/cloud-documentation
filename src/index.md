@@ -1,10 +1,8 @@
-# Page title here
+# Welcome to Solodev Cloud
 
-This is a paragraph......xyz
+Solodev is an cutting edge singe sign-on (SSO) service that allows individual and teams without IT background to work together on their digital transformation in Cloud - powered by AWS. AI/ML, blockchain, e-commerce, SEO and much much more - it's all there and it doesn't require coding! COme and check [Solodev](https://Solodev.com) out and create your own contentverse.
 
-Both [internal](README.md) and [external](https://example.com) links work.
-
-![Your logo](logo.png)
+![ ](SolodevBanner.png)
 
 Another paragraph with **bold**, _italic_, ~~strikethrough~~, and `code` samples.
 
