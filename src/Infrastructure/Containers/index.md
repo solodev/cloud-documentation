@@ -1,8 +1,9 @@
-## Introduction
-Containers provides developers with a lightweight method of launching multiple applications and services on a public or private cluster. Containers allow developers to host and deploy various websites and apps on a variety of systems reliably and consistently. For example, containers allow developers to deploy an instance of Solodev CMS for their production site and another instance for testing and development. The power of containerized applications can be extended with the help of add-ons that are categorized for Solodev CMS as follows: Themes, Applications and Modules. With the added ability to set and manage permissions, administrators can enjoy enhanced security and provide better control over mission critical applications or tasks.
+
+*Containers provides developers with a lightweight method of launching multiple applications and services on a public or private cluster. Containers allow developers to host and deploy various websites and apps on a variety of systems reliably and consistently. For example, containers allow developers to deploy an instance of Solodev CMS for their production site and another instance for testing and development. The power of containerized applications can be extended with the help of add-ons that are categorized for Solodev CMS as follows: Themes, Applications and Modules. With the added ability to set and manage permissions, administrators can enjoy enhanced security and provide better control over mission critical applications or tasks.*
+
+---
 
  
-
 ## Advantages of containers
 
 After launching a container, users can enjoy the following advantages: 
@@ -24,7 +25,8 @@ Developers are able to add containers to any of their organizations to start bui
 
  
 
-### Prerequisites
+**Prerequisites**
+
 Before launching a deployment, Solodev Cloud developers should:
 
 - Created an AWS account.
@@ -35,7 +37,7 @@ Before launching a deployment, Solodev Cloud developers should:
 
  
 
-### Adding a container
+**Adding a container**
 
 - On the Solodev Cloud workspace, click Infrastructure.
 
@@ -59,11 +61,11 @@ Before launching a deployment, Solodev Cloud developers should:
 
 - At the login page, enter your Solodev Cloud credentials. 
 
-## Update Containers 
+## Manage Containers 
 
 Developers can upgrade their containers to the latest version, change the name of their container, or control container access via permissions with the update button.
 
-### Change the name of your containers
+**Change the name of your containers**
 
 - On the Solodev Cloud workspace, click Infrastructure.
 - Click the desired container. 
@@ -71,7 +73,7 @@ Developers can upgrade their containers to the latest version, change the name o
 - Type the new Name in the Name box. 
 - Click Submit. 
 
-### Upgrade your container
+**Upgrade your container**
 
 - On the Solodev Cloud workspace, click Infrastructure.
 - Click the desired container. 
@@ -81,7 +83,7 @@ Developers can upgrade their containers to the latest version, change the name o
 - Type 'UPGRADE' in the text box. 
 - Click the Upgrade button. 
 
-### Permissions 
+**Permissions**
 
 To grant container access to other users to facilitate collaboration, please refer to the steps below: 
 
@@ -102,7 +104,7 @@ To remove container access from other users, please refer to the steps below:
 - Click the x icon next to the user in the permissions modal. 
 - Click Submit. 
 
-## Delete Containers
+**Delete Containers**
 
 Developers are able to remove containers from their organizations. Please note that deleting containers will delete all other assets linked to the container such as Apps, Modules or Sites. Please refer to the instructions below to remove your container. 
 

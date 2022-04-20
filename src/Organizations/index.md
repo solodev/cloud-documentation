@@ -1,6 +1,7 @@
+
 # Organizations
 
-## Introduction
+---
 
 In Solodev Cloud the profile of each individual user functions as an organization. In addition to creating organizations that reflect their company's organizational hierarchy, administrators can transform their profile into an organization by inviting other people. Organizations are shared accounts that facilitate collaboration across many projects. With Solodev organizations, administrators are able to associate deployments, clusters, catalogs and websites with their organization and enjoy administrative privileges for these items. Solodev organizations allows administrators to manage member access to the organization's data and projects with sophisticated security features such as granular permissions. This article provides an overview of organizations and their settings. 
 
@@ -35,7 +36,7 @@ Much like their personal profile, developers can update their organization's pro
 
  
 
-### Updating your organization's profile information
+**Updating your organization's profile information**
 
 - From the organization dashboard, click Settings. 
 - Click Profile in the Settings dashboard or click the pencil icon in the Organization profile card.
@@ -44,7 +45,7 @@ Much like their personal profile, developers can update their organization's pro
 
  
 
-### Adding your organization's profile photo
+**Adding your organization's profile photo**
 
 - From the organization dashboard, click Settings.
 - Click Profile in the Settings dashboard or click the pencil icon in the Organization profile card.
@@ -53,7 +54,7 @@ Much like their personal profile, developers can update their organization's pro
 - Select the image and click Open.
 - Once the image is uploaded, the user receives a confirmation in the lower left hand corner of the screen and the image replaces the default placeholder.
 
-### Renaming an organization
+**Renaming an organization**
 
 After creating an organization, developers can rename their organization to reflect company marketing and branding as needed.
 
@@ -64,7 +65,7 @@ To rename your organization to reflect your company's branding refer to the step
 - Click Rename.
 - Enter the Title and click Submit. 
 
-### Deleting your organization
+**Deleting your organization**
 
 Developers are able to delete their organizations by accessing the profile page from the settings dashboard. Please note that deleting organizations will remove all catalogs, services, websites, containers, deployments, and clusters within the organization. Please exercise caution before deleting your organization. 
 
@@ -76,11 +77,11 @@ Developers are able to delete their organizations by accessing the profile page 
 
 ## Billing
 
-### Add a credit card to your organization
+**Add a credit card to your organization**
 
 Similar to your developer profile, organizations are equipped with a billing dashboard where developers can update their billing details, view their monthly billing history, and manage subscription plans for applications and services purchased from Solodev Services. To get started on your developer journey, follow the steps to add your credit card information. 
 
-**Adding a credit card**
+To add a credit card: 
 
 - In the Organization's dashboard, click Settings. 
 - Click Billing in the Settings dashboard or the pencil icon in the Billing card. 
@@ -88,11 +89,11 @@ Similar to your developer profile, organizations are equipped with a billing das
 - Populate the First name, Last name, Credit Card number, Expiration date and CVV. 
 - Click Save. 
 
-### Viewing your organization's billing history
+**Viewing your organization's billing history**
 
 From the billing dashboard, developers and sellers can track their purchases by retrieving invoices for each of their organization's purchases and subscriptions to various services. This document shows you how to access invoiced purchases and subscriptions for your company's records. 
 
-**View your billing history**
+To view your billing history:
 
 - In the Organization's dashboard, click Settings. 
 - Click Billing in the Settings dashboard or the pencil icon in the Billing card. 
@@ -108,7 +109,7 @@ From the billing dashboard, developers and sellers can track their purchases by 
 - Click the download icon in the row of the desired invoice. 
 - The developer will find an pdf in their Downloads folder. 
 
-### Configure subscriptions
+**Configure subscriptions**
 
 From the Settings dashboard within their organization, developers can configure and cancel their organization's subscriptions. This article shows developers how to configure and cancel their subscriptions. 
 
@@ -118,7 +119,7 @@ From the Settings dashboard within their organization, developers can configure 
 - Select the desired subscription.
 - Coming soon.
 
-### Cancel subscriptions in your organization 
+**Cancel subscriptions in your organization** 
 
 As mentioned previously, Solodev Cloud developers can configure and cancel their subscriptions from the Billing dashboard in their organization. Solodev recommends backing up/migrating any data on clusters, deployments, or containers before canceling subscriptions. Follow the steps below to cancel your subscription. 
 
@@ -128,7 +129,7 @@ As mentioned previously, Solodev Cloud developers can configure and cancel their
 - Click the Cancel button (trash icon).
 - In the modal window, type DELETE and click the Delete button to cancel the subscription.
 
-### Installing purchases
+**Installing purchases**
 
 From the billing dashboard, developers can use the purchases page to install purchases such as themes or reorder purchases such as modules for their websites, containers and deployments. This article shows you how to install purchases. 
 
@@ -137,7 +138,7 @@ From the billing dashboard, developers can use the purchases page to install pur
 - In the Billing Dashboard, click Purchases.
 - Coming soon.
 
-### Reorder purchases
+**Reorder purchases**
 
 Developers can reorder purchases (for e.g. modules) for additional containers, deployments, and clusters from the purchases page in the billing dashboard of your organization. The steps to reorder purchases are listed below. 
 

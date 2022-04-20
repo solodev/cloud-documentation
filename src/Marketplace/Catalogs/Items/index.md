@@ -1,6 +1,5 @@
-# Catalog Items
 
-## Introduction
+# Catalog Items
 
 Solodev Marketplace is powered by Catalogs, which are custom-curated libraries of apps and services. Catalogs are essential to Marketplace, as they enable a user or organization to share access to their apps and services with other users – or sell their catalog items. Users can add items to their Catalog as one-time purchases or subscription-based plans, which are paid for directly through the Solodev Cloud. 
 
@@ -18,11 +17,11 @@ Once a catalog is added users or organizations can edit the information in their
 
 Each catalog detail page contains eight sections and their associated fields that allows Marketplace users to market and distinguish catalog items, set prices or subscription plans for their customers, and more. 
 
-### General Information
+**General Information**
 
 Contains the most essential information for catalog items. The fields of the General Information changes depending on the category of fulfillment type chosen. The fields based on each category of fulfillment type are listed below: 
 
-**General Information fields for all fulfillment types.**
+***General Information fields for all fulfillment types.***
 
 | Properties | Description |
 | ----------- | ----------- |
@@ -30,14 +29,14 @@ Contains the most essential information for catalog items. The fields of the Gen
 | SKU* | The stock keeping unit for the application. |
 | Fullfillment Type* | Allows you to choose a fullfillment tag from the Service, Infrastructure or Add-ons categories. This cannot be changed after the catalog item is created. |
 
-**General Information fields shared by the Addon and Service fullfillment type.**
+***General Information fields shared by the Addon and Service fullfillment type.***
 
 | Properties | Description |
 | ----------- | ----------- |
 | Publisher | The author of the service or application. |
 | Publisher/App URL | The domain or website of the publisher/author of the application. |
 
-**General Information fields for the Service fulfillment type.**
+***General Information fields for the Service fulfillment type.***
 
 | Properties | Description |
 | ----------- | ----------- |
@@ -46,7 +45,7 @@ Contains the most essential information for catalog items. The fields of the Gen
 
 **Note:** The starred fields are fields shared between the Infrastructure, Add-ons and Service fulfillment types. 
 
-**Step 1: Editing General Information Fields (Service fulfillment)**
+***Editing General Information Fields (Service fulfillment)***
 
 - From the main dashboard, click Marketplace
 - Click Catalog
@@ -55,13 +54,13 @@ Contains the most essential information for catalog items. The fields of the Gen
 - Enter the YAML syntax for the custom form. If no syntax is entered, there is a default form on the store page associated with the organization’s or developer’s marketplace profile. 
 - Click Save. 
 
-### Versions[^1]
+**Versions[^1]**
 
 | Properties | Description |
 | ----------- | ----------- |
 | Catalog version numbers | Add/delete version numbers for catalog items and their associated applications |
 
-**Step 2: Add/Edit/Delete catalog version numbers**
+***Add/Edit/Delete catalog version numbers***
 
 - From the main dashboard, click Marketplace
 - Click Catalog
@@ -102,7 +101,7 @@ To delete a version number, follow the steps below:
 
 **Note:** There are no version numbers for catalog items that are a part of the Service fulfillment type. 
 
-### Images
+**Images**
 
 Add product logos and images to distinguish catalog items and market them to customers. The image fields are provided below:
 
@@ -113,7 +112,7 @@ Add product logos and images to distinguish catalog items and market them to cus
 | Product image | Product image that is displayed on the store page and replaces the product logo and icon. Used for full images instead of icons or logos like modules. |
 | Featured image | Product image in detail page. |
 
-**Step 3: Adding product images**
+***Adding product images***
 
 - From the main dashboard, click Marketplace
 - Click Catalog
@@ -124,7 +123,7 @@ Add product logos and images to distinguish catalog items and market them to cus
 - Click Save. 
 
 
-### Product Information
+**Product Information**
 
 Provide product descriptions and overviews to distinguish catalog items, product features to market those items to customers, product support text to assist customers and collaborators with application troubleshooting, and product instructions to configure and use the applications associated with catalog items.  
 
@@ -138,7 +137,7 @@ Provide product descriptions and overviews to distinguish catalog items, product
 | Product support text | Product support content in the detail page. 10,000-character limit. |
 | Product instructions | Product instructions content in the detail page. 10,000-character limit. |
 
-**Step 4:  Adding Production Information**
+***Adding Production Information***
 
 - From the main dashboard, click Marketplace
 - Click Catalog
@@ -146,7 +145,7 @@ Provide product descriptions and overviews to distinguish catalog items, product
 - Enter the product description/introduction, the product overview, product features, product details, product support text, and product instructions into the associated text boxes. 
 - Click Save.
 
-### Catalog Plans 
+**Catalog Plans** 
 
 Provide licensed or subscription-based services to customers. 
 
@@ -155,11 +154,11 @@ Provide licensed or subscription-based services to customers.
 | Recurring plans | Allows sellers and resellers to provide a subscription-based service to their customers for a daily, weekly, monthly, or annual fee. |
 | One-time plans | Allows sellers and resellers to provide a licensed based service to their customers for a one-time fee. |
 
-**Step 5: Adding a catalog plan**
+***Adding a catalog plan***
 
 Catalog plans allows sellers and resellers to decide whether to provide licensed or subscription-based services to their customers. A one-time plan allows customers to purchase a license from the provider for a one-time fee, while a recurring plan allows customers to subscribe to a provider’s service for a daily, weekly, monthly, or annual fee. 
 
-**Step 5a: Adding a recurring plan**
+***Adding a recurring plan***
 
 - From the main dashboard, click Marketplace
 - Click Catalog
@@ -172,7 +171,7 @@ Catalog plans allows sellers and resellers to decide whether to provide licensed
 - Enter a set-up Fee
 - Click Submit.
 
-**Step 5b: Editing a recurring plan**
+***Editing a recurring plan***
 
 - From the main dashboard, click Marketplace
 - Click Catalog
@@ -189,7 +188,7 @@ Catalog plans allows sellers and resellers to decide whether to provide licensed
 - Enter a Catalog Plan add-ons
 - Click Update.
 
-**Step 5c: Deleting a recurring plan**
+***Deleting a recurring plan***
 
 - From the main dashboard, click Marketplace
 - Click Catalog
@@ -197,7 +196,7 @@ Catalog plans allows sellers and resellers to decide whether to provide licensed
 - Click the trash can to the far right to bring up the Delete modal window.
 - Type DELETE into the text box and click Submit. 
 
-**Step 5d: Adding a one-time plan**
+***Adding a one-time plan***
 
 - Click the + sign beside the Recurring plans to bring up a modal window.
 - Enter the Title
@@ -206,7 +205,7 @@ Catalog plans allows sellers and resellers to decide whether to provide licensed
 - Enter the Quantity in the package with a value greater than or equal to 0. 
 - Click Submit. 
 
-### Status
+**Status**
 
 View, publish or remove catalog items from the marketplace. The options for saving changes are provided below. 
 
@@ -217,7 +216,7 @@ View, publish or remove catalog items from the marketplace. The options for savi
 | Publish | Makes changes publicly available on the front end. |
 | Draft URL/Store URL | URL for the catalog item’s store page. |
 
-**Step 6: Adjusting the Status**
+***Adjusting the Status***
 
 - From the main dashboard, click Marketplace
 - Click Catalog
@@ -225,7 +224,7 @@ View, publish or remove catalog items from the marketplace. The options for savi
 - Select the desired Status from the select box. 
 - Click Save.
 
-### Schedule 
+**Schedule** 
 
 Set the dates for publication or removal of catalog items. 
 
@@ -234,7 +233,7 @@ Set the dates for publication or removal of catalog items.
 | Start | The start date of publication for the catalog item. |
 | Stop | The end date of publication for the catalog item. |
 
-**Step 7: Setting a schedule**
+***Setting a schedule***
 
 - From the main dashboard, click Marketplace
 - Click Catalog
@@ -245,14 +244,14 @@ Set the dates for publication or removal of catalog items.
 
 **Note:** To publish a catalog item indefinitely leave the stop date blank. 
 
-### Sorting Catalog items
+**Sorting catalog items**
 
 Developers, sellers, and resellers can reorder catalog items displayed on the catalog page in three ways: 
 - Sort the catalogs items by Name, Type, Rank, Modified, and Author.
 - Reorder catalogs using the rank feature. ??
 - Dragging and dropping catalog items into their desired order. 
 
-**Step 8: Sorting catalog items**
+***Sorting catalog items***
 
 - From the main menu, click Marketplace.
 - In the marketplace menu click Catalog to bring up the catalog page with the list of catalog items. 

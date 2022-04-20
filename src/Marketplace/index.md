@@ -1,10 +1,9 @@
-# Solodev Marketplace
 
-## Introduction
+# Marketplace
 
 Solodev Marketplace is a virtual shopping mall for web developers. It brings together the most advanced digital marketing and cloud technologies for building amazing websites, apps, services, containers, and more – all in one place. It’s also an ecosystem for developers and organizations to monetize their own custom-built apps or resell third-party services to generate revenue.
 
- 
+--- 
 
 In this collection, we’ll cover a few key concepts and practices that make it easier to activate, use, and start selling in Marketplace, including:
 
@@ -15,8 +14,6 @@ In this collection, we’ll cover a few key concepts and practices that make it 
 - Understanding Fulfillment Types
 
 - Subscribing to Solodev Seller and Reseller plans
-
- 
 
  
 
@@ -47,7 +44,8 @@ Developers, sellers, and resellers can edit their marketplace to create a unique
 
  
 
-### Updating your Marketplace Profile
+**Updating your Marketplace Profile**
+
 - From the Solodev Cloud dashboard, click Marketplace.
 
 - Click Profile.
@@ -58,7 +56,8 @@ Developers, sellers, and resellers can edit their marketplace to create a unique
 
  
 
-### Adding/replacing your Marketplace Profile photo
+**Adding/replacing your Marketplace Profile photo**
+
 - From the Solodev Cloud dashboard, click Marketplace.
 
 - Click Profile.
@@ -76,55 +75,58 @@ Developers, sellers, and resellers can edit their marketplace to create a unique
 
 ## Marketplace Plans
 
-### Developer Dashboard
+**Developer Dashboard**
 
-**Overview:** The overview page view in the marketplace dashboard provides developers with a list of the most recent catalog items in a card view and the option to add a catalog item. Learn more about managing catalogs.
-
- 
-
-**Catalog:** The catalog page view in the marketplace dashboard provides a list of all catalog items. From here, developers can filter catalog items by fulfillment, sort catalog items by Name, Type, Date modified, and author, sort catalog items via drag and drop, add catalog items, and edit existing catalogs. These catalogs can be shared with other users via organizations
+***Overview:*** The overview page view in the marketplace dashboard provides developers with a list of the most recent catalog items in a card view and the option to add a catalog item. Learn more about managing catalogs.
 
  
 
-**Profile:** The profile page view in the marketplace dashboard allows the developer, seller, or reseller to set a name, URL, and Description or bio that will be displayed on the front-end page. Developers can also change their plans to extend the power of their Catalogs and unlock additional marketplace features here.
+***Catalog:*** The catalog page view in the marketplace dashboard provides a list of all catalog items. From here, developers can filter catalog items by fulfillment, sort catalog items by Name, Type, Date modified, and author, sort catalog items via drag and drop, add catalog items, and edit existing catalogs. These catalogs can be shared with other users via organizations
 
-### Solodev Seller Dashboard 
+ 
+
+***Profile:*** The profile page view in the marketplace dashboard allows the developer, seller, or reseller to set a name, URL, and Description or bio that will be displayed on the front-end page. Developers can also change their plans to extend the power of their Catalogs and unlock additional marketplace features here.
+
+
+**Solodev Seller Dashboard**
 
 Upgrading to a Solodev Seller plan enables users to share their catalog items with customers in a private or personal storefront, where they can feature and sell their applications on the Solodev Store, configure one-time purchases or subscription plans for customers, add banking information to collect disbursements from customer purchases, and view monthly and year-to-date revenue streams.
 
  
 
-#### Additional features
+***Additional features***
 In addition to the Overview, Catalog, and Profile pages discussed in the Developer plan, the Solodev Seller plan provides additional options that marketplace customers can use to monetize their applications and track their revenue. 
 
  
 
-**Dashboard:** On the Overview page, Solodev sellers have access to a custom dashboard from where they are able to add catalog items, configure their banking information, and render updates to their organization's profile that appears on their custom store page. Sellers can also update their organization's email address from the dashboard to retrieve notifications pertaining to important offers. 
+***Dashboard:*** On the Overview page, Solodev sellers have access to a custom dashboard from where they are able to add catalog items, configure their banking information, and render updates to their organization's profile that appears on their custom store page. Sellers can also update their organization's email address from the dashboard to retrieve notifications pertaining to important offers. 
 
  
 
-**Custom store page:** Solodev Marketplace provides sellers with a link to a personal storefront that they can share with their clients to monetize custom applications. Sellers can retrieve the link to their personal storefront by clicking the link next to their organization's name on the Marketplace Overview page. 
+***Custom store page:*** Solodev Marketplace provides sellers with a link to a personal storefront that they can share with their clients to monetize custom applications. Sellers can retrieve the link to their personal storefront by clicking the link next to their organization's name on the Marketplace Overview page. 
 
-**Banking:** Solodev Sellers must first provide their banking information to receive disbursements generated from one-time purchases and subscription plans and monetize their catalog items. They can do so using the banking page view.
+***Banking:*** Solodev Sellers must first provide their banking information to receive disbursements generated from one-time purchases and subscription plans and monetize their catalog items. They can do so using the banking page view.
 
  
 
-**Reports:** The reports page view allows Solodev Sellers and Resellers to view their account history, monthly and year to date revenue. To access reports for catalog items email reports@solodev.com.
+***Reports:*** The reports page view allows Solodev Sellers and Resellers to view their account history, monthly and year to date revenue. To access reports for catalog items email reports@solodev.com.
 
-#### Subscribe to a Solodev Seller Plan
+***Subscribe to a Solodev Seller Plan***
 
 Marketplace users can upgrade from a Developer plan to a Seller plan for a fee of $99/month from the Profile page view. Before upgrading, please note the prerequisites listed below.
 
  
 
-##### Prerequisites
+***Prerequisites***
+
 The following tasks should be completed before upgrading to a Seller Plan:
 
 - Users should have a credit card on file.
 
 - Custom applications should be containerized.
 
-##### Activating your Solodev Seller plan
+***Activating your Solodev Seller plan***
+
 - Click Marketplace from the Solodev Dashboard.
 
 - Under the Settings section of the marketplace dashboard, click Profile.
@@ -137,7 +139,9 @@ The following tasks should be completed before upgrading to a Seller Plan:
 
 - Review the subscription rate and click Subscribe.
 
-### Solodev Reseller Plans
+
+
+**Solodev Reseller Plans**
 
 The Solodev Reseller plan extends the power of catalogs by providing Marketplace users with the ability to resell items. This includes pre-built apps, containers, existing services, and even support and consulting services – all of which can be resold at a margin to collect disbursements from active account subscriptions. The Reseller plan also allows you to view month- and year-to-date revenue from your disbursements to your bank account.
 
@@ -147,38 +151,39 @@ The Solodev Reseller plan includes several noteworthy features:
 
  
 
-**Dashboard:** On the Overview page, Solodev resellers have access to a custom dashboard from where they are able to add catalog items, configure their banking information, add accounts, and render updates to their organization's profile that appear on their custom store page. Resellers can also update their organization's email address from the dashboard to retrieve notifications pertaining to important offers. 
+***Dashboard:*** On the Overview page, Solodev resellers have access to a custom dashboard from where they are able to add catalog items, configure their banking information, add accounts, and render updates to their organization's profile that appear on their custom store page. Resellers can also update their organization's email address from the dashboard to retrieve notifications pertaining to important offers. 
 
  
 
-**Custom store page:** Solodev Marketplace provides resellers with a link to a personal storefront that they can share with their clients to retrieve a share of disbursements from third-party applications and services. Resellers can retrieve the link to their personal storefront by clicking the link next to their organization's name on the Marketplace Overview page. 
+***Custom store page:*** Solodev Marketplace provides resellers with a link to a personal storefront that they can share with their clients to retrieve a share of disbursements from third-party applications and services. Resellers can retrieve the link to their personal storefront by clicking the link next to their organization's name on the Marketplace Overview page. 
 
  
 
-**Banking:** Solodev Resellers must first provide their banking information to receive disbursements generated from active subscribers. They can do so using the banking page view.
+***Banking:*** Solodev Resellers must first provide their banking information to receive disbursements generated from active subscribers. They can do so using the banking page view.
 
  
 
-**Reports:** The reports page view allows Solodev Sellers and Resellers to view their account history, monthly and year to date revenue. To access reports for catalog items email reports@solodev.com.
+***Reports:*** The reports page view allows Solodev Sellers and Resellers to view their account history, monthly and year to date revenue. To access reports for catalog items email reports@solodev.com.
 
  
 
-**Accounts:** The Solodev Reseller plan provides Marketplace users with a dedicated Accounts view page where they can view a list of all their clients and Status (Active, Invited, and Inactive) and add new clients. Learn more about managing Solodev Accounts. 
-
- #### Subscribe to a Solodev Reseller Plan
-
- Marketplace users can upgrade from a Developer Plan to a Reseller Plan for a fee of $199/month from the Profile page view. Before upgrading, please note the prerequisites listed below.
+***Accounts:*** The Solodev Reseller plan provides Marketplace users with a dedicated Accounts view page where they can view a list of all their clients and Status (Active, Invited, and Inactive) and add new clients. Learn more about managing Solodev Accounts. 
 
  
+***Subscribe to a Solodev Reseller Plan***
 
-##### Prerequisites
+Marketplace users can upgrade from a Developer Plan to a Reseller Plan for a fee of $199/month from the Profile page view. Before upgrading, please note the prerequisites listed below.
+
+
+***Prerequisites***
+
 The following tasks should be completed before upgrading to a Reseller Plan:
 
 - Users should have a credit card on file.
 
 - Obtain approval from Solodev.
 
-##### Activating your Solodev Reseller plan
+***Activating your Solodev Reseller plan***
 - Click Marketplace from the Solodev Dashboard.
 
 - Click View Plans in the Become a galactic seller card.
@@ -189,13 +194,14 @@ The following tasks should be completed before upgrading to a Reseller Plan:
 
 - Review the subscription rate and click Subscribe.
 
-### Modify your Marketplace plans
+***Modify your Marketplace plans***
 
 Developers, sellers, and resellers can change or modify their plans at any time. All the data from catalog items are preserved through each modification discussed below. 
 
  
 
-#### Upgrading to a Seller/Reseller plan
+***Upgrading to a Seller/Reseller plan***
+
 - Click Marketplace from the Solodev Dashboard.
 
 - Under the Settings section of the marketplace dashboard, click Profile.
@@ -210,7 +216,8 @@ Developers, sellers, and resellers can change or modify their plans at any time.
 
  
 
-#### Downgrading Seller/Reseller plans
+***Downgrading Seller/Reseller plans***
+
 - Click Marketplace from the Solodev Dashboard.
 
 - Under the Settings section of the marketplace dashboard, click Profile.
@@ -224,8 +231,8 @@ Developers, sellers, and resellers can change or modify their plans at any time.
 - Review the subscription rate and click Subscribe.
 
  
+***Changing from a Seller to Reseller plan or Reseller to Seller plan*** 
 
-#### Changing from a Seller to Reseller plan or Reseller to Seller plan 
 - To change from a seller to a reseller plan or vice-versa, follow the steps to downgrade seller or reseller plans.
 
 - Next, follow the steps to upgrade to a Seller/Reseller plan.

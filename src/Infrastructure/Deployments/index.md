@@ -31,7 +31,7 @@ To get started, please follow the steps below.
 
  
 
-### Prerequisites
+**Prerequisites**
 
 Before launching a deployment, Solodev Cloud developers should: 
 
@@ -43,7 +43,7 @@ Before launching a deployment, Solodev Cloud developers should:
 
 - Review the description of Solodev stacks. 
 
-### Adding a deployment
+**Adding a deployment**
 
 - In the Solodev dashboard, click Infrastructure.
 
@@ -78,11 +78,11 @@ Before launching a deployment, Solodev Cloud developers should:
 - Click Launch.
 
  
- ## Update Deployments
+ ## Managing Deployments
 
  The update button allows users to delete their deployments or grant other users access to their deployments. Controlling access to deployments and deleting deployments will be outlined in the permissions and delete sections that follow. 
 
- ### Permissions
+**Permissions**
 
 - On the Solodev Cloud workspace, click Infrastructure.
 - Click the desired deployment. 
@@ -101,7 +101,7 @@ To remove deployment access from other users, please refer to the steps below:
 - Click the x icon next to the user in the permissions modal. 
 - Click Submit. 
 
-### Delete Deployments
+**Delete deployments**
 
 Developers are able to remove deployments from their organizations. Please note that deleting deployments will delete all other assets linked to the deployment such as Apps, Modules or Sites. Please refer to the instructions below to remove your deployment. 
 

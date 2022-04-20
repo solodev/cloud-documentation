@@ -1,6 +1,6 @@
 # Fulfillment Types
 
-### Introduction 
+## What are fulfillment types? 
 
 Items in a Catalog are categorized based on their Fulfillment Type, which includes:
 

@@ -1,12 +1,13 @@
+
 # Markeplace Profile
 
-## Introduction
+*Developers, sellers, and resellers can edit their marketplace to create a unique digital footprint in their personal store or reflect their company brand.*  
 
-Developers, sellers, and resellers can edit their marketplace to create a unique digital footprint in their personal store or reflect their company brand. Refer to the steps below to update your marketplace profile. 
+---
 
- 
 
-## Updating your Marketplace Profile
+## Updating your Marketplace profile
+
 - From the Solodev Cloud dashboard, click Marketplace.
 
 - Click Profile.
@@ -17,7 +18,7 @@ Developers, sellers, and resellers can edit their marketplace to create a unique
 
  
 
-## Adding/replacing your Marketplace Profile photo
+## Adding/replacing your Marketplace profile photo
 
 - From the Solodev Cloud dashboard, click Marketplace.
 
@@ -33,6 +34,6 @@ Developers, sellers, and resellers can edit their marketplace to create a unique
 
 - The page refreshes with the uploaded image.
 
-## Changing your Marketplace Plan
+## Changing your Marketplace plan
 
 To change plans please see our article on [Marketplace Plans](https://cloud.solodev.net/marketplace/#marketplace-plans)

@@ -18,18 +18,13 @@ A library of applications native to Solodev that allow the user to effectively m
 
 A fully packaged set of templates that includes wrappers for headers and footers, style sheets, and color schemes that enables developers or administrators to rapidly deploy a website with little or no code and customize it to their liking. 
 
-## Purchasing Applications
+## Purchasing & managing services
+
+**Adding services**
 
 **Prerequisites:** Before purchasing an application, administrators should launch and configure a live deployment or container and have a credit card number on file.
 
-## Add Services
-
-
-Add a variety of services from applications to themes to each of your container or deployment in any of your organizations by following the steps provided below. 
-
- 
-
-### Adding services
+To add a variety of services from applications to themes to each of your containers or deployments in any of your organizations, follow the steps below. 
 
 - From the Solodev dashboard click Services.
 
@@ -49,14 +44,10 @@ Add a variety of services from applications to themes to each of your container 
 
 - Click Install to be directed to the configuration page for the application.
 
-## Configure Services
 
+**Configure Services**
 
 After installing a service to any one of your deployments or organization, they can be configured for immediate use. This article will demonstrate how to configure services. To get started please follow the steps below.
-
- 
-
-### Configuring Services
 
 - In the Main dashboard on the user’s account page, click Settings.
 
@@ -70,12 +61,11 @@ After installing a service to any one of your deployments or organization, they 
 
 
 
-## Manage Service Plans 
+## Managing Service Plans 
+
 Users can upgrade and downgrade subscription plans for various services with ease by following the directions below. 
 
- 
-
-### Upgrading Service Plans
+**Upgrading service plans**
 
 - From the Solodev Dashboard, click Settings
 
@@ -87,3 +77,6 @@ Users can upgrade and downgrade subscription plans for various services with eas
 
 - Coming soon. 
 
+**Downgrading service plans**
+
+- Coming soon. 
