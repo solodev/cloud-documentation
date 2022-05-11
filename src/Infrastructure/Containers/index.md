@@ -1,12 +1,13 @@
+# Containers 
 
-*Containers provides developers with a lightweight method of launching multiple applications and services on a public or private cluster. Containers allow developers to host and deploy various websites and apps on a variety of systems reliably and consistently. For example, containers allow developers to deploy an instance of Solodev CMS for their production site and another instance for testing and development. The power of containerized applications can be extended with the help of add-ons that are categorized for Solodev CMS as follows: Themes, Applications and Modules. With the added ability to set and manage permissions, administrators can enjoy enhanced security and provide better control over mission critical applications or tasks.*
+Containers provides developers with a lightweight method of launching multiple applications and services on a public or private cluster. Containers allow developers to host and deploy various websites and apps on a variety of systems reliably and consistently. For example, containers allow you to deploy an instance of Solodev CMS for your production site and another instance for testing and development. Extend the power of containerized applications with the help of add-ons that are categorized for Solodev CMS: Themes, Applications, and Modules. With the added ability to set and manage permissions, administrators can enjoy enhanced security and provide better control over mission critical applications or tasks.
 
 ---
 
  
 ## Advantages of containers
 
-After launching a container, users can enjoy the following advantages: 
+Launch containers to enjoy the following advantages: 
 
 - Less overhead: Containers use less system resources than traditional hardware or WM environments since a full copy of the operating system is not required.
 
@@ -14,7 +15,7 @@ After launching a container, users can enjoy the following advantages:
 
 - Consistent operations: Containerized applications run the same regardless of where they are deployed.
 
-- Increased efficiency: Rapidly deploy, scale or patch applications
+- Increased efficiency: Rapidly deploy, scale, or patch applications
 
 - Improved application development: Accelerate development, test, and production cycles. 
 
@@ -27,11 +28,11 @@ Developers are able to add containers to any of their organizations to start bui
 
 **Prerequisites**
 
-Before launching a deployment, Solodev Cloud developers should:
+Before launching a deployment, you should:
 
-- Created an AWS account.
+- Create an AWS account.
 
-- Connected their AWS account to Solodev Cloud.
+- Connect your AWS account to Solodev Cloud.
 
 - Place a credit card on file.
 
@@ -63,7 +64,7 @@ Before launching a deployment, Solodev Cloud developers should:
 
 ## Manage Containers 
 
-Developers can upgrade their containers to the latest version, change the name of their container, or control container access via permissions with the update button.
+Upgrade your containers to the latest version, change the name of your container, or control container access.
 
 **Change the name of your containers**
 
@@ -106,7 +107,7 @@ To remove container access from other users, please refer to the steps below:
 
 **Delete Containers**
 
-Developers are able to remove containers from their organizations. Please note that deleting containers will delete all other assets linked to the container such as Apps, Modules or Sites. Please refer to the instructions below to remove your container. 
+Solodev Cloud gives you the ability to remove containers from your organization. Please note that deleting containers will delete all other assets linked to the container such as Apps, Modules or Sites. Please refer to the instructions below to remove your container. 
 
 - On the Solodev Cloud workspace, click Infrastructure.
 - Click the desired container. 

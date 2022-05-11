@@ -1,7 +1,7 @@
 
 # Catalog Items
 
-Solodev Marketplace is powered by Catalogs, which are custom-curated libraries of apps and services. Catalogs are essential to Marketplace, as they enable a user or organization to share access to their apps and services with other users – or sell their catalog items. Users can add items to their Catalog as one-time purchases or subscription-based plans, which are paid for directly through the Solodev Cloud. 
+Solodev Marketplace is powered by Catalogs, which are custom-curated libraries of apps and services. Catalogs are essential to Marketplace, as they enable a user or organization to share access to their apps and services with other users – or sell their catalog items. Add items to your Catalog as one-time purchases or subscription-based plans, which are paid for directly through the Solodev Cloud. 
 
 ## Adding catalog items
 
@@ -13,9 +13,9 @@ Solodev Marketplace is powered by Catalogs, which are custom-curated libraries o
 
 ## Editing catalog items
 
-Once a catalog is added users or organizations can edit the information in their catalog items. 
+Once a catalog item is added you can edit the information for your catalog items. 
 
-Each catalog detail page contains eight sections and their associated fields that allows Marketplace users to market and distinguish catalog items, set prices or subscription plans for their customers, and more. 
+Each catalog detail page contains eight sections and their associated fields that allows you to market and distinguish catalog items, set prices or subscription plans for your customers, and more. 
 
 **General Information**
 
@@ -58,17 +58,17 @@ Contains the most essential information for catalog items. The fields of the Gen
 
 | Properties | Description |
 | ----------- | ----------- |
-| Catalog version numbers | Add/delete version numbers for catalog items and their associated applications |
+| Catalog version numbers | Add/delete version numbers for catalog items and their associated applications. |
 
 ***Add/Edit/Delete catalog version numbers***
 
 - From the main dashboard, click Marketplace
 - Click Catalog
 - Select the desired catalog from the list.
-- Click the + sign beside Catalog Versions to bring up a modal window
+- Click the **+** sign beside Catalog Versions to bring up a modal window
 - Enter the Version number and click Submit. 
 
-Developers or sellers can edit catalog version numbers by modifying the following fields: 
+Modify the following fields to edit catalog version numbers: 
 
 | Properties | Description |
 | ----------- | ----------- |
@@ -78,20 +78,20 @@ Developers or sellers can edit catalog version numbers by modifying the followin
 
 To edit a version number, follow the steps below: 
 
-- From the main dashboard, click Marketplace
-- Click Catalog
+- From the main dashboard, click Marketplace.
+- Click Catalog.
 - Select the desired catalog from the list.
 - Click the desired version number. 
 - Enter the Resource URL. 
-- Enter the Description
-- Enter the YAML Build
+- Enter the Description.
+- Enter the YAML Build.
 - Set the status to Active. 
 - Click Save. 
 
 To delete a version number, follow the steps below:
 
-- From the main dashboard, click Marketplace
-- Click Catalog
+- From the main dashboard, click Marketplace.
+- Click Catalog.
 - Select the desired catalog from the list.
 - Click the desired version number. 
 - The developer/seller is taken to the version number page for the catalog. 
@@ -107,15 +107,15 @@ Add product logos and images to distinguish catalog items and market them to cus
 
 | Properties | Description |
 | ----------- | ----------- |
-| Product logo | The logo for the catalog item’s associated product. This will be displayed on the store page or detail header |
+| Product logo | The logo for the catalog item’s associated product. This will be displayed on the store page or detail header. |
 | Product icon | Product icon that is displayed on the store page or detail header. If the logo and the icon are the same, upload it in the product logo field. |
 | Product image | Product image that is displayed on the store page and replaces the product logo and icon. Used for full images instead of icons or logos like modules. |
 | Featured image | Product image in detail page. |
 
 ***Adding product images***
 
-- From the main dashboard, click Marketplace
-- Click Catalog
+- From the main dashboard, click Marketplace.
+- Click Catalog.
 - Select the desired catalog from the list.
 - In the images section select Choose File under the desired type of image. 
 - Choose the image from Windows Explorer or Finder. 
@@ -139,8 +139,8 @@ Provide product descriptions and overviews to distinguish catalog items, product
 
 ***Adding Production Information***
 
-- From the main dashboard, click Marketplace
-- Click Catalog
+- From the main dashboard, click Marketplace.
+- Click Catalog.
 - Select the desired catalog from the list.
 - Enter the product description/introduction, the product overview, product features, product details, product support text, and product instructions into the associated text boxes. 
 - Click Save.
@@ -163,7 +163,7 @@ Catalog plans allows sellers and resellers to decide whether to provide licensed
 - From the main dashboard, click Marketplace
 - Click Catalog
 - Select the desired catalog from the list.
-- Click the + sign beside Recurring plans to bring up a modal window.
+- Click the **+** sign beside Recurring plans to bring up a modal window.
 - Enter the Title 
 - Select the Status
 - Select a billing period from Daily, Weekly, Monthly or Yearly

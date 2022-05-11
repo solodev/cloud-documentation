@@ -1,7 +1,7 @@
 
 # Services
 
-The Solodev Store allows developers to connect a variety of applications for use with the Solodev CMS system or standalone applications with services provided by Solodev and various third-parties. Developers can access the store from the Solodev website or via the Solodev Cloud application. Solodev Store offers four categories of applications: Applications, Modules, Themes, and Third-party applications and services. In these categories developers and organizations can find products and services to enhance functionality of their digital products, simplify data management and launch campaigns.
+The Solodev Store allows you to connect a variety of applications for use with the Solodev CMS system or standalone applications with services provided by Solodev and various third-parties. Access the store from the Solodev website or via the Solodev Cloud application. Solodev Store offers four categories of applications: Applications, Modules, Themes, and Third-party applications and services. In these categories developers and organizations can find products and services to enhance functionality of their digital products, simplify data management and launch campaigns.
 
 ---
 
@@ -12,19 +12,19 @@ A library of digital products and services that are integrated with Solodev CMS 
 
 ## Modules
 
-A library of applications native to Solodev that allow the user to effectively manage website data. With modules, users can build, administrate and power content management features such as web forms, contact lists, employee listings, news or blog feeds, event calendars, photo galleries and so much more with little or no code. 
+A library of applications native to Solodev that allow you to effectively manage website data. Build, administrate, and power content management features such as web forms, contact lists, employee listings, news or blog feeds, event calendars, photo galleries, and much more with little or no code. 
 
 ## Themes
 
-A fully packaged set of templates that includes wrappers for headers and footers, style sheets, and color schemes that enables developers or administrators to rapidly deploy a website with little or no code and customize it to their liking. 
+Use a fully packaged set of templates that includes wrappers for headers and footers, style sheets, and color schemes to rapidly deploy a website with little or no code and customize it to your liking. 
 
 ## Purchasing & managing services
 
 **Adding services**
 
-**Prerequisites:** Before purchasing an application, administrators should launch and configure a live deployment or container and have a credit card number on file.
+**Prerequisites:** Before purchasing an application, you must have a credit card number on file.
 
-To add a variety of services from applications to themes to each of your containers or deployments in any of your organizations, follow the steps below. 
+To add a variety of services follow the steps below. 
 
 - From the Solodev dashboard click Services.
 
@@ -32,11 +32,11 @@ To add a variety of services from applications to themes to each of your contain
 
 - On the browse services page, choose the desired service by clicking the Buy Now button in the application card.
 
-- Click the Set up a plan button
+- Click the Set up a plan button. 
 
-- Under Pricing and Installation, select the appropriate plan
+- Under Pricing and Installation, select the appropriate plan. 
 
-- Click the Buy now button
+- Click the Buy now button. 
 
 - On the review page select the organization to be billed.
 
@@ -47,7 +47,7 @@ To add a variety of services from applications to themes to each of your contain
 
 **Configure Services**
 
-After installing a service to any one of your deployments or organization, they can be configured for immediate use. This article will demonstrate how to configure services. To get started please follow the steps below.
+After installing a service to any one of your deployments or organization, they can be configured for immediate use. To configure your services follow the steps below.
 
 - In the Main dashboard on the user’s account page, click Settings.
 
@@ -63,7 +63,7 @@ After installing a service to any one of your deployments or organization, they 
 
 ## Managing Service Plans 
 
-Users can upgrade and downgrade subscription plans for various services with ease by following the directions below. 
+Upgrade and downgrade subscription plans for various services with ease by following the directions below. 
 
 **Upgrading service plans**
 
