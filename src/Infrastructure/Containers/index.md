@@ -30,33 +30,61 @@ Developers are able to add containers to any of their organizations to start bui
 
 Before launching a deployment, you should:
 
+- Place a credit card on file.
+
 - Create an AWS account.
 
 - Connect your AWS account to Solodev Cloud.
 
-- Place a credit card on file.
+- Add a domain. 
+
+
 
  
 
 **Adding a container**
 
-- On the Solodev Cloud workspace, click Infrastructure.
+- On the Solodev Cloud workspace, click Services.
 
-- Click Containers.
+- In the Solodev Store, select the content mangement category to filter the items.  
 
-- Click Add container. 
+- Click Buy Now on the CMS card. 
 
-- Click Launch on the Solodev CMS card. 
+- Click Set up plan.
 
-- Enter the Name,  select a cluster from the select box, set the version of Solodev CMS.
+- Select a monthly price. 
 
-- Accept the terms and conditions and click Launch.
+- Click Buy Now.
+
+- Enter the additional websites and users.
+
+- Review the price and click Complete Purchase.
+
+- Click Install.
+
+- You are directed to the add site page. 
+
+- Enter the Name and choose a domain from the select box.
+
+- Select a Timezone.
+
+- Choose a CMS from the dropdown box. If there is no CMS, the one listed is the newly created container. 
+
+- Select a container. 
+
+- Select a theme. 
+
+- On the customize theme page, enter the name that will appear in your theme (e.g. an organization name).
+
+- Upload a logo.
+
+- Select your theme colours.
+
+- Click the advanced dropdown box to add additional information your website (e.g. email, phone, address, and social media channels).
 
 - Click Launch. 
 
-- The user is directed to a page for the container created. 
-
-- An alert appears in the bottom left corner of the screen notifying the user that the container was successfully launched. 
+- You are directed to the container detail page. 
 
 - Once the container status says live, click the link to open the instance of Solodev CMS. 
 
@@ -68,7 +96,7 @@ Upgrade your containers to the latest version, change the name of your container
 
 **Change the name of your containers**
 
-- On the Solodev Cloud workspace, click Infrastructure.
+- On the Solodev Cloud workspace, click Services.
 - Click the desired container. 
 - Click the Update button. 
 - Type the new Name in the Name box. 
@@ -76,7 +104,7 @@ Upgrade your containers to the latest version, change the name of your container
 
 **Upgrade your container**
 
-- On the Solodev Cloud workspace, click Infrastructure.
+- On the Solodev Cloud workspace, click Services.
 - Click the desired container. 
 - Click the dropdown arrow on the update button.
 - Click Upgrade. 
@@ -88,7 +116,7 @@ Upgrade your containers to the latest version, change the name of your container
 
 To grant container access to other users to facilitate collaboration, please refer to the steps below: 
 
-- On the Solodev Cloud workspace, click Infrastructure.
+- On the Solodev Cloud workspace, click Services.
 - Click the desired container. 
 - Click the dropdown arrow on the update button.
 - Click Permissions. 
@@ -98,7 +126,7 @@ To grant container access to other users to facilitate collaboration, please ref
 - Click Submit. 
 
 To remove container access from other users, please refer to the steps below: 
-- On the Solodev Cloud workspace, click Infrastructure.
+- On the Solodev Cloud workspace, click Services.
 - Click the desired container. 
 - Click the dropdown arrow on the update button.
 - Click Permissions. 
@@ -109,7 +137,7 @@ To remove container access from other users, please refer to the steps below:
 
 Solodev Cloud gives you the ability to remove containers from your organization. Please note that deleting containers will delete all other assets linked to the container such as Apps, Modules or Sites. Please refer to the instructions below to remove your container. 
 
-- On the Solodev Cloud workspace, click Infrastructure.
+- On the Solodev Cloud workspace, click Services.
 - Click the desired container. 
 - Click the Update button. 
 - Click the advanced dropdown box. 

@@ -3,7 +3,7 @@
 
 ---
 
-In Solodev Cloud the profile of each individual user functions as an organization. In addition to creating organizations that reflect their company's organizational hierarchy, administrators can transform their profile into an organization by inviting other people. Organizations are shared accounts that facilitate collaboration across many projects. With Solodev organizations, administrators are able to associate deployments, clusters, catalogs and websites with their organization and enjoy administrative privileges for these items. Solodev organizations allows administrators to manage member access to the organization's data and projects with sophisticated security features such as granular permissions. This article provides an overview of organizations and their settings. 
+In Solodev Cloud the profile of each individual user functions as an organization. In addition to creating organizations that reflect your company's organizational hierarchy, you can transform your profile into an organization by inviting other people. Organizations are shared accounts that facilitate collaboration across many projects. With Solodev organizations, you can associate deployments, clusters, catalogs and websites with your organization and enjoy administrative privileges for these items. Solodev organizations allows you to manage member access to the organization's data and projects with sophisticated security features such as granular permissions. This article provides an overview of organizations and their settings. 
 
 ## Organizations' features[^1]
 
@@ -22,7 +22,7 @@ In Solodev Cloud the profile of each individual user functions as an organizatio
 
 ## Add your organization
 
-Developers can not only leverage organizations to host catalogs, services, and Solodev assets, but use it to enjoy the advantages of a granular security through the Groups feature.  This document shows you how to create your first organization. 
+Leverage organizations to host catalogs, services, and Solodev assets and enjoy the advantages of a granular security with its Groups feature.  Learn how to create your first organization with the steps below. 
 
 - From the Solodev Cloud dashboard, click Organizations.
 - Click Add Organization.
@@ -32,7 +32,7 @@ Developers can not only leverage organizations to host catalogs, services, and S
 
 ## Update your organization's profile information
 
-Much like their personal profile, developers can update their organization's profile information, profile photo, and billing information. To get started updating your profile information and profile photo, please refer to the steps below. 
+Much like your personal profile, you can update your organization's profile information, profile photo, and billing information. To get started updating your profile information and profile photo, please refer to the steps below. 
 
  
 
@@ -49,7 +49,7 @@ Much like their personal profile, developers can update their organization's pro
 
 - From the organization dashboard, click Settings.
 - Click Profile in the Settings dashboard or click the pencil icon in the Organization profile card.
-- In the circle about the Organization Image label, click Replace image.
+- In the Organization Image label, click Replace image.
 - The user is prompted to select an image from Finder/Explorer.
 - Select the image and click Open.
 - Once the image is uploaded, the user receives a confirmation in the lower left hand corner of the screen and the image replaces the default placeholder.
@@ -67,7 +67,7 @@ To rename your organization to reflect your company's branding refer to the step
 
 **Deleting your organization**
 
-Developers are able to delete their organizations by accessing the profile page from the settings dashboard. Please note that deleting organizations will remove all catalogs, services, websites, containers, deployments, and clusters within the organization. Please exercise caution before deleting your organization. 
+To delete your organizations, access the profile page from the settings dashboard. Please note that deleting organizations will remove all catalogs, services, websites, containers, deployments, and clusters within the organization. Please exercise caution before deleting your organization. 
 
 - In the Organization's dashboard, click Settings. 
 - Click Profile in the Settings dashboard or click the pencil icon in the Organization profile card.

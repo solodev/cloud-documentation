@@ -1,7 +1,7 @@
 
 # Markeplace Profile
 
-*Developers, sellers, and resellers can edit their marketplace to create a unique digital footprint in their personal store or reflect their company brand.*  
+Developers, sellers, and resellers can edit their marketplace to create a unique digital footprint in their personal store or reflect their company brand.  
 
 ---
 

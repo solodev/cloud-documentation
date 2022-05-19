@@ -151,47 +151,47 @@ Provide licensed or subscription-based services to customers.
 
 | Properties | Description |
 | ----------- | ----------- |
-| Recurring plans | Allows sellers and resellers to provide a subscription-based service to their customers for a daily, weekly, monthly, or annual fee. |
-| One-time plans | Allows sellers and resellers to provide a licensed based service to their customers for a one-time fee. |
+| Recurring plans | Provide a subscription-based service to their customers for a daily, weekly, monthly, or annual fee. |
+| One-time plans | Provide a licensed based service to their customers for a one-time fee. |
 
 ***Adding a catalog plan***
 
-Catalog plans allows sellers and resellers to decide whether to provide licensed or subscription-based services to their customers. A one-time plan allows customers to purchase a license from the provider for a one-time fee, while a recurring plan allows customers to subscribe to a provider’s service for a daily, weekly, monthly, or annual fee. 
+Catalog plans allows sellers and resellers to decide whether to provide licensed or subscription-based services to their customers. A one-time plan allows customers to purchase a license from the provider for a one-time fee. A recurring plan allows customers to subscribe to a provider’s service for a daily, weekly, monthly, or annual fee. 
 
 ***Adding a recurring plan***
 
-- From the main dashboard, click Marketplace
-- Click Catalog
+- From the main dashboard, click Marketplace.
+- Click Catalog.
 - Select the desired catalog from the list.
 - Click the **+** sign beside Recurring plans to bring up a modal window.
-- Enter the Title 
-- Select the Status
-- Select a billing period from Daily, Weekly, Monthly or Yearly
-- Enter a Price
-- Enter a set-up Fee
+- Enter the Title.
+- Select the Status.
+- Select a billing period from daily, weekly, monthly or yearly.
+- Enter a Price.
+- Enter a set-up Fee.
 - Click Submit.
 
 ***Editing a recurring plan***
 
-- From the main dashboard, click Marketplace
-- Click Catalog
+- From the main dashboard, click Marketplace.
+- Click Catalog.
 - Select the desired catalog from the list.
 - Select the new recurring plan.
-- Enter the new Title 
-- Enter the new Status
-- Enter a new billing period
-- Enter a new Price
-- Enter a new set-up Fee
-- Enter a description 
-- Enter plan details
-- Enter YAML build parameters
-- Enter a Catalog Plan add-ons
+- Enter the new Title. 
+- Enter the new Status.
+- Enter a new billing period.
+- Enter a new Price.
+- Enter a new set-up Fee.
+- Enter a description. 
+- Enter plan details.
+- Enter YAML build parameters.
+- Enter a Catalog Plan add-ons.
 - Click Update.
 
 ***Deleting a recurring plan***
 
-- From the main dashboard, click Marketplace
-- Click Catalog
+- From the main dashboard, click Marketplace.
+- Click Catalog.
 - Select the desired catalog from the list.
 - Click the trash can to the far right to bring up the Delete modal window.
 - Type DELETE into the text box and click Submit. 
@@ -199,9 +199,9 @@ Catalog plans allows sellers and resellers to decide whether to provide licensed
 ***Adding a one-time plan***
 
 - Click the + sign beside the Recurring plans to bring up a modal window.
-- Enter the Title
-- Select the Status
-- Enter a price
+- Enter the Title.
+- Select the Status.
+- Enter a price.
 - Enter the Quantity in the package with a value greater than or equal to 0. 
 - Click Submit. 
 
@@ -218,8 +218,8 @@ View, publish or remove catalog items from the marketplace. The options for savi
 
 ***Adjusting the Status***
 
-- From the main dashboard, click Marketplace
-- Click Catalog
+- From the main dashboard, click Marketplace.
+- Click Catalog.
 - Select the desired catalog from the list.
 - Select the desired Status from the select box. 
 - Click Save.
@@ -235,8 +235,8 @@ Set the dates for publication or removal of catalog items.
 
 ***Setting a schedule***
 
-- From the main dashboard, click Marketplace
-- Click Catalog
+- From the main dashboard, click Marketplace.
+- Click Catalog.
 - Select the desired catalog from the list.
 - Select a start date from the calendar. 
 - Select a stop date from the calendar. 

@@ -45,13 +45,11 @@ Before launching a deployment, Solodev Cloud developers should:
 
 **Adding a deployment**
 
-- In the Solodev dashboard, click Infrastructure.
+- In the Solodev dashboard, click Services.
 
-- Click Deployments.
+- In the Solodev Store, select the content mangement category to filter the items. 
 
-- Click the Add deployment card.
-
-- In the desired deployment card, click Get Now.
+- In the desired deployment card, click Buy Now.
 
 - Click Set up plan.
 
@@ -59,19 +57,23 @@ Before launching a deployment, Solodev Cloud developers should:
 
 - Click Buy Now.
 
-- Click Complete Purchase and install.
+- Click Complete Purchase.
 
 - Review the prices and click Install.
 
 - Enter the name of the deployment
 
-- Select a provider (like AWS).
+- Select the version from the select box.  
 
-- Enter the VPCID. For more information, click here.
+- Select a provider (e.g. AWS).
+
+- Enter the VPCID (Learn more about configuring VPCs).
 
 - Enter the subnets.
 
 - Enter the KeyName.
+
+- Choose a certificate. 
 
 - Click the checkbox to accept terms and conditions.
 
@@ -84,7 +86,7 @@ Before launching a deployment, Solodev Cloud developers should:
 
 **Permissions**
 
-- On the Solodev Cloud workspace, click Infrastructure.
+- On the Solodev Cloud workspace, click Services.
 - Click the desired deployment. 
 - Click the dropdown arrow on the update button.
 - Click Permissions. 
@@ -94,7 +96,7 @@ Before launching a deployment, Solodev Cloud developers should:
 - Click Submit. 
 
 To remove deployment access from other users, please refer to the steps below: 
-- On the Solodev Cloud workspace, click Infrastructure.
+- On the Solodev Cloud workspace, click Services.
 - Click the desired deployment. 
 - Click the dropdown arrow on the update button.
 - Click Permissions. 
@@ -105,7 +107,7 @@ To remove deployment access from other users, please refer to the steps below:
 
 Developers are able to remove deployments from their organizations. Please note that deleting deployments will delete all other assets linked to the deployment such as Apps, Modules or Sites. Please refer to the instructions below to remove your deployment. 
 
-- On the Solodev Cloud workspace, click Infrastructure.
+- On the Solodev Cloud workspace, click Services.
 - Click the desired deployment. 
 - Click the Update button. 
 - Click the advanced dropdown box. 
