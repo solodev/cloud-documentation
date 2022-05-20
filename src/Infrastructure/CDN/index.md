@@ -7,7 +7,7 @@ Deliver web content at light speed with content delivery networks.
 
 ## What is a content delivery network? 
 
-A content delivery network, henceforth CDN, is a system of distributed servers that deliver webpages and other Web content relative to the enduser's geographic location, the origin of the website, and a content delivery server. At it’s core, a CDN is a caching systems for website content, pushing it to the edge of a separate network, and negating the server latency -- resulting in higher quality network connections. To improve the quality of network connections, CDNs provide effective routes between their own servers that fast-track endusers to their destination or another copy of that website destination hosted on an alternate server. A properly configured CDN may also help protect websites against some common malicious attacks, such as Distributed Denial of Service (DDOS) attacks. As a Solodev Cloud user, you may want to use a CDN to help your page or web content load more quickly. 
+A content delivery network, henceforth CDN, is a system of distributed servers that deliver webpages and other Web content relative to the enduser's geographic location, the origin of the website, and a content delivery server. At it’s core, a CDN is a caching systems for website content, pushing it to the edge of a separate network, and negating the server latency -- resulting in higher quality network connections. A properly configured CDN may also help protect websites against some common malicious attacks, such as Distributed Denial of Service (DDOS) attacks. As a Solodev Cloud user, you may want to use a CDN to help your page or web content load more quickly. 
 
 
 ## Adding a CDN
