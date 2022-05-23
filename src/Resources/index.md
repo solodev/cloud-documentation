@@ -214,3 +214,31 @@ form:
       getting out alive? (creepy)
 
 ```
+
+## Connecting your DNS
+
+After creating a website, developers can use the origin URLs provided to update their DNS tables and launch their website.  The steps to access the origin URL and update your DNS tables are provided below: 
+
+ 
+
+**Step 1 – Accessing the origin URL**
+
+- From the Solodev Dashboard click Websites
+
+- Click the card for the newly created website.
+
+- The origin URL is listed on the right of the website preview window.
+
+ 
+
+**Step 2 – Connecting your domain/DNS to the website**
+
+- From the Solodev Dashboard click Websites
+
+- Click the card for the newly created website.
+
+- Copy the Origin URL.
+
+- Point your domain to a CNAME using the Origin URL as the CNAME value. 
+
+ 
