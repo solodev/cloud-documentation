@@ -10,9 +10,9 @@ Another paragraph with **bold**, _italic_, ~~strikethrough~~, and `code` samples
 
 ## Lists
 
-- First item
-- Second item
-- Third item
+- First 
+- Second 
+- Third 
 
 1. First item
 2. Second item

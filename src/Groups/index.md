@@ -13,7 +13,7 @@ Developers can use groups to mimic their organizational structure and take advan
 **Adding a group**
 - In the Organization's dashboard, click Groups.
 
-- Click the Add Group button.
+- Click  Add Group button.
 
 - Set the Name and Description of the group.
 
