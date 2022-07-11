@@ -1,25 +1,7 @@
 # Welcome to Solodev Cloud
 
-Solodev is an cutting edge singe sign-on (SSO) service that allows individual and teams without IT background to work together on their digital transformation in Cloud - powered by AWS. AI/ML, blockchain, e-commerce, SEO and much much more - it's all there and it doesn't require coding! COme and check [Solodev](https://Solodev.com) out and create your own contentverse.
+Solodev Cloud is an cutting edge singe sign-on (SSO) service that allows individual and teams to work together on their digital transformation in cloud enviroment - powered by AWS. AI/ML, blockchain, e-commerce, SEO and much much more - it's all there and it doesn't require coding! Come and check [Solodev](https://Solodev.com) out to create your own contentverse. Welocome onboard - [Read more](/getting-started).
 
---![Solodev Welcome Banner](solo_welcome.png)--
+--![](solo_welcome.png)--
 
-Another paragraph with **bold**, _italic_, ~~strikethrough~~, and `code` samples.
-
----
-
-## Lists
-
-- First 
-- Second 
-- Third 
-
-1. First item
-2. Second item
-3. Third item
-
-> "Cool! This is a quotation."
-
-!!!
-Need to draw attention to something? Use an alert.
-!!!
+Are you a developer looking for a channel to commercialize your awsome ideas? Check our [Marketplace](/Marketplace).
