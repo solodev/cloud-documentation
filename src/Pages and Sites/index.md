@@ -1,4 +1,4 @@
-#  Pages
+#  Pages and Sites
 ---
 author:
   name: Solodev
