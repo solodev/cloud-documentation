@@ -1,27 +1,32 @@
-# Pages
+# Pages 
 
-This is a paragraph....and a very short one
+## Adding Pages
 
-Both [internal](README.md) and [external](https://example.com) links work.
+To add a new page you have to click on Pages (see previous section) and then click on the button in the photo or on the blue button in the right bottom corner of the page, both of them titled “Add Page”.
 
-![Your logo](logo.png)
+--![](Pages1.png)--
 
-Another paragraph with **bold**, _italic_, ~~strikethrough~~, and `code` samples.
+Enter page’s title and then choose site. You can take the existing one or create a new one. You will find an information how to do it in the next part of the manual.
 
----
+--![](Pages2.png)--
 
-## Lists
+Page can be also added directly from the tab Sites by clicking sign “plus”.
 
-- First item
-- Second item
-- Third item
+--![](Pages3.png)--
 
-1. First item
-2. Second item
-3. Third item
+After adding page, you can find it on the list.
 
-> "Cool! This is a quotation."
+--![](Pages4.png)--
 
-!!!
-Need to draw attention to something? Use an alert.
-!!!
+Each page has the options that allow you to modify some features. After clicking update in the top right corner you will be able to add Staging URL, Origin URL and Alias, but also to delete the page.
+
+You can change the view by using three options at the top. There is also the possibility to maximize window.
+
+--![](Pages5.png)--
+
+### Using page studio
+
+You can take the advantage to use our page studio to create your own page. This option is available on the lef
+
+--![](Pages6.png)--
+--![](Pages7.png)--

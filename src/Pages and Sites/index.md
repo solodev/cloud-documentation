@@ -1,32 +1,24 @@
-#  Pages and Sites
----
-author:
-  name: Solodev
-  avatar: :icon-star:
----
+# Pages and Sites
 
-This is a paragraph.....xyz
-
-Both [internal](README.md) and [external](https://example.com) links work.
-
-![Your logo](logo.png)
-
-Another paragraph with **bold**, _italic_, ~~strikethrough~~, and `code` samples.
+To start building your catalog by adding services and create and launch items in your catalog, you will need to use Pages section, where you will be able to create your own pages and sites.
 
 ---
 
-## Lists
+## About Pages and Sites
 
-- First item
-- Second item
-- Third item
+What is the difference between page and site? The webpage is a single document on the web using a unique URL, while a website is a collection of multiple webpages in which information on a related topic or another subject is linked together under the same domain address.
 
-1. First item
-2. Second item
-3. Third item
+You will be able to create page and site from the level of developer account, but from the organization level as well.
 
-> "Cool! This is a quotation."
+--![](PS1.png)--
 
-!!!
-Need to draw attention to something? Use an alert.
-!!!
+---
+## Pages
+
+To read more about managing pages in Solodev Cloud please visit [Pages](Pages/index.md)
+
+---
+
+## Sites
+
+To read more about managing sites in Solodev Cloud please visit [Sites](Sites/index.md)
