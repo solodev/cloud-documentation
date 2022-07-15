@@ -1,74 +1,64 @@
 # Getting Started
 
-To start with Solodev platofrm, you just need to create an account. In this section, you will learn how to do it and then how to log into the platform. Then you will discover organization types and find out how to set up your own organization. 
+It is simple to start your adventure with Solodev Cloud, you just need to create an account. In this section, you will learn how to do it and how to log into your own Cloud.
 
 ---
 
-## How to create an account
+## Register account
 
-1. Click on the wallet icon in the top right corner of the page.
-2. Click Create Account.
-3. Enter your first name.
-4. Enter your last name.
-5. Enter your username.
-6. Enter your e-mail.
-7. Create password. Password must be at least 8 characters long including one uppercase letter, one special character (@#$%^&*!=) and alphanumeric characters.
+First, you’ll need to set up a new developer admin account. Visit [Solodev.com](https://Solodev.com/) and click the digital wallet icon in the top right of your screen. 
 
-**Tips:**
+--![](RegisterAccount1.png)--
+
+This will open the login modal to the right where you will select *“Create Account”*. 
+
+--![](RegisterAccount2.png)--
+
+This will bring you to our join now page where you’ll need to enter a few quick details including:
+
+- First Name
+- Last Name
+- Username
+- Email
+- Password (Passwords must be at least 8 characters long including one uppercase letter, one special character and alphanumeric characters.)
+
+**Password Tips:**
 
 * Avoid using common words & patterns that are easy to guess.
 * Don’t use personal info.
 
-8. Click Join Solodev.
 
-You will have to wait until 48 hours for your account to be approved. If you need access faster, you can Contact Solodev by formular Contact us.
+--![](RegisterAccount3.png)--
 
-## How to log in
+!!!
+***Please note:** Before hitting the green “Join Solodev” button we ask you read and review our terms of service and privacy statement. **On acceptance, you will be automatically enrolled in the free developer plan.***
+!!!
 
-1. Click on the wallet icon in the top right corner of the page.
-2. Click Sign in.
-3. Enter your username or e-mail.
-4. Click Log In.
+!!!
+*You will have to wait until 48 hours for your account to be approved. If you need access faster, you can Contact Solodev by formular Contact us.*
+!!!
+---
 
-**Tips:**
+## Login
 
-If you don't remember your password, you can use the option **Can't log in?** By putting username or e-mail and clicking reset you can change your password.
+You can sign in to your Solodev account in two ways. You can enter your Solodev credentials or you can login with your GitHub credentials.
 
-## Organization types
+Visit [Solodev.com](https://Solodev.com/) and click the digital wallet icon in the top right of your screen. 
 
-After creation your own account, you can choose from the 3 types of organization.
+--![](RegisterAccount1.png)--
 
-**Developer plan ($0/month)**
+This will open the login modal to the right where you will select *“Sign In”*. 
 
-Developer plan allows you to build your own containers and apps in your catalog. Apart designing and developing your apps and containers you will be also able to invite users to access your private catalog and collaborate.
+--![Picture to be changed](RegisterAccount2.png)--
 
-**Seller plan ($99/month )**
+This will bring you to our ID page where in order to sign in you’ll be able to choose between Solodev and GitHub credentials.
 
-Seller plan is a Developer plan plus possibility to sell the content of catalogs.
-In other words you will be able to sell apps from your private catalog or catalog of other users.
+--![](RegisterAccount5.png)--
 
-**Reseller plan ($199/month)**
+--![](RegisterAccount6.png)--
 
-Reseller plan is a Developer plan plus possibility to resell the content of catalog.
-You will be able to build a custom catalog of ready-to-sell apps and containers from the Marketplace, stack your catalog with third-party apps from the Marketplace. Then you will be able to act as a person who offers additional support or agency consulting services as well.
+!!!
+**Trouble Logging In?**
 
-## How to create an organization
-
-1. Click Add Organization.
-2. Enter organization name.
-3. Click Add.
-
---![](2022-07-12.png)--
-
-You have already created your first organization. To choose organization type from **Developer**, **Seller** and **Reseller** click View Plans.
-
-
-
-
-
-
-
-
-
-
-
+*If you’re having trouble logging in please hit the “can’t login?” link on the Solodev credentials page or the “Forgot Password” link on the GitHub credentials screen and follow the steps.*
+!!!
