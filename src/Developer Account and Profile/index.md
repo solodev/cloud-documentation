@@ -3,6 +3,8 @@ When logging in to your account (or creating a new account), you will land in yo
 ---
 ## Developer Workspace
 
+
+
 Below is a general overview of the developer workspace. In general, the workspace will remain in a format similar to the above with slight variances depending on which part you are in.
 
 1. Your custom image/avatar/logo which can be created and edited in the profile section
@@ -14,7 +16,10 @@ Below is a general overview of the developer workspace. In general, the workspac
 7. This is your general workspace and most of your work will take place in this portion of the screen
 8. On many screens there will be options for you in the top right corner of your workspace, including drop downs, filters and modal calls
 
---![](Developer1.png)--
+
+<a href="dev1.jpg" target="_top"><img src="dev1.jpg" alt="Dev1" style="width:1100px;height:650px; box-shadow: 5px 5px 5px #ccc; margin: auto; display: block"></a>
+
+
 
 ---
 

@@ -12,7 +12,9 @@ Set up your developer establish basics like your custom user image/avatar, email
 - Populate the textbox and click Update
 - An alert appears in the bottom lefthand corner of the dashboard to notify you the email change is successful. (*NOTE: This function is currently unavailable*)
 
---![](DeveloperAccount1.png)--
+
+<a href="devaccount1.png" target="_top"><img src="devaccount1.png" alt="Dev1" style="width:1100px;height:650px; box-shadow: 5px 5px 5px #ccc; margin: auto; display: block"></a>
+
 
 ---
 
@@ -23,7 +25,8 @@ Set up your developer establish basics like your custom user image/avatar, email
 - Populate the textbox and click Update
 - An alert appears in the bottom lefthand corner of the dashboard to notify you the username change is successful
 
---![](DeveloperAccount2.png)--
+<a href="devaccount2.png" target="_top"><img src="devaccount2.png" alt="Dev1" style="width:1100px;height:650px; box-shadow: 5px 5px 5px #ccc; margin: auto; display: block"></a>
+
 
 ---
 
@@ -38,7 +41,8 @@ Set up your developer establish basics like your custom user image/avatar, email
 *Passwords must be at least 8 characters long including one uppercase letter, one special character and alphanumeric characters.*
 !!!
 
---![](DeveloperAccount3.png)--
+<a href="devaccount3.png" target="_top"><img src="devaccount3.png" alt="Dev1" style="width:1100px;height:650px; box-shadow: 5px 5px 5px #ccc; margin: auto; display: block"></a>
+
 
 ---
 

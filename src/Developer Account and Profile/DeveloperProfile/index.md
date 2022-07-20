@@ -9,7 +9,8 @@ Set up your developer profile to establish your custom user image/avatar, name, 
 - To access your profile, click the arrow next to your username at the bottom left of the Solodev dashboard
 - In the modal window click My Profile to bring up your manage profile page
 
---![](DeveloperProfile1.png)--
+<a href="devprofile1.png" target="_top"><img src="devprofile1.png" alt="Dev1" style="width:1100px;height:650px; box-shadow: 5px 5px 5px #ccc; margin: auto; display: block"></a>
+
 
 ---
 
@@ -19,7 +20,8 @@ Set up your developer profile to establish your custom user image/avatar, name, 
 - Click Update.
 - An alert appears in the bottom lefthand corner of the dashboard to notify you the update is successful.
 
---![](DeveloperProfile2.png)--
+<a href="devprofile2.png" target="_top"><img src="devprofile2.png" alt="Dev1" style="width:1100px;height:650px; box-shadow: 5px 5px 5px #ccc; margin: auto; display: block"></a>
+
 
 ---
 
@@ -41,4 +43,4 @@ There are two ways to update your profile image. You can choose to upload an ima
 - Follow the steps in customizing your avatar (after the last step it takes a few seconds to generate and apply your new avatar)
 - An alert appears in the bottom lefthand corner of the dashboard to notify you the image replacement is successful and your image will now display at the top left of your workspace
 
---![](DeveloperProfile3.png)--
+<a href="devprofile3.png" target="_top"><img src="devprofile3.png" alt="Dev1" style="width:1100px;height:650px; box-shadow: 5px 5px 5px #ccc; margin: auto; display: block"></a>

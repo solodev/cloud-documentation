@@ -10,7 +10,8 @@ What is the difference between page and site? The webpage is a single document o
 
 You will be able to create page and site from the level of developer account, but from the organization level as well.
 
---![](PS1.png)--
+<a href="ps1.png" target="_top"><img src="ps1.png" style="width:1100px;height:650px; box-shadow: 5px 5px 5px #ccc; margin: auto; display: block"></a>
+
 
 ---
 ## Pages

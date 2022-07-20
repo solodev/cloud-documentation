@@ -8,11 +8,13 @@ It is simple to start your adventure with Solodev Cloud, you just need to create
 
 First, you’ll need to set up a new developer admin account. Visit [Solodev.com](https://Solodev.com/) and click the digital wallet icon in the top right of your screen. 
 
---![](RegisterAccount1.png)--
+<a href="registeraccount1.png" target="_top"><img src="registeraccount1.png" alt="Dev1" style="width:1100px;height:650px; box-shadow: 5px 5px 5px #ccc; margin: auto; display: block"></a>
+
 
 This will open the login modal to the right where you will select *“Create Account”*. 
 
---![](RegisterAccount2.png)--
+<a href="registeraccount2.png" target="_top"><img src="registeraccount2.png" alt="Dev1" style="width:1100px;height:650px; box-shadow: 5px 5px 5px #ccc; margin: auto; display: block"></a>
+
 
 This will bring you to our join now page where you’ll need to enter a few quick details including:
 
@@ -27,8 +29,8 @@ This will bring you to our join now page where you’ll need to enter a few quic
 * Avoid using common words & patterns that are easy to guess.
 * Don’t use personal info.
 
+<a href="registeraccount3.png" target="_top"><img src="registeraccount3.png" alt="Dev1" style="width:1100px;height:650px; box-shadow: 5px 5px 5px #ccc; margin: auto; display: block"></a>
 
---![](RegisterAccount3.png)--
 
 !!!
 ***Please note:** Before hitting the green “Join Solodev” button we ask you read and review our terms of service and privacy statement. **On acceptance, you will be automatically enrolled in the free developer plan.***
@@ -45,7 +47,8 @@ You can sign in to your Solodev account in two ways. You can enter your Solodev 
 
 Visit [Solodev.com](https://Solodev.com/) and click the digital wallet icon in the top right of your screen. 
 
---![](RegisterAccount1.png)--
+<a href="registeraccount1.png" target="_top"><img src="registeraccount1.png" alt="Dev1" style="width:1100px;height:650px; box-shadow: 5px 5px 5px #ccc; margin: auto; display: block"></a>
+
 
 This will open the login modal to the right where you will select *“Sign In”*. 
 
@@ -53,9 +56,11 @@ This will open the login modal to the right where you will select *“Sign In”
 
 This will bring you to our ID page where in order to sign in you’ll be able to choose between Solodev and GitHub credentials.
 
---![](RegisterAccount5.png)--
+<a href="registeraccount5.png" target="_top"><img src="registeraccount5.png" alt="Dev1" style="width:1100px;height:650px; box-shadow: 5px 5px 5px #ccc; margin: auto; display: block"></a>
 
---![](RegisterAccount6.png)--
+
+<a href="registeraccount6.png" target="_top"><img src="registeraccount6.png" alt="Dev1" style="width:1100px;height:650px; box-shadow: 5px 5px 5px #ccc; margin: auto; display: block"></a>
+
 
 !!!
 **Trouble Logging In?**
