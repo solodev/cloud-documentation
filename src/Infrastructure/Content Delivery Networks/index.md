@@ -9,7 +9,7 @@ A content delivery network (CDN) is a network of interconnected servers that ac
 In section Infrastructure, CDN is part of Settings in the left side of the page. Click on that.
 There you have CDN list and option “Add CDN”.
 
---![](CDN1.png)--
+<a href="cdn1.png" target="_top"><img src="cdn1.png" style="width:1100px;height:650px; margin: auto; display: block"></a>
 
 If you would like to add CDN, you will be asked to:
 - Select provider. You can take the existing one or create new one by clicking “Add Provider”.
@@ -17,5 +17,5 @@ If you would like to add CDN, you will be asked to:
 - Select certificate. You can take the existing one or create new one by clicking “Add Certificate”.
 - Click Add.
 
---![](CDN2.png)--
+<a href="cdn2.png" target="_top"><img src="cdn2.png" style="width:1100px;height:650px; margin: auto; display: block"></a>
 

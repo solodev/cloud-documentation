@@ -11,11 +11,11 @@ With a website security certificate, users can be confident that connection is m
 In section Infrastructure, Certificates is part of Settings in the left side of the page. Click on that.
 There you have certificates list and option “Add Certificate”.
 
---![](Cert1.png)--
+<a href="cert1.png" target="_top"><img src="cert1.png" style="width:1100px;height:650px; margin: auto; display: block"></a>
 
 If you would like to add CDN, you will be asked to:
 - Select domain. You can take the existing one or create new one by clicking “Add Domain”.
 - Select provider. You can take the existing one or create new one by clicking “Add Provider”.
 - Click Add.
 
---![](Cert2.png)--
+<a href="cert2.png" target="_top"><img src="cert2.png" style="width:1100px;height:650px; margin: auto; display: block"></a>
