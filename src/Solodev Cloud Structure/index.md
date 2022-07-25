@@ -6,7 +6,7 @@ Your Solodev account is structured in three basic tiers: Developer (Admin), Orga
 
 Test smaller
 
-<a href="test1.jpg" target="_top"><img src="test1.jpg" style="margin: auto; display: block"></a>
+<a href="test1.psd" target="_top"><img src="test1.psd" style="margin: auto; display: block"></a>
 
 Test Bigger
 
