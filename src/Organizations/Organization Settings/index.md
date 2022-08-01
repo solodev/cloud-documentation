@@ -1,0 +1,61 @@
+# Organization Settings
+
+
+Update your organization’s settings by clicking on the settings option from the left nav. In settings you will be able to update your organization’s profile and billing information.
+
+<a href="3-org-dashboard-lg.jpg" target="_blank"><img src="3-org-dashboard.jpg" style=" margin: auto; display: block"></a>
+
+---
+
+## Organization Profile
+
+Click on the profile menu option in the left nav or the edit icon in the profile card. This will bring you to your profile page. 
+
+
+1. You can update your email, country, postal code and enter a description for your organization here.
+2. Press the update button to process any of the changes you make.
+3. You can rename, delete and enable private catalogs for your organization here.
+4. Organizations function similarly to your developer account. Solodev will autofill your image with a letter and color background upon creation. Customizing your image will help you and brand the organization to other users and the Marketplace community.
+
+!!!
+***Please note:** URLs used to login to an instance of Solodev installed within an organization change whenever the administrator changes the name of the organization.* 
+
+*Deployments, websites, clusters and applications installed within an organization are deleted whenever the administrator deletes an organization.*
+!!!
+
+<a href="3-org-dashboard-lg.jpg" target="_blank"><img src="3-org-dashboard.jpg" style=" margin: auto; display: block"></a>
+
+---
+
+## Organization Billing
+
+Click on the billing menu option in the left nav or the edit icon in the billing details card. This will bring you to your billing page. 
+
+<a href="3-org-settings-billing-access-lg.jpg" target="_blank"><img src="3-org-settings-billing-access.jpg" style=" margin: auto; display: block"></a>
+
+---
+
+## Billing Home
+
+Your billing page allows access to:
+
+- Your payment details
+- Your billing contact
+- Your billing history
+- Your billing address
+- Your subscriptions (via left nav)
+- Your purchases (via left nav)
+
+<a href="3-org-settings-billing-home-lg.jpg" target="_blank"><img src="3-org-settings-billing-home.jpg" style=" margin: auto; display: block"></a>
+
+
+
+---
+
+## Payment details
+
+You can update your payment credit card by clicking on the pencil icon in the top corner of the payment details card to open the details modal on the right. Once you make your necessary changes hit the blue submit button on the bottom right.
+	
+<a href="3-org-settings-billing-address-lg.jpg" target="_blank"><img src="3-org-settings-billing-address.jpg" style=" margin: auto; display: block"></a>
+
+	
