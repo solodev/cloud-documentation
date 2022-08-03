@@ -33,10 +33,11 @@ Click the blue add button to complete the new user addition.
 ## Delete users
 
 Developers can remove users from their organizations with the steps below. Please that users will have no access to groups or organizations once removed and must be re-invited to regain access. 
+
 Deleting users from an organization
-    • In the Organization's dashboard, click Users.
-    • Click the trashcan icon next to the user to be removed.
-    • Review the warning and click Submit.
+- In the Organization's dashboard, click Users.
+- Click the trashcan icon next to the user to be removed.
+- Review the warning and click Submit.
 
 
 

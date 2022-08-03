@@ -17,7 +17,7 @@ Developer settings include billing items like payment details, billing contact, 
 ---
 ## Billing Home
 
-- Your billing page allows access to:
+Your billing page allows access to:
 - Your payment details
 - Your billing contact
 - Your billing history

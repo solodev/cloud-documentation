@@ -4,7 +4,7 @@ Set up all the details of your developer account.
 
 ---
 
-## Manager profile
+## Manage profile
 
 - To access your profile, click the arrow next to your username at the bottom left of the Solodev dashboard
 - In the modal window click My Profile to bring up your manage profile page

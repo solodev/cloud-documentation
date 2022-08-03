@@ -11,6 +11,8 @@ Update your organization’s settings by clicking on the settings option from th
 
 Click on the profile menu option in the left nav or the edit icon in the profile card. This will bring you to your profile page. 
 
+<a href="3-org-settings-profile-access-lg.jpg" target="_blank"><img src="3-org-settings-profile-access.jpg" style=" margin: auto; display: block"></a>
+
 
 1. You can update your email, country, postal code and enter a description for your organization here.
 2. Press the update button to process any of the changes you make.
@@ -23,7 +25,7 @@ Click on the profile menu option in the left nav or the edit icon in the profile
 *Deployments, websites, clusters and applications installed within an organization are deleted whenever the administrator deletes an organization.*
 !!!
 
-<a href="3-org-dashboard-lg.jpg" target="_blank"><img src="3-org-dashboard.jpg" style=" margin: auto; display: block"></a>
+<a href="3-org-settings-profile-lg.jpg" target="_blank"><img src="3-org-settings-profile.jpg" style=" margin: auto; display: block"></a>
 
 ---
 
