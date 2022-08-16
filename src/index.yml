@@ -1,3 +1,4 @@
-order: 
 icon: icon-welcome-door-open-solid.svg
-expanded: true
+expanded: 
+visibility: hidden
+redirect: WelcomeToSolodev/index.md
