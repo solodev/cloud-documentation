@@ -1,5 +1,7 @@
 # Quick Start Guide
 
+## Our Solodev Cloud Plans 
+
 Solodev Cloud has a solution for your needs. There are three tiers to the Solodev Cloud platform: 
 
 **Developer**
@@ -22,11 +24,11 @@ This plan includes all of the above plus the ability to create your own custom c
 
 ## Register an account
 
-First, you’ll need to set up a new account. Visit Solodev.com and click the digital wallet icon in the top right of your screen. 
+First, you’ll need to set up a new account. Visit [Solodev.com](https://www.solodev.com) and click the digital wallet icon in the top right of your screen. 
 
 <a href="../../images/quick-start-home-lg.jpg" target="_blank"><img src="../../images/quick-start-home.jpg" style="margin: auto; display: block"></a>
 
-This will open the login modal to the right where you will select “*Create Account*”. 
+This will open the login modal to the right where you will select “*Create Account* ”. 
 
 <a href="../../images/quick-start-create-lg.jpg" target="_blank"><img src="../../images/quick-start-create.jpg" style="margin: auto; display: block"></a>
 
@@ -75,7 +77,7 @@ This will bring you to our ID page where in order to sign in you’ll be able to
 !!!
 **Trouble Logging In?**
 
-If you’re having trouble logging in, please hit the “*can’t login?*” link on the Solodev ID page or the “*Forgot Password*” link on the GitHub credentials screen and follow the steps.
+If you’re having trouble logging in, please hit the “*can’t login?* ” link on the Solodev ID page or the “*Forgot Password* ” link on the GitHub credentials screen and follow the steps.
 !!!
 
 ---
@@ -84,7 +86,7 @@ If you’re having trouble logging in, please hit the “*can’t login?*” lin
 
 Your Solodev account is structured in three tiers: Developer (Admin), Organizations and Users.
 
-<a href="../../images/cloud-dev-org-group-users.jpg" target="_blank"><img src="../../images/cloud-dev-org-group-users.jpg" style="margin: auto; display: block"></a>
+<a href="../../images/cloud-dev-org-group-users.jpg" target="_blank"><img src="../../images/cloud-dev-org-group-users.jpg" style="margin: auto; display: block" width="700" height="700"></a>
 
 **Developer**
 
@@ -106,7 +108,7 @@ Solodev Store is your integrated e-commerce software solution that allows you to
 
 Solodev marketplace is the backbone of Solodev Cloud. It is the entire available digital catalog that you use to buy or sell apps within Solodev Cloud. The marketplace is a living space as new apps and services are added or updated. You can use the marketplace as botha buyer or seller.
 
-<a href="../../images/cloud-store-marketplace.jpg" target="_blank"><img src="../../images/cloud-store-marketplace.jpg" style="margin: auto; display: block"></a>
+<a href="../../images/cloud-store-marketplace.jpg" target="_blank"><img src="../../images/cloud-store-marketplace.jpg" style="margin: auto; display: block" width="700" height="700"></a>
 
 
 

@@ -6,5 +6,6 @@ The groups home page:
 
 1. Has a clickable list of your groups to open their detail page
 2. Allows you to add a new group
+	
 
 <a href="../../../images/groups-home-lg.jpg" target="_blank"><img src="../../../images/groups-home.jpg" style="margin: auto; display: block"></a>
