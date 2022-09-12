@@ -1,4 +1,4 @@
-# Group Detail
+# Group Details
 
 
 

@@ -1,4 +1,4 @@
-# Site Detail
+# Site Details
 
 The site detail page gives you a comprehensive overview of your site with convenient access to edits and functionality.
 

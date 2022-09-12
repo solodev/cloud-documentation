@@ -35,7 +35,7 @@ The second option is the Static site option. This will allow you to add a new st
 
 ### Add External Site
 
-The third option is the external site option. This will allow you to add a new static site to an existing static location. If you do not currently have an existing static location, you will need to add one prior to adding a site.
+The third option is the external site option:
 
 1. Provide the website domain. This must be a a valid URL. Prior to adding a site, please point your DNS to this server. If you would like to add a domain click the add domain option from the drop-down.
 2. Select the proper time zone for your site

@@ -1,4 +1,4 @@
-# Update Site
+# Update or Delete Site
 
 The update site modal gives you options to edit several settings and to delete the site.
     

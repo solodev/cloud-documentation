@@ -1,4 +1,4 @@
-# User Detail
+# User Details
 
 The user detail page gives an overview of the user as well as update the user:
 
