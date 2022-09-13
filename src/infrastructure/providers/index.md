@@ -1,6 +1,6 @@
 # Providers
 
-Amazon Web Services (AWS) is an online platform that provides scalable and cost-effective cloud computing solutions. AWS is a broadly adopted cloud platform that offers several on-demand operations like compute power, database storage, content delivery, etc., to help corporates scale and grow.
+Amazon Web Services (AWS) is an online platform that provides scalable and cost-effective cloud computing solutions. AWS is a broadly adopted cloud platform that offers several on-demand operations like compute power, database storage, content delivery, etc., to help corporations scale and grow.
 
 On the providers page you will see:
 

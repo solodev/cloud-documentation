@@ -1,6 +1,6 @@
 # Users
 
-In addition to associating deployments, clusters, catalogs, services and website with their organization, administrators can use organizations to facilitate cross collaboration across many projects by inviting users.
+In addition to associating deployments, clusters, catalogs, services and website with their organization, administrators can leverage organizations and users to facilitate collaboration across many projects by inviting and managing users.
 
 Here you’ll be able to:
 
