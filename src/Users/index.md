@@ -4,8 +4,8 @@ In addition to associating deployments, clusters, catalogs, services and website
 
 Here you’ll be able to:
 
-- view all your users
-- see what groups these users are a part of
-- add new users
+1. view all your users
+2. see what groups these users are a part of
+3. add new users
 
 <a href="../../images/users-home-lg.jpg" target="_blank"><img src="../../images/users-home.jpg" style="margin: auto; display: block"></a>

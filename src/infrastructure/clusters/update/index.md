@@ -1,6 +1,6 @@
 # Update or Delete Cluster
 
-The cluster update modal allows you to modify your cluster.
+The cluster update modal allows you to modify or delete your cluster.
 
 1. Change the name of your cluster
 2. Make your cluster public

@@ -1,4 +1,4 @@
-# Deplopyment Details
+# Deployment Details
 
 The deployment detail page shows you important deployment details as well as the ability to update your deployment.
 1. Relevant deployment details shown here including:

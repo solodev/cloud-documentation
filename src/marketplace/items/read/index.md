@@ -4,7 +4,7 @@
 The item detail page offers in-depth vision and control of your catalog item.
 
 1. Your catalog item name, type and publish status
-2. Click the save button to save any changes you make to your item or choose from the dropdown to:
+2. Click the save button to save any changes you make to your item or choose from the drop-down to:
     a. Copy the item
     b. Transfer the item
     c. Delete the item

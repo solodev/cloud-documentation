@@ -1,4 +1,4 @@
-# Update or Delate Group
+# Update or Delete Group
 
 The modify group modal allows you to make changes to your group.
 
