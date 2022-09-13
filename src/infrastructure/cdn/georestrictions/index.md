@@ -6,7 +6,8 @@ The CDN GEO Restriction modal allows you to add and remove restrictions to your 
 	a. No restrictions (default)
     b. Allow list (any country on list will be allowed, the rest will be blocked)
     c. Block list (any country on list will be blocked, the rest will be allowed)
-2. Click the blue submit button to apply the changes you make
+2. This area will display any allowed or blocked country depending on your selection
+3. Click the blue submit button to apply the changes you make
 
 !!!
 Note - image below will be replaced to reflect text
