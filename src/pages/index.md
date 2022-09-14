@@ -1,4 +1,4 @@
-# Pages Overview
+# Pages
 
 The pages overview is a dashboard where you can view and add pages and sites. Pages are individual web pages focused on a single topic whereas a site is a website comprised of multiple pages.
 
