@@ -1,6 +1,6 @@
 # Pages Overview
 
-The pages overview is a dashboard where you can view and add pages and sites. Pages are individual web pages focused on a single topic whereas a site is a website comprised of multiple pages.
+The pages overview is a where you can view and add pages and sites. Pages are individual web pages focused on a single topic whereas a site is a website comprised of multiple pages.
 
 1. Main left nav to access the pages overview, page listings and sites
 2. Click on this card to add a new page
