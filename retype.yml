@@ -10,8 +10,9 @@ meta:
   title: " - Generate, publish, and share documentation"
 
 links:
-- text: Solodev Cloud documentation
+- text: Home
   link: https://cloud.solodev.net/
+  icon: home
 
 footer:
   copyright: "&copy; Copyright {{ year }}. All rights reserved."
