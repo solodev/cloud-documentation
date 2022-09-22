@@ -1,62 +1,139 @@
 # Add Site
-Adding a site is a simple process that requires you to follow a few sequential steps. First, you’ll be prompted to choose which type of site you would like from the drop-down menu. Once you select your site type, click the blue “Next” button to proceed.
 
-<img src="../../../images/sites-add-site-w-drop-down.jpg" style="margin: auto; display: block"></a>
+Adding a site is a simple and is outilined in the process described below.
 
-## Site Options
+!!!Please Note:
+Prerequisites to adding a site vary depending on the type of site being added. All prerequisites are noted with each respective input field. A valid <a href="/infrastructure/domains/">domain name</a> is required for every option.
+!!!
+
+## Step 1: Pick a Type
+
 There are three types of sites to choose from when adding a new site.
 
+<img src="../../../images/sites-add-site-pick-type.jpg" alt="site type drop-down menu" style="width: 50%; display: block"></a>
+
 ### CMS
-A CMS (Content Management System) site is website that is built upon and managed by a CMS. Pages are generated dynamically and content can be customized to end users. There are several available tiers of Solodev CMS as well as other CMS industry leaders such as Wordpress available from the Solodev Marketplace. 
+
+A CMS (Content Management System) site lets your team work together on digital transformations. Create a page in minutes or collaborate with your team to launch entire customer experiences. There are several available CMS options to choose from, including Solodev CMS and WordPress.
 
 ### Static
-A static website uses server-side rendering to serve pre-built HTML, CSS, and JavaScript files to a web browser. Static sites enable you to decouple your content repository and front-end interface, giving you greater flexibility in how your content is served with the added benefit of minimal cost. Static sites launched through Solodev can be edited with our Page Studio WYSIWYG editor.
+
+A static website uses server-side rendering to serve pre-built HTML, CSS, and JavaScript files to a web browser. Static sites enable you to decouple your content repository and front-end interface, giving you greater flexibility in how your content is served with the added benefit of minimal cost. Static sites launched through Solodev can be edited with our drag-and-drop <a href="/pages/pages/read/">Page Studio editor</a>.
 
 ### External
-Need definition here. Allaut volorendit adicae. Nem etus est volore iumque con consequidite sitatemquias sum et qui con excesci endamet facest explanis idel ipsus, sita expercimi, tem nimi, autatem odicae. 
 
-!!!Please Note:
-There are prerequisites required to add a new site. These prerequisites vary depending on site type and are noted with each respective input field.
-!!!
+Need definition or wording for here allaut volorendit adicae. Nem etus est volore iumque con consequidite sitatemquias sum et qui con excesci endamet facest explanis idel ipsus, sita expercimi, tem nimi, autatem odicae.
 
-<hr>
+---
 
-## Add CMS Site
-When choosing the option to add a CMS site you will be presented with the add CMS site form to get started. This form consists of five fields, four of which are required. Click on the tabs below for details on each field.
-<img src="../../../images/sites-add-site-cms.jpg" style="margin: auto; display: block"></a>
+## Step 2: Add Site
 
-+++ <strong>Domain Name</strong>
-The first required field is for your domain name. Choose you’re a domain from your existing domains in the drop-down menu. Prior to adding a CMS site, you must have a valid domain name and point your DNS to this server.
-<img src="../../../images/sites-add-site-cms-domain.jpg" style="margin: auto; display: block"></a>
 
-If you do not currently have a domain name, you can choose the “Add Domain” option from the drop-down menu.
-<img src="../../../images/sites-add-site-cms-domain-add.jpg" style="margin: auto; display: block"></a>
-+++ Time Zone
-The second required field is that of your time zone. Please select the appropriate time zone for your website from the drop-down menu.
-<img src="../../../images/sites-add-site-cms-timezone.jpg" style="margin: auto; display: block"></a>
-+++ <strong>CMS</strong>
-The third required field is to select your CMS. Select your CMS from the drop-down menu. +++
 
-You must have an active and installed instance of CMS to add your site. If you do not have a CMS, select the “Add CMS” option from the drop-down menu.
+### Add CMS Site
 
-+++ <strong>Cluster</strong>
-The fourth required field is for your cluster. Choose your cluster from the drop-down menu.
+When choosing to add a CMS site you will be presented with the "Add CMS Site" form. This form consists of five fields, four of which are required to generate your new site.
 
-You must have a cluster to associate your CMS site with. If you do not have a cluster, select the a “Add Cluster” option from the drop-down menu.
+#### Name (Required)
 
-+++ <strong>Theme</strong>
-The fifth step is to choose a customizable pre-built theme from our library for your website. You can select the theme for your site from the drop-down menu. This is not required and can be added later if needed.
+Enter a name for your site in the blank field. Choose a domain from the drop-down menu on the right to associate with your site. You must have a valid <a href="/infrastructure/domains/">domain name</a> and point your DNS to this server. If you do not currently have a domain name, you can choose the "<a href="/infrastructure/domains/add/">Add Domain</a>" option from the drop-down menu.
 
-+++ <strong>Add</strong>
+><img src="../../../images/sites-add-site-name-domain.jpg" alt="enter a name and domain for your site" style="width: 70%; display: block"></a>
+
+#### Time Zone (Required)
+
+Select the appropriate time zone for your website from the drop-down menu.
+
+><img src="../../../images/sites-add-site-cms-timezone.jpg" alt="select time zone from drop-down" style="width: 70%; display: block"></a>
+
+#### CMS (Required)
+
+Choose your CMS from the drop-down menu. You must have a purchased and installed instance of CMS to add your site. If you do not have an active CMS, select the “Add CMS” option from the drop-down menu to take you directly to the content management section of the Marketplace.
+
+><img src="../../../images/sites-add-site-cms-choose-cms.jpg" alt="select a cms from drop-down" style="width: 70%; display: block"></a>
+
+#### Cluster (Required)
+
+Choose your cluster from the drop-down menu. You must have a cluster to associate your CMS site with. If you do not have a cluster, select the a “Add Cluster” option from the drop-down menu to take you directly to the conatiners section of the Marketplace.
+
+><img src="../../../images/sites-add-site-cms-choose-cluster.jpg" alt="select a cluster from drop-down" style="width: 70%; display: block"></a>
+
+#### Theme
+
+Choose a free customizable pre-built theme from the drop-down menu to easily add visual style to your site. If there are no themes present in your drop-down, click on the "Add Theme" option to select and install one from the marketplace. Once a theme is installed it will become an available option in the drop-down to apply to your new site. Choosing a theme is not required and can be performed later as needed.
+
+><img src="../../../images/sites-add-site-cms-choose-theme.jpg" alt="select a theme from drop-down" style="width: 70%; display: block"></a>
+
+#### Add
+
 Once you’ve completed all of the fields, click the blue “Add” button and your site will be created. 
 
+><img src="../../../images/sites-add-site-addbtn.jpg" alt="click add button" style="width: 70%; display: block"></a>
+
 !!!Please Note:
-This process may take several minutes to complete. Do not close or quit your browser duing this process.
+The site build process may take several minutes to complete after clicking the "Add" button. Do not close or quit your browser duing this process.
 !!!
-+++
 
-## Add Static Site
-When choosing...
+---
 
-## Add External Site
-When choosing...
+### Add Static Site
+
+When choosing to add a static site you will be presented with the "Add Static Site" form. This form consists of four required fields to generate your new site.
+
+#### Name (Required)
+
+Enter a name for your site in the blank field. Choose a domain from the drop-down menu on the right to associate with your site. You must have a valid <a href="/infrastructure/domains/">domain name</a> and point your DNS to this server. If you do not currently have a domain name, you can choose the "<a href="/infrastructure/domains/add/">Add Domain</a>" option from the drop-down menu.
+
+><img src="../../../images/sites-add-site-name-domain.jpg" alt="enter a name and domain for your site" style="width: 70%; display: block"></a>
+
+#### Time Zone (Required)
+
+Select the appropriate time zone for your website from the drop-down menu.
+
+>><img src="../../../images/sites-add-site-cms-timezone.jpg" alt="select time zone from drop-down" style="width: 70%; display: block"></a>
+
+#### Static (Required)
+
+Select your instance of Solodev Static from the drop-down menu. You must have an active instance of Solodev Static to add your site. If you do not have Solodev Static, select the “Add Static” option from the drop-down menu to take you directly to the content management section of the Marketplace.
+
+><img src="../../../images/sites-add-site-static-static.jpg" alt="select a cms from drop-down" style="width: 70%; display: block"></a>
+
+#### Provider (Required)
+
+Choose your provider from the drop-down menu. You must have a <a href="/infrastructure/providers/">Provider</a> to host your static site with. If you do not have a provider, select the "<a href="/infrastructure/providers/add/">Add Provider</a>" option from the drop-down menu.
+
+><img src="../../../images/sites-add-site-static-provider.jpg" alt="select a cluster from drop-down" style="width: 70%; display: block"></a>
+
+#### Add
+
+Once you’ve successfully completed all of the fields, click the blue “Add” button and your site will be created. 
+
+><img src="../../../images/sites-add-site-addbtn.jpg" alt="click add button" style="width: 70%; display: block"></a>
+
+!!!Please Note:
+The site build process may take several minutes to complete after clicking the "Add" button. Do not close or quit your browser duing this process.
+!!!
+
+---
+
+### Add External Site
+
+When choosing to add an external site you will be presented with the "Add External Site" form. This form consists of two required fields.
+
+#### Domain
+
+Enter a domain name for your site in www.yourdomainhere.com format. Do not include "http://" or "https://" when entering your domain. You must have a valid <a href="/infrastructure/domains/">domain name</a> and point your DNS to this server.
+
+><img src="../../../images/sites-add-site-external-domain.jpg" alt="enter a valid domain name" style="width: 70%; display: block"></a>
+
+#### Time Zone
+
+Select the appropriate time zone for your website from the drop-down menu.
+
+>><img src="../../../images/sites-add-site-cms-timezone.jpg" alt="select time zone from drop-down" style="width: 70%; display: block"></a>
+
+#### Add
+
+Once you’ve completed the fields, click the blue “Add” button and your site will be created. 
+
+><img src="../../../images/sites-add-site-addbtn.jpg" alt="click add button" style="width: 70%; display: block"></a>
