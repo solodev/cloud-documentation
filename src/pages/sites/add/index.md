@@ -1,10 +1,8 @@
 # Add Site
 
-Adding a site is a simple and is outilined in the process described below.
+Adding a site to your org in Solodev Cloud is a simple process, and can be completed in minutes by following the steps below. 
 
-!!!Please Note:
-Prerequisites to adding a site vary depending on the type of site being added. All prerequisites are noted with each respective input field. A valid <a href="/infrastructure/domains/">domain name</a> is required for every option.
-!!!
+
 
 ## Step 1: Pick a Type
 
@@ -12,17 +10,11 @@ There are three types of sites to choose from when adding a new site.
 
 <img src="../../../images/sites-add-site-pick-type.jpg" alt="site type drop-down menu" style="width: 50%; display: block"></a>
 
-### CMS
+**CMS:** A CMS (Content Management System) lets your team create pages, build websites, publish content dynamically, and utilize data modules to streamline your content operations. With a CMS, you can manage users and groups with permissions on a site or even a page level, allowing you to control and collaborate with your team on digital experiences. There are several CMS options to choose from in Solodev Cloud, including Solodev CMS and WordPress.
 
-A CMS (Content Management System) site lets your team work together on digital transformations. Create a page in minutes or collaborate with your team to launch entire customer experiences. There are several available CMS options to choose from, including Solodev CMS and WordPress.
+**Static:** A static website uses server-side rendering to push pre-built HTML, CSS, and JavaScript files to a web browser. Static sites decouple your content repository from your front-end interface, giving you greater flexibility with minimal cost to host and maintain. Sites launched with Solodev Static can be built and managed using our simple <a href="/pages/pages/read/">drag-and-drop editor</a>.
 
-### Static
-
-A static website uses server-side rendering to serve pre-built HTML, CSS, and JavaScript files to a web browser. Static sites enable you to decouple your content repository and front-end interface, giving you greater flexibility in how your content is served with the added benefit of minimal cost. Static sites launched through Solodev can be edited with our drag-and-drop <a href="/pages/pages/read/">Page Studio editor</a>.
-
-### External
-
-Need definition or wording for here allaut volorendit adicae. Nem etus est volore iumque con consequidite sitatemquias sum et qui con excesci endamet facest explanis idel ipsus, sita expercimi, tem nimi, autatem odicae.
+**External:** In addition to launching a CMS or a static site via Solodev Cloud, you can connect an external site and manage your name, domain, login, and other variables within your Solodev Cloud account. 
 
 ---
 
@@ -35,6 +27,10 @@ Need definition or wording for here allaut volorendit adicae. Nem etus est volor
 When choosing to add a CMS site you will be presented with the "Add CMS Site" form. This form consists of five fields, four of which are required to generate your new site.
 
 #### Name (Required)
+
+!!!Please Note:
+A valid <a href="/infrastructure/domains/">domain name</a> is required.
+!!!
 
 Enter a name for your site in the blank field. Choose a domain from the drop-down menu on the right to associate with your site. You must have a valid <a href="/infrastructure/domains/">domain name</a> and point your DNS to this server. If you do not currently have a domain name, you can choose the "<a href="/infrastructure/domains/add/">Add Domain</a>" option from the drop-down menu.
 
@@ -82,6 +78,10 @@ When choosing to add a static site you will be presented with the "Add Static Si
 
 #### Name (Required)
 
+!!!Please Note:
+A valid <a href="/infrastructure/domains/">domain name</a> is required.
+!!!
+
 Enter a name for your site in the blank field. Choose a domain from the drop-down menu on the right to associate with your site. You must have a valid <a href="/infrastructure/domains/">domain name</a> and point your DNS to this server. If you do not currently have a domain name, you can choose the "<a href="/infrastructure/domains/add/">Add Domain</a>" option from the drop-down menu.
 
 ><img src="../../../images/sites-add-site-name-domain.jpg" alt="enter a name and domain for your site" style="width: 70%; display: block"></a>
@@ -90,7 +90,7 @@ Enter a name for your site in the blank field. Choose a domain from the drop-dow
 
 Select the appropriate time zone for your website from the drop-down menu.
 
->><img src="../../../images/sites-add-site-cms-timezone.jpg" alt="select time zone from drop-down" style="width: 70%; display: block"></a>
+><img src="../../../images/sites-add-site-cms-timezone.jpg" alt="select time zone from drop-down" style="width: 70%; display: block"></a>
 
 #### Static (Required)
 
@@ -120,17 +120,17 @@ The site build process may take several minutes to complete after clicking the "
 
 When choosing to add an external site you will be presented with the "Add External Site" form. This form consists of two required fields.
 
-#### Domain
+#### Domain (Required)
 
 Enter a domain name for your site in www.yourdomainhere.com format. Do not include "http://" or "https://" when entering your domain. You must have a valid <a href="/infrastructure/domains/">domain name</a> and point your DNS to this server.
 
 ><img src="../../../images/sites-add-site-external-domain.jpg" alt="enter a valid domain name" style="width: 70%; display: block"></a>
 
-#### Time Zone
+#### Time Zone (Required)
 
 Select the appropriate time zone for your website from the drop-down menu.
 
->><img src="../../../images/sites-add-site-cms-timezone.jpg" alt="select time zone from drop-down" style="width: 70%; display: block"></a>
+><img src="../../../images/sites-add-site-cms-timezone.jpg" alt="select time zone from drop-down" style="width: 70%; display: block"></a>
 
 #### Add
 
