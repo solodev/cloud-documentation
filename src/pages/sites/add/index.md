@@ -20,45 +20,58 @@ There are three types of sites to choose from when adding a new site.
 
 ## Step 2: Add Site
 
-
+Once you have picked a type, follow the instructions below based on a CMS, static, or external site.
 
 ### Add CMS Site
 
 When choosing to add a CMS site you will be presented with the "Add CMS Site" form. This form consists of five fields, four of which are required to generate your new site.
 
-#### Name (Required)
+#### Name
 
-!!!Please Note:
-A valid <a href="/infrastructure/domains/">domain name</a> is required.
-!!!
+In Solodev Cloud, naming your site is an easy way to help organize your deployments, particularly in a shared org. A name is composed of two parts: a unique prepend title (such as "mysite") and a valid domain (such as "solodev.com"). 
 
-Enter a name for your site in the blank field. Choose a domain from the drop-down menu on the right to associate with your site. You must have a valid <a href="/infrastructure/domains/">domain name</a> and point your DNS to this server. If you do not currently have a domain name, you can choose the "<a href="/infrastructure/domains/add/">Add Domain</a>" option from the drop-down menu.
+On your sites dashboard, each card will be appear with its corresponding name in this format: mysite.solodev.com
+
+First, add your prepend name in the blank field to the left.
+
+Next, select a domain from the drop-down menu on the right to associate with your site. Remember that you will have to point your DNS server to this address prior to launch. If you do not currently have a domain name, you can choose the "<a href="/infrastructure/domains/add/">Add Domain</a>" option from the drop-down menu.
 
 ><img src="../../../images/sites-add-site-name-domain.jpg" alt="enter a name and domain for your site" style="width: 70%; display: block"></a>
 
-#### Time Zone (Required)
+!!!Please Note:
+A valid <a href="/infrastructure/domains/">domain name</a> is required to proceed to the next step.
+!!!
+
+
+#### Time Zone
 
 Select the appropriate time zone for your website from the drop-down menu.
 
 ><img src="../../../images/sites-add-site-cms-timezone.jpg" alt="select time zone from drop-down" style="width: 70%; display: block"></a>
 
-#### CMS (Required)
 
-Choose your CMS from the drop-down menu. You must have a purchased and installed instance of CMS to add your site. If you do not have an active CMS, select the “Add CMS” option from the drop-down menu to take you directly to the content management section of the Marketplace.
+#### CMS
+
+Choose a CMS from the drop-down menu. For a CMS to be available, you must first purchase and install in your account. To do so, select the "Add CMS" option in the drop-down menu to browse the Content Management section of Marketplace.
 
 ><img src="../../../images/sites-add-site-cms-choose-cms.jpg" alt="select a cms from drop-down" style="width: 70%; display: block"></a>
 
-#### Cluster (Required)
 
-Choose your cluster from the drop-down menu. You must have a cluster to associate your CMS site with. If you do not have a cluster, select the a “Add Cluster” option from the drop-down menu to take you directly to the conatiners section of the Marketplace.
+#### Cluster
+
+Next, you will need to select a cluster from the drop-down menu to host your CMS site. For a cluster to be available, you must first deploy one in your account. To do so, select the "Add Cluster" option in the drop-down menu to browse the Containers section of Marketplace.
 
 ><img src="../../../images/sites-add-site-cms-choose-cluster.jpg" alt="select a cluster from drop-down" style="width: 70%; display: block"></a>
 
+
 #### Theme
 
-Choose a free customizable pre-built theme from the drop-down menu to easily add visual style to your site. If there are no themes present in your drop-down, click on the "Add Theme" option to select and install one from the marketplace. Once a theme is installed it will become an available option in the drop-down to apply to your new site. Choosing a theme is not required and can be performed later as needed.
+A theme is a pre-built set of custom templates, styles, and components that instantly add visual elements to your site. As an option, you can choose a theme from the drop-down menu to deploy with any new site.
+
+For a theme to be available, you must first add one to your account. To do so, select "Add Theme" in the drop-down menu to browse options in the Marketplace. Once installed, it will appear in the menu when adding a site. 
 
 ><img src="../../../images/sites-add-site-cms-choose-theme.jpg" alt="select a theme from drop-down" style="width: 70%; display: block"></a>
+
 
 #### Add
 
@@ -76,33 +89,43 @@ The site build process may take several minutes to complete after clicking the "
 
 When choosing to add a static site you will be presented with the "Add Static Site" form. This form consists of four required fields to generate your new site.
 
-#### Name (Required)
+#### Name
 
-!!!Please Note:
-A valid <a href="/infrastructure/domains/">domain name</a> is required.
-!!!
+In Solodev Cloud, naming your site is an easy way to help organize your deployments, particularly in a shared org. A name is composed of two parts: a unique prepend title (such as "mysite") and a valid domain (such as "solodev.com"). 
 
-Enter a name for your site in the blank field. Choose a domain from the drop-down menu on the right to associate with your site. You must have a valid <a href="/infrastructure/domains/">domain name</a> and point your DNS to this server. If you do not currently have a domain name, you can choose the "<a href="/infrastructure/domains/add/">Add Domain</a>" option from the drop-down menu.
+On your sites dashboard, each card will be appear with its corresponding name in this format: mysite.solodev.com
+
+First, add your prepend name in the blank field to the left.
+
+Next, select a domain from the drop-down menu on the right to associate with your site. Remember that you will have to point your DNS server to this address prior to launch. If you do not currently have a domain name, you can choose the "<a href="/infrastructure/domains/add/">Add Domain</a>" option from the drop-down menu.
 
 ><img src="../../../images/sites-add-site-name-domain.jpg" alt="enter a name and domain for your site" style="width: 70%; display: block"></a>
 
-#### Time Zone (Required)
+!!!Please Note:
+A valid <a href="/infrastructure/domains/">domain name</a> is required to proceed to the next step.
+!!!
+
+
+#### Time Zone
 
 Select the appropriate time zone for your website from the drop-down menu.
 
 ><img src="../../../images/sites-add-site-cms-timezone.jpg" alt="select time zone from drop-down" style="width: 70%; display: block"></a>
 
-#### Static (Required)
+
+#### Static
 
 Select your instance of Solodev Static from the drop-down menu. You must have an active instance of Solodev Static to add your site. If you do not have Solodev Static, select the “Add Static” option from the drop-down menu to take you directly to the content management section of the Marketplace.
 
 ><img src="../../../images/sites-add-site-static-static.jpg" alt="select a cms from drop-down" style="width: 70%; display: block"></a>
 
-#### Provider (Required)
+
+#### Provider
 
 Choose your provider from the drop-down menu. You must have a <a href="/infrastructure/providers/">Provider</a> to host your static site with. If you do not have a provider, select the "<a href="/infrastructure/providers/add/">Add Provider</a>" option from the drop-down menu.
 
 ><img src="../../../images/sites-add-site-static-provider.jpg" alt="select a cluster from drop-down" style="width: 70%; display: block"></a>
+
 
 #### Add
 
@@ -120,17 +143,19 @@ The site build process may take several minutes to complete after clicking the "
 
 When choosing to add an external site you will be presented with the "Add External Site" form. This form consists of two required fields.
 
-#### Domain (Required)
+#### Domain
 
 Enter a domain name for your site in www.yourdomainhere.com format. Do not include "http://" or "https://" when entering your domain. You must have a valid <a href="/infrastructure/domains/">domain name</a> and point your DNS to this server.
 
 ><img src="../../../images/sites-add-site-external-domain.jpg" alt="enter a valid domain name" style="width: 70%; display: block"></a>
+
 
 #### Time Zone (Required)
 
 Select the appropriate time zone for your website from the drop-down menu.
 
 ><img src="../../../images/sites-add-site-cms-timezone.jpg" alt="select time zone from drop-down" style="width: 70%; display: block"></a>
+
 
 #### Add
 

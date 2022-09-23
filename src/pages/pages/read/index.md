@@ -1,6 +1,6 @@
 # Page Detail
 
-Your page detail utilizes our robust built-in drag-and-drop WYSIWYG editor. If you prefere, toggle to edit source code directly.
+Your page detail utilizes our robust built-in drag-and-drop editor. If you prefer, toggle to edit source code directly.
 
 1. Edit your page name here
 2. Click the blue save button to save any changes you have made to your page (note, the page does not auto-save so you must save changes you want to keep)
