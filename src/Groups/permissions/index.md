@@ -2,7 +2,7 @@
 
 You can take advantage of the robust permissions management system built in to Solodev cloud to specify actions and resources available to certain groups. Specifying group actions determines what each member of the group will see on their Solodev Cloud dashboard. For example, developers can create an accounting group where each user has access to settings and billing, while prohibiting access to Websites, Infrastructure, Users or Groups. 
 
-1. Expand each folder to add permissions to only parts of section.
+1. Expand each folder to add permissions to only parts of section
 2. Every selection item has three permissions to choose from:
     a. View, which will allow users in the group to only see content
     b. Edit, which will allow users in the group to modify content
