@@ -2,13 +2,13 @@
 
 Adding a site to your org in Solodev Cloud is a simple process, and can be completed in minutes by following the steps below. 
 
-
+---
 
 ## Step 1: Pick a Type
 
 There are three types of sites to choose from when adding a new site.
 
-<img src="../../../images/sites-add-site-pick-type.jpg" alt="site type drop-down menu" style="width: 50%; display: block"></a>
+><img src="../../../images/sites-add-site-pick-type.jpg" alt="site type drop-down menu" style="width: 50%; display: block"></a>
 
 **CMS:** A CMS (Content Management System) lets your team create pages, build websites, publish content dynamically, and utilize data modules to streamline your content operations. With a CMS, you can manage users and groups with permissions on a site or even a page level, allowing you to control and collaborate with your team on digital experiences. There are several CMS options to choose from in Solodev Cloud, including Solodev CMS and WordPress.
 
