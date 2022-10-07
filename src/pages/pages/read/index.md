@@ -1,21 +1,48 @@
-# Page Detail
+# Page Details
 
-Your page detail utilizes our robust built-in drag-and-drop editor. If you prefer, toggle to edit source code directly.
+The page details page gives you a comprehensive overview of your page with convenient access to edits and functionality.
 
-1. Edit your page name here
-2. Click the blue save button to save any changes you have made to your page (note, the page does not auto-save so you must save changes you want to keep)
-3. Click on the drop-down arrow to delete the page entirely
-4. Left panel of drag and drop elements consisting of:
+Your page detail utilizes our Page Studio editor. It has robust built-in drag-and-drop WYSIWYG editing functionality as well as the option to toggle to edit source directly.
+
+><img src="../../../images/pages-details.jpg" alt="pages-details" style="width: 70%; display: block"></a>
+
+## Step 1: Create from the scratch or update page in Page Studio editor
+
+### Name
+
+Edit your page name here.
+
+><img src="../../../images/pages-details2.jpg" alt="pages-details2" style="width: 70%; display: block"></a>
+
+### Preview
+
+You can click on the device icons at the top to preview your site as it will respond to those screen sizes. You can also enlarge the preview to full-screen by clicking on the diagonal arrows at the top right of the preview screen.
+
+><img src="../../../images/pages-details3.jpg" alt="pages-details3" style="width: 70%; display: block"></a>
+
+### Edit
+
+On the left panel there are elements to drag and drop consisting of:
+
    a. Layout elements
    b. Content elements
    c. Components
    d. Utilities
-5. Toggle between preview modes to see how your page will look on various screen sizes
-6. Your page workspace
-7. Right panel to edit your selected page element with three tabs to edit:
+
+><img src="../../../images/pages-details4.jpg" alt="pages-details4" style="width: 10%; display: block"></a>
+
+On the right panel there are three tabs to edit:
+
    a. Settings
    b. Layout
    c. Body
-8. Toggle to source code editor view
+   
+><img src="../../../images/pages-details5.jpg" alt="pages-details5" style="width: 20%; display: block"></a>
 
-<a href="../../../images/pages-page-detail-lg.jpg" target="_blank"><img src="../../../images/pages-page-detail.jpg" style="margin: auto; display: block"></a>
+To start or stop editing page click on pencil icons. 
+
+><img src="../../../images/pages-details6.jpg" alt="pages-details6" style="width: 10%; display: block"></a>
+
+### Save
+
+Click the blue save button to save any changes you have made to your page (note, the page does not auto-save so you must save changes you want to keep).

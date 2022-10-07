@@ -1,8 +1,9 @@
 # Delete Page
 
-Here you can delete your page.
+Click on the "Advanced" drop-down option to expand the delete function. Type DELETE in all-caps in the text field and click the red "Delete" button to delete your page.
 
-1. Type delete in all caps as shown and hit the red delete button (please be advised this will permanently delete the page and it’s history)
-	
-	
-<a href="../../../images/pages-delete-page-lg.jpg" target="_blank"><img src="../../../images/pages-delete-page.jpg" style="margin: auto; display: block"></a>
+><img src="../../../images/pages-delete3.jpg" alt="delete page" style="width: 70%; display: block"></a>
+
+!!! Alert:
+Deleting a page will permanently remove the page and all of its content and cannot be undone.
+!!!
