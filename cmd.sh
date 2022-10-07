@@ -26,7 +26,7 @@ build(){
 s3(){
     export AWS_PROFILE=default
    # sudo sh ./deploy.sh #for mac
-   sudo sh ./deploy.sh
+   sh ./deploy.sh
 }
 
 
