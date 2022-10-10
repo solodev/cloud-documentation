@@ -1,7 +1,25 @@
 # Service Settings
 
-The services settings modal allows you to edit your service.
+The service settings page gives you options to edit service settings.
 
-1. Click on the pencil edit icon to edit your service (please note, depending on the type of service you are editing the edit screens will vary)
+## Name
 
-<a href="../../../images/services-settings-lg.jpg" target="_blank"><img src="../../../images/services-settings.jpg" style="margin: auto; display: block"></a>
+To be filled up shortly!!!
+
+## Version
+
+To be filled up shortly!!!
+
+## Cluster
+
+To be filled up shortly!!!
+
+## Provider
+
+To be filled up shortly!!!
+
+## Cluster Settings
+
+
+
+

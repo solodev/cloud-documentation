@@ -1,9 +1,22 @@
-# Update Service
+# Update or Delete Service
 
-The services update modal allows you to delete your service.
+The update service modal gives you options to edit basic service settings and the option to delete the service.
 
-1. Shows the name of the service you are about to delete
-2. Click the drop-down menu, type DELETE in all caps and hit the red DELETE button
-3. Click the blue submit button to apply your changes
-	
-<a href="../../../images/services-update-lg.jpg" target="_blank"><img src="../../../images/services-update.jpg" style="margin: auto; display: block"></a>
+---
+
+## Update Service
+
+Depending on the service type various options may appear in modal. They are all common sense, like name or visibility checkboxes. Please follow the information provided in modal.
+
+><img src="../../../images/services-update1.jpg" alt="delete site" style="width: 50%; display: block"></a>
+
+
+## Delete Service
+
+Click on the "Advanced" drop-down option to expand the delete function. Type DELETE in all-caps in the text field and click the red "Delete" button to delete your site.
+
+><img src="../../../images/services-update-delete.jpg" alt="delete site" style="width: 50%; display: block"></a>
+
+!!!Please Note:
+Deleting a service will permanently remove the service and all of its content and cannot be undone.
+!!!
