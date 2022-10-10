@@ -1,10 +1,29 @@
 # Add Group
 
-Here you can add a group to your organization.
+Adding a group to your org in Solodev Cloud is a simple process, and can be completed in minutes by following the steps below.
 
-1. Enter a name for your group.
-2. Add a short description of the group
-3. Click the blue add button to create the group and add it to your organization and you will be taken to the newly created group’s home page.
-	
-	
-<a href="../../../images/groups-add-group-lg.jpg" target="_blank"><img src="../../../images/groups-add-group.jpg" style="margin: auto; display: block"></a>
+## Step 1: Add Group
+
+To add group you need to provide a name for your group and type description.
+
+><img src="../../../images/groups-add2.jpg" alt="groups-add2" style="width: 100%; display: block"></a>
+
+### Name
+
+Enter the name you want to assign to your group.
+
+><img src="../../../images/groups-add3.jpg" alt="groups-add3" style="width: 60%; display: block"></a>
+
+### Description
+
+Enter a small intro.
+
+><img src="../../../images/groups-add4.jpg" alt="groups-add4" style="width: 60%; display: block"></a>
+
+Once you’ve completed all of the fields, click the blue “Add” button and your group will be created.
+
+><img src="../../../images/sites-add-site-addbtn.jpg" alt="click add button" style="width: 70%; display: block"></a>
+
+!!! Please Note:
+The user creation process may take several minutes to complete after clicking the "Add" button. Do not close or quit your browser duing this process.
+!!!

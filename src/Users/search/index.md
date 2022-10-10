@@ -1,10 +1,29 @@
 # User Details
 
-The user detail page gives an overview of the user as well as update the user:
+The user details page gives you a comprehensive overview of users with convenient access to edits and functionality.
 
-1. Update the user
-2. User profile
-3. User activity
-4. Groups the user is a part of
+><img src="../../../images/users-details.jpg" alt="users-details.jpg" style="width: 100%; display: block"></a>
 
-<a href="../../images/users-user-detail-search-lg.jpg" target="_blank"><img src="../../images/users-user-detail-search.jpg" style="margin: auto; display: block"></a>
+### Activity
+
+You can check user activity. It is grouped by type, action name and date when it was added.
+
+><img src="../../../images/users-details2.jpg" alt="users-details2.jpg" style="width: 70%; display: block"></a>
+
+### Groups the user is a part of
+
+You can check the groups the user is part of.
+
+><img src="../../../images/users-details3.jpg" alt="users-details3.jpg" style="width: 80%; display: block"></a>
+
+### User profile
+
+You can check user profile.
+
+><img src="../../../images/users-details4.jpg" alt="users-details4.jpg" style="width: 30%; display: block"></a>
+
+### Update user
+
+Click update to <a href="/users/update/">update or delete user</a>.
+
+><img src="../../../images/users-details6.jpg" alt="users-details6.jpg" style="width: 40%; display: block"></a>

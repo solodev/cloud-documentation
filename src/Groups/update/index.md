@@ -1,10 +1,37 @@
 # Update or Delete Group
 
-The modify group modal allows you to make changes to your group.
+## Update
 
-1. Enter a new name for your group
-2. Enter a new description for your group
-3. The advanced tab allows you to delete your group by typing the word DELETE in the text box and hitting the red button
-4. Hit submit to save any changes you’ve made above
+You can update you group by providing a new name for your group or a new description.
 
-<a href="../../../images/groups-modify-delete-lg.jpg" target="_blank"><img src="../../../images/groups-modify-delete.jpg" style="margin: auto; display: block"></a>
+><img src="../../../images/groups-update.jpg" alt="groups-update" style="width: 100%; display: block"></a>
+
+### Name
+
+Enter the name you want to assign to your group.
+
+><img src="../../../images/groups-add3.jpg" alt="groups-add3" style="width: 60%; display: block"></a>
+
+### Description
+
+Enter a small intro.
+
+><img src="../../../images/groups-add4.jpg" alt="groups-add4" style="width: 60%; display: block"></a>
+
+Click the blue "Submit" button at the bottom right to apply your changes.
+
+><img src="../../../images/sites-update-submit-btn.png" alt="submit changes button" style="width: 50%; display: block"></a>
+
+!!!Please Note:
+Any changes made above will not be applied unless the submit button is clicked.
+!!!
+
+## Delete?
+
+Click on the "Advanced" drop-down option to expand the delete function. Type DELETE in all-caps in the text field and click the red "Delete" button to delete group.
+
+><img src="../../../images/xxx.jpg" alt="xxx" style="width: 100%; display: block"></a>
+
+!!! Alert:
+Deleting a group will permanently remove the group and cannot be undone.
+!!!

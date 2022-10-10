@@ -2,10 +2,16 @@
 
 In addition to associating deployments, clusters, catalogs, services and website with their organization, administrators can leverage organizations and users to facilitate collaboration across many projects by inviting and managing users.
 
-Here you’ll be able to:
+><img src="../../../images/users.jpg" alt="users" style="width: 80%; display: block"></a>
 
-1. View all your users
-2. See what groups these users are a part of
-3. Add new users
+## Current Users
 
-<a href="../../images/users-home-lg.jpg" target="_blank"><img src="../../images/users-home.jpg" style="margin: auto; display: block"></a>
+Existing users are listed in the table on the dashboard. Each page is shown with details as: name and group to which one belongs to.
+
+><img src="../../../images/users2.jpg" alt="users2" style="width: 90%; display: block"></a>
+
+## Add User
+
+Click on the "Add User" blue button on the right to <a href="/users/add/">add a new user</a>.
+
+><img src="../../../images/users-add.jpg" alt="users-add" style="width: 30%; display: block"></a>
