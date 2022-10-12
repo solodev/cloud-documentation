@@ -8,10 +8,10 @@ Group administrators can manage member access to organizational data with sophis
 
 Existing groups are listed in the table on the dashboard.
 
-><img src="../../../images/groups-details.jpg" alt="groups-details" style="width: 100%; display: block"></a>
+><img src="../../../images/groups2.jpg" alt="groups2" style="width: 100%; display: block"></a>
 
 ## Add Group
 
 Click on the "Add User Group" blue button on the right to <a href="/groups/add/">add a new group</a>.
 
-><img src="../../../images/groups-add.jpg" alt="groups-add" style="width: 40%; display: block"></a>
+><img src="../../../images/groups3.jpg" alt="groups3" style="width: 40%; display: block"></a>

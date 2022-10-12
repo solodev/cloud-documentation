@@ -24,7 +24,7 @@ Select the role you would like to apply to the chosen user or group. There are t
 
 Click the blue "Submit" button at the bottom right to apply your changes.
 
-><img src="../../../images/sites-update-submit-btn.png" alt="submit changes button" style="width: 50%; display: block"></a>
+><img src="../../../images/submit.jpg" alt="submit" style="width: 40%; display: block"></a>
 
 !!! Please Note:
 - Selecting the main checkbox at the top will select all check boxes below.

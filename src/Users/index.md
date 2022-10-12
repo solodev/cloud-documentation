@@ -8,10 +8,10 @@ In addition to associating deployments, clusters, catalogs, services and website
 
 Existing users are listed in the table on the dashboard. Each page is shown with details as: name and group to which one belongs to.
 
-><img src="../../../images/users2.jpg" alt="users2" style="width: 90%; display: block"></a>
+><img src="../../../images/users2.jpg" alt="users2" style="width: 100%; display: block"></a>
 
 ## Add User
 
 Click on the "Add User" blue button on the right to <a href="/users/add/">add a new user</a>.
 
-><img src="../../../images/users-add.jpg" alt="users-add" style="width: 30%; display: block"></a>
+><img src="../../../images/users3.jpg" alt="users3" style="width: 40%; display: block"></a>

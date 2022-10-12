@@ -14,7 +14,7 @@ You can check user activity. It is grouped by type, action name and date when it
 
 You can check the groups the user is part of.
 
-><img src="../../../images/users-details3.jpg" alt="users-details3.jpg" style="width: 80%; display: block"></a>
+><img src="../../../images/users-details3.jpg" alt="users-details3.jpg" style="width: 70%; display: block"></a>
 
 ### User profile
 
@@ -26,4 +26,4 @@ You can check user profile.
 
 Click update to <a href="/users/update/">update or delete user</a>.
 
-><img src="../../../images/users-details6.jpg" alt="users-details6.jpg" style="width: 40%; display: block"></a>
+><img src="../../../images/users-details5.jpg" alt="users-details5.jpg" style="width: 30%; display: block"></a>

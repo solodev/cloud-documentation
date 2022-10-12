@@ -6,13 +6,13 @@ To start building your catalog by adding services and create and launch items in
 
 The pages overview is a where you can view and add pages and sites. Pages are individual web pages focused on a single topic whereas a site is a website comprised of multiple pages.
 
-<a href="../images/pages-overview2.jpg" target="_blank"><img src="../images/pages-overview2.jpg" style="margin: auto; display: block"></a>
+><img src="../../../images/pages-over.jpg" alt="pages-over" style="width: 100%; display: block"></a>
 
 ### Pages
 
 Existing pages are listed in the table on the dashboard. Each page is shown with details as: name, site, when it was modified and by whom.
 
-><img src="../../../images/pages-overview4.jpg" alt="pages-overview4" style="width: 100%; display: block"></a>
+><img src="../../../images/pages-over2.jpg" alt="pages-over2" style="width: 100%; display: block"></a>
 
 ### Sites
 
@@ -22,11 +22,11 @@ Existing sites are shown as cards on the dashboard. Each card displays a thumbna
 
 ### Add Page
 
-Click on the "Add Page" button on on the left photo or on the "Add Page" blue button on the right to <a href="/pages/pages/add-page/">add a new page</a>.
+Click on the "Add Page" button on on the left photo or on the "Add Page" blue button on the right to <a href="/pages/pages/add/">add a new page</a>.
 
-><img src="../../../images/pages-add2.jpg" alt="pages-add2" style="width: 30%; display: block"></a>
+><img src="../../../images/pages-over3.jpg" alt="pages-add2" style="width: 30%; display: block"></a>
 
-><img src="../../../images/pages-add5.jpg" alt="pages-add5" style="width: 30%; display: block"></a>
+><img src="../../../images/pages-over4.jpg" alt="pages-add5" style="width: 30%; display: block"></a>
 
 ### Add Site
 
@@ -38,4 +38,4 @@ Click on the "Add Site" card to <a href="/pages/sites/read/">add a new site</a>.
 
 On the left there is a menu. You have the option to go back, go to pages or go to sites.
 
-><img src="../../../images/pages-menu.jpg" alt="pages-menu" style="width: 20%; display: block"></a>
+><img src="../../../images/pages-over5.jpg" alt="pages-over5" style="width: 30%; display: block"></a>

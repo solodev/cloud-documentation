@@ -32,7 +32,7 @@ Click on the orange "+" button to add the user or group with the permissions sel
 
 Click the blue "Submit" button at the bottom right to apply your changes.
 
-><img src="../../../images/sites-update-submit-btn.png" alt="submit changes button" style="width: 50%; display: block"></a>
+><img src="../../../images/submit.jpg" alt="submit.jpg" style="width: 40%; display: block"></a>
 
 !!!Please Note:
 Any changes made above will not be applied unless the submit button is clicked.

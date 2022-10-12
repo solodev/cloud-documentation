@@ -4,7 +4,7 @@ The page details page gives you a comprehensive overview of your page with conve
 
 Your page detail utilizes our Page Studio editor. It has robust built-in drag-and-drop WYSIWYG editing functionality as well as the option to toggle to edit source directly.
 
-><img src="../../../images/pages-details.jpg" alt="pages-details" style="width: 70%; display: block"></a>
+><img src="../../../images/pages-details.jpg" alt="pages-details" style="width: 100%; display: block"></a>
 
 ## Step 1: Create from the scratch or update page in Page Studio editor
 
@@ -18,7 +18,7 @@ Edit your page name here.
 
 You can click on the device icons at the top to preview your site as it will respond to those screen sizes. You can also enlarge the preview to full-screen by clicking on the diagonal arrows at the top right of the preview screen.
 
-><img src="../../../images/pages-details3.jpg" alt="pages-details3" style="width: 70%; display: block"></a>
+><img src="../../../images/pages-details3.jpg" alt="pages-details3" style="width: 80%; display: block"></a>
 
 ### Edit
 
@@ -46,3 +46,5 @@ To start or stop editing page click on pencil icons.
 ### Save
 
 Click the blue save button to save any changes you have made to your page (note, the page does not auto-save so you must save changes you want to keep).
+
+><img src="../../../images/pages-details7.jpg" alt="pages-details7" style="width: 40%; display: block"></a>

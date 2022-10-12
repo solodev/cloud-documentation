@@ -22,7 +22,7 @@ Enter a small intro.
 
 Once you’ve completed all of the fields, click the blue “Add” button and your group will be created.
 
-><img src="../../../images/sites-add-site-addbtn.jpg" alt="click add button" style="width: 70%; display: block"></a>
+><img src="../../../images/groups-add5.jpg" alt="groups-add5" style="width: 40%; display: block"></a>
 
 !!! Please Note:
 The user creation process may take several minutes to complete after clicking the "Add" button. Do not close or quit your browser duing this process.

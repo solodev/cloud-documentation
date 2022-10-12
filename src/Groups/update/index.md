@@ -4,7 +4,7 @@
 
 You can update you group by providing a new name for your group or a new description.
 
-><img src="../../../images/groups-update.jpg" alt="groups-update" style="width: 100%; display: block"></a>
+><img src="../../../images/x.jpg" alt="x" style="width: 100%; display: block"></a>
 
 ### Name
 
@@ -20,17 +20,17 @@ Enter a small intro.
 
 Click the blue "Submit" button at the bottom right to apply your changes.
 
-><img src="../../../images/sites-update-submit-btn.png" alt="submit changes button" style="width: 50%; display: block"></a>
+><img src="../../../images/submit.jpg" alt="submit" style="width: 40%; display: block"></a>
 
 !!!Please Note:
 Any changes made above will not be applied unless the submit button is clicked.
 !!!
 
-## Delete?
+## Delete
 
 Click on the "Advanced" drop-down option to expand the delete function. Type DELETE in all-caps in the text field and click the red "Delete" button to delete group.
 
-><img src="../../../images/xxx.jpg" alt="xxx" style="width: 100%; display: block"></a>
+><img src="../../../images/x.jpg" alt="x" style="width: 100%; display: block"></a>
 
 !!! Alert:
 Deleting a group will permanently remove the group and cannot be undone.
