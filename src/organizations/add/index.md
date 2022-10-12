@@ -1,9 +1,35 @@
 # Add Organization
 
-Here you can add an organization.
+Adding an organization to your org in Solodev Cloud is a simple process, and can be completed in minutes by following the steps below.
 
-1. Enter your organization name
-2. Enter the billing email associated with the organization
-3. Hit the blue add button to add our organization and you will be taken back to the organizations dashboard
-	
-<a href="../../../images/organizations-add-organization-lg.jpg" target="_blank"><img src="../../../images/organizations-add-organization.jpg" style="margin: auto; display: block"></a>
+## Step 1: Add Organization
+
+To add organization you need to provide a name for your organization and billing email.
+
+><img src="../../../images/org-add.jpg" alt="org-add" style="width: 100%; display: block"></a>
+
+### Organization name
+
+Enter your company name.
+
+><img src="../../../images/org-add2.jpg" alt="org-add2" style="width: 50%; display: block"></a>
+
+### Billing Email
+
+Enter a valid email address.
+
+><img src="../../../images/org-add3.jpg" alt="org-add3" style="width: 50%; display: block"></a>
+
+!!! Please Note:
+This field currently cannot be changed here. Billing email is an email of your user account. You can change billing email in <a href="/organizations/rename/">profile page</a>.
+!!!
+
+### Add
+
+Once you’ve completed all of the fields, click the blue “Add” button and your oganization will be created.
+
+><img src="../../../images/page-add3.jpg" alt="page-add3" style="width: 40%; display: block"></a>
+
+!!! Please Note:
+The oganization build process may take several minutes to complete after clicking the "Add" button. Do not close or quit your browser duing this process.
+!!!

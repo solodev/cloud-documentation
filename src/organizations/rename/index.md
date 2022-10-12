@@ -1,8 +1,9 @@
-# Rename Organization
+# Delete Organization
 
-Here you can rename your organization.
+Click on the "Advanced" drop-down option to expand the delete function. Type DELETE in all-caps in the text field and click the red "Delete" button to delete organization.
 
-1. Enter the new name for your organization in the text box
-2. Click the submit button in the bottom right.
-	
-<a href="../../images/organizations-rename-lg.jpg" target="_blank"><img src="../../images/organizations-rename.jpg" style="margin: auto; display: block"></a>
+><img src="../../../images/x.jpg" alt="x" style="width: 100%; display: block"></a>
+
+!!! Alert:
+Deleting an organization will permanently remove the organization and cannot be undone.
+!!!
