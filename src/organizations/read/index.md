@@ -8,7 +8,7 @@ The organization details page gives you a comprehensive overview of organization
 
 ### Menu
 
-On the left there is a menu. You have the option to go back, go to <a href="/organizations/billing/">Billing</a>, Profile or API.
+On the left there is a menu. You have the option to go back, go to <a href="/settings/billing/">Billing</a>, <a href="/profile/">Profile</a> or <a href="/settings/api/">API</a>.
 
 ><img src="../../../images/org-update9.jpg" alt="org-update9" style="width: 20%; display: block"></a>
 

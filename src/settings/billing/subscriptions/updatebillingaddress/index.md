@@ -2,15 +2,15 @@
 
 To edit your billing address click on the pencil icon above the Billing Address card on the right.
 
-><img src="../../../images/billing6.jpg" alt="billing6" style="width: 100%; display: block"></a>
+><img src="../../../../images/billing6.jpg" alt="billing6" style="width: 40%; display: block"></a>
 
 Enter your company name, company address, choose your country, enter state or region, city, postal code and VAT number.
 
-><img src="../../../images/billing8.jpg" alt="billing8" style="width: 100%; display: block"></a>
+><img src="../../../../images/billing8.jpg" alt="billing8" style="width: 100%; display: block"></a>
 
 Click the blue "Submit" button at the bottom right to apply your changes.
 
-><img src="../../../images/submit.jpg" alt="submit" style="width: 40%; display: block"></a>
+><img src="../../../../images/submit.jpg" alt="submit" style="width: 40%; display: block"></a>
 
 !!!Please Note:
 Any changes made above will not be applied unless the submit button is clicked.

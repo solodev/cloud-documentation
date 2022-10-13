@@ -10,7 +10,7 @@ Permissions are a powerful tool that allow you to manage access for users and gr
 
 Enter the name of the user or group you would like to grant access to. The text field is smart and will begin to display available users and groups to choose from as you type.
 
-><img src="../../../images/sites-permissions-name.jpg" alt="enter name of user or group to add" style="width: 50%; display: block"></a>
+><img src="../../../../images/sites-permissions-name.jpg" alt="enter name of user or group to add" style="width: 50%; display: block"></a>
 
 ### Step 2: Role
 
@@ -20,7 +20,7 @@ Select the role you would like to apply to the chosen user or group. There are t
 - **Editor:** The editor role will enables the chosen user or group the ability to see and edit this item.
 - **Admin:** The admin role enables the chosen user or group the ability to see, edit and manage this item. This permission allows the ability to add or remove users and groups as well as the ability to modify or delete the entity.
 
-><img src="../../../images/sites-permissions-role.jpg" alt="choose role" style="width: 50%; display: block"></a>
+><img src="../../../../images/sites-permissions-role.jpg" alt="choose role" style="width: 50%; display: block"></a>
 
 ### Step 3: Add and Manage
 
