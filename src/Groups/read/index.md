@@ -14,7 +14,7 @@ You can check the list of all the users in the group
 
 Click on the "Add Member" blue button on the right to add a new member to the group.
 
-><img src="../../../images/groups-add-member-btn.jpg" alt="groups-add-member-btn.jpg" style="width: 40%; display: block"></a>
+><img src="../../../images/groups-add5.jpg" alt="groups-add5.jpg" style="width: 40%; display: block"></a>
 
 A new window where you can do the addition will appear.
 

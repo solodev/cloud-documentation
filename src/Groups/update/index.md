@@ -30,7 +30,7 @@ Any changes made above will not be applied unless the submit button is clicked.
 
 Click on the "Advanced" drop-down option to expand the delete function. Type DELETE in all-caps in the text field and click the red "Delete" button to delete group.
 
-><img src="../../../images/x.jpg" alt="x" style="width: 100%; display: block"></a>
+><img src="../../../images/xx.jpg" alt="xx" style="width: 100%; display: block"></a>
 
 !!! Alert:
 Deleting a group will permanently remove the group and cannot be undone.

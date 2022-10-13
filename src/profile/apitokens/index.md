@@ -9,4 +9,6 @@ Here you can manage your API tokens.
 5. Click the blue add API key button to add a new API key
 6. Click the X icon to delete the API key
 
-<a href="../../../images/account-profile-apitokens-lg.jpg" target="_blank"><img src="../../../images/account-profile-apitokens.jpg" style="margin: auto; display: block"></a>
+<a href="../../../images/api.jpg" target="_blank"><img src="../../../images/api.jpg" style="margin: auto; display: block"></a>
+
+<a href="../../../images/api2.jpg" target="_blank"><img src="../../../images/api2.jpg" style="margin: auto; display: block"></a>
