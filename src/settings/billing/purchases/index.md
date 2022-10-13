@@ -1,12 +1,9 @@
 # Purchases
 
-The purchases page will show you your purchases in card format in the workspace. 
+Purchases are shown as cards on the dashboard. Each card displays a thumbnail of the purchase, status, user, when it was launched, license type, licenses left and price.
 
-1. Click on the card itself to take you to the appropriate screen depending on item type and item status you choose
-2. You can filter your listing by status with the drop-down option at your top right:
-    a. Reorder
-    b. Install
-    c. Payment failed
-		
-<a href="../../../images/settings-billing-purchases-lg.jpg" target="_blank"><img src="../../../images/settings-billing-purchases.jpg" style="margin: auto; display: block"></a>
+><img src="../../../images/billing12.jpg" alt="billing12" style="width: 100%; display: block"></a>
 
+You can use option to search your purchase by name. You can also filter purchases on status: "Reorder", "Install Now" and "Payment Failed". 
+
+><img src="../../../images/billing13.jpg" alt="billing13" style="width: 30%; display: block"></a>

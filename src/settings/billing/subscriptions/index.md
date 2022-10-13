@@ -1,9 +1,9 @@
 # Subscriptions
 
-The subscriptions page will show you all of your subscriptions in card format in the workspace. 
+Subscriptions are shown as cards on the dashboard. Each card displays a thumbnail of the subscription, status, user, when it was launched, billing period, next billing date and estimated price.
 
-1. Click on the card to take you to the subscription detail page (this page is covered in the Services section)
-2. You can filter by status with the drop-down option at your top right
-	
-<a href="../../../images/settings-billing-subscriptions-lg.jpg" target="_blank"><img src="../../../images/settings-billing-subscriptions.jpg" style="margin: auto; display: block"></a>
+><img src="../../../images/billing10.jpg" alt="billing10" style="width: 100%; display: block"></a>
 
+You can use option to search your subscription by name. You can also filter subscriptions on status: "Active" and "Canceled". 
+
+><img src="../../../images/billing11.jpg" alt="billing11" style="width: 30%; display: block"></a>

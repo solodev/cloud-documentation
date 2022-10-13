@@ -1,8 +1,5 @@
 # Billing History
 
-The billing history page displays a complete list of billing with invoices. 
+History is listed in the table on the dashboard. Each occurence is shown with details as: invoice number, total amount, posting date, state. There is also an option to download invoice.
 
-1. Your complete list of billing
-2. To download an invoice, click on the icon at the far right of the line item
-
-<a href="../../../images/settings-billing-history-lg.jpg" target="_blank"><img src="../../../images/settings-billing-history.jpg" style="margin: auto; display: block"></a>
+><img src="../../../images/billing9.jpg" alt="billing9" style="width: 100%; display: block"></a>
