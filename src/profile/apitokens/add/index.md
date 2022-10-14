@@ -1,8 +1,27 @@
 # Add API Key
 
-Here you can add a new API token to your account.
+Adding an API token to your org in Solodev Cloud is a simple process, and can be completed in minutes by following the steps below.
 
-1. Enter the name for your new API token in the text box
-2. Click the submit button at the bottom right
-	
-<a href="../../../../images/profile-add-apitokens-lg.jpg" target="_blank"><img src="../../../../images/profile-add-apitokens.jpg" style="margin: auto; display: block"></a>
+## Step 1: Add API Token
+
+To add API token you need to provide a name for your token.
+
+><img src="../../../images/api-add.jpg" alt="api-add" style="width: 100%; display: block"></a>
+
+### Name
+
+Enter the name you want to assign to your token.
+
+><img src="../../../images/api-add2.jpg" alt="api-add2" style="width: 60%; display: block"></a>
+
+### Submit
+
+Click the blue "Submit" button at the bottom right to apply your changes.
+
+><img src="../../../../images/submit.jpg" alt="submit" style="width: 40%; display: block"></a>
+
+!!!Please Note:
+Any changes made above will not be applied unless the submit button is clicked.
+!!!
+
+

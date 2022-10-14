@@ -1,8 +1,10 @@
 # Delete API Token
 
-Here you can delete an API token from your account.
+Type DELETE in all-caps in the text field and click the red "Delete" button to delete your API token.
 
-1. Type DELETE in all caps as shown
-2. Hit the red delete button (please be advised this will permanently delete the API token)
+><img src="../../../images/api-delete2.jpg" alt="api-delete2" style="width: 100%; display: block"></a>
 
-<a href="../../../../images/profile-delete-apitokens-lg.jpg" target="_blank"><img src="../../../../images/profile-delete-apitokens.jpg" style="margin: auto; display: block"></a>
+!!! Alert:
+Deleting an API token will permanently remove the token and cannot be undone.
+!!!
+
