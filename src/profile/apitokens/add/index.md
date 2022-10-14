@@ -2,6 +2,8 @@
 
 Adding an API token to your org in Solodev Cloud is a simple process, and can be completed in minutes by following the steps below.
 
+---
+
 ## Step 1: Add API Token
 
 To add API token you need to provide a name for your token.
