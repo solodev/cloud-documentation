@@ -8,7 +8,7 @@ To add organization you need to provide a name for your organization and billing
 
 ><img src="../../../images/org-add.jpg" alt="org-add" style="width: 100%; display: block"></a>
 
-### Organization name
+### Organization Name
 
 Enter your company name.
 

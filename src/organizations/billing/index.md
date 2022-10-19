@@ -9,13 +9,13 @@ In order to receive revenue you need to provide the banking account to which Sol
 - All bank accounts must be US bank accounts.
 !!!
 
-## Step 1: Add payment details
+## Step 1: Add Payment Details
 
 To edit your payment details click on the pencil icon above the Payment Details card on the right.
 
 ><img src="../../../images/billing3.jpg" alt="billing3" style="width: 40%; display: block"></a>
 
-### Enter payment details
+### Enter Payment Details
 
 Enter your first name, last name, choose your country, credit card number, expiry date, CVV.
 
