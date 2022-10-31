@@ -1,4 +1,4 @@
-# Buildspeck
+# Buildspec
 
 Solodev Buildspec is a specialized set of build commands and settings for creating custom forms. With Buildspec, users can define form fields, capture form answers, and provide values for specific applications. It utilizes clear and simple YAML syntax and is being used in various places in the Solodev Cloud.
 

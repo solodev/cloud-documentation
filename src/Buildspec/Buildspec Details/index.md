@@ -1,10 +1,10 @@
-# Buildspeck Details
+# Buildspec Details
 
-Buildspeck is available for users in each <a href="/marketplace/items/">item</a> page in section <a href="/marketplace/">Marketplace</a>. To start creating custom formular you need to open some <a href="/marketplace/items/read">item</a>.
+Buildspec is available for users in each <a href="/marketplace/items/">item</a> page in section <a href="/marketplace/">Marketplace</a>. To start creating custom formular you need to open some <a href="/marketplace/items/read">item</a>.
 
-><img src="../../../images/buildspeck.jpg" alt="buildspeck" style="width: 100%; display: block"></a>
+><img src="../../../images/buildspec.jpg" alt="buildspec" style="width: 100%; display: block"></a>
 
-## Step 1: Learn about Buildspeck
+## Step 1: Learn about Buildspec
 
 ### Forms
 
@@ -79,7 +79,7 @@ Using the build param, you can provide default values for questions asked in Clo
 
 Here you have two windows. On the left you can put the formula. On the right you have form preview.
 
-><img src="../../../images/buildspeck2.jpg" alt="buildspeck2" style="width: 100%; display: block"></a>
+><img src="../../../images/buildspec2.jpg" alt="buildspec2" style="width: 100%; display: block"></a>
 
 ### Save
 
