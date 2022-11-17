@@ -12,9 +12,9 @@ The left side of the site details page gives you a preview of the home page of y
 
 ><img src="../../../images/sites-read-edit-preview-bar.jpg"  alt="site detail page screen grab" style="width: 80%; display: block"></a>
 
-### Site Information, Update and Permissions
+### Site Information, Update, and Permissions
 
-The top right section of the page displays details of your site including your site's name, URL, hosting information and last modification date. You can access the <a href="/pages/sites/update/">update site modal</a> by clicking on the "Update" button at the top right. You can access the <a href="/pages/sites/permissions/">site's permissions</a> by clicking on the down carat next to the "Update" button.
+The top right section of the page displays details of your site including your site's name, URL, hosting information, and last modification date. You can access the <a href="/pages/sites/update/">update site modal</a> by clicking on the "Update" button at the top right. You can access the <a href="/pages/sites/permissions/">site's permissions</a> by clicking on the down carat next to the "Update" button.
 
 ><img src="../../../images/sites-read-details.jpg"  alt="site detail info and update button" style="width: 50%; display: block"></a>
 

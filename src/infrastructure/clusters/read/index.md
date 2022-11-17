@@ -2,7 +2,7 @@
 
 The cluster detail page shows you important cluster details as well as the ability to update your cluster.
 
-1. Relevant cluster details shown here including:
+1. Relevant cluster details shown here include:
     a. Cluster type
     b. Cluster name
     c. Cluster status

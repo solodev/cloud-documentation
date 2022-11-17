@@ -2,11 +2,11 @@
 
 The page details page gives you a comprehensive overview of your page with convenient access to edits and functionality.
 
-Your page detail utilizes our Page Studio editor. It has robust built-in drag-and-drop WYSIWYG editing functionality as well as the option to toggle to edit source directly.
+Your page detail utilizes our Page Studio editor. It has robust built-in drag-and-drop WYSIWYG editing functionality as well as the option to toggle to edit sources directly.
 
 ><img src="../../../images/pages-details.jpg" alt="pages-details" style="width: 100%; display: block"></a>
 
-## Step 1: Create from the scratch or update page in Page Studio editor
+## Step 1: Create from scratch or update the page in the Page Studio editor
 
 ### Name
 
@@ -39,7 +39,7 @@ On the right panel there are three tabs to edit:
    
 ><img src="../../../images/pages-details5.jpg" alt="pages-details5" style="width: 20%; display: block"></a>
 
-To start or stop editing page click on pencil icons. 
+To start or stop editing the page click on pencil icons. 
 
 ><img src="../../../images/pages-details6.jpg" alt="pages-details6" style="width: 10%; display: block"></a>
 

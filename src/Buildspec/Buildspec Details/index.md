@@ -1,6 +1,6 @@
 # Buildspec Details
 
-Buildspec is available for users in each <a href="/marketplace/items/">item</a> page in section <a href="/marketplace/">Marketplace</a>. To start creating custom formular you need to open some <a href="/marketplace/items/read">item</a>.
+Buildspec is available for users in each <a href="/marketplace/items/">item</a> page in section <a href="/marketplace/">Marketplace</a>. To start creating a custom formular you need to open some <a href="/marketplace/items/read">item</a>.
 
 ><img src="../../../images/buildspec.jpg" alt="buildspec" style="width: 100%; display: block"></a>
 
@@ -39,10 +39,10 @@ Field types are different kinds of question formats that a user can assign to a 
 -string – A textbox will be shown in the UI to capture the answer, and the answer will be formatted to a string.<br>
 -clob – A text area will be shown in the UI to capture the answer, and the answer will be formatted to a multiline string.<br>
 -email – Behaves just like a string type, but with e-mail address validation.<br>
--password – A password style of textbox will be shown in the UI to capture the answer, and the value will be dotted and formatted to a string.<br>
+-password – A password style of the textbox will be shown in the UI to capture the answer, and the value will be dotted and formatted to a string.<br>
 -url – Behaves just like a string type, but with the URL validation.<br>
 -boolean – A checkbox will be shown in the UI to capture the answer, and the answer will be entered as true if the checkbox is selected or false otherwise.<br>
--enum – A dropdown menu will be shown in the UI and the options section will be populated in the menu. The multiple option set to true will enable a multiple choice type of a drop-down, while the expanded option set to true will change the dropdown into a radio button group.<br>
+-enum – A drop-down menu will be shown in the UI and the options section will be populated in the menu. The multiple options set to true will enable a multiple-choice type of drop-down, while the expanded option set to true will change the dropdown into a radio button group.<br>
 -color – A color picker will be shown in the UI to capture the answer, and the answer will be formatted to the string with a # sign at the beginning.<br>
 -date – A date picker will be shown in the UI to capture the answer, and the value will be formatted to the string.<br>
 -tel – Behaves just like a string type, but with telephone number validation (ie. digits and dashes).<br>
@@ -73,11 +73,11 @@ Using the build param, you can provide default values for questions asked in Clo
 ...</p>
 !!!
 
-## Step 2: Create custom form
+## Step 2: Create a custom form
 
 ### Enter the formula 
 
-Here you have two windows. On the left you can put the formula. On the right you have form preview.
+Here you have two windows. On the left, you can put the formula. On the right, you have the form preview.
 
 ><img src="../../../images/buildspec2.jpg" alt="buildspec2" style="width: 100%; display: block"></a>
 

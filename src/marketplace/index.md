@@ -1,6 +1,6 @@
 # Marketplace
 
-The marketplace overview page gives you direct access to all parts of organization’s marketplace account. Here you can:
+The marketplace overview page gives you direct access to all parts of the organization’s marketplace account. Here you can:
 
 1. Access all parts of the account from the main left nav
 2. View a snapshot of your marketplace profile with quick access by hitting the “edit profile” link

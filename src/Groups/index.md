@@ -1,6 +1,6 @@
 # Groups
 
-Group administrators can manage member access to organizational data with sophisticated security features such as granular permissions. You can mirror your actual organization’s hierarchy to ensure each user is able to access and use only what they should.
+Group administrators can manage member access to organizational data with sophisticated security features such as granular permissions. You can mirror your actual organization’s hierarchy to ensure each user can access and use only what they should.
 
 ><img src="../../../images/groups.jpg" alt="groups" style="width: 100%; display: block"></a>
 

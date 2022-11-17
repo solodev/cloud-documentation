@@ -4,13 +4,13 @@ Adding a user to your org in Solodev Cloud is a simple process, and can be compl
 
 ## Step 1: Add User
 
-To add user you need to search or invite members, select group and you can add welcome message.
+To add the user you need to search or invite members, select a group and you can add a welcome message.
 
 ><img src="../../../images/users-add2.jpg" alt="users-add2" style="width: 100%; display: block"></a>
 
 ### Search or invite members
 
-Search a user from the list or invite new user by typing his e-mail.
+Search for a user from the list or invite a new user by typing his e-mail.
 
 ><img src="../../../images/users-add3.jpg" alt="users-add3" style="width: 60%; display: block"></a>
 
@@ -34,5 +34,5 @@ Once you’ve completed all of the fields, click the blue “Add” button and y
 ><img src="../../../images/sites-add-site-addbtn.jpg" alt="click add button" style="width: 70%; display: block"></a>
 
 !!! Please Note:
-The user creation process may take several minutes to complete after clicking the "Add" button. Do not close or quit your browser duing this process.
+The user creation process may take several minutes to complete after clicking the "Add" button. Do not close or quit your browser during this process.
 !!!

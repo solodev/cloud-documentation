@@ -6,7 +6,7 @@ The user details page gives you a comprehensive overview of users with convenien
 
 ### Activity
 
-You can check user activity. It is grouped by type, action name and date when it was added.
+You can check user activity. It is grouped by type, action name, and date when it was added.
 
 ><img src="../../../images/users-details2.jpg" alt="users-details2.jpg" style="width: 70%; display: block"></a>
 
@@ -18,7 +18,7 @@ You can check the groups the user is part of.
 
 ### User profile
 
-You can check user profile.
+You can check the user profile.
 
 ><img src="../../../images/users-details4.jpg" alt="users-details4.jpg" style="width: 30%; display: block"></a>
 

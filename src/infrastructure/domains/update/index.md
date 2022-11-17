@@ -3,7 +3,7 @@
 The domain update modal allows you to delete your domain.
 
 1. Shows the name of the domain you are about to delete
-2. Click the drop-down menu, type DELETE in all caps and hit the red DELETE button
+2. Click the drop-down menu, type DELETE in alt caps, and hit the red DELETE button
 3. Click the blue submit button to apply your changes
 	
 	

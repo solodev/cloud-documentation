@@ -1,6 +1,6 @@
 # Billing
 
-In order to receive revenue you need to provide the banking account to which Solodev will transfer your funds. To do it you need to use Billing section, where you are able to update your billing details.
+To receive revenue you need to provide the banking account to which Solodev will transfer your funds. To do it you need to use the Billing section, where you can update your billing details.
 
 ><img src="../../../images/billing.jpg" alt="billing" style="width: 100%; display: block"></a>
 
@@ -11,7 +11,7 @@ In order to receive revenue you need to provide the banking account to which Sol
 
 ### Menu
 
-On the left there is a menu. You have the option to go back, go to History, Subscriptions or Purchases.
+On the left, there is a menu. You have the option to go back, go to History, Subscriptions or Purchases.
 
 ><img src="../../../images/billing2.jpg" alt="billing2" style="width: 20%; display: block"></a>
 
@@ -21,7 +21,7 @@ To edit your payment details click on the pencil icon above the Payment Details 
 
 ><img src="../../../images/billing3.jpg" alt="billing3" style="width: 40%; display: block"></a>
 
-Enter your first name, last name, choose your country, credit card number, expiry date, CVV.
+Enter your first name, last name, choose your country, credit card number, expiry date, and CVV.
 
 ><img src="../../../images/billing7.jpg" alt="billing7" style="width: 100%; display: block"></a>
 
@@ -35,7 +35,7 @@ Any changes made above will not be applied unless the submit button is clicked.
 
 ### Billing Contact
 
-Billing contact details are shown in Billing Contact card. There is name and email address.
+Billing contact details are shown in the Billing Contact card. There is a name and email address.
 
 ><img src="../../../images/billing4.jpg" alt="billing4" style="width: 40%; display: block"></a>
 
@@ -51,7 +51,7 @@ To edit your billing address click on the pencil icon above the Billing Address 
 
 ><img src="../../../images/billing6.jpg" alt="billing6" style="width: 40%; display: block"></a>
 
-Enter your company name, company address, choose your country, enter state or region, city, postal code and VAT number.
+Enter your company name, company address, choose your country, enter your state or region, city, postal code, and VAT number.
 
 ><img src="../../../images/billing8.jpg" alt="billing8" style="width: 100%; display: block"></a>
 

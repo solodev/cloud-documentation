@@ -1,18 +1,18 @@
 # Profile
 
-You can update your organization in Profile page by providing a new billing email, country, postal code or description.
+You can update your organization on the Profile page by providing a new billing email, country, postal code, or description.
 
 ><img src="../../../images/org-update.jpg" alt="org-update" style="width: 100%; display: block"></a>
 
 !!!Please Note:
-URLs used to login to an instance of Solodev installed within an organization change whenever the administrator changes the name of the organization.
+URLs used to log in to an instance of Solodev installed within an organization change whenever the administrator changes the name of the organization.
 
-Deployments, websites, clusters and applications installed within an organization are deleted whenever the administrator deletes an organization.
+Deployments, websites, clusters, and applications installed within an organization are deleted whenever the administrator deletes an organization.
 !!!
 
 ## Billing Email
 
-Enter the billing email you want to assign to your oganization.
+Enter the billing email you want to assign to your organization.
 
 ><img src="../../../images/org-update2.jpg" alt="org-update2" style="width: 60%; display: block"></a>
 
@@ -24,7 +24,7 @@ Select a country.
 
 ## Postal code
 
-Enter postal code.
+Enter the postal code.
 
 ><img src="../../../images/org-update4.jpg" alt="org-update4" style="width: 60%; display: block"></a>
 
@@ -36,7 +36,7 @@ Enter an intro.
 
 ## Organization Image
 
-To change organizagtion image click on it and choose option "replace image".
+To change the organizagtion image click on it and choose the option "replace image".
 
 ><img src="../../../images/org-update7.jpg" alt="org-update7" style="width: 40%; display: block"></a>
 

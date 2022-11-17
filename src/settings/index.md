@@ -1,10 +1,10 @@
 # Settings 
 
-The settings overview page gives you access to update your organization. From here you can update your organization’s profile, billing and API information.
+The settings overview page gives you access to update your organization. From here you can update your organization’s profile, billing, and API information.
 
 ><img src="../../../images/org-update8.jpg" alt="org-update8" style="width: 100%; display: block"></a>
 
-On the left there is a menu. You have the option to go back, go to <a href="/organizations/billing/">Billing</a>, Profile or API.
+On the left, there is a menu. You have the option to go back, go to <a href="/organizations/billing/">Billing</a>, Profile or API.
 
 ><img src="../../../images/org-update9.jpg" alt="org-update9" style="width: 20%; display: block"></a>
 

@@ -2,7 +2,7 @@
 
 The certificate detail page shows you important certificate details as well as the ability to update your certificate.
 
-1. Relevant certificate details shown here including:
+1. Relevant certificate details shown here include:
     a. Certificate name
     b. Certificate status
     c. Provider

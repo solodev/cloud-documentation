@@ -1,10 +1,10 @@
 # CDN Details
 
-On the CDN detail page you can easily manage your CDNs.
+On the CDN detail page, you can easily manage your CDNs.
 
 1. View your CDN’s certificate and modification information
 2. Click on the blue button to update your CDN or click on the drop-down option to access GEO Restrictions and Permissions
-3. The main left nav allows you direct access to listings of all of your Origins, Behaviors and Invalidations
+3. The main left nav allows you direct access to listings of all of your Origins, Behaviors, and Invalidations
 4. Listing of Origins for this CDN
 5. Add a new CDN Origin
 6. Delete this CDN Origin

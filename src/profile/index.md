@@ -1,6 +1,6 @@
 # Profile
 
-In Profile section you are able to manage your profile, email, username, security and <a href="/profile/apitokens">API tokens</a>.
+In the Profile section you can manage your profile, email, username, security, and <a href="/profile/apitokens">API tokens</a>.
 
 ><img src="../../../images/profile19.jpg" alt="profile19" style="width: 100%; display: block"></a>
 
@@ -8,7 +8,7 @@ In Profile section you are able to manage your profile, email, username, securit
 
 ## Menu
 
-On the left there is a menu. You have the option to go back, go to Email, Username, Security, <a href="/profile/apitokens">API Tokens</a>.
+On the left, there is a menu. You have the option to go back, go to Email, Username, Security, <a href="/profile/apitokens">API Tokens</a>.
 
 ><img src="../../../images/profile.jpg" alt="profile" style="width: 20%; display: block"></a>
 
@@ -16,11 +16,11 @@ On the left there is a menu. You have the option to go back, go to Email, Userna
 
 ## Profile
 
-In Profile section you are able to manage your profile.
+In the Profile section, you can manage your profile.
 
 ><img src="../../../images/profile19.jpg" alt="profile19" style="width: 100%; display: block"></a>
 
-### Fisrt Name
+### First Name
 
 Enter your first name.
 
@@ -40,7 +40,7 @@ Enter your phone number.
 
 ### Timezone
 
-Choose your timezone.
+Choose your time zone.
 
 ><img src="../../../images/profile12.jpg" alt="profile12" style="width: 60%; display: block"></a>
 
@@ -52,17 +52,17 @@ Enter title.
 
 ### Profile Image
 
-To change profile image click on it and choose option "replace image".
+To change the profile image click on it and choose the option "replace image".
 
 ><img src="../../../images/profile16.jpg" alt="profile16" style="width: 40%; display: block"></a>
 
 ### Avatar
 
-Instead of using photo you can create a full-body 3D avatar.
+Instead of using a photo, you can create a full-body 3D avatar.
 
 ><img src="../../../images/profile8.jpg" alt="profile8" style="width: 40%; display: block"></a>
 
-Click the blue "Create Avatar" button at the bottom to create avatar.
+Click the blue "Create Avatar" button at the bottom to create an avatar.
 
 ><img src="../../../images/profile15.jpg" alt="profile15" style="width: 40%; display: block"></a>
 
@@ -79,7 +79,7 @@ Any changes made above will not be applied unless the update button is clicked.
 !!!
 
 !!!Please Note:
-The page build process may take several minutes to complete after clicking the "Add" button. Do not close or quit your browser duing this process.
+The page build process may take several minutes to complete after clicking the "Add" button. Do not close or quit your browser during this process.
 !!!
 
 ### Update
@@ -138,13 +138,13 @@ You can manage your password.
 
 ### Current Password
 
-Enter current password.
+Enter the current password.
 
 ><img src="../../../images/profile5.jpg" alt="profile5" style="width: 50%; display: block"></a>
 
 ### New Password
 
-Enter new password.
+Enter the new password.
 
 ><img src="../../../images/profile6.jpg" alt="profile6" style="width: 50%; display: block"></a>
 

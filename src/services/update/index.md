@@ -6,7 +6,7 @@ The update service modal gives you options to edit basic service settings and th
 
 ## Update Service
 
-Depending on the service type various options may appear in modal. They are all common sense, like name or visibility checkboxes. Please follow the information provided in modal.
+Depending on the service type various options may appear in the modal. They are all common sense, like name or visibility checkboxes. Please follow the information provided in the modal.
 
 ><img src="../../../images/services-update1.jpg" alt="delete site" style="width: 50%; display: block"></a>
 

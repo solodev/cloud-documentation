@@ -1,7 +1,8 @@
 # Container Details
 
 The container detail page shows you important container details as well as the ability to update your container.
-1. Relevant container details shown here including:
+
+1. Relevant container details shown here include:
     a. Container type
     b. Container name
     c. Container status

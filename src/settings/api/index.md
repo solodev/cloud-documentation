@@ -2,7 +2,7 @@
 
 An API is a way for two or more apps to communicate with each other.
 
-The importance of efficient and reliable APIs cannot be overstated and is why Solodev utilizes Swagger. Swagger is a set of rules (specifications) and tooling to semantically describe APIs using a common language that is readable by both humans and machines. This means the same documentation can be shared with your team while also being used to automate API-dependent processes which is great for testing and debugging API problems. Any API that adheres to the Swagger specs is easy to read, easy to iterate, and easy to consume.
+The importance of efficient and reliable APIs cannot be overstated and this is why Solodev utilizes Swagger. Swagger is a set of rules (specifications) and tooling to semantically describe APIs using a common language that is readable by both humans and machines. This means the same documentation can be shared with your team while also being used to automate API-dependent processes which are great for testing and debugging API problems. Any API that adheres to the Swagger specs is easy to read, easy to iterate, and easy to consume.
 
 ---
 
@@ -60,7 +60,7 @@ Any changes made above will not be applied unless the submit button is clicked.
 
 ### User Authentication
 
-You can use the UserApiToken (apiKey).
+You can use UserApiToken (apiKey).
 
 ><img src="../../../images/swagger5.jpg" alt="swagger5" style="width: 60%; display: block"></a>
 

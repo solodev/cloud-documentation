@@ -2,7 +2,7 @@
 
 ## Update
 
-You can update you group by providing a new name for your group or a new description.
+You can update your group by providing a new name for your group or a new description.
 
 ><img src="../../../images/groups-upd.jpg" alt="x" style="width: 100%; display: block"></a>
 
@@ -28,7 +28,7 @@ Any changes made above will not be applied unless the submit button is clicked.
 
 ## Delete
 
-Click on the "Advanced" drop-down option to expand the delete function. Type DELETE in all-caps in the text field and click the red "Delete" button to delete group.
+Click on the "Advanced" drop-down option to expand the delete function. Type DELETE in all-caps in the text field and click the red "Delete" button to delete the group.
 
 ><img src="../../../images/groups-delete.jpg" alt="xx" style="width: 100%; display: block"></a>
 

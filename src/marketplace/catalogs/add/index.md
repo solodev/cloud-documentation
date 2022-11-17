@@ -2,7 +2,7 @@
 
 Adding a new catalog is as simple as:
 
-1. Enter a name for you catalog
+1. Enter a name for your catalog
 2. Enter a brief description for your catalog
 3. Click the blue add button
 	

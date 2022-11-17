@@ -1,7 +1,7 @@
 # Domain Details
 
 The domain detail page shows you important domain details as well as the ability to update your domain.
-1. Relevant domain details shown here including:
+1. Relevant domain details shown here include:
     a. Domain name
     b. Provider
     c. Modified date and time

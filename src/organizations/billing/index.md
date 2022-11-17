@@ -1,6 +1,6 @@
 # Add Banking
 
-In order to receive revenue you need to provide the banking account to which Solodev will transfer your funds. To do it you need to use Billing section, where you are able to update your billing details.
+To receive revenue you need to provide the banking account to which Solodev will transfer your funds. To do it you need to use the Billing section, where you can update your billing details.
 
 ><img src="../../../images/billing.jpg" alt="billing" style="width: 100%; display: block"></a>
 
@@ -17,7 +17,7 @@ To edit your payment details click on the pencil icon above the Payment Details 
 
 ### Enter Payment Details
 
-Enter your first name, last name, choose your country, credit card number, expiry date, CVV.
+Enter your first name, last name, choose your country, credit card number, expiry date, and CVV.
 
 ><img src="../../../images/billing7.jpg" alt="billing7" style="width: 100%; display: block"></a>
 

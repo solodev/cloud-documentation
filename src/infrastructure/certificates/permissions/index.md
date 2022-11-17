@@ -1,6 +1,6 @@
 # Certificates Permissions
 
-Permissions allow you to manage access for users. They are found and applicable in almost all cloud elements, like services, pages, sites, containers, deployments, CDN etc. 
+Permissions allow you to manage access for users. They are found and applicable in almost all cloud elements, like services, pages, sites, containers, deployments, CDN, etc. 
 
 1. Start typing the name of an existing user to select that user
 2. Choose the role you’d like to assign the user: view, editor, admin

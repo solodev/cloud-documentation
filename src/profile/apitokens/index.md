@@ -2,13 +2,13 @@
 
 An API token is similar to a password and allows you to authenticate to Dataverse Software APIs to perform actions as you. Many Dataverse Software APIs require the use of an API token.
 
-To start adding and managing your API tokens, you need to use API Tokens section.
+To start adding and managing your API tokens, you need to use the API Tokens section.
 
 ><img src="../../../images/api-tokens.jpg" alt="api-tokens" style="width: 100%; display: block"></a>
 
 ## Current tokens
 
-Existing tokens are listed in the table on the dashboard. Each token is shown with details as: name, key, that can be previeved using eye icon, status.
+Existing tokens are listed in the table on the dashboard. Each token is shown with details such as: name, the key that can be previewed using the eye icon, and status.
 
 ><img src="../../../images/api-tokens2.jpg" alt="api-tokens2.jpg" style="width: 100%; display: block"></a>
 
@@ -38,6 +38,6 @@ Click on the "x" sign on the right to <a href="/profile/apitokens/delete/">delet
 
 ## Menu
 
-On the left there is a menu. You have the option to go back, go to Profile, Email, Username or Security.
+On the left, there is a menu. You have the option to go back, go to Profile, Email, Username, or Security.
 
 ><img src="../../../images/api-tokens4.jpg" alt="api-tokens4.jpg" style="width: 30%; display: block"></a>

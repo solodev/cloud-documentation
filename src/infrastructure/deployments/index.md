@@ -1,6 +1,6 @@
 # Deployments  
 
-Deployments are ideal for high availability server instances and managing single tenant applications. Deployments allow you to launch a wide variety of applications with EC2 instances, load balancers, and autoscaling.
+Deployments are ideal for high-availability server instances and managing single-tenant applications. Deployments allow you to launch a wide variety of applications with EC2 instances, load balancers, and autoscaling.
 
 On the deployments page you will see:
 
