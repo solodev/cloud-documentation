@@ -1,9 +1,21 @@
-# Update or Delete User
+# Update
 
-Click on the "Advanced" drop-down option to expand the delete function. Type DELETE in all-caps in the text field and click the red "Delete" button to delete the user.
+Update user's profile.
 
-><img src="../../../images/users-delete.jpg" alt="users-delete" style="width: 100%; display: block"></a>
+><img src="../../../images/update-user.jpg" alt="update-user" style="width: 50%; display: block"></a>
 
-!!! Alert:
-Deleting a user will permanently remove the user and cannot be undone.
+## Advanced
+
+Remove a user from your organization in Solodev Cloud.
+
+><img src="../../../images/update-user2.jpg" alt="update-user2" style="width: 50%; display: block"></a>
+
+**Name** | **Description** 
+:--- | ---
+Delete  | In the text field, type the word **DELETE** in all caps and click the Delete button.
+
+!!! Note:
+Deleting a user is permanent and cannot be undone.
 !!!
+
+
