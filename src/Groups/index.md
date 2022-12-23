@@ -1,17 +1,9 @@
 # Groups
 
-Group administrators can manage member access to organizational data with sophisticated security features such as granular permissions. You can mirror your actual organization’s hierarchy to ensure each user can access and use only what they should.
+Create groups to mimic the organizational structure and take advantage of granular permissions.
 
 ><img src="../../../images/groups.jpg" alt="groups" style="width: 100%; display: block"></a>
 
-## Current Groups
-
-Existing groups are listed in the table on the dashboard.
-
-><img src="../../../images/groups2.jpg" alt="groups2" style="width: 100%; display: block"></a>
-
-## Add Group
-
-Click on the "Add User Group" blue button on the right to <a href="/groups/add/">add a new group</a>.
-
-><img src="../../../images/groups3.jpg" alt="groups3" style="width: 40%; display: block"></a>
+**Name** | **Description** 
+:--- | ---
+<a href="groups/add-user-group/">Add User Group</a> | Create a group in your Solodev Cloud.

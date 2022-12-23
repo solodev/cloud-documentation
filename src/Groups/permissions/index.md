@@ -1,37 +1,19 @@
 # Permissions
 
-Permissions are a powerful tool that allows you to manage access for users and groups. User and group permissions can range from broad-scope team access to the fine granularity of single-user access to one single element. Permission modals exist for almost all cloud elements to help you organize and manage your organization and team(s).
+Permissions are a powerful tool that allows you to manage access for users and groups. You can manage existing permissions by changing group roles or you can remove permission entirely.
 
----
+View and manage group permissions in your Solodev Cloud by clicking the Permissions button on the Groups Overview.
 
-## Add Permissions
+Allow access to specific Solodev Cloud sections and set roles for your group.
 
-### Step 1: Folders
+><img src="../../../images/groups-permissions.jpg" alt="groups-permissions" style="width: 50%; display: block"></a>
 
-Expand each folder to add permissions to only parts of the section.
 
-### Step 2: Role
+**Name** | **Description** 
+:--- | ---
+Allow access | Check the box to the left of each app or item to grant access to your group.
+Role | Assign a View, Stager, Editor, or Admin role to each app in your CMS.
 
-Select the role you would like to apply to the chosen user or group. There are three options to choose from:
+## Confirm
 
-- **View:** The view role will only allow the chosen user or group the ability to see this item.
-- **Editor:** The editor role will enable the chosen user or group the ability to see and edit this item.
-- **Admin:** The admin role enables the chosen user or group the ability to see, edit and manage this item. This permission allows the ability to add or remove users and groups as well as the ability to modify or delete the entity.
-
-><img src="../../../images/sites-permissions-role.jpg" alt="choose role" style="width: 50%; display: block"></a>
-
-### Step 3: Submit
-
-Click the blue "Submit" button at the bottom right to apply your changes.
-
-><img src="../../../images/submit.jpg" alt="submit" style="width: 40%; display: block"></a>
-
-!!! Please Note:
-- Selecting the main checkbox at the top will select all checkboxes below.
-- Selecting the checkbox at the folder level will select all checkboxes in that folder.
-- By leaving the default “Choose Role” and not selecting an option, users in the group will not be able to view that section.
-!!!
-
-!!!Please Note:
-Any changes made above will not be applied unless the submit button is clicked.
-!!!
+Once you have completed all the fields, click **Submit** to apply your changes.

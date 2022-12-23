@@ -1,37 +1,34 @@
-# Update or Delete Group
+# Update
 
-## Update
+Update a group's details or delete a group from your Solodev Cloud by clicking the Update button on the Groups Overview.
 
-You can update your group by providing a new name for your group or a new description.
+><img src="../../../images/groups-update.jpg" alt="groups-update" style="width: 50%; display: block"></a>
 
-><img src="../../../images/groups-upd.jpg" alt="x" style="width: 100%; display: block"></a>
+**Name** | **Description** 
+:--- | ---
+Name | Add or change the group name.
+Description | Add or change the group's description.
 
-### Name
+## Advanced
 
-Enter the name you want to assign to your group.
+Under the Advanced dropdown, you can execute advanced operations such as deleting a group. 
 
-><img src="../../../images/groups-add3.jpg" alt="groups-add3" style="width: 60%; display: block"></a>
+><img src="../../../images/groups-update2.jpg" alt="groups-update2" style="width: 50%; display: block"></a>
 
-### Description
+**Name** | **Description** 
+:--- | ---
+Delete | To remove your group, type **DELETE** in all caps into the field and click the red Delete button.
 
-Enter a small intro.
-
-><img src="../../../images/groups-add4.jpg" alt="groups-add4" style="width: 60%; display: block"></a>
-
-Click the blue "Submit" button at the bottom right to apply your changes.
-
-><img src="../../../images/submit.jpg" alt="submit" style="width: 40%; display: block"></a>
-
-!!!Please Note:
-Any changes made above will not be applied unless the submit button is clicked.
+!!! Note:
+Deleting a group will permanently remove the group and all of its content and cannot be undone.
 !!!
 
-## Delete
+## Confirm
 
-Click on the "Advanced" drop-down option to expand the delete function. Type DELETE in all-caps in the text field and click the red "Delete" button to delete the group.
+Once you have completed all the fields, click **Submit** to apply your changes.
 
-><img src="../../../images/groups-delete.jpg" alt="xx" style="width: 100%; display: block"></a>
 
-!!! Alert:
-Deleting a group will permanently remove the group and cannot be undone.
-!!!
+
+
+
+
