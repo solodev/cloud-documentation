@@ -16,5 +16,5 @@ Description | Enter the description of a group, if needed.
 Once you have completed all the fields, click **Add** to create your group.
 
 !!!Note:
-The group build process may take several minutes to complete after clicking the **Submit** button. Do not close or quit your browser during this process.
+The group build process may take several minutes to complete after clicking the **Add** button. Do not close or quit your browser during this process.
 !!!
