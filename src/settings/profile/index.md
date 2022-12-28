@@ -2,7 +2,7 @@
 
 You can update your organization on the Profile page by providing a new billing email, country, postal code, or description.
 
-><img src="../../../images/org-update.jpg" alt="org-update" style="width: 100%; display: block"></a>
+><img src="../../../images/profile.jpg" alt="profile" style="width: 100%; display: block"></a>
 
 !!!Please Note:
 URLs used to log in to an instance of Solodev installed within an organization change whenever the administrator changes the name of the organization.
@@ -10,45 +10,20 @@ URLs used to log in to an instance of Solodev installed within an organization c
 Deployments, websites, clusters, and applications installed within an organization are deleted whenever the administrator deletes an organization.
 !!!
 
-## Billing Email
+**Name** | **Description** 
+:--- | ---
+Billing Email | Enter the billing email you want to assign to the organization.
+Country | Select a country.
+Postal Code | Enter the postal code.
+Description | Enter an intro.
+Enable private catalogs | Deploy and sell from private catalogs of users in your organization.
+Organization Image | Change the organization image. Click **Replace Image**.
+<a href="/settings/profile/rename/">Rename</a> | Rename organization			
+<a href="/settings/profile/delete/">Delete</a>  | Delete organization.
 
-Enter the billing email you want to assign to your organization.
+## Confirm
 
-><img src="../../../images/org-update2.jpg" alt="org-update2" style="width: 60%; display: block"></a>
-
-## Country
-
-Select a country.
-
-><img src="../../../images/org-update3.jpg" alt="org-update3" style="width: 60%; display: block"></a>
-
-## Postal code
-
-Enter the postal code.
-
-><img src="../../../images/org-update4.jpg" alt="org-update4" style="width: 60%; display: block"></a>
-
-## Description
-
-Enter an intro.
-
-><img src="../../../images/org-update5.jpg" alt="org-update5" style="width: 60%; display: block"></a>
-
-## Organization Image
-
-To change the organizagtion image click on it and choose the option "replace image".
-
-><img src="../../../images/org-update7.jpg" alt="org-update7" style="width: 40%; display: block"></a>
-
-## Update
-
-Click the blue "Update" button at the bottom right to apply your changes.
-
-><img src="../../../images/org-update6.jpg" alt="org-update6" style="width: 40%; display: block"></a>
-
-!!!Please Note:
-Any changes made above will not be applied unless the update button is clicked.
-!!!
+Once you have completed all the fields, click **Update** to apply your changes.
 
 
 

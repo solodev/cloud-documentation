@@ -1,6 +1,6 @@
 # Billing
 
-To receive revenue you need to provide the banking account to which Solodev will transfer your funds. To do it you need to use the Billing section, where you can update your billing details.
+To receive revenue provide the banking account to which Solodev will transfer your funds. To do it use this section, where you update your billing details.
 
 ><img src="../../../images/billing.jpg" alt="billing" style="width: 100%; display: block"></a>
 
@@ -9,11 +9,11 @@ To receive revenue you need to provide the banking account to which Solodev will
 - All bank accounts must be US bank accounts.
 !!!
 
-### Menu
 
-On the left, there is a menu. You have the option to go back, go to History, Subscriptions or Purchases.
 
-><img src="../../../images/billing2.jpg" alt="billing2" style="width: 20%; display: block"></a>
+
+
+
 
 ### Payment Details
 
