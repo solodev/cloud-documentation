@@ -9,56 +9,46 @@ To receive revenue provide the banking account to which Solodev will transfer yo
 - All bank accounts must be US bank accounts.
 !!!
 
+On the billing page, among others, you can check billing contact and billing history presented in the short form.
 
+**Name** | **Description** 
+:--- | ---
+<a href="/settings/billing/history">History</a> | Viev your billing history.
+<a href="/settings/billing/subscriptions">Subscriptions</a> | View  and manage your subscriptions.
+<a href="/settings/billing/purchases">Purchases</a> | View your purchases.
+[Payment Details](https://cloud.solodev.net/settings/billing/#payment-details) | Manage your payment details.	
+[Billing Address](https://cloud.solodev.net/settings/billing/#billing-address) | Manage your billing address.
 
+## Payment Details
 
+Edit your payment details by clicking on the pencil icon above the Payment Details card on the right.
 
+><img src="../../../images/paymentdetails.jpg" alt="billing" style="width: 50%; display: block"></a>
 
+**Name** | **Description** 
+:--- | ---
+First Name | Enter your first name.
+Last Name | Enter your last name.
+Credit card number| Enter credit card number.
+Expiry Date | Enter the card's expiry date.
+CVV | Enter CVV.
 
-### Payment Details
+## Billing Address
 
-To edit your payment details click on the pencil icon above the Payment Details card on the right.
+Edit your billing address by clicking on the pencil icon above the Billing Address card on the right.
 
-><img src="../../../images/billing3.jpg" alt="billing3" style="width: 40%; display: block"></a>
+><img src="../../../images/updatebillingaddress.jpg" alt="updatebillingaddress" style="width: 50%; display: block"></a>
 
-Enter your first name, last name, choose your country, credit card number, expiry date, and CVV.
+**Name** | **Description** 
+:--- | ---
+Company Name | Enter your company name.
+Company Address | Enter company address.
+Country | Choose the country where your company is located.
+State or region | Choose the state or region where the company is located.
+City | Enter the city where the company is located.
+Postal Code | Enter postal code.
+VAT Number | Enter the VAT number, if applicable.
 
-><img src="../../../images/billing7.jpg" alt="billing7" style="width: 100%; display: block"></a>
+## Confirm
 
-Click the blue "Submit" button at the bottom right to apply your changes.
-
-><img src="../../../images/submit.jpg" alt="submit" style="width: 40%; display: block"></a>
-
-!!!Please Note:
-Any changes made above will not be applied unless the submit button is clicked.
-!!!
-
-### Billing Contact
-
-Billing contact details are shown in the Billing Contact card. There is a name and email address.
-
-><img src="../../../images/billing4.jpg" alt="billing4" style="width: 40%; display: block"></a>
-
-### Billing History
-
-The last history is shown in Billing History Card. To view full history you need to click on the link "View full history". 
-
-><img src="../../../images/billing5.jpg" alt="billing5" style="width: 40%; display: block"></a>
-
-### Billing Address
-
-To edit your billing address click on the pencil icon above the Billing Address card on the right.
-
-><img src="../../../images/billing6.jpg" alt="billing6" style="width: 40%; display: block"></a>
-
-Enter your company name, company address, choose your country, enter your state or region, city, postal code, and VAT number.
-
-><img src="../../../images/billing8.jpg" alt="billing8" style="width: 100%; display: block"></a>
-
-Click the blue "Submit" button at the bottom right to apply your changes.
-
-><img src="../../../images/submit.jpg" alt="submit" style="width: 40%; display: block"></a>
-
-!!!Please Note:
-Any changes made above will not be applied unless the submit button is clicked.
-!!!
+Once you have completed all the fields, click **Submit** to apply your changes.
