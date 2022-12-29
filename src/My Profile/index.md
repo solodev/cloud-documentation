@@ -1,4 +1,4 @@
-# Profile
+# My Profile
 
 In the Profile section you can manage your profile, email, username, security, and <a href="/profile/apitokens">API tokens</a>.
 

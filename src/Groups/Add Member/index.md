@@ -14,6 +14,7 @@ Search or invite members | Search or invite a new member by typing the name of a
 ## Confirm
 
 Once you have entered the name of a new member in the field, click **Submit**. The user(s) will receive an email invitation to join your group. 
+
 !!!Tip:
 If a user has not received their email invitation, ask them to check their spam folder.    
 !!!
