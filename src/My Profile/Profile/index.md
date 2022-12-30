@@ -1,48 +1,43 @@
 # Profile
 
-Update your Profile.
+Manage your profile by changing your name, email address, avatar, and others.
 
-><img src="../../../images/profile.jpg" alt="profile" style="width: 100%; display: block"></a>
-
-**Name** | **Description** 
-:--- | ---
-Billing Email | Enter the billing email you want to assign to the organization.
-Country | Select a country.
-Postal Code | Enter the postal code.
-Description | Enter an intro.
-Enable private catalogs | Deploy and sell from private catalogs of users in your organization.
-Organization Image | Change the organization image. Click **Replace Image**.
-[Rename](https://cloud.solodev.net/settings/profile/#rename) | Rename organization		
-[Delete](https://cloud.solodev.net/settings/profile/#delete) | Delete organization			
-
-## Rename
-
-Rename your organization by putting the new name in the field.
-
-><img src="../../../images/rename.jpg" alt="rename" style="width: 50%; display: block"></a>
+><img src="../../../images/profile2.jpg" alt="profile2" style="width: 100%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---
-Title | Enter the organization name.
+First Name | Enter the first name.
+Last Name | Enter the last name.
+Phone Number | Enter a phone number.
+Timezone | Choose the timezone based on your location.
+Title | Enter the title.
+Replace Image | Add an image by clicking **Replace Image** and choosing the file from your computer.
+[Create Avatar](https://cloud.solodev.net/my-profile/profile/#create-avatar) | Create your avatar.
 
-## Delete
+## Create Avatar
 
-Delete yuor organization.
+Create your personal Avatar.
 
-><img src="../../../images/delete-organization.jpg" alt="delete-organization" style="width: 50%; display: block"></a>
+><img src="../../../images/avatar.jpg" alt="avatar" style="width: 100%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---
-Delete | To remove your organization, type **DELETE** in all caps into the field and click the red Delete button.
+Choose your body type | Choose body type from **Masculine**, **Feminine**, or **Don't specify**.
 
-!!! Note:
-Deleting an organization will permanently remove the organization and all of its content and cannot be undone.
-!!!
+><img src="../../../images/avatar2.jpg" alt="avatar2" style="width: 100%; display: block"></a>
+
+**Name** | **Description** 
+:--- | ---
+Take a photo | Create an avatar based on your photo. Take your photo.
+Pick a file | Create an avatar based on your photo. Upload the photo from your computer.
+Continue without a photo | Set your avatar without taking a photo.
+
+><img src="../../../images/avatar3.jpg" alt="avatar3" style="width: 100%; display: block"></a>
+
+**Name** | **Description** 
+:--- | ---
+Create your avatar | Build your avatar by selecting individual elements.
 
 ## Confirm
 
-Once you have completed all the fields, click **Update**, or **Submit** in case of renaming the organization to apply your changes.
-
-
-
-
+Once you have completed all the fields, click **Update** to apply your changes.
