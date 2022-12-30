@@ -1,6 +1,6 @@
 # Profile
 
-Manage your profile by changing your name, email address, avatar, and others.
+Manage your profile by clicking **Manage Profile** on the bottom left and choosing **My Profile** then.
 
 ><img src="../../../images/profile2.jpg" alt="profile2" style="width: 100%; display: block"></a>
 
