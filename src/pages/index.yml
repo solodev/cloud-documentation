@@ -1,3 +1,4 @@
 order: 95
-icon: ../icons/earth-americas-solid.svg
+icon: globe
 expanded: 
+redirect: pages-overview/index.md

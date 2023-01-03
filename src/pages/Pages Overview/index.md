@@ -1,4 +1,4 @@
-# Pages
+# Pages Overview
 
 The pages page provides a view of your existing pages as well as the option to add a new page.
 
