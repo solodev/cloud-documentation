@@ -1,5 +1,6 @@
 input: src
 output: dist
+favicon: images/favicon.png
 url: cloud.solodev.net
 
 branding:
