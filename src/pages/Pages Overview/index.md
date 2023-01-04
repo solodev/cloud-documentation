@@ -16,7 +16,7 @@ You can use the option to search your page by name. You can also filter pages on
 
 ## Add Page
 
-Click on the "Add Page" button on the left photo or on the "Add Page" blue button on the right to <a href="/pages/pages/add/">add a new page</a>.
+Click on the "Add Page" button on the left photo or on the "Add Page" blue button on the right to <a href="/pages/add/">add a new page</a>.
 
 ><img src="../../../images/pages-over3.jpg" alt="pages-add2" style="width: 30%; display: block"></a>
 
@@ -48,13 +48,13 @@ Existing pages are listed in the table on the dashboard. Each page is shown with
 
 ### Sites
 
-Existing sites are shown as cards on the dashboard. Each card displays a thumbnail of the site, and its name and is clickable to <a href="/pages/sites/read/">access the site</a> directly.
+Existing sites are shown as cards on the dashboard. Each card displays a thumbnail of the site, and its name and is clickable to <a href="/sites/">access the site</a> directly.
 
 ><img src="../../../images/sites-home-card.jpg" alt="sites home page card sample" style="width: 30%; display: block"></a>
 
 ### Add Page
 
-Click on the "Add Page" button on the left photo or on the "Add Page" blue button on the right to <a href="/pages/pages/add/">add a new page</a>.
+Click on the "Add Page" button on the left photo or on the "Add Page" blue button on the right to <a href="/pages/add/">add a new page</a>.
 
 ><img src="../../../images/pages-over3.jpg" alt="pages-add2" style="width: 30%; display: block"></a>
 
@@ -62,7 +62,7 @@ Click on the "Add Page" button on the left photo or on the "Add Page" blue butto
 
 ### Add Site
 
-Click on the "Add Site" card to <a href="/pages/sites/read/">add a new site</a>.
+Click on the "Add Site" card to <a href="https://cloud.solodev.net/sites/add-site/">add a new site</a>.
 
 ><img src="../../../images/sites-home-card-add.jpg" alt="sites home page add site card" style="width: 30%; display: block"></a>
 

@@ -1,6 +1,6 @@
 # Users Overview
 
-Modify a user’s details, and delete a user from your Solodev Cloud. View the latest user's activity, and groups the user is part of.
+Modify a user’s details, and delete a user from your Solodev Cloud. You can also view the latest files a user has worked on, what apps they can access, and which groups they are members of.
 
 ><img src="../../../images/users-overview.jpg" alt="users-overview" style="width: 100%; display: block"></a>
 
@@ -9,7 +9,7 @@ Modify a user’s details, and delete a user from your Solodev Cloud. View the l
 <a href="/Users/Update">Update</a> | Update a user’s details.
 
 !!! Note:
-Only users with an admin role can update another user’s profile details.
+Only users with an admin role can manage or modify another user’s profile details.
 !!!
 
 ---

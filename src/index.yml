@@ -1,4 +1,3 @@
-icon: icon-welcome-door-open-solid.svg
-expanded: 
-visibility: hidden
-redirect: WelcomeToSolodev/index.md
+order: 102
+icon: home
+expanded: false

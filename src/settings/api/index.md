@@ -6,7 +6,7 @@ The importance of efficient and reliable APIs cannot be overstated and this is w
 
 In practice, Swagger allows you to display interactive REST API documentation in which you can test and run queries through the integration with code. All commands are fully described, along with the information that the API takes and returns. More advanced configurations take into account authorizations as well as roles that are available to individual users.
 
-API page allows you to manage Swaggerm which is described below.
+API page allows you to manage Swagger which is described below.
 
 At the top, you can check API Server that is currently used.
 
