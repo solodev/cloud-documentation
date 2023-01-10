@@ -87,3 +87,6 @@ Click on the "Add Service" card to <a href="/services/add/">add a new service</a
 
 
 
+!!!
+***Please note:** The left-hand menu will vary between developer accounts and organization accounts*
+!!!
