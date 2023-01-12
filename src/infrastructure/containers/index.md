@@ -4,7 +4,7 @@ A container is a software unit that packages up code and all its dependencies, a
 
 Containers are small, fast, and portable because, unlike a virtual machine, they don't need to include the guest operating system in each instance, and instead can use the host operating system's features and resources.
 
-On the containers page manage containers thar are presented in the form of cards showing all their status. Click on each card to open the container directly.
+Manage containers thar are presented in the form of cards showing all their status. Click on each card to open the container directly.
 
 Click the cluster drop-down to filter by cluster
 
