@@ -2,6 +2,20 @@
 
 Deployments are ideal for high-availability server instances and managing single-tenant applications. Deployments allow you to launch a wide variety of applications with EC2 instances, load balancers, and autoscaling.
 
+Manage deployments that are presented in the form of cards showing all their status. Click on each card to open the container directly.
+
+Click the cluster drop-down to filter by cluster
+
+><img src="../../../images/containers.jpg" alt="containers" style="width: 100%; display: block"></a>
+
+**Name** | **Description** 
+:--- | ---
+<a href="/infrastructure/containers/add-container">Add Container</a>  | Add a new container to your Solodev Cloud.
+
+
+
+
+
 On the deployments page you will see:
 
 1. Cards showing all your deployments and their status (you can click on each card to open that deployment directly)
