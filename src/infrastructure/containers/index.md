@@ -6,7 +6,7 @@ Containers are small, fast, and portable because, unlike a virtual machine, they
 
 Manage containers which are presented in the form of cards showing all their status. Click on each card to open the container directly.
 
-Click the cluster drop-down to filter by cluster
+Click the cluster drop-down to filter by cluster.
 
 ><img src="../../../images/containers.jpg" alt="containers" style="width: 100%; display: block"></a>
 
