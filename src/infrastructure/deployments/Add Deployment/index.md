@@ -9,10 +9,10 @@ Adding a deployment in Solodev Cloud is a simple process, and can be completed i
 Deployment Selection | Select the deployment you are interested in by clicking on the button on the product card.
 
 !!!Note:
-Some containers have a purchase option, while some are already published in Solodev Cloud and are the contents of someone's catalog, but you can launch them to your Solodev Cloud. Below is an example of the **Apistudio** deployment that can be launched immediately without having to buy it.
+Some deployments have a purchase option,  while to buy others, you need to contact Solodev by filling out the contact form. Some are also already published in Solodev Cloud and are the contents of someone's catalog, but you can launch them to your Solodev Cloud. Below is an example of the **Video Platform** deployment that can be launched immediately without having to buy it or contact Solodev.
 !!!
 
-><img src="../../../images/addcontainer2.jpg" alt="addcontainer2" style="width: 100%; display: block"></a>
+><img src="../../../images/adddeployment2.jpg" alt="adddeployment2" style="width: 100% display: block"></a>
 
 **Name** | **Description** 
 :--- | ---

@@ -9,7 +9,7 @@ Adding a container in Solodev Cloud is a simple process, and can be completed in
 Container Selection | Select the container you are interested in by clicking on the button on the product card.
 
 !!!Note:
-Some containers have a purchase option, while some are already published in Solodev Cloud and are the contents of someone's catalog, but you can launch them to your Solodev Cloud. Below is an example of the **Apistudio** container that can be launched immediately without having to buy it.
+Some containers have a purchase option,  while to buy others, you need to contact Solodev by filling out the contact form. Some are also already published in Solodev Cloud and are the contents of someone's catalog, but you can launch them to your Solodev Cloud. Below is an example of the **Apistudio** container that can be launched immediately without having to buy it or contact Solodev.
 !!!
 
 ><img src="../../../images/addcontainer2.jpg" alt="addcontainer2" style="width: 100%; display: block"></a>
