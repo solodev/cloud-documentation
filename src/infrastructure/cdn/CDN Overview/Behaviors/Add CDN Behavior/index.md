@@ -6,8 +6,8 @@ Adding a CDN Behavior in Solodev Cloud is a simple process, and can be completed
 
 **Name** | **Description** 
 :--- | ---
-Description | Add the CDN description.
-Add Object Path | Add the path for each object that you want to remove from the CloudFront cache. You can use wildcards (*). After entering the path use button **Add**.
+ | 
+ | 
 
 ## Confirm
 
