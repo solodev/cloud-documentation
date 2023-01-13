@@ -2,9 +2,11 @@
 
 A content delivery network (CDN) is a network of interconnected servers that accelerate webpage loading for data-heavy applications. Users get lower latency—the time it takes to load the first byte of the file—and higher data transfer rates.
 
-On the CDN page, you can easily manage your CDNs.
+Manage easily your CDNs on the CDN page. CDNs are presented in the form of a table with the details such as origins, certificates, and CDN creator. You can open the CDN page by clicking it. 
 
-1. Click on any CDN from the list to open that CDN
-2. Click on the blue button to add a new CDN
+><img src="../../../images/cdn.jpg" alt="cdn" style="width: 100%; display: block"></a>
 
-<a href="../../images/infra-cdn-lg.jpg" target="_blank"><img src="../../images/infra-cdn.jpg" style="margin: auto; display: block"></a>
+**Name** | **Description** 
+:--- | ---
+<a href="../cdn/add-cdn/">Add CDN</a> | Add a new CDN.
+

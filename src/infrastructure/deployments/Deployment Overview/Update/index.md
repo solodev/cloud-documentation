@@ -1,6 +1,6 @@
 # Update
 
-Update a deployment's details or delete a deployment from your Solodev Cloud by clicking the **Update** button on the Deployment Overview.
+Update a deployment's details or delete a deployment from your Solodev Cloud by clicking the **Update** button on the Deployment Overview page.
 
 ><img src="../../../../images/updatedeployment.jpg" alt="updatedeployment" style="width: 50%; display: block"></a>
 

@@ -1,6 +1,6 @@
 # Update
 
-Update a container's details or delete a container from your Solodev Cloud by clicking the **Update** button on the Container Overview.
+Update a container's details or delete a container from your Solodev Cloud by clicking the **Update** button on the Container Overview page.
 
 ><img src="../../../../images/updatecontainer.jpg" alt="updatecontainer" style="width: 50%; display: block"></a>
 
