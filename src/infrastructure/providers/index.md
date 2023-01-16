@@ -2,10 +2,10 @@
 
 Amazon Web Services (AWS) is an online platform that provides scalable and cost-effective cloud computing solutions. AWS is a broadly adopted cloud platform that offers several on-demand operations like compute power, database storage, content delivery, etc., to help corporations scale and grow.
 
-On the providers page you will see:
+Manage providers which are presented in the form of cards showing all their status. Click on each card to open the provider directly.
 
-1. Cards showing all your providers and their status (you can click on each card to open that provider directly)
-2. You can add a provider by clicking on the add provider card
+><img src="../../../images/providers.jpg" alt="providers" style="width: 100%; display: block"></a>
 
-<a href="../../../images/infra-providers-lg.jpg" target="_blank"><img src="../../../images/infra-providers.jpg" style="margin: auto; display: block"></a>
-
+**Name** | **Description** 
+:--- | ---
+<a href="/infrastructure/providers/add-cloud-account">Add Cloud Account</a>  | Add a new provider to your Solodev Cloud.
