@@ -2,7 +2,7 @@
 
 Create your organization.
 
-><img src="../../../images/addorganization.jpg" alt="addorganization" style="width: 50%; display: block"></a>
+<img src="../../../images/addorganization.jpg" alt="addorganization" style="width: 50%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---

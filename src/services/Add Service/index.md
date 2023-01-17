@@ -2,7 +2,7 @@
 
 Adding a service in Solodev Cloud is a simple process, and can be completed in minutes by following the steps below.
 
-><img src="../../../images/addservice.jpg" alt="addservice" style="width: 100%; display: block"></a>
+<img src="../../../images/addservice.jpg" alt="addservice" style="width: 100%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---
@@ -12,20 +12,20 @@ Product Selection | Select the product you are interested in by clicking on the 
 Some products have a purchase option, while to buy others, you need to contact Solodev by filling out the contact form. Below is an example of a product **Solodev CMS** that can be purchased immediately without having to contact Solodev.
 !!!
 
-><img src="../../../images/addservice2.jpg" alt="addservice2" style="width: 100%; display: block"></a>
+<img src="../../../images/addservice2.jpg" alt="addservice2" style="width: 100%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---
 Buy Now | Click this button to go one step further.
 
-><img src="../../../images/addservice3.jpg" alt="addservice3" style="width: 100%; display: block"></a>
+<img src="../../../images/addservice3.jpg" alt="addservice3" style="width: 100%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---
 Choose Add-Ons | Choose add-ons, if needed.
 Complete Purchase | Click this button to complete your purchase.
 
-><img src="../../../images/addservice4.jpg" alt="addservice4" style="width: 100%; display: block"></a>
+<img src="../../../images/addservice4.jpg" alt="addservice4" style="width: 100%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---

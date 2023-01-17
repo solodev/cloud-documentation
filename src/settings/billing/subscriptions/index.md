@@ -6,6 +6,6 @@ Use the option to search your subscription by name. You can also filter subscrip
 
 Click the subscription card to be redirected to the subscribed product. 
 
-><img src="../../../images/subscriptions.jpg" alt="subscriptions" style="width: 100%; display: block"></a>
+<img src="../../../images/subscriptions.jpg" alt="subscriptions" style="width: 100%; display: block"></a>
 
 

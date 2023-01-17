@@ -2,7 +2,7 @@
 
 Manage your password.
 
-><img src="../../../images/security.jpg" alt="security" style="width: 100%; display: block"></a>
+<img src="../../../images/security.jpg" alt="security" style="width: 100%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---

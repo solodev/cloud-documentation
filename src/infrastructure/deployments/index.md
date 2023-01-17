@@ -6,7 +6,7 @@ Manage deployments that are presented in the form of cards showing all their sta
 
 Click the provider drop-down to filter by provider.
 
-><img src="../../../images/deployments.jpg" alt="deployments" style="width: 100%; display: block"></a>
+<img src="../../../images/deployments.jpg" alt="deployments" style="width: 100%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---

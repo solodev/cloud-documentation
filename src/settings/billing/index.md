@@ -2,7 +2,7 @@
 
 To receive revenue provide the banking account to which Solodev will transfer your funds. To do it use this section, where you update your billing details.
 
-><img src="../../../images/billing.jpg" alt="billing" style="width: 100%; display: block"></a>
+<img src="../../../images/billing.jpg" alt="billing" style="width: 100%; display: block"></a>
 
 !!!Please Note:
 - You may have up to 2 bank accounts attached to each Solodev organization.
@@ -23,7 +23,7 @@ On the billing page, among others, you can check billing contact and billing his
 
 Edit your payment details by clicking on the pencil icon above the Payment Details card on the right.
 
-><img src="../../../images/paymentdetails.jpg" alt="billing" style="width: 50%; display: block"></a>
+<img src="../../../images/paymentdetails.jpg" alt="billing" style="width: 50%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---
@@ -37,7 +37,7 @@ CVV | Enter CVV.
 
 Edit your billing address by clicking on the pencil icon above the Billing Address card on the right.
 
-><img src="../../../images/updatebillingaddress.jpg" alt="updatebillingaddress" style="width: 50%; display: block"></a>
+<img src="../../../images/updatebillingaddress.jpg" alt="updatebillingaddress" style="width: 50%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---

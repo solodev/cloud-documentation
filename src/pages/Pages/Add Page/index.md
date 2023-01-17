@@ -2,7 +2,7 @@
 
 Adding a page to your org in Solodev Cloud is a simple process, and can be completed in minutes by following the steps below.
 
-><img src="../../../images/addpage.jpg" alt="addpage" style="width: 50%; display: block"></a>
+<img src="../../../images/addpage.jpg" alt="addpage" style="width: 50%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---

@@ -6,7 +6,7 @@ View and manage group permissions in your Solodev Cloud by clicking the Permissi
 
 Allow access to specific Solodev Cloud sections and set roles for your group.
 
-><img src="../../../images/groups-permissions.jpg" alt="groups-permissions" style="width: 50%; display: block"></a>
+<img src="../../../images/groups-permissions.jpg" alt="groups-permissions" style="width: 50%; display: block"></a>
 
 
 **Name** | **Description** 

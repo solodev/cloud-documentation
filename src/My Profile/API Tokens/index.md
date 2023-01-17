@@ -4,7 +4,7 @@ An API token is similar to a password and allows you to authenticate to Datavers
 
 Existing tokens are listed in the table on the dashboard. Each token is shown with details such as name, the key that can be previewed using the eye icon, and status.
 
-><img src="../../../images/apitokens.jpg" alt="apitokens" style="width: 100%; display: block"></a>
+<img src="../../../images/apitokens.jpg" alt="apitokens" style="width: 100%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---
@@ -17,7 +17,7 @@ Delete | Click the **x** on the right side of the table to remove an API token.
 
 Add a new token.
 
-><img src="../../../images/addtoken.jpg" alt="addtoken" style="width: 50%; display: block"></a>
+<img src="../../../images/addtoken.jpg" alt="addtoken" style="width: 50%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---

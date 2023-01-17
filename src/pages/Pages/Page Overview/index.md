@@ -10,7 +10,7 @@ Go to [Solodev CMS Guide](https://cms.solodev.net/) to find out how to create pa
 
 Pages are created based on Page Studio editor. It has robust built-in drag-and-drop WYSIWYG editing functionality as well as the option to toggle to edit sources directly.
 
-><img src="../../../images/pages.jpg" alt="pages" style="width: 100%; display: block"></a>
+<img src="../../../images/pages.jpg" alt="pages" style="width: 100%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---

@@ -4,7 +4,7 @@ Amazon Web Services (AWS) is an online platform that provides scalable and cost-
 
 Manage providers which are presented in the form of cards showing all their status. Click on each card to open the provider directly.
 
-><img src="../../../images/providers.jpg" alt="providers" style="width: 100%; display: block"></a>
+<img src="../../../images/providers.jpg" alt="providers" style="width: 100%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---

@@ -2,9 +2,9 @@
 
 Adding a site to your org in Solodev Cloud is a simple process, and can be completed in minutes by following the steps below. 
 
-><img src="../../../images/addsite.jpg" alt="addsite" style="width: 50%; display: block"></a>
+<img src="../../../images/addsite.jpg" alt="addsite" style="width: 50%; display: block"></a>
 
-><img src="../../../images/addsite2.jpg" alt="addsite2" style="width: 50%; display: block"></a>
+<img src="../../../images/addsite2.jpg" alt="addsite2" style="width: 50%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---
@@ -26,7 +26,7 @@ You can choose from the 3 site types:
 
 Create your site using CMS.
 
-><img src="../../../images/cmspage.jpg" alt="cmspage" style="width: 50%; display: block"></a>
+<img src="../../../images/cmspage.jpg" alt="cmspage" style="width: 50%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---
@@ -43,7 +43,7 @@ When adding a new domain, it must be a valid URL such as www.yourdomain.com. Bef
 
 Create your site using Static.
 
-><img src="../../../images/static1.jpg" alt="static1" style="width: 50%; display: block"></a>
+<img src="../../../images/static1.jpg" alt="static1" style="width: 50%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---
@@ -61,7 +61,7 @@ When adding a new domain, it must be a valid URL such as www.yourdomain.com. Bef
 
 Launch external site.
 
-><img src="../../../images/external.jpg" alt="external" style="width: 50%; display: block"></a>
+<img src="../../../images/external.jpg" alt="external" style="width: 50%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---

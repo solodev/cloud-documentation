@@ -2,7 +2,7 @@
 
 The update site modal gives options to edit several site settings and the option to delete the site.
 
-><img src="../../../../images/updatesite1.jpg" alt="updatesite1" style="width: 50%; display: block"></a>
+<img src="../../../../images/updatesite1.jpg" alt="updatesite1" style="width: 50%; display: block"></a>
   
 **Name** | **Description** 
 :--- | ---
@@ -15,7 +15,7 @@ Add Alias | An alias allows users to access the site via a nickname or alternati
   
 Under the Advanced dropdown, you can execute advanced operations such as deleting a site.   
   
-><img src="../../../../images/updatesite2.jpg" alt="updatesite2" style="width: 50%; display: block"></a>	
+<img src="../../../../images/updatesite2.jpg" alt="updatesite2" style="width: 50%; display: block"></a>	
 
 **Name** | **Description** 
 :--- | ---

@@ -4,7 +4,7 @@ The site detail page gives you a comprehensive overview of your site with conven
 
 At the top, there are 3 icons, which can be used to change the site view. Maximize the window using the icon of doubled arrows on the right. 
 
-><img src="../../../images/sitesoverview.jpg" alt="sitesoverview" style="width: 100%; display: block"></a>
+<img src="../../../images/sitesoverview.jpg" alt="sitesoverview" style="width: 100%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---

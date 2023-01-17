@@ -2,7 +2,7 @@
 
 Update your organization on the Profile page by providing a new billing email, country, postal code, or description.
 
-><img src="../../../images/profile.jpg" alt="profile" style="width: 100%; display: block"></a>
+<img src="../../../images/profile.jpg" alt="profile" style="width: 100%; display: block"></a>
 
 !!!Please Note:
 URLs used to log in to an instance of Solodev installed within an organization change whenever the administrator changes the name of the organization.
@@ -25,7 +25,7 @@ Organization Image | Change the organization image. Click **Replace Image**.
 
 Rename your organization by putting the new name in the field.
 
-><img src="../../../images/rename.jpg" alt="rename" style="width: 50%; display: block"></a>
+<img src="../../../images/rename.jpg" alt="rename" style="width: 50%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---
@@ -35,7 +35,7 @@ Title | Enter the organization name.
 
 Delete yuor organization.
 
-><img src="../../../images/delete-organization.jpg" alt="delete-organization" style="width: 50%; display: block"></a>
+<img src="../../../images/delete-organization.jpg" alt="delete-organization" style="width: 50%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---

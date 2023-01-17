@@ -2,7 +2,7 @@
 
 Create groups to mimic the organizational structure and take advantage of granular permissions.
 
-><img src="../../../images/groups.jpg" alt="groups" style="width: 100%; display: block"></a>
+<img src="../../../images/groups.jpg" alt="groups" style="width: 100%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---

@@ -2,7 +2,7 @@
 
 Access a specific group in your Solodev Cloud to view all its members, add or delete members, and manage permissions at the group level.
 
-><img src="../../../images/groups-overview.jpg" alt="groups-overview" style="width: 100%; display: block"></a>
+<img src="../../../images/groups-overview.jpg" alt="groups-overview" style="width: 100%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---
@@ -16,7 +16,7 @@ Access a specific group in your Solodev Cloud to view all its members, add or de
 
 View all group members, and delete users from your group. 
 
-><img src="../../../images/groups-overview2.jpg" alt="groups-overview2" style="width: 100%; display: block"></a>
+<img src="../../../images/groups-overview2.jpg" alt="groups-overview2" style="width: 100%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---

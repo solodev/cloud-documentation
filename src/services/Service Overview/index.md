@@ -2,7 +2,7 @@
 
 The Service Overview page provides you with the ability to manage your product. Do it by updating details and modifying permissions for members.
 
-><img src="../../../images/serviceoverview.jpg" alt="serviceoverview" style="width: 100%; display: block"></a>
+<img src="../../../images/serviceoverview.jpg" alt="serviceoverview" style="width: 100%; display: block"></a>
 
 !!!Note:
 The specificity of each product is different, therefore the options that are available after opening the service card differ. Universal options that appear for almost every service are **Update**,**Permissions**. It can be also **Add Deployment Member**.

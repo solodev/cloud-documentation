@@ -23,12 +23,12 @@ This will bring you to our join now page where you’ll need to enter a few quic
 - *Don’t use personal info.*
 
 
-!!!
-***Please note:** Before hitting the green “Join Solodev” button. We ask you to read and review our [terms of service](https://www.solodev.com/terms/) and [privacy statement](https://www.solodev.com/terms/privacy-policy.stml). **On acceptance, you will be automatically enrolled in the free developer plan.***
+!!! Note:
+Before hitting the green “Join Solodev” button. We ask you to read and review our [terms of service](https://www.solodev.com/terms/) and [privacy statement](https://www.solodev.com/terms/privacy-policy.stml). **On acceptance, you will be automatically enrolled in the free developer plan.
 !!!
 
-!!!
-***Please note:** You will need to wait up to 48 hours for your account to be approved. If you need access sooner than this, please [contact us](https://www.solodev.com/contact/).*
+!!! Note:
+You will need to wait up to 48 hours for your account to be approved. If you need access sooner than this, please [contact us](https://www.solodev.com/contact/).*
 !!!
 
 <a href="../../images/quick-start-join-lg.jpg" target="_blank"><img src="../../images/quick-start-join.jpg" style="margin: auto; display: block"></a>
@@ -52,8 +52,7 @@ This will bring you to our ID page where to sign in you’ll be able to choose b
 <a href="../../images/quick-start-login-github-lg.jpg" target="_blank"><img src="../../images/quick-start-login-github.jpg" style="margin: auto; display: block"></a>
 
 
-!!!
-**Trouble Logging In?**
+!!!Trouble Logging In?
 
 If you’re having trouble logging in, please hit the “*can’t login?* ” link on the Solodev ID page or the “*Forgot Password* ” link on the GitHub credentials screen and follow the steps.
 !!!
