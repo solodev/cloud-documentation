@@ -1,6 +1,6 @@
 # Provider Overview
 
-The Provider Overview page provides you with the ability to manage your providers. Do it by updating details, modifying permissions for members, managing deployments, clusters and 
+The Provider Overview page gives you the ability to manage your providers. Do it by updating details, modifying permissions for members, managing deployments, clusters and 
 domains.
 
 <img src="../../../images/provideroverview.jpg" alt="provideroverview" style="width: 100%; display: block"></a>
