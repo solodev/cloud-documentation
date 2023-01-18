@@ -24,11 +24,11 @@ This will bring you to our join now page where you’ll need to enter a few quic
 
 
 !!! Note:
-Before hitting the green “Join Solodev” button. We ask you to read and review our [terms of service](https://www.solodev.com/terms/) and [privacy statement](https://www.solodev.com/terms/privacy-policy.stml). **On acceptance, you will be automatically enrolled in the free developer plan.
+Before hitting the green “Join Solodev” button. We ask you to read and review our [terms of service](https://www.solodev.com/terms/) and [privacy statement](https://www.solodev.com/terms/privacy-policy.stml). On acceptance, you will be automatically enrolled in the free developer plan.
 !!!
 
 !!! Note:
-You will need to wait up to 48 hours for your account to be approved. If you need access sooner than this, please [contact us](https://www.solodev.com/contact/).*
+You will need to wait up to 48 hours for your account to be approved. If you need access sooner than this, please [contact us](https://www.solodev.com/contact/).
 !!!
 
 <a href="../../images/quick-start-join-lg.jpg" target="_blank"><img src="../../images/quick-start-join.jpg" style="margin: auto; display: block"></a>
@@ -106,8 +106,8 @@ This plan includes everything in the developer plan plus the ability to sell you
 
 This plan includes all of the above plus the ability to create your custom catalog of pre-built apps and containers to resell. You can also stack your catalog with third-party apps from the marketplace and offer additional support or agency consulting services.
 
-!!!
-***Please note:** Paid plans are only available at the organization level. You must create an organization to upgrade to a paid plan.*
+!!!Note: 
+Paid plans are only available at the organization level. You must create an organization to upgrade to a paid plan.
 !!!
 
 ---
