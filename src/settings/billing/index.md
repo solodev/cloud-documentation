@@ -4,7 +4,7 @@ To receive revenue provide the banking account to which Solodev will transfer yo
 
 <img src="../../../images/billing.jpg" alt="billing" style="width: 100%; display: block"></a>
 
-!!!Please Note:
+!!!Note:
 - You may have up to 2 bank accounts attached to each Solodev organization.
 - All bank accounts must be US bank accounts.
 !!!

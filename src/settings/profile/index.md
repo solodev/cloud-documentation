@@ -4,7 +4,7 @@ Update your organization on the Profile page by providing a new billing email, c
 
 <img src="../../../images/profile.jpg" alt="profile" style="width: 100%; display: block"></a>
 
-!!!Please Note:
+!!!Note:
 URLs used to log in to an instance of Solodev installed within an organization change whenever the administrator changes the name of the organization.
 
 Deployments, websites, clusters, and applications installed within an organization are deleted whenever the administrator deletes an organization.

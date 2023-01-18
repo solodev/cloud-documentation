@@ -83,10 +83,6 @@ Click on the "Add Service" card to <a href="/services/add/">add a new service</a
 <img src="../../../images/dashboard9.jpg" alt="dashboard9" style="width: 40%; display: block"></a>
 
 
-
-
-
-
-!!!
-***Please note:** The left-hand menu will vary between developer accounts and organization accounts*
+!!! Note:
+The left-hand menu will vary between developer accounts and organization accounts
 !!!
