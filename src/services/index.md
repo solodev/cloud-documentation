@@ -8,4 +8,4 @@ Existing services are shown as cards on the dashboard. Each card displays a logo
 
 **Name** | **Description** 
 :--- | ---
-<a href="services/add-service/">Add Service</a> | Add a new service in Solodev Cloud.
+<a href="/services/add-service/">Add Service</a> | Add a new service in Solodev Cloud.

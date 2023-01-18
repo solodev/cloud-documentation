@@ -10,5 +10,5 @@ Existing organizations are shown as cards on the dashboard. Each card displays a
 
 **Name** | **Description** 
 :--- | ---
-<a href="organizations/add-organization/">Add Organization</a> | Create your organization.
+<a href="/organizations/add-organization/">Add Organization</a> | Create your organization.
 

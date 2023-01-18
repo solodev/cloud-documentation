@@ -44,13 +44,13 @@ Click on the green "Send" button on the left to send an invitation to your frien
 
 ## Profile
 
-Click on the "Manage Profile" icon at the bottom left to manage your <a href="/profile/">profile</a> or log out.
+Click on the "Manage Profile" icon at the bottom left to manage your <a href="/my-profile/">profile</a> or log out.
 
 <img src="../../images/dashboard7.jpg" alt="dashboard7" style="width: 20%; display: block"></a>
 
 ### Profile
 
-Click on the "Manage Profile" icon at the bottom left to manage your <a href="/profile/">profile</a>.
+Click on the "Manage Profile" icon at the bottom left to manage your <a href="/my-profile/">profile</a>.
 
 <img src="../../images/dashboard11.jpg" alt="dashboard11" style="width: 20%; display: block"></a>
 
@@ -78,7 +78,7 @@ Click on the gear wheel icon on a service card to open <a href="/services/settin
 
 ### Add Service
 
-Click on the "Add Service" card to <a href="/services/add/">add a new service</a>.
+Click on the "Add Service" card to <a href="/services/add-service/">add a new service</a>.
 
 <img src="../../../images/dashboard9.jpg" alt="dashboard9" style="width: 40%; display: block"></a>
 

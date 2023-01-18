@@ -6,4 +6,4 @@ Create groups to mimic the organizational structure and take advantage of granul
 
 **Name** | **Description** 
 :--- | ---
-<a href="groups/add-user-group/">Add User Group</a> | Create a group in your Solodev Cloud.
+<a href="/groups/add-user-group/">Add User Group</a> | Create a group in your Solodev Cloud.

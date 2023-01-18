@@ -6,6 +6,6 @@ View, manage, and invite users to your organization in Solodev Cloud and see wha
 
 **Name** | **Description** 
 :--- | ---
-<a href="users/add-user/">Add User</a> | Add a new user or users to your organization in Solodev Cloud.
+<a href="/users/add-user/">Add User</a> | Add a new user or users to your organization in Solodev Cloud.
 
 

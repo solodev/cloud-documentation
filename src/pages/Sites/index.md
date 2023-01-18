@@ -10,5 +10,5 @@ To open existing site click on the site card.
 
 **Name** | **Description** 
 :--- | ---
-<a href="pages/sites/add-site/">Add Site</a> | Create a new site in Solodev Cloud.
+<a href="/pages/sites/add-site/">Add Site</a> | Create a new site in Solodev Cloud.
 

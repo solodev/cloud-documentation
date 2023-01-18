@@ -10,4 +10,4 @@ Find the page by typing its name in the search field. Filter pages on page type 
 	
 **Name** | **Description** 
 :--- | ---
-<a href="pages/pages/add-page/">Add Page</a> | Create a new page in Solodev Cloud.
+<a href="/pages/pages/add-page/">Add Page</a> | Create a new page in Solodev Cloud.

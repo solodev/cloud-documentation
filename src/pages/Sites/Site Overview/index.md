@@ -8,8 +8,8 @@ At the top, there are 3 icons, which can be used to change the site view. Maximi
 
 **Name** | **Description** 
 :--- | ---
-<a href="pages/sites/site-overview/update/">Update</a> | Edit several site settings, delete the site.
-<a href="pages/sites/site-overview/permissions/">Permissions</a> | Manage your permissions.
+<a href="/pages/sites/update/">Update</a> | Edit several site settings, delete the site.
+<a href="/pages/sites/permissions/">Permissions</a> | Manage your permissions.
 
 
 
