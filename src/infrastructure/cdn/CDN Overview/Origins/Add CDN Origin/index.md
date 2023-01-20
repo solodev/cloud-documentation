@@ -2,12 +2,12 @@
 
 Adding a CDN Origin in Solodev Cloud is a simple process, and can be completed in minutes.
 
-<img src="../../../../../images/addcdnorigin.jpg" alt="addcdninvalidation" style="width: 50%; display: block"></a>
+<img src="../../../../../images/addcdnorigin.jpg" alt="addcdnorigin" style="width: 50%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---
-| 
-| 
+Name | Enter the CDN Origin name.
+Origin Domain | Enter the origin domain.
 
 ## Confirm
 

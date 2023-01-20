@@ -7,7 +7,8 @@ Adding a CDN Behavior in Solodev Cloud is a simple process, and can be completed
 **Name** | **Description** 
 :--- | ---
  | 
- | 
+Add Path Pattern | Add the path pattern.
+Origin | Add the origin.
 
 ## Confirm
 

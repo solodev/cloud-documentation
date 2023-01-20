@@ -18,6 +18,16 @@ Some products have a purchase option, while to buy others, you need to contact S
 :--- | ---
 Fill out the formular | Click this button to fill out the contact formular.
 
-!!!Note:
-The next steps required to install the cluster depend on its specific characteristics.
-!!!
+<img src="../../../images/addcluster3.jpg" alt="addcluster3" style="width: 50%; display: block"></a>
+
+**Name** | **Description** 
+:--- | ---
+First Name | Enter the first name.
+Last Name | Enter the last name.
+Company Name | Enter the company name.
+Email Address | Enter the email address.
+Phone Number | Enter the Phone Number.
+
+## Confirm
+
+Once you have completed all the fields, click **Schedule Call** to schedule call with Solodev.
