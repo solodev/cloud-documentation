@@ -1,14 +1,38 @@
 # Profile
 
-The marketplace profile page allows you to update your profile in several areas:
+Update your profile in several areas, such as the update of your organization title or changing your organization's plan.
 
-1. Update the title of your organization
-2. Add a custom URL for your Reseller page
-3. Add and customize a description for your company’s reseller page
-4. Click the blue update button to save and apply any changes made to the above
-5. Here you can change your organization’s plan by either upgrading or downgrading
-6. Click on the image to update your organization’s image
+<img src="../../../images/marketplaceprofile.jpg" alt="marketplaceprofile" style="width: 100%; display: block"></a>
 
-<a href="../../images/marketplace-profile-lg.jpg" target="_blank"><img src="../../images/marketplace-profile.jpg" style="margin: auto; display: block"></a>
+**Name** | **Description** 
+:--- | ---
+[Profile Update](https://cloud.solodev.net/marketplace/profile/#profile-update) | Update your profile's details.
+[Organization Image](https://cloud.solodev.net/marketplace/profile/#organization-image) | Update your organization image.
+Allow catalog access | Mark this option to enable other users to install your private catalog items from any organization you are a part of.
+<a href="/marketplace/profile/change-plan/">Change Plan</a> | Change your organization's plan.
 
+## Profile Update
 
+Update your organization profile.
+
+<img src="../../../images/marketplaceprofileupdate.jpg" alt="marketplaceprofileupdate" style="width: 50%; display: block"></a>
+
+**Name** | **Description** 
+:--- | ---
+Display Title | Enter the title that is displayed on your developer page.
+Developer URL | Add a custom URL to your Developer page.
+Developer Description | Enter the description of your company that is displayed on your Developer page.
+
+## Organization Image
+
+Change your organization's image.
+
+<img src="../../../images/marketplaceprofileimage.jpg" alt="marketplaceprofileimage" style="width: 50%; display: block"></a>
+
+**Name** | **Description** 
+:--- | ---
+Organization Image | Change the organization image. Click **Replace Image**.
+
+## Confirm
+
+Once you have completed all the fields, click **Submit** to apply your changes.

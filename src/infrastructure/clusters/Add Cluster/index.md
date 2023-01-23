@@ -26,7 +26,7 @@ First Name | Enter the first name.
 Last Name | Enter the last name.
 Company Name | Enter the company name.
 Email Address | Enter the email address.
-Phone Number | Enter the Phone Number.
+Phone Number | Enter the phone number.
 
 ## Confirm
 
