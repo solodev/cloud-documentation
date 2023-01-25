@@ -1,4 +1,4 @@
-# Payment Details
+# Credit Card Details
 
 Update your credit card details.
 

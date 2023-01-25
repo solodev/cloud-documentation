@@ -19,7 +19,7 @@ You can choose from three plans:
  
 **Name** | **Description** 
 :--- | ---
-<a href="/marketplace/profile/payment-details/">Payment Details</a> | Change your credit card details.
+<a href="/marketplace/profile/credit-card-details/">Credit Card Details</a> | Change your credit card details.
 [Payment Details](https://cloud.solodev.net/marketplace/profile/change-plan#payment-details) | Update your payment details.
 [Contact Solodev](https://cloud.solodev.net/marketplace/profile/change-plan#contact-solodev) | Contact Solodev in case of any questions.
 

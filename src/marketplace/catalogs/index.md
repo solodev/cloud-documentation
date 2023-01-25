@@ -1,10 +1,13 @@
 # Catalogs
 
-The catalogs page gives you an overview of all of your catalogs (if you have not yet created a catalog, there will be a large blue card to click on to create your first one). From this page you can:
+Catalogs provide developers with a collection of applications and services that they can use to build their own customized applications. Developers can share these collections with other users via organizations to facilitate collaboration. 
 
-1. Search for an existing catalog
-2. Filter catalogs by organization
-3. Add a new catalog
-4. View a clickable (click to open) list of your existing catalogs 
-	
-<a href="../../images/marketplace-catalogs-lg.jpg" target="_blank"><img src="../../images/marketplace-catalogs.jpg" style="margin: auto; display: block"></a>
+The catalogs page gives you an overview of all of your catalogs.
+
+Filter catalogs by organization. Search for an existing catalog by using search bar.
+
+<img src="../../../images/catalogs.jpg" alt="catalogs" style="width: 100%; display: block"></a>
+
+**Name** | **Description** 
+:--- | ---
+<a href="/marketplace/catalogs/add-catalog/">Add Catalog</a> | Add the new catalog.
