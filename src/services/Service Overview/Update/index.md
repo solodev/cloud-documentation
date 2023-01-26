@@ -1,6 +1,6 @@
 # Update
 
-Under the **Update** option you are able to manage service settings and delete the service.
+Under the **Update** option you can manage service settings and delete the service.
 
 <img src="../../../images/updateservice.jpg" alt="updateservice" style="width: 50%; display: block"></a>
 

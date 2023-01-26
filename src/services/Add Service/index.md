@@ -22,7 +22,7 @@ Buy Now | Click this button to go one step further.
 
 **Name** | **Description** 
 :--- | ---
-Choose Add-Ons | Choose add-ons, if needed.
+Choose Add-Ons | Enter add-ons number, if needed.
 Complete Purchase | Click this button to complete your purchase.
 
 <img src="../../../images/addservice4.jpg" alt="addservice4" style="width: 100%; display: block"></a>
