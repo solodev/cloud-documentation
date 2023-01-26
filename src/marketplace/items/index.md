@@ -1,21 +1,17 @@
 # Items
 
-The items page is where you will see a complete list of all apps you’ve added to the organization. The default view allows you to:
+Add Items to their Catalog as one-time purchases or subscription-based plans, which are paid for directly through the Solodev Cloud.
 
-1. Search for a specific app
-2. Refine the list by fulfillment types
-3. Refine the list by category
-4. Refine the list by catalog
-5. Add a catalog
+Items are categorized based on their Fulfillment Type, which includes:
 
-Sort your results by columns:
+- **Services:** Third-party applications and cloud services.  
+- **Infrastructure:** Deployments, clusters, and containers.
+- **Add-ons:** Apps, modules, themes, and actions available for CMS.
 
-6. Name
-7. Type
-8. Modified Date
-9. Modified By
-10. Once you’ve found the app you are looking for, you can click directly on it to open
+Manage your Items via Items page. Search the item using Search bar. Filter Items by fulfillment types, categories and catalogs.
 
-<a href="../../images/marketplace-items-lg.jpg" target="_blank"><img src="../../images/marketplace-items.jpg" style="margin: auto; display: block"></a>
+<img src="../../../../images/items.jpg" alt="items" style="width: 100%; display: block"></a>
 
-
+**Name** | **Description** 
+:--- | ---
+<a href="/marketplace/items/add-item/">Add Item</a> | Add the new item.

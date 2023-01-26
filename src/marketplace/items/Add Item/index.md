@@ -12,7 +12,7 @@ Fulfillment Type | Select a fulfillment type
 Catalog | Choose the catalog for your item.
 
 !!!Note:
-You can choose from different 
+You can choose from different fulfillment types:
 
 - **Service:**  Third-party applications and cloud services.  
 - **Infrastructure:** Deployments, clusters, and containers.
