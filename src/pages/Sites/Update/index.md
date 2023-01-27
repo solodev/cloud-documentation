@@ -1,6 +1,6 @@
 # Update
 
-The update site modal gives options to edit several site settings and the option to delete the site.
+The Update site modal gives options to edit several site settings and the option to delete the site.
 
 <img src="../../../../images/updatesite1.jpg" alt="updatesite1" style="width: 50%; display: block"></a>
   

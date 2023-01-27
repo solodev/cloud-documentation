@@ -36,3 +36,11 @@ Name | Enter the provider's name.
 Region | Choose the region.
 Access Key ID | Enter the Access Key ID.
 Secret Access Key | Enter the Secret Access Key.
+
+## Confirm
+
+Once you have completed all the fields, click **Connect** to add your cloud account.
+
+!!!Note:
+The cloud account addition process may take several minutes to complete after clicking the **Connect** button. Do not close or quit your browser during this process.
+!!!

@@ -1,6 +1,6 @@
 # Add Site
 
-Adding a site to your org in Solodev Cloud is a simple process, and can be completed in minutes by following the steps below. 
+Adding a site is a simple process, and can be completed in minutes by following the steps below. 
 
 <img src="../../../images/addsite.jpg" alt="addsite" style="width: 50%; display: block"></a>
 
@@ -8,7 +8,7 @@ Adding a site to your org in Solodev Cloud is a simple process, and can be compl
 
 **Name** | **Description** 
 :--- | ---
-Pick a Site Type | Choose from the 3 site types.
+Pick a Site Type | Choose one from the 3 site types.
 Next | Go further after making a choice.
 
 !!!Note:

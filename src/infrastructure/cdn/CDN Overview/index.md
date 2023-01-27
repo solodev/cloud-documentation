@@ -7,7 +7,7 @@ The CDN Overview page shows you important CDN details as well as the ability to 
 **Name** | **Description** 
 :--- | ---
 <a href="update/">Update</a> | Edit CDN settings, delete the CDN.
-<a href="georestrictions/">Georestrictions</a> | Manage your georestrictions.
+<a href="geo-restrictions/">GEO Restrictions</a> | Manage your GEO restrictions.
 <a href="permissions/">Permissions</a> | Manage your permissions.
 <a href="/infrastructure/cdn/cdn-overview/origins/">Origins</a> | Manage your CDN Origin.
 <a href="/infrastructure/cdn/cdn-overview/origins/add-cdn-origin">Add CDN Origin</a> | Add your CDN Origin.

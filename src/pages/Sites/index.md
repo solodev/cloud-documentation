@@ -1,6 +1,6 @@
 # Sites
 
-The sites page provides an overview of the existing sites as well as the option to add a new site.
+The Sites page provides an overview of the existing sites as well as the option to add a new site.
 
 To open existing site click on the site card.
 

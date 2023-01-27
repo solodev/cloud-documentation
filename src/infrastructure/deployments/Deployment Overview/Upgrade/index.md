@@ -7,4 +7,4 @@ Upgrade your deployment to the newest version.
 **Name** | **Description** 
 :--- | ---
 Choose version | Choose the deployment version from the list.
-Upgrade | To upgrade your deployment, type **UPGRADE** in all caps into the field and click the blue **Upgrade** button.
+Upgrade | To upgrade your deployment, type **UPGRADE** in all caps into the field and click the **Upgrade** button.

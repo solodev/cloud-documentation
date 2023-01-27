@@ -1,6 +1,6 @@
 # Deployment Overview
 
-The Deployment Overview page provides you with the ability to manage your deployments. Do it by updating details, modifying permissions for members or upgrading your deployment version.
+The Deployment Overview page provides you with the ability to manage your deployments. Do it by updating details, modifying permissions for members, or upgrading your deployment version.
 
 <img src="../../../images/deploymentoverview.jpg" alt="deploymentoverview" style="width: 100%; display: block"></a>
 

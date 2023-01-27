@@ -1,6 +1,6 @@
 # Pages Overview
 
-The pages page provides a view of your existing pages and sites as well as the option to add a new page or a new site.
+The Pages page provides a view of your existing pages and sites as well as the option to add a new page or a new site.
 
 Existing pages are listed in the table on the dashboard. Each page is shown with details such as name, site, when it was modified, and by whom.
 

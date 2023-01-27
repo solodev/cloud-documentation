@@ -4,6 +4,10 @@ Update a container's details or delete a container from your Solodev Cloud by cl
 
 <img src="../../../../images/updatecontainer.jpg" alt="updatecontainer" style="width: 50%; display: block"></a>
 
+!!!Note:
+In the case of containers, it is only possible to use the Advanced option, which includes Delete.
+!!!
+
 ## Advanced
 
 Under the Advanced dropdown, you can execute advanced operations such as deleting a container. 
