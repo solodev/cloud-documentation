@@ -8,13 +8,13 @@ First, set up a new account. Visit [Solodev.com](https://www.solodev.com).
 
 **Name** | **Description** 
 :--- | ---
-Click the digital wallet icon | Click this icon in to get the option **Create Account**.
+Click the digital wallet icon | Click this icon to get the option **Create Account**.
 
 <img src="../../../images/overview2.jpg" alt="overview2" style="width: 100%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---
-Create Account | Choose this option to create account.
+Create Account | Choose this option to create an account.
 
 <img src="../../../images/overview3.jpg" alt="overview3" style="width: 50%; display: block"></a>
 
@@ -51,13 +51,13 @@ Users with existing accounts can sign into Solodev with your Solodev credentials
 
 **Name** | **Description** 
 :--- | ---
-Click the digital wallet icon | Click this icon in to get the option **Sign In**.
+Click the digital wallet icon | Click this icon to get the option **Sign In**.
 
 <img src="../../../images/overview2.jpg" alt="overview2" style="width: 100%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---
-Sign In | Choose this option to login.
+Sign In | Choose this option to log in.
 
 <img src="../../../images/overview4.jpg" alt="overview4" style="width: 50%; display: block"></a>
 
@@ -66,17 +66,17 @@ Sign In | Choose this option to login.
 Username | Enter your username.
 Password | Enter your password.
 [Can’t Login?](https://www.cloud.solodev.net/overview/#can't-login?) | Use this option if you’re having trouble logging in.
-[Sign Up For an Account](https://www.cloud.solodev.net/overview/#register) | Use this option if you want to register account.
+[Sign Up For an Account](https://www.cloud.solodev.net/overview/#register) | Use this option if you want to register an account.
 
 !!!Tip:
-If you’re having trouble logging using GitHub, use **Forgot Password** link on the GitHub credentials screen and follow the steps.
+If you’re having trouble logging in with GitHub, use the **Forgot Password** link on the GitHub credentials screen and follow the steps.
 !!!
 
 ### Confirm
 
-Once you have completed all the fields, click **Log In** to login to Solodev Cloud or use **Log In With GitHub** button to use GitHub to login.
+Once you have completed all the fields, click **Log In** to log in to Solodev Cloud or use the **Log In With GitHub** button to use GitHub to login.
 
-## Can't Login?
+## Can't login?
 
 Reset your password using your email address.
 
@@ -84,5 +84,5 @@ Reset your password using your email address.
 
 **Name** | **Description** 
 :--- | ---
-Username | Enter your username or email address and click **Reset** button to reset your password.
+Username | Enter your username or email address and click the **Reset** button to reset your password.
 
