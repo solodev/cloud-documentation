@@ -1,43 +1,38 @@
 # Overview
 
-## Register an account
+## Create an account
 
-First, set up a new account. Visit [Solodev.com](https://www.solodev.com).
+First, set up a new account. Visit [Solodev.com](https://www.solodev.com) and navigate to the digital wallet icon to the right of the search bar.
 
 <img src="../../../images/overview.jpg" alt="overview" style="width: 100%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---
-Click the digital wallet icon | Click this icon to get the option **Create Account**.
+Digital Wallet | Click this icon to select the option **Create Account**.
 
 <img src="../../../images/overview2.jpg" alt="overview2" style="width: 100%; display: block"></a>
 
-**Name** | **Description** 
+<!-- **Name** | **Description** 
 :--- | ---
-Create Account | Choose this option to create an account.
+Create Account | Choose this option to create an account. -->
 
 <img src="../../../images/overview3.jpg" alt="overview3" style="width: 50%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---
-First Name | Enter the first name.
-Last Name | Enter the last name.
-Username | Enter the username.
-Email | Enter the email address.
-Password | Enter the password.
-
-!!!Tip:
-- Avoid using common words & patterns that are easy to guess.
-- Don’t use personal info.
-!!!
+First Name | Input the first name associated with your Solodev account
+Last Name | Input the last name associated with your Solodev account
+Username | Create a username
+Email | Input email address where you will receive communications related to your Solodev account.
+Password | Create a password following the guidelines pictured above.
 
 !!! Note:
-Before hitting the green “Join Solodev” button. We ask you to read and review our [terms of service](https://www.solodev.com/terms/) and [privacy statement](https://www.solodev.com/terms/privacy-policy.stml). On acceptance, you will be automatically enrolled in the free developer plan.
+Before hitting the green "Join Solodev" button, we ask you to read and review our [Terms of Service](https://www.solodev.com/terms/) and [Privacy Statement](https://www.solodev.com/terms/privacy-policy.stml). Upon acceptance, you will be automatically enrolled in the Free Developer plan.
 !!!
 
 ## Confirm
 
-Once you have completed all the fields, click **Join Solodev** to create your account.
+Once you have completed all fields, click **Join Solodev** to create your account.
 
 !!! Note:
 You will need to wait up to 48 hours for your account to be approved. If you need access sooner than this, please [contact us](https://www.solodev.com/contact/).
@@ -51,13 +46,9 @@ Users with existing accounts can sign into Solodev with your Solodev credentials
 
 **Name** | **Description** 
 :--- | ---
-Click the digital wallet icon | Click this icon to get the option **Sign In**.
+Digital Wallet | Click this icon to **Sign In** to your Solodev Account.
 
 <img src="../../../images/overview2.jpg" alt="overview2" style="width: 100%; display: block"></a>
-
-**Name** | **Description** 
-:--- | ---
-Sign In | Choose this option to log in.
 
 <img src="../../../images/overview4.jpg" alt="overview4" style="width: 50%; display: block"></a>
 

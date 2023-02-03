@@ -24,7 +24,7 @@ To correctly set up the AWS Integration, you must attach the relevant IAM polici
 
 #### AWS Integration IAM Policy
 
-The following permissions included in the policy document use wild cards such as List* and Get*. If you require strict policies, use the complete action names as listed and reference the Amazon API documentation for your respective services.
+The following permissions included in the policy document use wild cards such as *List* and Get*. If you require strict policies, use the complete action names as listed and reference the Amazon API documentation for your respective services.
 
 ```js 
 {
