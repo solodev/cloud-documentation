@@ -10,8 +10,8 @@ Use the **View All** button to view all sites.
 
 <img src="../../../images/pagesoverview.jpg" alt="pagesoverview" style="width: 100%; display: block"></a>
 
+**Name** | **Description** | <p></p>
+:--- |---| :--
+<a href="../pages/add-page/">Add Page</a> | Add a new page. | [!button target="blank" text="+"](https://www.solodev.com/o/solodev-qa/sites/add/cms?cms=demo1)
+<a href="../sites/add-site/">Add Site</a> | Add a new site. | [!button target="blank" text="+"](https://www.solodev.com/o/amirh/sites/add)
 
-**Name** | **Description** 
-:--- | ---
-<a href="../pages/add-page/">Add Page</a> | Add a new page.
-<a href="../sites/add-site/">Add Site</a> | Add a new site.
