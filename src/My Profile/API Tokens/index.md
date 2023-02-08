@@ -9,7 +9,7 @@ Existing tokens are listed in the table on the dashboard. Each token is shown wi
 **Name** | **Description** 
 :--- | ---
 <a href="/my-profile/api-tokens/#add-token">Add Token</a> | Add a new token.
-Change Token Status | Token status can be changed by clicking on the round button.
+Change Token Status | Token status can be changed to **Active** or **Inactive** by clicking on the round button.
 Reset | Reset your token.
 Delete | Click the **x** on the right side of the table to remove an API token.
 
@@ -21,7 +21,7 @@ Add a new token.
 
 **Name** | **Description** 
 :--- | ---
-Name | Enter a token name.
+Name | Enter the token name.
 
 ### Confirm
 

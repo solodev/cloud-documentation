@@ -4,7 +4,7 @@ Organizations are shared accounts that facilitate collaboration. As an admin, yo
 
 <img src="../../../images/organizations.jpg" alt="organizations" style="width: 100%; display: block"></a>
 
-The organizations' page provides an overview of your existing organizations as well as the option to add a new organization.
+The Organizations page provides an overview of your existing organizations as well as the option to add a new organization.
 
 Existing organizations are shown as cards on the dashboard. Each card displays an icon of the organization, and its name and is clickable to access the organization directly.
 

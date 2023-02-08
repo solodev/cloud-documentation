@@ -1,6 +1,6 @@
 # Update
 
-Update a group's details or delete a group from your Solodev Cloud by clicking the **Update** button on the Groups Overview.
+Update a group's details or delete a group from your Solodev Cloud by clicking the **Update** button on the Groups Overview page.
 
 <img src="../../../../images/groups-update.jpg" alt="groups-update" style="width: 50%; display: block"></a>
 

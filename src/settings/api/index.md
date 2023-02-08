@@ -52,5 +52,5 @@ The executed response will be listed at the bottom.
 <img src="../../../images/swagger3.jpg" alt="swagger3" style="width: 100%; display: block"></a>
 
 !!!Note:
-Click on Cancel to cancel the action. 
+Click **Cancel** to cancel the action. 
 !!!
