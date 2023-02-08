@@ -7,8 +7,14 @@ The marketplace overview page gives you direct access to all parts of the organi
 **Name** | **Description** 
 :--- | ---
 <a href="../items/">Items</a> | Go to the Items page.
-<a href="../items/add-item/">Add Item</a> | Add an Item.
+<a href="../items/add-item">Add Catalog Item</a> | Add a catalog item.
+<a href="../accounts/">Accounts</a> | Go to the Accounts page.
+<a href="../accounts/add-referral/">Add Referral</a> | Add a referral.
+<a href="../reports/">Reports</a> | Go to the Reports page.
 <a href="../catalogs/">Catalogs</a> | Go to the Catalogs page.
-<a href="../catalogs/add-catalog-item">Add Catalog Item</a> | Add a catalog item.
 <a href="../profile/">Profile/Edit Profile</a> | Go to the Profile page.
-[View Documentation](https://intercom.help/solodev/en/collections/2439951-cloud) | View the Solodev Cloud Documentation.
+<a href="../banking/">Banking</a> | Go to the Banking page.
+
+!!!Note:
+**Accounts**, **Reports**, and **Banking** pages are available only when you have chosen a seller or reseller plan.
+!!!

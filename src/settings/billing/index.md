@@ -29,7 +29,7 @@ Edit your payment details by clicking on the pencil icon above the Payment Detai
 :--- | ---
 First Name | Enter your first name.
 Last Name | Enter your last name.
-Credit card number| Enter credit card number.
+Credit card number| Enter the credit card number.
 Expiry Date | Enter the card's expiry date.
 CVV | Enter CVV.
 
@@ -42,11 +42,11 @@ Edit your billing address by clicking on the pencil icon above the Billing Addre
 **Name** | **Description** 
 :--- | ---
 Company Name | Enter your company name.
-Company Address | Enter company address.
+Company Address | Enter the company address.
 Country | Choose the country where your company is located.
 State or region | Choose the state or region where the company is located.
 City | Enter the city where the company is located.
-Postal Code | Enter postal code.
+Postal Code | Enter the postal code.
 VAT Number | Enter the VAT number, if applicable.
 
 ## Confirm

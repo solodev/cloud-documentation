@@ -7,7 +7,7 @@ Adding a group in Solodev Cloud is a simple process, and can be completed in min
 
 **Name** | **Description** 
 :--- | ---
-Name | Type a group name.
+Name | Type the group name.
 Description | Enter the description of a group. (Optional)
 
 

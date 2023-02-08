@@ -13,13 +13,13 @@ Deployments, websites, clusters, and applications installed within an organizati
 **Name** | **Description** 
 :--- | ---
 Billing Email | Enter the billing email you want to assign to the organization.
-Country | Select a country.
+Country | Select the country.
 Postal Code | Enter the postal code.
-Description | Enter an intro.
+Description | Enter the intro.
 Enable private catalogs | Deploy and sell from private catalogs of users in your organization.
 Organization Image | Change the organization image. Click **Replace Image**.
-[Rename](https://cloud.solodev.net/settings/profile/#rename) | Rename organization		
-[Delete](https://cloud.solodev.net/settings/profile/#delete) | Delete organization			
+[Rename](https://cloud.solodev.net/settings/profile/#rename) | Rename the organization		
+[Delete](https://cloud.solodev.net/settings/profile/#delete) | Delete the organization			
 
 ## Rename
 
@@ -33,7 +33,7 @@ Title | Enter the organization name.
 
 ## Delete
 
-Delete yuor organization.
+Delete your organization.
 
 <img src="../../../images/delete-organization.jpg" alt="delete-organization" style="width: 50%; display: block"></a>
 

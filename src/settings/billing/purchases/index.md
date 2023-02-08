@@ -1,6 +1,6 @@
 # Purchases
 
-Purchases are shown as cards on the dashboard. Each card displays a thumbnail of the purchase, status, user, when it was launched, license type, licenses left and price.
+Purchases are shown as cards on the dashboard. Each card displays a thumbnail of the purchase, status, user, when it was launched, license type, licenses left, and price.
 
 <img src="/images/purchases.jpg" alt="purchases" style="width: 100%; display: block"></a>
 

@@ -1,6 +1,6 @@
 # Settings 
 
-The settings overview page gives you access to make changes in the organization.
+The Settings Overview page gives you access to make changes in the organization.
 
 <img src="../../../images/settings.jpg" alt="settings" style="width: 100%; display: block"></a>
 

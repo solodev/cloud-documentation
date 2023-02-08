@@ -6,8 +6,8 @@ Create your organization.
 
 **Name** | **Description** 
 :--- | ---
-Organization Name | Enter organization name.
-Billing Email | Enter billing email.
+Organization Name | Enter the organization name.
+Billing Email | Enter the billing email.
 
 ## Confirm
 
