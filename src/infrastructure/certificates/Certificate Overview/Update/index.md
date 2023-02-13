@@ -2,7 +2,7 @@
 
 Delete a certificate from your Solodev Cloud by clicking the **Update** button on the Certificate Overview page.
  
-<img src="../../../../images/updatecertificate.jpg" alt="updatecertificate" style="width: 50%; display: block"></a>
+<img src="../../../../images/updatecertificate.jpg" alt="updatecertificate" style="width: 35%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---

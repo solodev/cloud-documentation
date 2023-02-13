@@ -2,7 +2,7 @@
 
 Map product catalog item version compatibility.
 
-<img src="../../../../../../images/mapproduct.jpg" alt="mapproduct" style="width: 50%; display: block"></a>
+<img src="../../../../../../images/mapproduct.jpg" alt="mapproduct" style="width: 40%; display: block"></a>
 
 Search for the product using the Search field at the top.
 

@@ -2,7 +2,7 @@
 
 Delete your version
     
-<img src="../../../../../../images/deleteversion.jpg" alt="deleteversion" style="width: 50%; display: block"></a>
+<img src="../../../../../../images/deleteversion.jpg" alt="deleteversion" style="width: 40%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---

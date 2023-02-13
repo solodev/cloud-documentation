@@ -26,7 +26,7 @@ Enter the code | Update your version with Buildspec.
 
 Manage your mapped products.
 
-<img src="../../../../../images/mappedproducts.jpg" alt="mappedproducts" style="width: 75%; display: block"></a>
+<img src="../../../../../images/mappedproducts.jpg" alt="mappedproducts" style="width: 60%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---
@@ -35,7 +35,7 @@ Delete Mapped Product | Click **Trash** button to delete the mapped product.
 
 ## Version Details
 
-<img src="../../../../../images/versiondetails.jpg" alt="versions" style="width: 50%; display: block"></a>
+<img src="../../../../../images/versiondetails.jpg" alt="versions" style="width: 35%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---
@@ -45,7 +45,7 @@ Description | Enter the description.
 
 ## Status
 
-<img src="../../../../../images/versionstatus.jpg" alt="versionstatus" style="width: 50%; display: block"></a>
+<img src="../../../../../images/versionstatus.jpg" alt="versionstatus" style="width: 35%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---

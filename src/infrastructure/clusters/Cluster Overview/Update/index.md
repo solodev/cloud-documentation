@@ -8,7 +8,7 @@ Update a cluster's details or delete a cluster from your Solodev Cloud by clicki
 
 Under the Advanced dropdown, you can execute advanced operations such as deleting a cluster. 
 
-<img src="../../../../images/updatecluster2.jpg" alt="updatecluster2" style="width: 50%; display: block"></a>
+<img src="../../../../images/updatecluster2.jpg" alt="updatecluster2" style="width: 40%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---

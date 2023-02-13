@@ -2,13 +2,13 @@
 
 Update a group's details or delete a group from your Solodev Cloud by clicking the **Update** button on the Groups Overview page.
 
-<img src="../../../../images/groups-update.jpg" alt="groups-update" style="width: 50%; display: block"></a>
+<img src="../../../../images/groups-update.jpg" alt="groups-update" style="width: 40%; display: block"></a>
 
 ## Advanced
 
 Under the Advanced dropdown, you can execute advanced operations such as deleting a group. 
 
-<img src="../../../images/groups-update2.jpg" alt="groups-update2" style="width: 50%; display: block"></a>
+<img src="../../../images/groups-update2.jpg" alt="groups-update2" style="width: 35%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---

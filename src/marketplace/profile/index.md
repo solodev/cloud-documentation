@@ -15,7 +15,7 @@ Allow catalog access | Mark this option to enable other users to install your pr
 
 Update your organization profile.
 
-<img src="../../../images/marketplaceprofileupdate.jpg" alt="marketplaceprofileupdate" style="width: 50%; display: block"></a>
+<img src="../../../images/marketplaceprofileupdate.jpg" alt="marketplaceprofileupdate" style="width: 35%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---
@@ -27,7 +27,7 @@ Developer Description | Enter the description of your company that is displayed 
 
 Change your organization's image.
 
-<img src="../../../images/marketplaceprofileimage.jpg" alt="marketplaceprofileimage" style="width: 50%; display: block"></a>
+<img src="../../../images/marketplaceprofileimage.jpg" alt="marketplaceprofileimage" style="width: 30%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---

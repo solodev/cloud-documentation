@@ -2,7 +2,7 @@
 
 Upgrade your container to the newest version.
 
-<img src="../../../../images/upgradecontainer.jpg" alt="upgradecontainer" style="width: 50%; display: block"></a>
+<img src="../../../../images/upgradecontainer.jpg" alt="upgradecontainer" style="width: 40%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---

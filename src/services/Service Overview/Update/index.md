@@ -2,7 +2,7 @@
 
 Under the **Update** option you can manage service settings and delete the service.
 
-<img src="../../../images/updateservice.jpg" alt="updateservice" style="width: 50%; display: block"></a>
+<img src="../../../images/updateservice.jpg" alt="updateservice" style="width: 40%; display: block"></a>
 
 !!!Note:
 In the case of this service, it is only possible to use the **Advanced** option, which includes **Delete**.
@@ -12,7 +12,7 @@ In the case of this service, it is only possible to use the **Advanced** option,
 
 Under the Advanced dropdown, you can execute advanced operations such as deleting a service. 
 
-<img src="../../../images/updateservice2.jpg" alt="updateservice2" style="width: 50%; display: block"></a>
+<img src="../../../images/updateservice2.jpg" alt="updateservice2" style="width: 35%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---

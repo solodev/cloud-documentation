@@ -2,7 +2,7 @@
 
 Adding a CDN Invalidation in Solodev Cloud is a simple process, and can be completed in minutes.
 
-<img src="../../../../../images/addcdninvalidation.jpg" alt="addcdninvalidation" style="width: 50%; display: block"></a>
+<img src="../../../../../images/addcdninvalidation.jpg" alt="addcdninvalidation" style="width: 40%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---

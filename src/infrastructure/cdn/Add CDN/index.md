@@ -2,7 +2,7 @@
 
 Adding a CDN in Solodev Cloud is a simple process, and can be completed in minutes.
 
-<img src="../../../images/addcdn.jpg" alt="addcdn" style="width: 50%; display: block"></a>
+<img src="../../../images/addcdn.jpg" alt="addcdn" style="width: 35%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---

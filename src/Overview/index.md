@@ -12,11 +12,7 @@ Digital Wallet | Click this icon to select the option **Create Account**.
 
 <img src="../../../images/overview2.jpg" alt="overview2" style="width: 100%; display: block"></a>
 
-<!-- **Name** | **Description** 
-:--- | ---
-Create Account | Choose this option to create an account. -->
-
-<img src="../../../images/overview3.jpg" alt="overview3" style="width: 40%; display: block"></a>
+<img src="../../../images/overview3.jpg" alt="overview3" style="width: 35%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---
@@ -50,7 +46,7 @@ Digital Wallet | Click this icon to **Sign In** to your Solodev Account.
 
 <img src="../../../images/overview2.jpg" alt="overview2" style="width: 100%; display: block"></a>
 
-<img src="../../../images/overview4.jpg" alt="overview4" style="width: 50%; display: block"></a>
+<img src="../../../images/overview4.jpg" alt="overview4" style="width: 40%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---
@@ -71,7 +67,7 @@ Once you have completed all the fields, click **Log In** to log in to Solodev Cl
 
 Reset your password using your email address.
 
-<img src="../../../images/cantlogin.jpg" alt="cantlogin" style="width: 50%; display: block"></a>
+<img src="../../../images/cantlogin.jpg" alt="cantlogin" style="width: 40%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---

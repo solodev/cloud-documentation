@@ -26,7 +26,7 @@ Complete Purchase | Click this button to complete your purchase.
 :--- | ---
 Install | Install the product.
 
-<img src="../../../images/addcloudaccount5.jpg" alt="addcloudaccount5" style="width: 50%; display: block"></a>
+<img src="../../../images/addcloudaccount5.jpg" alt="addcloudaccount5" style="width: 35%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---

@@ -17,7 +17,7 @@ Delete | Click the **x** on the right side of the table to remove an API token.
 
 Add a new token.
 
-<img src="../../../images/addtoken.jpg" alt="addtoken" style="width: 50%; display: block"></a>
+<img src="../../../images/addtoken.jpg" alt="addtoken" style="width: 40%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---

@@ -18,7 +18,7 @@ Some products have a purchase option, while to buy others, you need to contact S
 :--- | ---
 Fill out the formular | Click this button to fill out the contact formular.
 
-<img src="../../../images/addcluster3.jpg" alt="addcluster3" style="width: 50%; display: block"></a>
+<img src="../../../images/addcluster3.jpg" alt="addcluster3" style="width: 35%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---

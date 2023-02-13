@@ -23,7 +23,7 @@ On the billing page, among others, you can check billing contact and billing his
 
 Edit your payment details by clicking on the pencil icon above the Payment Details card on the right.
 
-<img src="../../../images/paymentdetails.jpg" alt="billing" style="width: 50%; display: block"></a>
+<img src="../../../images/paymentdetails.jpg" alt="billing" style="width: 35%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---
@@ -37,7 +37,7 @@ CVV | Enter CVV.
 
 Edit your billing address by clicking on the pencil icon above the Billing Address card on the right.
 
-<img src="../../../images/updatebillingaddress.jpg" alt="updatebillingaddress" style="width: 50%; display: block"></a>
+<img src="../../../images/updatebillingaddress.jpg" alt="updatebillingaddress" style="width: 35%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---

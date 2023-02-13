@@ -2,7 +2,7 @@
 
 Add new clients. 
 
-<img src="../../../images/addreferral.jpg" alt="addreferral" style="width: 50%; display: block"></a>
+<img src="../../../images/addreferral.jpg" alt="addreferral" style="width: 40%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---

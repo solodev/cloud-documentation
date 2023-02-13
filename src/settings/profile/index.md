@@ -25,7 +25,7 @@ Organization Image | Change the organization image. Click **Replace Image**.
 
 Rename your organization by putting the new name in the field.
 
-<img src="../../../images/rename.jpg" alt="rename" style="width: 50%; display: block"></a>
+<img src="../../../images/rename.jpg" alt="rename" style="width: 35%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---
@@ -35,7 +35,7 @@ Title | Enter the organization name.
 
 Delete your organization.
 
-<img src="../../../images/delete-organization.jpg" alt="delete-organization" style="width: 50%; display: block"></a>
+<img src="../../../images/delete-organization.jpg" alt="delete-organization" style="width: 35%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---

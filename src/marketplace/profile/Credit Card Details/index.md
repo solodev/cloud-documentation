@@ -2,7 +2,7 @@
 
 Update your credit card details.
 
-<img src="../../../images/marketplaceprofilepaymentdetails2.jpg" alt="marketplaceprofilepaymentdetails2" style="width: 50%; display: block"></a>
+<img src="../../../images/marketplaceprofilepaymentdetails2.jpg" alt="marketplaceprofilepaymentdetails2" style="width: 35%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---

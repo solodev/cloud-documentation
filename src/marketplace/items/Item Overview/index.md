@@ -48,7 +48,7 @@ Product Documentation | Enter the product documentation.
 
 Manage the item settings.
 
-<img src="../../../../../images/itemmarketplacesettings.jpg" alt="itemmarketplacesettings" style="width: 50%; display: block"></a>
+<img src="../../../../../images/itemmarketplacesettings.jpg" alt="itemmarketplacesettings" style="width: 35%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---
@@ -60,7 +60,7 @@ Top Product | Mark this option to have your item top product.
 
 Manage the item status.
 
-<img src="../../../../../images/itemstatus.jpg" alt="itemstatus" style="width: 50%; display: block"></a>
+<img src="../../../../../images/itemstatus.jpg" alt="itemstatus" style="width: 35%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---
@@ -80,7 +80,7 @@ You can choose from three status types:
 
 Define the item category.
 
-<img src="../../../../../images/itemcategories.jpg" alt="itemcategories" style="width: 50%; display: block"></a>
+<img src="../../../../../images/itemcategories.jpg" alt="itemcategories" style="width: 35%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---

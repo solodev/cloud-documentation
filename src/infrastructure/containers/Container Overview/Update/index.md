@@ -2,7 +2,7 @@
 
 Update a container's details or delete a container from your Solodev Cloud by clicking the **Update** button on the Container Overview page.
 
-<img src="../../../../images/updatecontainer.jpg" alt="updatecontainer" style="width: 50%; display: block"></a>
+<img src="../../../../images/updatecontainer.jpg" alt="updatecontainer" style="width: 35%; display: block"></a>
 
 !!!Note:
 In the case of containers, it is only possible to use the Advanced option, which includes Delete.
@@ -12,7 +12,7 @@ In the case of containers, it is only possible to use the Advanced option, which
 
 Under the Advanced dropdown, you can execute advanced operations such as deleting a container. 
 
-<img src="../../../../images/updatecontainer2.jpg" alt="updatecontainer2" style="width: 50%; display: block"></a>
+<img src="../../../../images/updatecontainer2.jpg" alt="updatecontainer2" style="width: 35%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---

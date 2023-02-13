@@ -2,7 +2,7 @@
 
 Add the existing user, or invite the new user to your organization in Solodev Cloud.
 
-<img src="../../../images/add-user.jpg" alt="add-user" style="width: 50%; display: block"></a>
+<img src="../../../images/add-user.jpg" alt="add-user" style="width: 40%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---

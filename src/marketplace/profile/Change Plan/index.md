@@ -27,7 +27,7 @@ You can choose from three plans:
 
 Update your payment details.
 
-<img src="../../../images/marketplaceprofilepaymentdetails.jpg" alt="marketplaceprofilepaymentdetails" style="width: 50%; display: block"></a>
+<img src="../../../images/marketplaceprofilepaymentdetails.jpg" alt="marketplaceprofilepaymentdetails" style="width: 35%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---
@@ -43,7 +43,7 @@ VAT Number | Enter your VAT number.
 
 If you have any questions regarding billing or about plans, make contact Solodev.
 
-<img src="../../../images/marketplaceprofilecontactsolodev.jpg" alt="marketplaceprofilecontactsolodev" style="width: 50%; display: block"></a>
+<img src="../../../images/marketplaceprofilecontactsolodev.jpg" alt="marketplaceprofilecontactsolodev" style="width: 35%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---

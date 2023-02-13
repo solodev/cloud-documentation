@@ -2,7 +2,7 @@
 
 Update a CDN's details or delete a CDN from your Solodev Cloud by clicking the **Update** button on the CDN Overview page.
 
-<img src="../../../../images/updatecdn.jpg" alt="updatecdn" style="width: 50%; display: block"></a>
+<img src="../../../../images/updatecdn.jpg" alt="updatecdn" style="width: 35%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---
@@ -15,7 +15,7 @@ Delete Certificate | Click the **"x"** button to remove certificate.
 
 Under the Advanced dropdown, you can execute advanced operations such as deleting a CDN. 
 
-<img src="../../../../images/updatecdn2.jpg" alt="updatecdn2" style="width: 50%; display: block"></a>
+<img src="../../../../images/updatecdn2.jpg" alt="updatecdn2" style="width: 40%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---

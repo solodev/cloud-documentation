@@ -2,7 +2,7 @@
 
 Under the Advanced dropdown, you can execute advanced operations such as deleting a CDN. 
 
-<img src="../../../../../../images/deletecdnbehavior.jpg" alt="deletecdnbehavior" style="width: 50%; display: block"></a>
+<img src="../../../../../../images/deletecdnbehavior.jpg" alt="deletecdnbehavior" style="width: 40%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---

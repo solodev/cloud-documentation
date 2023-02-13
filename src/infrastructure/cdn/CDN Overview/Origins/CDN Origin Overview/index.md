@@ -26,7 +26,7 @@ Minimum origin SSL protocol | Enter the minimum origin SSL protocol. You can cho
 
 ## Settings
 
-<img src="../../../../../images/cdnoriginsettings.jpg" alt="cdnoriginsettings" style="width: 50%; display: block"></a>
+<img src="../../../../../images/cdnoriginsettings.jpg" alt="cdnoriginsettings" style="width: 35%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---
