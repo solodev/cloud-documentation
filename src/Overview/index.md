@@ -16,7 +16,7 @@ Digital Wallet | Click this icon to select the option **Create Account**.
 :--- | ---
 Create Account | Choose this option to create an account. -->
 
-<img src="../../../images/overview3.jpg" alt="overview3" style="width: 50%; display: block"></a>
+<img src="../../../images/overview3.jpg" alt="overview3" style="width: 40%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---

@@ -12,6 +12,6 @@ Use the **View All** button to view all sites.
 
 **Name** | **Description** | <p></p>
 :--- |---| :--
-<a href="../pages/add-page/">Add Page</a> | Add a new page. | [!button target="blank" text="+"](https://www.solodev.com/o/solodev-qa/sites/add/cms?cms=demo1)
-<a href="../sites/add-site/">Add Site</a> | Add a new site. | [!button target="blank" text="+"](https://www.solodev.com/o/amirh/sites/add)
+<a href="../pages/add-page/">Add Page</a> | Add a new page. | [!button target="blank" text="+"](https://www.solodev.com)
+<a href="../sites/add-site/">Add Site</a> | Add a new site. | [!button target="blank" text="+"](https://www.solodev.com)
 
