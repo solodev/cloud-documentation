@@ -11,7 +11,7 @@ The Dashboard is the home screen of your Solodev Cloud. From here, you can add s
 <a href="/infrastructure/">Infrastructure</a> | Add and manage clusters, containers, deployments, and more.
 <a href="/settings/">Settings</a> | Manage your Solodev Cloud settings, such as permissions, API, and more.
 <a href="/organizations/">Organization</a> | Build and manage your organization.
-<a href="/organizations/add-organization">Add Organization</a> | Add the new organization.
-Invite Friends | Invite a new friend to the Solodev Cloud.
+<a href="/organizations/add-organization">Add Organization</a> | Add a new organization.
+Invite Friends | Invite a new friend to the Solodev Cloud/organization.
 <a href="/my-profile/">Update Profile</a> | Update your profile.
-<a href="/services/add-service">Add Service</a> | Add the new service in your Solodev Cloud.
+<a href="/services/add-service">Add Service</a> | Add a new service in your Solodev Cloud.

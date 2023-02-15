@@ -6,17 +6,17 @@ Adding a service in Solodev Cloud is a simple process, and can be completed in m
 
 **Name** | **Description** 
 :--- | ---
-Product Selection | Select the product you are interested in by clicking on the button on the product card.
+Product Selection | Select the product you are interested in by clicking on the blue button on the product card.
 
 !!!Note:
-Some products have a purchase option, while to buy others, you need to contact Solodev by filling out the contact form. Below is an example of a product **Solodev CMS** that can be purchased immediately without having to contact Solodev.
+Some products have a purchase option. For others without a purchase option, contact Solodev by filling out the contact form. Below is an example of a product **Solodev CMS** that can be purchased immediately without having to contact Solodev.
 !!!
 
 <img src="../../../images/addservice2.jpg" alt="addservice2" style="width: 100%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---
-Buy Now | Click this button to go one step further.
+Buy Now | Click this button to go one step further to completing your purchase.
 
 <img src="../../../images/addservice3.jpg" alt="addservice3" style="width: 100%; display: block"></a>
 
@@ -29,7 +29,7 @@ Complete Purchase | Click this button to complete your purchase.
 
 **Name** | **Description** 
 :--- | ---
-Install | Install the product.
+Install | Install the product to begin using in the Solodev Cloud.
 
 !!!Note:
 The next steps required to install the product depend on its specific characteristics.
