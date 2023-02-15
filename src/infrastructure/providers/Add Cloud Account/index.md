@@ -26,16 +26,40 @@ Complete Purchase | Click this button to complete your purchase.
 :--- | ---
 Install | Install the product.
 
-<img src="../../../images/addcloudaccount5.jpg" alt="addcloudaccount5" style="width: 35%; display: block"></a>
+<img src="../../../images/addcloudaccount5.jpg" alt="addcloudaccount5" style="width: 75%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---
-Login to AWS Account | Log in to your AWS account.
-IAM Role & Policy | Create IAM Role & Policy following the instruction.
-Name | Enter the provider's name.
-Region | Choose the region.
-Access Key ID | Enter the Access Key ID.
-Secret Access Key | Enter the Secret Access Key.
+[Automatically Using CloudFormation](https://www.cloud.solodev.net/infrastructure/providers/add-cloud-account/#automatically-using-cloud-formation) | Use a CloudFormation template to create a stack that automatically adds the IAM permissions and other resources necessary for integrating your AWS account.
+[Manually](https://www.cloud.solodev.net/infrastructure/providers/add-cloud-account/#manually) | Add the IAM needed to integrate your AWS account in the AWS console, then finish setup in Cloud.
+
+## Automatically Using Cloud Formation
+
+Use the automatic mode.
+
+<img src="../../../images/addcloudaccount6.jpg" alt="addcloudaccount6" style="width: 75%; display: block"></a>
+
+**Name** | **Description** 
+:--- | ---
+Select AWS Region | Choose the region where the CloudFormation stack is created.
+
+## Manually
+
+Use the manual mode.
+
+<img src="../../../images/addcloudaccount7.jpg" alt="addcloudaccount6" style="width: 75%; display: block"></a>
+
+**Name** | **Description** 
+:--- | ---
+Credentials Type | Choose the credentials type. Ypu can choose from **Role Delegation** and **Access Key**. In case of **Access Key** you will be asked to provide more details as: name, AWS access and secret keys.
+
+<img src="../../../images/addcloudaccount8.jpg" alt="addcloudaccount8" style="width: 75%; display: block"></a>
+
+**Name** | **Description** 
+:--- | ---
+Name | Enter the name.
+AWS Access Key | Enter the AWS Access Key.
+AWS Secret Key | Enter the Secret Key.
 
 ## Confirm
 
