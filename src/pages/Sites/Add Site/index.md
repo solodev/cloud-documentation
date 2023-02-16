@@ -2,14 +2,11 @@
 
 Adding a site is a simple process, and can be completed in minutes by following the steps below. 
 
-<img src="../../../images/addsite.jpg" alt="addsite" style="width: 45%; display: block"></a>
-
-<img src="../../../images/addsite2.jpg" alt="addsite2" style="width: 45%; display: block"></a>
+<img src="../../../images/addsite.jpg" alt="addsite" style="width: 100%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---
-Pick a Site Type | Choose one from the 3 site types.
-Next | Go further after making a choice.
+Consider a Site Type | Choose one from the 3 site types.
 
 !!!Note:
 You can choose from the 3 site types:
@@ -26,13 +23,43 @@ You can choose from the 3 site types:
 
 Create your site using CMS.
 
-<img src="../../../images/cmspage.jpg" alt="cmspage" style="width: 40%; display: block"></a>
+<img src="../../../images/addsite2.jpg" alt="addsite2" style="width: 100%; display: block"></a>
+
+**Name** | **Description** 
+:--- | ---
+Product Selection | Select the product you are interested in by clicking on the blue button on the product card.
+
+!!!Note:
+Some products have a purchase option. For others without a purchase option, contact Solodev by filling out the contact form. Below is an example of a product WordPress that can be purchased immediately without having to contact Solodev.
+!!!
+
+<img src="../../../images/addsite3.jpg" alt="addsite3" style="width: 100%; display: block"></a>
+
+**Name** | **Description** 
+:--- | ---
+Buy Now	| Click this button to go one step further to completing your purchase.
+
+<img src="../../../images/addsite4.jpg" alt="addsite4" style="width: 100%; display: block"></a>
+
+**Name** | **Description** 
+:--- | ---
+Choose Add-Ons | Enter add-ons number, if needed.
+Complete Purchase |	Click this button to complete your purchase.
+
+<img src="../../../images/addsite5.jpg" alt="addsite5" style="width: 100%; display: block"></a>
+
+**Name** | **Description** 
+:--- | ---
+Install	| Install the product in the Solodev Cloud.
+
+<img src="../../../images/addsite6.jpg" alt="addsite6" style="width: 60%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---
 Name | Add a custom title to identify your website within your CMS deployment.
 Timezone | Select a timezone for your website to help specify its location.
 CMS | Choose a CMS for your website. Select from options that are purchased and ready to install, or you can add a new CMS from the Solodev Marketplace.
+Cluster | Choose a cluster for your website. Select from options that are purchased and ready to install, or you can add a new cluster from the Solodev Marketplace.
 Theme (optional) | Add a theme package to your website. Select from options that are purchased and ready to install, or you can add a new theme from the Solodev Marketplace.
 
 !!!Tip:
@@ -43,7 +70,32 @@ When adding a new domain, it must be a valid URL such as www.yourdomain.com. Bef
 
 Create your site using Static.
 
-<img src="../../../images/static1.jpg" alt="static1" style="width: 40%; display: block"></a>
+<img src="../../../images/addsite7.jpg" alt="addsite7" style="width: 100%; display: block"></a>
+
+**Name** | **Description** 
+:--- | ---
+Buy Now	| Click this button to go one step further to completing your purchase.
+
+<img src="../../../images/addsite8.jpg" alt="addsite8" style="width: 100%; display: block"></a>
+
+**Name** | **Description** 
+:--- | ---
+Buy Now	| Click this button to go one step further to completing your purchase.
+
+<img src="../../../images/addsite9.jpg" alt="addsite9" style="width: 100%; display: block"></a>
+
+**Name** | **Description** 
+:--- | ---
+Choose Add-Ons | Enter add-ons number, if needed.
+Complete Purchase |	Click this button to complete your purchase.
+
+<img src="../../../images/addsite10.jpg" alt="addsite10" style="width: 100%; display: block"></a>
+
+**Name** | **Description** 
+:--- | ---
+Install	| Install the product in the Solodev Cloud.
+
+<img src="../../../images/addsite11.jpg" alt="addsite11" style="width: 60%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---
@@ -61,7 +113,13 @@ When adding a new domain, it must be a valid URL such as www.yourdomain.com. Bef
 
 Launch external site.
 
-<img src="../../../images/external.jpg" alt="external" style="width: 45%; display: block"></a>
+<img src="../../../images/addsite12.jpg" alt="addsite12" style="width: 100%; display: block"></a>
+
+**Name** | **Description** 
+:--- | ---
+Add Site | Add your site.
+
+<img src="../../../images/addsite13.jpg" alt="addsite13" style="width: 60%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---
