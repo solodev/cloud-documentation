@@ -1,8 +1,8 @@
 # Pages Overview
 
-The Pages page provides a view of your existing pages and sites as well as the option to add a new page or a new site.
+View your existing pages and sites as well as the option to add a new page or a new website.
 
-Existing pages are listed in the table on the dashboard. Each page is shown with details such as name, site, when it was modified, and by whom.
+Find existing pages in the table on the Dashboard. Each page shows details including name, site name, when it was last modified and the user name.
 
 Existing sites are shown as cards on the dashboard. To open the existing site click on the site card.
 
@@ -12,6 +12,6 @@ Use the **View All** button to view all sites.
 
 **Name** | **Description** | <p></p>
 :--- |---| :--
-<a href="../pages/add-page/">Add Page</a> | Add a new page. | [!button target="blank" text="+"](https://www.solodev.com)
-<a href="../sites/add-site/">Add Site</a> | Add a new site. | [!button target="blank" text="+"](https://www.solodev.com)
+<a href="../pages/add-page/">Add Page</a> | Create a new page. | [!button target="blank" text="+"](https://www.solodev.com)
+<a href="../sites/add-site/">Add Site</a> | Create a new site. | [!button target="blank" text="+"](https://www.solodev.com)
 

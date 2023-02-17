@@ -1,13 +1,13 @@
 # Add Page
 
-Adding a page in Solodev Cloud is a simple process, and can be completed in minutes by following the steps below.
+Adding a page in Solodev Cloud is a simple process and can be completed in minutes by following the steps below.
 
 <img src="../../../images/addpage.jpg" alt="addpage" style="width: 40%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---
 Title | Add the page title.
-Site | Select the site.
+Site | Use the dropdown to select your site.
 
 !!!Note:
 Select a site from these that are already installed, or you can add a new site.

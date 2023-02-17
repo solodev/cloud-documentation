@@ -1,6 +1,6 @@
 # Page Overview
 
-The Page Overview page gives you a comprehensive overview of your page with convenient access to edits and functionality.
+Page Overview gives you a comprehensive overview of your page with convenient access to edits and functionality.
 
 ## Solodev CMS
 
@@ -8,7 +8,7 @@ Go to [Solodev CMS Guide](https://cms.solodev.net/) to find out how to create pa
 
 ## Solodev Static
 
-Pages are created based on the Page Studio editor. It has robust built-in drag-and-drop WYSIWYG editing functionality as well as the option to toggle to edit sources directly.
+Pages are created based on the Page Studio editor. It has robust built-in drag-and-drop WYSIWYG editor, as well as the option to toggle to edit sources directly.
 
 <img src="../../../images/pages.jpg" alt="pages" style="width: 100%; display: block"></a>
 
