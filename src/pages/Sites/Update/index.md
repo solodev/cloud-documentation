@@ -9,7 +9,7 @@ The Update site modal gives options to edit several site settings and the option
 Update Primary URL | Enter the new primary URL.
 Update Staging URL | Enter the new staging URL.
 Update Origin URL | Enter the new origin URL.
-Add Alias | An alias allows users to access the site via a nickname or alternative URL. Enter the alias in the text field and click the **Add** button.
+Add Alias | An alias allows users to access the site via a nickname or alternative URL. Enter the alias in the text field and click the **+** button.
 
 ## Advanced
   

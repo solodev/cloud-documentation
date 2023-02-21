@@ -6,12 +6,12 @@ Adding a site is a simple process, and can be completed in minutes by following 
 
 **Name** | **Description** 
 :--- | ---
-Consider a Site Type | Choose one from the 3 site types.
+Site Type | Choose one from the three available site types.
 
 !!!Note:
-You can choose from the 3 site types:
+Site Types:
 
-**[CMS:](https://cloud.solodev.net/pages/sites/add-site/#cms)** A CMS (Content Management System) let us create pages, build websites, publish content dynamically, and utilize data modules to streamline content operations. With a CMS, manage users and groups with permissions on a site or even a page level, allowing control and collaboration with the team on digital experiences. There are several CMS options to choose from in Solodev Cloud, including Solodev CMS and WordPress.
+**[CMS:](https://cloud.solodev.net/pages/sites/add-site/#cms)** CMS (Content Management System) creates pages, build websites, publishes content dynamically, and utilizes data modules to streamline content operations. With a CMS, manage users and groups with permissions on a site or even a page level, allowing for control and collaboration with the team on digital experiences. There are several CMS options to choose from in Solodev Cloud, including Solodev CMS and WordPress.
 
 **[Static:](https://cloud.solodev.net/pages/sites/add-site/#static)** A static website uses server-side rendering to push pre-built HTML, CSS, and JavaScript files to a web browser. Static sites decouple the content repository from the front-end interface, giving greater flexibility with minimal cost to host and maintain. Sites launched with Solodev Static can be built and managed using our simple drag-and-drop editor.
 

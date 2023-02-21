@@ -22,7 +22,7 @@ Create your personal Avatar.
 
 **Name** | **Description** 
 :--- | ---
-Choose your body type | Choose body type from **Masculine**, **Feminine**, or **Don't specify**.
+Choose your body type | You will have the options of **Masculine**, **Feminine**, or **Don't specify**.
 
 <img src="../../../images/avatar2.jpg" alt="avatar2" style="width: 100%; display: block"></a>
 

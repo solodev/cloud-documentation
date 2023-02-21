@@ -9,4 +9,3 @@ Manage easily your CDNs on the CDN page. CDNs are presented in the form of a tab
 **Name** | **Description** 
 :--- | ---
 <a href="../cdn/add-cdn/">Add CDN</a> | Add a new CDN.
-
