@@ -13,7 +13,7 @@ On the billing page, among others, you can check billing contact and billing his
 
 **Name** | **Description** 
 :--- | ---
-<a href="/settings/billing/history">History</a> | Viev your billing history.
+<a href="/settings/billing/history">History</a> | View your billing history.
 <a href="/settings/billing/subscriptions">Subscriptions</a> | View  and manage your subscriptions.
 <a href="/settings/billing/purchases">Purchases</a> | View your purchases.
 [Payment Details](https://cloud.solodev.net/settings/billing/#payment-details) | Manage your payment details.	

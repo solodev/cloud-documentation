@@ -1,6 +1,6 @@
 # Container Overview
 
-The Container Overview page provides you with the ability to manage your containers. Do it by updating details, modifying permissions for members or upgrading your container version.
+The Container Overview page provides you with the ability to manage your containers. Update details, modify permissions for members, or upgrade your container version.
 
 <img src="../../../images/containeroverview.jpg" alt="containeroverview" style="width: 100%; display: block"></a>
 

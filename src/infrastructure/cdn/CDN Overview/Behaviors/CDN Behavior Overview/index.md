@@ -16,7 +16,7 @@ The CDN Behavior Overview page shows you important CDN Behavior details as well 
 :--- | ---
 Path Pattern | Enter the path pattern.
 Compress objects automatically | Mark this option if you want to compress objects automatically.
-Viewer protocol policy | Choose viever protocol policy. You can choose between **HTTP and HTTPS**, **Redirect HTTP to HTTPS**, **HTTPS only**.
+Viewer protocol policy | Choose viewer protocol policy. You can choose between **HTTP and HTTPS**, **Redirect HTTP to HTTPS**, **HTTPS only**.
 Allowed HTTP methods | Choose HTTP methods. You can choose between **GET, HEAD**, **GET, HEAD, OPTIONS**, **GET, HEAD, OPTIONS, PUT, POST, PATCH, DELETE**.
 Origin | Choose the origin.
 Headers | Choose between option **None** and **All**.
