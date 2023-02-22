@@ -1,6 +1,6 @@
 # Marketplace Overview
 
-The marketplace overview page gives you direct access to all parts of the organization’s marketplace account. 
+Marketplace Overview page gives you direct access to all parts of the organization’s marketplace account. 
 
 <img src="../../../images/marketplace.jpg" alt="marketplace" style="width: 100%; display: block"></a>
 

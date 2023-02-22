@@ -65,7 +65,7 @@ Once you have completed all the fields, click **Log In** to log in to Solodev Cl
 
 ## Can't login?
 
-Reset your password using your email address.
+Reset your password using your username or email address.
 
 <img src="../../../images/cantlogin.jpg" alt="cantlogin" style="width: 40%; display: block"></a>
 

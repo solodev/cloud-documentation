@@ -1,6 +1,6 @@
 # Banking
 
-Manage and add your banking information to receive disbursements from active subscribers. 
+Manage your banking information to receive disbursements from active subscribers. 
 
 <img src="../../../../images/banking.jpg" alt="banking" style="width: 100%; display: block"></a>
 
