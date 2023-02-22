@@ -6,4 +6,4 @@ Add products which can be integrated with your items.
 
 **Name** | **Description** 
 :--- | ---
-<a href="/marketplace/catalogs/catalog-overview/integrations/add-integration/">Add Integration</a> | Add the new integration.
+<a href="/marketplace/catalogs/catalog-overview/integrations/add-integration/">Add Integration</a> | The process of incorporating products
