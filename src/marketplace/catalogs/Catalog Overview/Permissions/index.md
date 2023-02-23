@@ -22,5 +22,3 @@ A group or group member can be assigned one of four roles in Solodev Cloud:
 
 Once you have completed all the fields, click **Submit** to apply your changes.
 
-
-

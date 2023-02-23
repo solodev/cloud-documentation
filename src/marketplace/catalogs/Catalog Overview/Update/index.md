@@ -21,7 +21,7 @@ Under the Advanced dropdown, you can execute advanced operations such as deletin
 
 **Name** | **Description** 
 :--- | ---
-Delete | To remove your catalog, type **DELETE** in all caps into the field and click the red Delete button.
+Delete | To remove your catalog, type **DELETE** in all caps and click the Delete button.
 
 !!! Note:
 Deleting a catalog will permanently remove the catalog and all of its content and cannot be undone.

@@ -7,7 +7,7 @@ Add your banking information.
 **Name** | **Description** 
 :--- | ---
 Address Line | Enter the address.
-Address Line 2 | Enter the address.
+Address Line 2 (Optional) | Enter the address.
 Country | Select a country.
 Stare or Region | Select a state or region.
 City | Enter the city.

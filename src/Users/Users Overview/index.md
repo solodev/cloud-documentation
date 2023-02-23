@@ -1,6 +1,6 @@
 # Users Overview
 
-Modify a user’s details, and delete a user from your Solodev Cloud. You can also view the latest files a user has worked on, what apps they can access, and which groups they are members of.
+Modify a user’s details or delete a user from your Solodev Cloud. You can also view the latest files a user has worked on, what apps they can access, and which groups they are members of.
 
 <img src="../../../images/users-overview.jpg" alt="users-overview" style="width: 100%; display: block"></a>
 

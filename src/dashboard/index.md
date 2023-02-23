@@ -2,7 +2,7 @@
 
 The Dashboard is the home screen of your Solodev Cloud. From here, you can add services and products, such as clusters, containers, and more. You can also manage users and groups, and access advanced features, including API.
 
-<img src="../../../images/dashboard.jpg" alt="dashboard" style="width: 100%; display: block"></a>
+<img src="../../../images/dev-org-dashboard.jpg" alt="dashboard" style="width: 100%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---
