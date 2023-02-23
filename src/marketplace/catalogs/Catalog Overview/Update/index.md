@@ -11,7 +11,7 @@ Description | Enter the catalog's description.
 AI Provider | Choose from the existing ones or add the new AI Provider.
 Commerce Provider | Choose from the existing ones or add the new Commerce Provider.
 Blockchain Provider | Choose from the existing ones or add the new Blockchain Provider.
-[Advanced](/https://cloud.solodev.net/marketplace/catalogs/catalog-overview/update/#advanced) | Go to the advanced options.
+<a href="/marketplace/catalogs/catalog-overview/update/#advanced">Advanced</a> | Go to the advanced options.
 
 ## Advanced
 

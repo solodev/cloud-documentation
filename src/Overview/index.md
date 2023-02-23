@@ -52,8 +52,8 @@ Digital Wallet | Click this icon to **Sign In** to your Solodev Account.
 :--- | ---
 Username | Enter your username.
 Password | Enter your password.
-[Can’t Login?](https://www.cloud.solodev.net/overview/#can't-login?) | Use this option if you’re having trouble logging in.
-[Sign Up For an Account](https://www.cloud.solodev.net/overview/#register) | Use this option if you want to register an account.
+[Can’t Login?](https://cloud.solodev.net/overview/#cant-login) | Use this option if you’re having trouble logging in.
+[Sign Up For an Account](https://cloud.solodev.net/overview/#sign-up-for-an-account) | Use this option if you want to register an account.
 
 !!!Tip:
 If you’re having trouble logging in with GitHub, use the **Forgot Password** link on the GitHub credentials screen and follow the steps.
@@ -72,4 +72,22 @@ Reset your password using your username or email address.
 **Name** | **Description** 
 :--- | ---
 Username | Enter your username or email address and click the **Reset** button to reset your password.
+
+## Sign up for an Account
+
+Join Solodev cloud by providing a few pieces of information.
+
+<img src="../../../images/sign-up-for-account.png" alt="signup" style="width: 100%; display: block"></a>
+
+**Name** | **Description** 
+:--- | ---
+First Name | Enter your First Name
+Last Name | Enter your Last Name
+Username | Enter a unique username. 
+Email | Enter your email
+Password | Choose your password 
+
+!!!Note: 
+For your password you will need to use at least 8 characters long with a number, an uppercase letter and a special character.
+!!!
 

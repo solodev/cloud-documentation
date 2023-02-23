@@ -30,8 +30,8 @@ Install | Install the product.
 
 **Name** | **Description** 
 :--- | ---
-[Automatically Using CloudFormation](https://www.cloud.solodev.net/infrastructure/providers/add-cloud-account/#automatically-using-cloud-formation) | Use a CloudFormation template to create a stack that automatically adds the IAM permissions and other resources necessary for integrating your AWS account.
-[Manually](https://www.cloud.solodev.net/infrastructure/providers/add-cloud-account/#manually) | Add the IAM needed to integrate your AWS account in the AWS console, then finish setup in Cloud.
+<a href="/infrastructure/providers/add-cloud-account/#automatically-using-cloud-formation">Automatically Using CloudFormation</a> | Use a CloudFormation template to create a stack that automatically adds the IAM permissions and other resources necessary for integrating your AWS account.
+<a href="/infrastructure/providers/add-cloud-account/#manually">Manually</a> | Add the IAM needed to integrate your AWS account in the AWS console, then finish setup in Cloud.
 
 ## Automatically Using Cloud Formation
 

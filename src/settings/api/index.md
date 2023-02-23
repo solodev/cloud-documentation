@@ -27,7 +27,7 @@ Bearer Authentication (also called token authentication) is an HTTP authentica
 
 **Name** | **Description** 
 :--- | ---
-Value | Copy and paste the value that can be found in <a href="/profile/api-tokens">API Tokens</a>.
+Value | Copy and paste the value that can be found in <a href="/my-profile/api-tokens/#api-tokens">API Tokens</a>.
 Authorize | Authorize yourself.
 
 ## Swagger Management

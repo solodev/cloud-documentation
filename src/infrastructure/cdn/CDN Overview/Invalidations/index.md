@@ -15,5 +15,5 @@ You can open CDN Invalidation only when its status is **Live**.
 <a href="/infrastructure/cdn/cdn-overview/update/">Update</a> | Edit CDN Invalidation settings, delete the CDN Invalidation.
 <a href="/infrastructure/cdn/cdn-overview/geo-restrictions/">GEO Restrictions</a> | Manage your GEO restrictions.
 <a href="/infrastructure/cdn/cdn-overview/permissions/">Permissions</a> | Manage your permissions.
-<a href="/infrastructure/cdn/cdn-overview/invalidations/cdn-invalidation-overview">CDN Invalidation Overview</a> | Manage your CDN Invalidation by opening any CDN Invalidation listed.
+<a href="/infrastructure/cdn/cdn-overview/invalidations/cdn-invalidation-overview">CDN Invalidation Overview</a> <!-- need to fix this link  --> | Manage your CDN Invalidation by opening any CDN Invalidation listed.  
 <a href="/infrastructure/cdn/cdn-overview/invalidations/add-cdn-invalidation">Add CDN Invalidation</a> | Add your CDN Invalidation.

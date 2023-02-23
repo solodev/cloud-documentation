@@ -7,8 +7,8 @@ The CDN Behavior Overview page shows you important CDN Behavior details as well 
 **Name** | **Description** 
 :--- | ---
 <a href="/infrastructure/cdn/cdn-overview/permissions">Permissions</a> | Manage your permissions.
-<a href="/infrastructure/cdn/cdn-overview/origins/cdn-behavior-overview/delete">Delete</a> | Delete your CDN Behavior.
-[Manage CDN Behavior](https://cloud.solodev.net/infrastructure/cdn/cdn-overview/origins/cdn-behavior-overview/#manage-cdn-behavior) | Manage your CDN Origin.
+<a href="/infrastructure/cdn/cdn-overview/behaviors/cdn-behavior-overview/delete">Delete</a> | Delete your CDN Behavior.
+<a href="/infrastructure/cdn/cdn-overview/behaviors/cdn-behavior-overview/#manage-cdn-behavior">Manage CDN Behavior</a> | Manage your CDN Origin.
 
 ## Manage CDN Behavior
 

@@ -8,7 +8,7 @@ The CDN Origin Overview page shows you important CDN Origin details as well as t
 :--- | ---
 <a href="/infrastructure/cdn/cdn-overview/permissions">Permissions</a> | Manage your permissions.
 <a href="/infrastructure/cdn/cdn-overview/origins/cdn-origin-overview/delete">Delete</a> | Delete your CDN Origin.
-[Manage CDN Origin](https://cloud.solodev.net/infrastructure/cdn/cdn-overview/origins/cdn-origin-overview/#manage-cdn-origin) | Manage your CDN Origin.
+<a href="/infrastructure/cdn/cdn-overview/origins/cdn-origin-overview/#manage-cdn-origin">Manage CDN Origin</a>| Manage your CDN Origin.
 [Settings](https://cloud.solodev.net/infrastructure/cdn/cdn-overview/origins/cdn-origin-overview/#settings) | Manage your CDN Origin Settings.
 
 ## Manage CDN Origin

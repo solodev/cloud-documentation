@@ -6,14 +6,14 @@ Manage your items. Define the version, category, logo, and more.
 
 **Name** | **Description** 
 :--- | ---
-[Item Management](https://www.cloud.solodev.net/marketplace/items/item-overview/#item-management) | Manage item advanced features.
-[Marketplace Settings](https://www.cloud.solodev.net/marketplace/items/item-overview/#marketplace-settings) | Manage item settings.
-[Status](https://www.cloud.solodev.net/marketplace/items/item-overview/#status) | Manage item status.
-[Categories](https://www.cloud.solodev.net/marketplace/items/item-overview/#categories) | Manage item category.
+<a href="/marketplace/items/item-overview/#item-management">Item Management</a>  | Manage item advanced features.
+<a href="/marketplace/items/item-overview/#marketplace-settings">Marketplace Settings</a> | Manage item settings.
+<a href="/marketplace/items/item-overview/#status">Status </a> | Manage item status.
+<a href="/marketplace/items/item-overview/#categories">Categories </a>  | Manage item category.
 <a href="/marketplace/items/item-overview/versions/add-catalog-item-version">Add Catalog Item Version</a>  | Add a new catalog item version.
-<a href="/marketplace/items/item-overview/copy-item">Copy Item</a> | Copy your item
-<a href="/marketplace/items/item-overview/transfer-item">Transfer Item</a> | Transfer your item to another catalog.
-<a href="/marketplace/items/item-overview/delete-item">Delete Item</a> | Copy your item.
+<a href="/marketplace/items/item-overview/copy/#copy-item">Copy Item</a> | Copy your item
+<a href="/marketplace/items/item-overview/transfer/#transfer-item">Transfer Item</a> | Transfer your item to another catalog.
+<a href="/marketplace/items/item-overview/delete/#delete">Delete</a> | Delete your item.
 <a href="/marketplace/items/item-overview/permissions">Permissions</a> | Manage your permissions.
 
 ## Item Management

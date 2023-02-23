@@ -6,10 +6,10 @@ Manage your item versions by managing its details and statuses, and more.
 
 **Name** | **Description** 
 :--- | ---
-[Update Version](https://www.cloud.solodev.net/marketplace/items/item-overview/versions/version-overview/#update-version) | Update your version.
-[Mapped Products](https://www.cloud.solodev.net/marketplace/items/item-overview/versions/version-overview/#mapped-products) | Manage your mapped products
-[Version Details](https://www.cloud.solodev.net/marketplace/items/item-overview/versions/version-overview/#version-details) | Manage your version details.
-[Status](https://www.cloud.solodev.net/marketplace/items/item-overview/versions/version-overview/#status) | Manage your version status.
+<a href="/marketplace/items/item-overview/versions/version-overview/#update-version">Update Version</a>| Update your version.
+<a href="/marketplace/items/item-overview/versions/version-overview/#mapped-products">Mapped Products</a> | Manage your mapped products
+<a href="/marketplace/items/item-overview/versions/version-overview/#version-details">Version Details</a> | Manage your version details.
+<a href="/marketplace/items/item-overview/versions/version-overview/#status">Status</a>  | Manage your version status.
 <a href="/marketplace/items/item-overview/versions/version-overview/delete">Delete</a> | Delete the version.
 
 ## Update Version

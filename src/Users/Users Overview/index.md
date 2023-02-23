@@ -6,7 +6,7 @@ Modify a user’s details or delete a user from your Solodev Cloud. You can also
 
 **Name** | **Description** 
 :--- | ---
-<a href="/Users/Update">Update</a> | Update a user’s details.
+<a href="/users/update-user/#update-user">Update</a> | Update a user’s details.
 
 !!! Note:
 Only users with an admin role can manage or modify another user’s profile details.
