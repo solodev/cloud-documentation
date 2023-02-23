@@ -8,7 +8,7 @@ Existing sites are shown as cards on the dashboard. To open the existing site cl
 
 Use the **View All** button to view all sites.
 
-<img src="../../../images/pagesoverview.jpg" alt="pagesoverview" style="width: 100%; display: block"></a>
+<img src="../../../images/pages-overview.jpg" alt="pagesoverview" style="width: 100%; display: block"></a>
 
 **Name** | **Description** | <p></p>
 :--- |---| :--
