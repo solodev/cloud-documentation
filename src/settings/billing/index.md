@@ -16,8 +16,8 @@ On the billing page, among others, you can check billing contact and billing his
 <a href="/settings/billing/history">History</a> | View your billing history.
 <a href="/settings/billing/subscriptions">Subscriptions</a> | View  and manage your subscriptions.
 <a href="/settings/billing/purchases">Purchases</a> | View your purchases.
-[Payment Details](https://cloud.solodev.net/settings/billing/#payment-details) | Manage your payment details.	
-[Billing Address](https://cloud.solodev.net/settings/billing/#billing-address) | Manage your billing address.
+<a href="/settings/billing/#payment-details">Payment Details</a> | Manage your payment details.	
+<a href="/settings/billing/#billing-address">Billing Address</a>  | Manage your billing address.
 
 ## Payment Details
 
