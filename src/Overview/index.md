@@ -8,7 +8,7 @@ First, set up a new account. Visit [Solodev.com](https://www.solodev.com) and na
 
 **Name** | **Description** 
 :--- | ---
-Digital Wallet | Click this icon to select the option **Create Account**.
+[Digital Wallet ](https://www.solodev.com/join) | Click this icon to select the option **Create Account**.
 
 <img src="../../../images/overview2.jpg" alt="overview2" style="width: 100%; display: block"></a>
 
@@ -18,12 +18,12 @@ Digital Wallet | Click this icon to select the option **Create Account**.
 :--- | ---
 First Name | Input the first name associated with your Solodev account
 Last Name | Input the last name associated with your Solodev account
-Username | Create a username
+Username | Create a unique username
 Email | Input email address where you will receive communications related to your Solodev account.
 Password | Create a password following the guidelines pictured above.
 
 !!! Note:
-Before hitting the green "Join Solodev" button, we ask you to read and review our [Terms of Service](https://www.solodev.com/terms/) and [Privacy Statement](https://www.solodev.com/terms/privacy-policy.stml). Upon acceptance, you will be automatically enrolled in the Free Developer plan.
+Before hitting the "Join Solodev" button, we ask you to read and review our [Terms of Service](https://www.solodev.com/terms/) and [Privacy Statement](https://www.solodev.com/terms/privacy-policy.stml). Upon acceptance, you will be automatically enrolled in the Free Developer plan.
 !!!
 
 ## Confirm
@@ -42,7 +42,7 @@ Users with existing accounts can sign into Solodev with your Solodev credentials
 
 **Name** | **Description** 
 :--- | ---
-Digital Wallet | Click this icon to **Sign In** to your Solodev Account.
+[Digital Wallet ](https://id.solodev.com/login?continue=/)| Click this icon to **Sign In** to your Solodev Account.
 
 <img src="../../../images/overview2.jpg" alt="overview2" style="width: 100%; display: block"></a>
 
@@ -52,8 +52,8 @@ Digital Wallet | Click this icon to **Sign In** to your Solodev Account.
 :--- | ---
 Username | Enter your username.
 Password | Enter your password.
-[Can’t Login?](https://cloud.solodev.net/overview/#cant-login) | Use this option if you’re having trouble logging in.
-[Sign Up For an Account](https://cloud.solodev.net/overview/#sign-up-for-an-account) | Use this option if you want to register an account.
+<a href="/overview/#cant-login">Can’t Login?</a>  | Use this option if you’re having trouble logging in.
+<a href="/overview/#sign-up-for-an-account">Sign Up For an Account</a>  | Use this option if you want to register an account.
 
 !!!Tip:
 If you’re having trouble logging in with GitHub, use the **Forgot Password** link on the GitHub credentials screen and follow the steps.
@@ -61,7 +61,7 @@ If you’re having trouble logging in with GitHub, use the **Forgot Password** l
 
 ### Confirm
 
-Once you have completed all the fields, click **Log In** to log in to Solodev Cloud or use the **Log In With GitHub** button to use GitHub to login.
+Once you have completed all the fields, click either **Log In** or **Log In With GitHub** to log in to Solodev Cloud.
 
 ## Can't login?
 
@@ -75,19 +75,18 @@ Username | Enter your username or email address and click the **Reset** button t
 
 ## Sign up for an Account
 
-Join Solodev cloud by providing a few pieces of information.
+Join Solodev Cloud by providing a few pieces of information.
 
 <img src="../../../images/sign-up-for-account.png" alt="signup" style="width: 100%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---
-First Name | Enter your First Name
-Last Name | Enter your Last Name
-Username | Enter a unique username. 
-Email | Enter your email
-Password | Choose your password 
+First Name | Input your first name
+Last Name | Input your last name
+Username | Enter a unique username
+Email | Input email address where you will receive communications related to your Solodev account
+Password | Create a password
 
 !!!Note: 
-For your password you will need to use at least 8 characters long with a number, an uppercase letter and a special character.
+For your password you will need to use at least 8 characters with a number, an uppercase letter and a special character.
 !!!
-

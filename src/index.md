@@ -1,6 +1,6 @@
 # Welcome
 
-![](../images/solo_welcome.png)
+<img src="../../../images/solo_welcome.png" alt="welcome" style="width: 100%; display: block"></a>
 
 ## About Solodev Cloud
 
