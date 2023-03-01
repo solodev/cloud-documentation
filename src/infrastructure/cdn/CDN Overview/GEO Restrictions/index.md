@@ -6,7 +6,7 @@ The CDN GEO Restriction modal allows you to add and remove restrictions to your 
 
 **Name** | **Description** 
 :--- | ---
-Restriction Type | Choose from three types of restrictions.
+Restriction Type | Choose from three types of restrictions. See note below
 Select Countries | Select the country the restrictions apply to.
 Delete | Click the **"x"** button to remove country from the list.
 

@@ -1,8 +1,8 @@
 # Permissions
 
-Assign roles to users or groups, manage and delete permissions. Click on the **"+"** button to assign permissions to new user/group.
+Assign roles to users or groups, manage and delete permissions. Click on the **9** button to assign permissions to new user/group.
 
-<img src="../../../../images/sitespermissions.jpg" alt="sitespermissions" style="width: 35%; display: block"></a>
+<img src="../../../../images/sitespermissions.jpg" alt="sitespermissions" style="width: 40%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---
@@ -21,6 +21,3 @@ A group or group member can be assigned one of four roles in Solodev Cloud:
 ## Confirm
 
 Once you have completed all the fields, click **Submit** to apply your changes.
-
-
-

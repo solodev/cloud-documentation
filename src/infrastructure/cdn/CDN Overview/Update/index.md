@@ -1,6 +1,6 @@
 # Update
 
-Update a CDN's details or delete a CDN from your Solodev Cloud by clicking the **Update** button on the CDN Overview page.
+Update CDN details or delete a CDN from your Solodev Cloud by clicking the **Update** button on the CDN Overview page.
 
 <img src="../../../../images/updatecdn.jpg" alt="updatecdn" style="width: 35%; display: block"></a>
 

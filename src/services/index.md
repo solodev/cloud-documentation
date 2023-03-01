@@ -6,6 +6,6 @@ Existing services are shown as cards on the Dashboard. Each card displays a logo
 
 <img src="../../../images/services.jpg" alt="services" style="width: 100%; display: block"></a>
 
-**Name** | **Description** 
+**Name** | **Description**  
 :--- | ---
 <a href="/services/add-service/">Add Service</a> | Add a new service in Solodev Cloud.

@@ -8,7 +8,7 @@ Update details or delete a deployment from your Solodev Cloud by clicking the **
 
 Under the Advanced dropdown, you can execute advanced operations like deleting a deployment. 
 
-<img src="../../../../images/updatedeployment2.jpg" alt="updatedeployment2" style="width: 35%; display: block"></a>
+<img src="../../../../images/updatedeployment2.jpg" alt="updatedeployment2" style="width: 40%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---
@@ -21,8 +21,4 @@ Deleting a deployment will permanently remove the deployment and all of its cont
 ## Confirm
 
 Once you have completed all the fields, click **Submit** to apply your changes.
-
-
-
-
 
