@@ -6,8 +6,8 @@ There are two main dashboard views in Solodev Cloud:
 
 **Name** | **Description** 
 :--- | ---
-Developer Org Dashboard | The primary dashboard associated with your root developer account.
-Business Org Dashboard | The dashboard view associated with organizations you create. 
+<a href="/dashboard/#developer-org-dashboard">Developer Org Dashboard</a> | The primary dashboard associated with your root developer account.
+<a href="/dashboard/#business-org-dashboard">Business Org Dashboard</a> | The dashboard view associated with organizations you create. 
 
 ## Developer Org Dashboard
 
@@ -17,7 +17,7 @@ The Developer Org Dashboard is the primary view of your Solodev Cloud account. Y
 
 The dashboard view will display a collection of your active apps and services in a card or table format. You can also quickly add new services from your dashboard by clicking the **Add Service** button.
 
-Your Developer Org Dashboard is only accessible by you and cannot be shared with other users or groups in Solodev Cloud. Those functions are available for organizations you create or are invited to in the __Business Org Dashboard__. 
+Your Developer Org Dashboard is only accessible by you and cannot be shared with other users or groups in Solodev Cloud. Those functions are available for organizations you create or are invited to in the <u>Business Org Dashboard</u>. 
 
 !!!Note:
 Marketplace is not a default option in your Developer Org. You must activate it first before it will appear in the left hand tree. Click here to learn how. 
@@ -49,7 +49,7 @@ The Business Org Dashboard provides a common view for all organizations you crea
 
 Each organization in Solodev Cloud will have its own default dashboard that will display a collection of your active apps and services in a card or table format. You can also quickly add new services from your dashboard by clicking the **Add Service** button. 
 
-A Business Org Dashboard will be accessible by you and other users that have been invited to the org. If you are the org owner or creator, you can manage the permissions for your members via __Users and Groups__. 
+A Business Org Dashboard will be accessible by you and other users that have been invited to the org. If you are the org owner or creator, you can manage the permissions for your members via <u>Users and Groups</u>. 
 
 If you are invited to another user’s org, you will be subject to the permissions they have granted to you as a member.  
 
