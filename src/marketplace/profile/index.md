@@ -19,9 +19,13 @@ Update your organization profile.
 
 **Name** | **Description** 
 :--- | ---
-Display Title | Enter the title that is displayed on your developer page.
+Title | Enter the title that is displayed on your Developer page.
 Developer URL | Add a custom URL to your Developer page.
 Developer Description | Enter the description of your company that is displayed on your Developer page.
+
+!!!Note:
+The fields above can differ dependently on the selected plan.
+!!!
 
 ## Organization Image
 
