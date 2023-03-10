@@ -11,4 +11,3 @@ On the certificates page, you can easily manage your certificates.
 **Name** | **Description** 
 :--- | ---
 <a href="../certificates/add-certificate/">Add Certificate</a> | Add a new certificate.
-
