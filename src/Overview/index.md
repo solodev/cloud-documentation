@@ -63,7 +63,7 @@ If you’re having trouble logging in with GitHub, use the **Forgot Password** l
 
 Once you have completed all the fields, click either **Log In** or **Log In With GitHub** to log in to Solodev Cloud.
 
-## Can't login?
+## Can't log in?
 
 Reset your password using your username or email address.
 
@@ -88,5 +88,5 @@ Email | Input email address where you will receive communications related to you
 Password | Create a password
 
 !!!Note: 
-For your password you will need to use at least 8 characters with a number, an uppercase letter and a special character.
+For your password, you will need to use at least 8 characters with a number, an uppercase letter and a special character.
 !!!
