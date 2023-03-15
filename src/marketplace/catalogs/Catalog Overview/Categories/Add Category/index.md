@@ -1,6 +1,6 @@
 # Add Category
 
-Adding the category in Solodev Cloud is a simple process, and can be completed in minutes.
+Adding the category in Solodev Cloud is a simple process and can be completed in minutes.
 
 <img src="../../../../../images/addcategory.jpg" alt="catalogadditem" style="width: 50%; display: block"></a>
 

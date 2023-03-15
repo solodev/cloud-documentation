@@ -1,6 +1,6 @@
 # Add Domain
 
-Adding a domain in Solodev Cloud is a simple process, and can be completed in minutes.
+Adding a domain in Solodev Cloud is a simple process and can be completed in minutes.
 
 <img src="../../../images/adddomain.jpg" alt="adddomain" style="width: 40%; display: block"></a>
 

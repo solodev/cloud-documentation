@@ -1,6 +1,6 @@
 # Add Certificate
 
-Adding a certificate in Solodev Cloud is a simple process, and can be completed in minutes.
+Adding a certificate in Solodev Cloud is a simple process and can be completed in minutes.
 
 <img src="../../../images/addcertificate.jpg" alt="addcertificate" style="width: 35%; display: block"></a>
 

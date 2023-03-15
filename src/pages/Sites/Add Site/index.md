@@ -1,6 +1,6 @@
 # Add Site
 
-Adding a site is a simple process, and can be completed in minutes by following the steps below. 
+Adding a site is a simple process and can be completed in minutes by following the steps below. 
 
 <img src="../../../images/addsite.jpg" alt="addsite" style="width: 100%; display: block"></a>
 

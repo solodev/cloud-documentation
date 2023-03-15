@@ -1,6 +1,6 @@
 # Add Service
 
-Adding a service in Solodev Cloud is a simple process, and can be completed in minutes by following the steps below.
+Adding a service in Solodev Cloud is a simple process and can be completed in minutes by following the steps below.
 
 <img src="../../../images/addservice.jpg" alt="addservice" style="width: 100%; display: block"></a>
 

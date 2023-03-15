@@ -1,11 +1,11 @@
 # Cluster Details
 
-The Cluster Overview page provides you with the ability to manage your clusters. Do it by updating details, and modifying permissions for members
+Cluster Details provides you with the ability to manage your clusters. Update detail and modify permissions for members.
 
 <img src="../../../images/clusteroverview.jpg" alt="clusteroverview" style="width: 100%; display: block"></a>
 
 !!!Note:
-The specificity of each product is different, therefore the options that are available after opening the cluster card differ. Universal options that appear for almost every cluster are **Update**, and **Permissions**.
+The specificity of each product is different, therefore the options that are available after opening the cluster card differ. Universal options that appear for almost every cluster are **Update** and **Permissions**.
 !!!
 
 **Name** | **Description** 

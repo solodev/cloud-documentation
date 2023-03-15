@@ -1,6 +1,6 @@
 # Add Cloud Account
 
-Adding a cloud account in Solodev Cloud is a simple process, and can be completed in minutes by following the steps below.
+Adding a cloud account in Solodev Cloud is a simple process and can be completed in minutes by following the steps below.
 
 <img src="../../../images/addcloudaccount.jpg" alt="addcloudaccount" style="width: 100%; display: block"></a>
 

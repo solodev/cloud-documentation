@@ -1,6 +1,6 @@
 # Add CDN Behavior
 
-Adding a CDN Behavior in Solodev Cloud is a simple process, and can be completed in minutes.
+Adding a CDN Behavior in Solodev Cloud is a simple process and can be completed in minutes.
 
 <img src="../../../../../images/addcdnbehavior.jpg" alt="addcdnbehavior" style="width: 35%; display: block"></a>
 

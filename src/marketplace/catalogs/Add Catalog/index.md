@@ -1,6 +1,6 @@
 # Add Catalog
 
-Adding a catalog in Solodev Cloud is a simple process, and can be completed in minutes.
+Adding a catalog in Solodev Cloud is a simple process and can be completed in minutes.
 
 <img src="../../../images/addcatalog.jpg" alt="addcatalog" style="width: 40%; display: block"></a>
 

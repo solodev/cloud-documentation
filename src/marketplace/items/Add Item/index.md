@@ -1,6 +1,6 @@
 # Add Item
 
-Adding an item in Solodev Cloud is a simple process, and can be completed in minutes.
+Adding an item in Solodev Cloud is a simple process and can be completed in minutes.
 
 <img src="../../../images/additem.jpg" alt="additem" style="width: 40%; display: block"></a>
 

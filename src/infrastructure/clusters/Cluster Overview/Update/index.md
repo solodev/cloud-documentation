@@ -1,6 +1,6 @@
 # Update Cluster
 
-Update a cluster's details or delete a cluster from your Solodev Cloud by clicking the **Update** button on the Cluster Overview page.
+Update a cluster's details or delete a cluster from your Solodev Cloud by clicking the **Update** button on the Cluster Details page.
 
 <img src="../../../../images/updatecluster.jpg" alt="updatecluster" style="width: 75%; display: block"></a>
 
