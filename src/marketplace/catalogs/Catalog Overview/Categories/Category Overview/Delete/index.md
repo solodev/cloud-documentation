@@ -2,7 +2,7 @@
 
 Delete your selected category.
     
-<img src="../../../../../../images/deletecategory.jpg" alt="deletecategory" style="width: 50%; display: block"></a>
+<img src="../../../../../../images/deletecategory.jpg" alt="deletecategory" style="width: 40%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---
