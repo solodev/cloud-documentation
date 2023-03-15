@@ -16,6 +16,16 @@ Manage your items. Define the version, category, logo, and more.
 <a href="/marketplace/items/item-overview/delete/#delete">Delete</a> | Delete your item.
 <a href="/marketplace/items/item-overview/permissions">Permissions</a> | Manage your permissions.
 
+!!!Note:
+Item Overview page content depends on the fulfillment type. In the case of **Service**, Buildspec formulas can be managed directly, not via item versions. Below is an example of service fulfillment type.
+!!!
+
+<img src="../../../../../images/itemoverview2.jpg" alt="itemoverview2" style="width: 100%; display: block"></a>
+
+**Name** | **Description** 
+:--- | ---
+<a href="/marketplace/items/item-overview/buildspec">Buildspec</a>  | Manage Buildspec formulas.
+
 ## Item Management
 
 Manage your item features.
@@ -43,6 +53,10 @@ Product Details | Enter the product details. It shows in the right column of the
 Product support text | Enter the product support text. It shows in detail page.
 Product Instructions | Enter the product instructions. It shows in detail page.
 Product Documentation | Enter the product documentation.
+
+!!!Note:
+Item Management in this manual is based on the fulfillment type that is not **Service**.
+!!!
 
 ## Marketplace Settings 
 
