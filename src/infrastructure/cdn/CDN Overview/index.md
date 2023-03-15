@@ -1,6 +1,6 @@
 # CDN Overview
 
-The CDN Overview page shows you important CDN details as well as the ability to update your CDN.
+The CDN Overview page displays important CDN details and the ability to update your CDN.
 
 <img src="../../../images/cdnoverview.jpg" alt="cdnoverview" style="width: 100%; display: block"></a>
 

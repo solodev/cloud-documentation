@@ -41,7 +41,8 @@ Field types are different kinds of question formats that a user can assign to a 
 
 !!!Available formats include:
 
-<p>-hidden – No field will be shown in the UI, but the value will be stored in the form.<br>
+<p>
+-hidden – No field will be shown in the UI, but the value will be stored in the form.<br>
 -string – A textbox will be shown in the UI to capture the answer, and the answer will be formatted to a string.<br>
 -clob – A text area will be shown in the UI to capture the answer, and the answer will be formatted to a multiline string.<br>
 -email – Behaves just like a string type, but with e-mail address validation.<br>
@@ -57,7 +58,8 @@ Field types are different kinds of question formats that a user can assign to a 
 -integer – A number picker will be shown in the UI to capture the answer, and the value will be validated to confirm if it is an integer.<br>
 -money – Behaves just like a string type but with number validation and a  $ sign that precedes the textbox.<br>
 -number – Behaves just like a string type but with number validation.<br>
--percent – Behaves just like a string type but with number validation and a  % sign that follows the textbox.</p>
+-percent – Behaves just like a string type but with number validation and a  % sign that follows the textbox.
+</p>
 !!!
 
 ## Buildspec Management

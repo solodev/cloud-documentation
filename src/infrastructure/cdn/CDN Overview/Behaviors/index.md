@@ -1,6 +1,6 @@
 # Behaviors
 
-CDN Behaviors are presented in the form of a table with the details such as path pattern, origin, viewer protocol policy, and CDN creator. 
+CDN Behaviors are displayed as a table with details like path pattern, origin, viewer protocol policy, and CDN creator. 
 
 <img src="../../../../images/behaviors.jpg" alt="behaviors" style="width: 100%; display: block"></a>
 
