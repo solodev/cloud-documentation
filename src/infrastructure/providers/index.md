@@ -8,4 +8,4 @@ Manage providers which are presented in the form of cards showing all their stat
 
 **Name** | **Description** 
 :--- | ---
-<a href="/infrastructure/providers/add-cloud-account">Add Cloud Account</a>  | Add a new provider to your Solodev Cloud.
+<a href="/infrastructure/providers/add-provider">Add Provider</a>  | Add a new provider to your Solodev Cloud.
