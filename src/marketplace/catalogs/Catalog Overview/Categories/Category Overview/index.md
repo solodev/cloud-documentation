@@ -6,7 +6,7 @@ The Category Overview page gives you the details of your category and the items 
 
 **Name** | **Description** 
 :--- | ---
-[Category Management](https://www.cloud.solodev.net//marketplace/catalogs/catalog-overview/categories/category-overview/#category-management) | Manage your category features.
+<a href="/marketplace/catalogs/catalog-overview/categories/category-overview/#category-management">Category Management</a> | Manage your category features.
 <a href="/marketplace/catalogs/catalog-overview/categories/category-overview/delete/">Delete</a> | Delete your category
 <a href="/marketplace/catalogs/catalog-overview/categories/category-overview/permissions/">Permissions</a> | Manage your category permissions.
 
@@ -14,7 +14,7 @@ The Category Overview page gives you the details of your category and the items 
 
 Manage your category features.
 
-<img src="../../../../../images/categoryoverview2.jpg" alt="categoryoverview2" style="width: 100%; display: block"></a>
+<img src="../../../../../images/categoryoverview2.jpg" alt="categoryoverview2" style="width: 75%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---

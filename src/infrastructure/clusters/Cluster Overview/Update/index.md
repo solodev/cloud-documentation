@@ -22,7 +22,3 @@ Deleting a cluster will permanently remove the cluster and all of its content an
 
 Once you have completed all the fields, click **Submit** to apply your changes.
 
-
-
-
-
