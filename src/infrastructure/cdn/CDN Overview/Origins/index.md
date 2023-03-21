@@ -11,6 +11,5 @@ CDN Origins are presented in the form of a table with the details such as origin
 <a href="/infrastructure/cdn/cdn-overview/update/">Update</a> | Edit CDN Origin settings, delete the CDN Origin.
 <a href="/infrastructure/cdn/cdn-overview/geo-restrictions/">GEO Restrictions</a> | Manage your GEO restrictions.
 <a href="/infrastructure/cdn/cdn-overview/permissions/">Permissions</a> | Manage your permissions.
-<a href="/infrastructure/cdn/cdn-overview/origins/cdn-origin-overview">CDN Origin Overview</a> | Manage your CDN Origin by opening any CDN origin listed.
 <a href="/infrastructure/cdn/cdn-overview/origins/add-cdn-origin">Add CDN Origin</a> | Add your CDN Origin.
    

@@ -12,6 +12,10 @@ The CDN Behavior Overview page shows you important CDN Behavior details as well 
 
 ## Manage CDN Behavior
 
+Manage CDN Behavior.
+
+<img src="../../../../../images/cdnbehavioroverview2.jpg" alt="cdnbehavioroverview2" style="width: 100%; display: block"></a>
+
 **Name** | **Description** 
 :--- | ---
 Path Pattern | Enter the path pattern.

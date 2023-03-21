@@ -13,6 +13,10 @@ The CDN Origin Overview page shows you important CDN Origin details as well as t
 
 ## Manage CDN Origin
 
+Manage CDN Origin
+
+<img src="../../../../../images/cdnoriginoverview2.jpg" alt="cdnoriginoverview2" style="width: 100%; display: block"></a>
+
 **Name** | **Description** 
 :--- | ---
 Origin Path | Enter the origin path.
@@ -26,7 +30,9 @@ Minimum origin SSL protocol | Enter the minimum origin SSL protocol. You can cho
 
 ## Settings
 
-<img src="../../../../../images/cdnoriginsettings.jpg" alt="cdnoriginsettings" style="width: 35%; display: block"></a>
+Manage CDN Origin settings.
+
+<img src="../../../../../images/cdnoriginsettings.jpg" alt="cdnoriginsettings" style="width: 50%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---
