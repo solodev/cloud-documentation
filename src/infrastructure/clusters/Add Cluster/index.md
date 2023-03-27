@@ -9,7 +9,7 @@ Adding a cluster in Solodev Cloud is a simple process and can be completed in mi
 Cluster Selection | Select the cluster you are interested in by clicking on the button on the product card.
 
 !!!Note:
-Some products have a purchase option, while to buy others, you need to contact Solodev by filling out the contact form. Below is an example of a product **Kubernetes** that can be can launch only after making a contact with Solodev.
+Some products have a purchase option, while to buy others, you need to contact Solodev by filling out the contact form. Below is an example of a product **Kubernetes** that can be launched only after contacting Solodev.
 !!!
 
 <img src="../../../images/addcluster2.jpg" alt="addcluster2" style="width: 100%; display: block"></a>

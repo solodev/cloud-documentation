@@ -7,7 +7,7 @@ Adding a certificate in Solodev Cloud is a simple process and can be completed i
 **Name** | **Description** 
 :--- | ---
 Domain | Choose your domain.
-Provider | Choose a provider from the drop-down list or select the add provider option.
+Provider | Choose a provider from the drop-down list or select the Add Provider option.
 
 ## Confirm
 

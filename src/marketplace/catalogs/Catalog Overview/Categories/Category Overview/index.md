@@ -20,7 +20,7 @@ Manage your category features.
 :--- | ---
 Name | Enter the category name.
 Title | Enter the category title which will be displayed in the front-end.
-Description | Enter the descrption.
+Description | Enter the description.
 Parent Category | Select the parent category.
 Meta Description | Enter the meta description.
 Layout | Select the layout. You can select the layout from: **Category**, **Default**, **Featured**, **List**.
@@ -29,4 +29,3 @@ Replace image | Add an image by clicking **Replace Image** and choosing the file
 ## Confirm
 
 Once you have completed all the fields, click **Save** to apply your changes.
-

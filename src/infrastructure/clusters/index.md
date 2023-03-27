@@ -1,6 +1,8 @@
 # Clusters
 
-A cluster is a set of nodes that run containerized applications. Containerizing application packages an app with its dependencies and some necessary services. They are more lightweight and flexible than virtual machines. A cluster can contain many pods, related or unrelated and grouped under the tight logical borders called namespaces.
+A cluster is a set of nodes that run containerized applications. Containerizing application packages an app with its dependencies and some necessary services. They are more lightweight and flexible than virtual machines. 
+
+A cluster can contain many pods, related or unrelated and grouped under the tight logical borders called namespaces.
 
 Manage clusters that are presented in the form of cards showing all their status. Click on each card to open the cluster directly. Here you are also able to manage your containers.
 

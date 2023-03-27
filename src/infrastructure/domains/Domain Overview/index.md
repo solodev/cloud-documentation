@@ -1,6 +1,6 @@
 # Domain Overview
 
-The domain detail page shows you important domain details as well as the ability to update your domain.
+View domain details and update your domain from the domain details page.
 
 <img src="../../../images/domainoverview.jpg" alt="domainoverview" style="width: 100%; display: block"></a>
 

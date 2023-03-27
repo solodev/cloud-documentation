@@ -1,6 +1,6 @@
 # Cluster Details
 
-Cluster Details provides you with the ability to manage your clusters. Update detail and modify permissions for members.
+Cluster Details provides you with the ability to manage your clusters, update details, and modify permissions for members.
 
 <img src="../../../images/clusteroverview.jpg" alt="clusteroverview" style="width: 100%; display: block"></a>
 

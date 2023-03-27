@@ -1,6 +1,6 @@
 # Certificate Overview
 
-Certificate Overview provides you with the ability to manage your certificates. Update detail and modify permissions for members.
+Certificate Overview provides you with the ability to manage your certificates, update details and modify permissions for members.
 
 <img src="../../../images/certificateoverview.jpg" alt="certificateoverview" style="width: 100%; display: block"></a>
 
