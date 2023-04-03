@@ -1,13 +1,12 @@
 # Username
 
-Manage your username.
+Manage the username.
 
 <img src="../../../images/username.jpg" alt="username" style="width: 100%; display: block"></a>
 
-
 **Name** | **Description** 
 :--- | ---
-Username | Enter your new username.
+Username | Enter the new username.
 
 ## Confirm
 

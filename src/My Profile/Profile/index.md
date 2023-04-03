@@ -1,42 +1,56 @@
 # Profile
 
-Manage your profile by clicking **Manage Profile** on the bottom left and choosing **My Profile** then.
+Manage the profile by clicking **Manage Profile** on the bottom left and choosing **My Profile** then.
 
 <img src="../../../images/profile2.jpg" alt="profile2" style="width: 100%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---
+[Profile Information](https://cloud.solodev.net/my-profile/profile/#profile-information) | Manage profile information.
+[Profile Picture or Profile Avatar](https://cloud.solodev.net/my-profile/profile/#profile-picture-or-profile-avatar) | Manage profile picture or profile avatar.
+
+## Profile Information 
+
+Manage the profile information by providing names, phone number and more.
+
+<img src="../../../images/profileinformation.jpg" alt="profileinformation" style="width: 50%; display: block"></a>
+
+**Name** | **Description** 
+:--- | ---
 First Name | Enter the first name.
 Last Name | Enter the last name.
-Phone Number | Enter a phone number.
+Phone Number | Enter the phone number.
 Timezone | Choose the timezone based on your location.
 Title | Enter the title.
+
+## Profile Picture or Profile Avatar
+
+Create and manage the profile picture or provile avatar.
+
+<img src="../../../images/profilepicture.jpg" alt="profilepicture" style="width: 50%; display: block"></a>
+
+**Name** | **Description** 
+:--- | ---
+[Profile Picture](https://cloud.solodev.net/my-profile/profile/#profile-picture) | Manage the profile picture.
+[Profile Avatar](https://cloud.solodev.net/my-profile/profile/#profile-avatar) | Manage the profile avatar.
+
+### Profile Picture
+
+Create and manage the profile picture.
+
+<img src="../../../images/profilepicture2.jpg" alt="profilepicture2" style="width: 50%; display: block"></a>
+
+**Name** | **Description** 
+:--- | ---
 Replace Image | Add an image by clicking **Replace Image** and choosing the file from your computer.
-[Create Avatar](https://cloud.solodev.net/my-profile/profile/#create-avatar) | Create your avatar.
 
-## Create Avatar
+### Profile Avatar
 
-Create your personal Avatar.
+Create and manage the profile avatar.
 
-<img src="../../../images/avatar1.png" alt="avatar" style="width: 40%; display: block"></a>
+TO BE COMPLETED.
 
-**Name** | **Description** 
-:--- | ---
-Choose your body type | You will have the options of **Masculine**, **Feminine**, or **Don't specify**.
-
-<img src="../../../images/cavatar.png" alt="avatar2" style="width: 50%; display: block"></a>
-
-**Name** | **Description** 
-:--- | ---
-Take a photo | Create an avatar based on taking a photo.
-Pick a file | Create an avatar based on a photo you've uploaded.
-Continue without a photo | Create your avatar without using a photo.
-
-<img src="../../../images/avatar3.jpg" alt="avatar3" style="width: 100%; display: block"></a>
-
-**Name** | **Description** 
-:--- | ---
-Create your avatar | Build your avatar by selecting individual elements.
+<img src="../../../images/profileavatar.jpg" alt="profileavatar" style="width: 50%; display: block"></a>
 
 ## Confirm
 

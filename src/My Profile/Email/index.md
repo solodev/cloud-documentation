@@ -1,6 +1,6 @@
 # Email
 
-Manage your email address.
+Manage the email address.
 
 <img src="../../../images/email.jpg" alt="email" style="width: 100%; display: block"></a>
 

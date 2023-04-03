@@ -8,7 +8,7 @@ Manage the password.
 :--- | ---
 Current Password | Enter the current password.
 New Password | Enter the new password.
-Confirm New Password | Rewrite new password.
+Confirm New Password | Rewrite the new password.
 
 ## Confirm
 
