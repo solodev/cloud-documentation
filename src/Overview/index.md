@@ -11,7 +11,7 @@ Set up a new account in Solodev Cloud or sign in.
 
 ## Sign Up
 
-First, set up a new account. Visit [Solodev. com](https://www.solodev.com) and navigate to the **Sign Up** button to the right of the search bar.
+First, set up a new account. Visit [Solodev.com](https://www.solodev.com) and navigate to the **Sign Up** button to the right of the search bar.
 
 <img src="../../../images/signup.jpg" alt="signup" style="width: 50%; display: block"></a>
 
