@@ -8,7 +8,7 @@ Add the new member to your group in Solodev Cloud.
 **Name** | **Description** 
 :--- | ---
 Search or invite members | Search or invite a new member by typing the name of a user. You can also invite multiple users at the same time.
-
+.
 ---
 
 ## Confirm
