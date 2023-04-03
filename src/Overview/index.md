@@ -28,7 +28,7 @@ Password | Create a password following the guidelines pictured above.
 Before hitting the **Join Solodev** button, we ask you to read and review our [Terms of Service](https://www.solodev.com/terms/) and [Privacy Statement](https://www.solodev.com/terms/privacy-policy.stml). Upon acceptance, you will be automatically enrolled in the Free Developer plan.
 !!!
 
-## Confirm
+### Confirm
 
 Once you have completed all fields, click **Join Solodev** to create your account.
 
