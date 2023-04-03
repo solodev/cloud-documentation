@@ -18,9 +18,9 @@ First, set up a new account. Visit [Solodev. com](https://www.solodev.com) and n
 
 **Name** | **Description** 
 :--- | ---
-First Name | Input the first name associated with your Solodev account
-Last Name | Input the last name associated with your Solodev account
-Username | Create a unique username
+First Name | Input the first name associated with your Solodev account.
+Last Name | Input the last name associated with your Solodev account.
+Username | Create a unique username.
 Email | Input the email address where you will receive communications related to your Solodev account.
 Password | Create a password following the guidelines pictured above.
 
