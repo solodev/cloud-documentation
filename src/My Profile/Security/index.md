@@ -1,6 +1,6 @@
 # Security
 
-Manage your password.
+Manage the password.
 
 <img src="../../../images/security.jpg" alt="security" style="width: 100%; display: block"></a>
 
