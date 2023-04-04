@@ -2,3 +2,4 @@ order: 95
 icon: globe
 expanded: false
 redirect: Pages Overview/index.md
+Visibility: hidden

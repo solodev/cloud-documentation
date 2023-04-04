@@ -8,6 +8,25 @@ Under the **Update** option you can manage service settings and delete the servi
 In the case of this service, it is only possible to use the **Advanced** option, which includes **Delete**.
 !!!
 
+**Name** | **Description** 
+:--- | ---
+<a href="/services/service-overview/update/#sso-settings">Sign In</a> | Manage the SSO Settings. 
+<a href="/services/service-overview/update/#advanced">Sign In</a> | Manage the advanced settings.
+
+!!!Note:
+SSO Settings are not available in all cases.
+!!!
+
+## SSO Settings
+
+Manage the SSO Settings.
+
+Copy data by clicking the copy icon.
+
+Unhide the Client Secret by clicking the eye icon.
+
+<img src="../../../images/updateservice3.jpg" alt="updateservice3" style="width: 40%; display: block"></a>
+
 ## Advanced
 
 Under the Advanced dropdown, you can execute advanced operations such as deleting a service. 
