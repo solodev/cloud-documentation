@@ -9,9 +9,9 @@ Infrastructure is the core of your builds and is divided into two main groups: I
 <a href="../containers/">Containers</a> | Go to the Containers page.
 <a href="../containers/add-container/">Add Container</a> | Add a container.
 <a href="../deployments/">Deployments</a> | Go to the Deployments page.
-<a href="../deployments/add-deployment">Add Deployment</a> | Add a deployment. 
-<a href="../cdn/">CDN</a> | Go to the CDN page.
-<a href="../certificates/">Certificates</a> | Go to the Certificates page.
-<a href="../clusters/">Clusters</a> | Go to the Clusters page.
+<a href="../deployments/add-deployment">Add Deployment</a> | Add a deployment.
 <a href="../domains/">Domains</a> | Go to the Domains page.
+<a href="../certificates/">Certificates</a> | Go to the Certificates page.
+<a href="../cdn/">CDN</a> | Go to the CDN page.
+<a href="../clusters/">Clusters</a> | Go to the Clusters page.
 <a href="../providers/">Providers</a> | Go to the Providers page.
