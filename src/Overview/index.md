@@ -13,7 +13,7 @@ Set up a new account in Solodev Cloud or sign in.
 
 First, set up a new account. Visit [Solodev.com](https://www.solodev.com) and navigate to the **Sign Up** button to the right of the search bar.
 
-<img src="../../../images/signup.jpg" alt="signup" style="width: 50%; display: block"></a>
+<img src="../../../images/signup.jpg" alt="signup" style="width: 40%; display: block"></a>
 
 
 **Name** | **Description** 
@@ -40,7 +40,7 @@ You will need to wait up to 48 hours for your account to be approved. If you nee
 
 Sign into Solodev with the Solodev credentials or the GitHub credentials. 
 
-<img src="../../../images/signin.jpg" alt="signin" style="width: 50%; display: block"></a>
+<img src="../../../images/signin.jpg" alt="signin" style="width: 40%; display: block"></a>
 
 **Name** | **Description** 
 --- | ---
@@ -61,7 +61,7 @@ Once you have completed all the fields, click either **Log In** or **Log In With
 
 Reset your password using your username or email address.
 
-<img src="../../../images/cantlogin.jpg" alt="cantlogin" style="width: 50%; display: block"></a>
+<img src="../../../images/cantlogin.jpg" alt="cantlogin" style="width: 40%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---

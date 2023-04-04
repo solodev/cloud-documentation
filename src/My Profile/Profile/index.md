@@ -13,7 +13,7 @@ Manage the profile by clicking **Manage Profile** on the bottom left and choosin
 
 Manage the profile information by providing names, phone number and more.
 
-<img src="../../../images/profileinformation.jpg" alt="profileinformation" style="width: 50%; display: block"></a>
+<img src="../../../images/profileinformation.jpg" alt="profileinformation" style="width: 40%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---
@@ -27,7 +27,7 @@ Title | Enter the title.
 
 Create and manage the profile picture or provile avatar.
 
-<img src="../../../images/profilepicture.jpg" alt="profilepicture" style="width: 50%; display: block"></a>
+<img src="../../../images/profilepicture.jpg" alt="profilepicture" style="width: 40%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---
@@ -38,7 +38,7 @@ Create and manage the profile picture or provile avatar.
 
 Create and manage the profile picture.
 
-<img src="../../../images/profilepicture2.jpg" alt="profilepicture2" style="width: 50%; display: block"></a>
+<img src="../../../images/profilepicture2.jpg" alt="profilepicture2" style="width: 40%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---
@@ -50,7 +50,7 @@ Create and manage the profile avatar.
 
 TO BE COMPLETED.
 
-<img src="../../../images/profileavatar.jpg" alt="profileavatar" style="width: 50%; display: block"></a>
+<img src="../../../images/profileavatar.jpg" alt="profileavatar" style="width: 40%; display: block"></a>
 
 ## Confirm
 
