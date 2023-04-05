@@ -34,23 +34,33 @@ Authorize | Authorize yourself.
 
 Manage Swagger. Any action method in controllers can be tested from the user interface. Select a method name to expand the section. 
 
-<img src="../../../images/swagger.jpg" alt="swagger" style="width: 80%; display: block"></a>
+<img src="../../../images/swagger.jpg" alt="swagger" style="width: 100%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---
 Try it out | Unlock the fields that are necessary to fill them out.
 Fill out necessary fields | Add all the necessary parameters. Parameters differ depending on the catalog you want to test. It can be a password, e-mail, etc.
 
-<img src="../../../images/swagger2.jpg" alt="swagger2" style="width: 80%; display: block"></a>
+!!!Note:
+The Solodev API supports these HTTP methods for interacting with resources:<p>
+- GET, which is used to retrieve data. GET requests are safe and idempotent because they do not update or change user data.<p> 
+- POST, which is used to create new endpoints and update existing ones. 
+- DELETE, which is used to remove a resource.
+!!!
+
+<img src="../../../images/swagger2.jpg" alt="swagger2" style="width: 100%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---
 Execute | Execute the HTTP response.
-Download | Download response in **.json** format.
 
 The executed response will be listed at the bottom.
 
-<img src="../../../images/swagger3.jpg" alt="swagger3" style="width: 80%; display: block"></a>
+<img src="../../../images/swagger3.jpg" alt="swagger3" style="width: 100%; display: block"></a>
+
+**Name** | **Description** 
+:--- | ---
+Download | Download the response in **.json** format.
 
 !!!Note:
 Click **Cancel** to cancel the action. 

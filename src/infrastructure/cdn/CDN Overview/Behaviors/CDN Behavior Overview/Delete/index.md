@@ -1,6 +1,5 @@
 # Delete
 
-
 Under the Advanced dropdown, you can execute advanced operations such as deleting a CDN. 
 
 <img src="../../../../images/updatecdn2.jpg" alt="updatecdn2" style="width: 50%; display: block"></a>

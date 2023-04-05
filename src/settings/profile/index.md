@@ -12,43 +12,46 @@ Deployments, websites, clusters, and applications installed within an organizati
 
 **Name** | **Description** 
 :--- | ---
+<a href="/settings/profile/#update-organization-profile-details/">Update Organization Profile Details</a> | Manage organization profile details such as billing email.
+<a href="/settings/profile/#manage-organization/">Manage Organization</a> | Manage organization - rename or delete it and more.
+<a href="/settings/profile/#organization-image/">Organization Image</a> | Manage organization image.
+
+## Update Organization Profile Details
+
+Update organization profile details.
+
+<img src="../../../images/updateprofile.jpg" alt="updateprofile" style="width: 50%; display: block"></a>
+
+**Name** | **Description** 
+:--- | ---
 Billing Email | Enter the billing email you want to assign to the organization.
 Country | Select the country.
 Postal Code | Enter the postal code.
 Description | Enter the intro.
+
+## Manage Organization
+
+Manage the organization.
+
+<img src="../../../images/renameordeleteorg.jpg" alt="renameordeleteorg" style="width: 50%; display: block"></a>
+
+**Name** | **Description** 
+:--- | ---
+<a href="/settings/profile/rename/">Rename Organization</a> | Rename the organization.
+<a href="/settings/profile/delete/">Delete Organization</a> | Delete the organization.
 Enable private catalogs | Deploy and sell from private catalogs of users in your organization.
-Organization Image | Change the organization image. Click **Replace Image**.
-[Rename](https://cloud.solodev.net/settings/profile/#rename) | Rename the organization		
-[Delete](https://cloud.solodev.net/settings/profile/#delete) | Delete the organization			
 
-## Rename
+## Organization Image
 
-Rename your organization by putting the new name in the field.
+Create and manage the organization image.
 
-<img src="../../../images/rename.jpg" alt="rename" style="width: 35%; display: block"></a>
+<img src="../../../images/organizationimage.jpg" alt="organizationimage" style="width: 40%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---
-Title | Enter the organization name.
-
-## Delete
-
-Delete your organization.
-
-<img src="../../../images/delete-organization.jpg" alt="delete-organization" style="width: 35%; display: block"></a>
-
-**Name** | **Description** 
-:--- | ---
-Delete | To remove your organization, type **DELETE** in all caps into the field and click the red Delete button.
-
-!!! Note:
-Deleting an organization will permanently remove the organization and all of its content and cannot be undone.
-!!!
+Replace Image | Add an image by clicking **Replace Image** and choosing the file from your computer.
 
 ## Confirm
 
-Once you have completed all the fields, click **Update**, or **Submit** in case of renaming the organization to apply your changes.
-
-
-
+Once you have completed all the fields, click **Submit** to apply your changes.
 
