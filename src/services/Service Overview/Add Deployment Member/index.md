@@ -2,7 +2,7 @@
 
 Add a new member to your deployment in Solodev Cloud.
 
-<img src="../../../images/adddeploymentmember.jpg" alt="adddeploymentmember" style="width: 40%; display: block"></a>
+<img src="../../../images/adddeploymentmember.jpg" alt="adddeploymentmember" style="width: 50%; display: block"></a>
 
 
 **Name** | **Description** 

@@ -2,7 +2,7 @@
 
 Upgrade the container to a newer version.
 
-<img src="../../../../images/upgradeservice.jpg" alt="upgradeservice" style="width: 40%; display: block"></a>
+<img src="../../../../images/upgradeservice.jpg" alt="upgradeservice" style="width: 50%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---

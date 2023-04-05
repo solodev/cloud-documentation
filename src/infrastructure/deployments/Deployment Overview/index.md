@@ -1,6 +1,6 @@
 # Deployment Overview
 
-Manage your deployments by updating details, modifying permissions for members, or upgrading your deployment version.
+Manage the deployment by updating details, modifying permissions for members, or upgrading the deployment version.
 
 <img src="../../../images/deploymentoverview.jpg" alt="deploymentoverview" style="width: 100%; display: block"></a>
 
@@ -11,7 +11,7 @@ The specificity of each product is different, therefore the options that are ava
 **Name** | **Description** 
 :--- | ---
 <a href="update/">Update</a> | Edit deployment settings, delete the deployment.
-<a href="upgrade/">Upgrade</a> | Upgrade your deployment version.
-<a href="permissions/">Permissions</a> | Manage your permissions.
+<a href="upgrade/">Upgrade</a> | Upgrade deployment version.
+<a href="permissions/">Permissions</a> | Manage permissions.
 
 
