@@ -1,6 +1,10 @@
 # Update
 
-Under the **Update** option you can check stack outputs and delete the deployment.
+Under the **Update** option you can manage stack outputs and delete the deployment.
+
+Copy data by clicking the copy icon.
+
+Unhide the Admin Password by clicking the eye icon.
 
 <img src="../../../../images/updatedeployment.jpg" alt="updatedeployment" style="width: 50%; display: block"></a>
 
