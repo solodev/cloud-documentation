@@ -9,8 +9,17 @@ Adding a service in Solodev Cloud is a simple process and can be completed in mi
 Product Selection | Select the product you are interested in by clicking the blue button on the product card.
 
 !!!Note:
-Some products have a purchase option. For others without a purchase option, contact Solodev by filling out the contact form. Below is an example of a product **Solodev CMS** that can be purchased immediately without having to contact Solodev.
+Some products have a purchase option. For others without a purchase option, contact Solodev by filling out the contact form.
 !!!
+
+**Name** | **Description** 
+:--- | ---
+<a href="/services/add-service/#Purchase">Purchase</a>  | Purchase the product.
+<a href="/services/add-service/#Call Us">Call Us</a> | Ask about the product.
+
+## Purchase
+
+Purchase the selected product.
 
 <img src="../../../images/addservice2.jpg" alt="addservice2" style="width: 100%; display: block"></a>
 
@@ -34,3 +43,29 @@ Install | Install the product to begin using in the Solodev Cloud.
 !!!Note:
 The next steps required to install the product depend on its specific characteristics.
 !!!
+
+## Call Us
+
+Ask about the product.
+
+<img src="../../../images/addservicecallus.jpg" alt="addservicecallus" style="width: 100%; display: block"></a>
+
+**Name** | **Description** 
+:--- | ---
+Call Us | Click this button to go one step further to fill out the contact form.
+
+Fill out the contact form.
+
+<img src="../../../images/addservicecallus2.jpg" alt="addservicecallus2" style="width: 40%; display: block"></a>
+
+**Name** | **Description** 
+:--- | ---
+First Name | Input the first name.
+Last Name | Input the last name.
+Company Name | Input the company name.
+Email Address | Input the email address where you will receive communications related to your query.
+Phone Number | Input the phone number.
+
+### Confirm
+
+Once you have completed all the fields, click **Schedule Call**.
