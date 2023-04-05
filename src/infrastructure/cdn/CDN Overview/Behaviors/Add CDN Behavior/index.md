@@ -6,14 +6,15 @@ Adding a CDN Behavior in Solodev Cloud is a simple process and can be completed 
 
 **Name** | **Description** 
 :--- | ---
- | 
 Add Path Pattern | Add the path pattern.
 Origin | Add the origin.
 
 ## Confirm
 
-Once you have completed all the fields, click **Add** to create your CDN.
+Once you have completed all the fields, click **Submit** to create the CDN Behavior.
 
 !!!Note:
-The CDN build process may take several minutes to complete after clicking the **Add** button. Do not close or quit your browser during this process.
+The CDN Behavior build process may take several minutes to complete after clicking the **Submit** button. Do not close or quit your browser during this process.
 !!!
+
+

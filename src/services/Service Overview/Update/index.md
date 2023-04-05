@@ -31,7 +31,7 @@ Under the Advanced dropdown, you can execute advanced operations such as deletin
 
 **Name** | **Description** 
 :--- | ---
-Delete | To remove your service, type **DELETE** in all caps into the field and click the red Delete button.
+Delete | To remove the service, type **DELETE** in all caps into the field and click the red Delete button.
 
 !!! Note: 
 Deleting a service will permanently remove the service and all of its content and cannot be undone.

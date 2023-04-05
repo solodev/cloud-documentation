@@ -46,6 +46,7 @@ Fill out necessary fields | Add all the necessary parameters. Parameters differ 
 **Name** | **Description** 
 :--- | ---
 Execute | Execute the HTTP response.
+Download | Download response in **.json** format.
 
 The executed response will be listed at the bottom.
 

@@ -2,13 +2,13 @@
 
 The CDN GEO Restriction modal allows you to add and remove restrictions to your CDN.
 
-<img src="../../../../images/georestrictions.jpg" alt="addcdn" style="width: 40%; display: block"></a>
+<img src="../../../../images/georestrictions.jpg" alt="addcdn" style="width: 50%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---
 Restriction Type | Choose from three types of restrictions. See note below.
 Select Countries | Select the country the restrictions apply to.
-Delete | Click the **"x"** button to remove country from the list.
+Delete | Click the **"x"** button to remove the country from the list.
 
 !!!Note:
 Choose from three types of restrictions:<p>
