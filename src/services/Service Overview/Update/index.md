@@ -1,6 +1,6 @@
 # Update
 
-Under the **Update** option you can manage SSO settings and delete the service.
+Manage SSO settings, delete the service.
 
 <img src="../../../images/updateservice.jpg" alt="updateservice" style="width: 50%; display: block"></a>
 
