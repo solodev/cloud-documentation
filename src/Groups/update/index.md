@@ -14,7 +14,7 @@ Description | Enter the group description.
 
 Under the Advanced dropdown, you can execute advanced operations such as deleting a group. 
 
-<img src="../../../images/updateservice2.jpg" alt="updateservice2" style="width: 50%; display: block"></a>
+<img src="../../../images/groups-update2.jpg" alt="groups-update2" style="width: 50%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---
