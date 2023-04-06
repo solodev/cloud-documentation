@@ -13,37 +13,37 @@ On the billing page, among others, you can check billing contact and billing his
 
 **Name** | **Description** 
 :--- | ---
-<a href="/settings/billing/history">History</a> | View your billing history.
-<a href="/settings/billing/subscriptions">Subscriptions</a> | View  and manage your subscriptions.
-<a href="/settings/billing/purchases">Purchases</a> | View your purchases.
-<a href="/settings/billing/#payment-details">Payment Details</a> | Manage your payment details.	
-<a href="/settings/billing/#billing-address">Billing Address</a>  | Manage your billing address.
+<a href="/settings/billing/history">History</a> | View billing history.
+<a href="/settings/billing/subscriptions">Subscriptions</a> | View and manage subscriptions.
+<a href="/settings/billing/purchases">Purchases</a> | View purchases.
+<a href="/settings/billing/#payment-details">Payment Details</a> | Manage payment details.	
+<a href="/settings/billing/#billing-address">Billing Address</a>  | Manage billing address.
 
 ## Payment Details
 
-Edit your payment details by clicking on the pencil icon above the Payment Details card on the right.
+Edit payment details by clicking on the pencil icon above the Payment Details card on the right.
 
-<img src="../../../images/paymentdetails.jpg" alt="billing" style="width: 35%; display: block"></a>
+<img src="../../../images/paymentdetails.jpg" alt="billing" style="width: 50%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---
-First Name | Enter your first name.
-Last Name | Enter your last name.
+First Name | Enter the first name.
+Last Name | Enter the last name.
 Credit card number| Enter the credit card number.
 Expiry Date | Enter the card's expiry date.
 CVV | Enter CVV.
 
 ## Billing Address
 
-Edit your billing address by clicking on the pencil icon above the Billing Address card on the right.
+Edit the billing address by clicking on the pencil icon above the Billing Address card on the right.
 
-<img src="../../../images/updatebillingaddress.jpg" alt="updatebillingaddress" style="width: 35%; display: block"></a>
+<img src="../../../images/updatebillingaddress.jpg" alt="updatebillingaddress" style="width: 50%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---
-Company Name | Enter your company name.
+Company Name | Enter the company name.
 Company Address | Enter the company address.
-Country | Choose the country where your company is located.
+Country | Choose the country where the company is located.
 State or region | Choose the state or region where the company is located.
 City | Enter the city where the company is located.
 Postal Code | Enter the postal code.

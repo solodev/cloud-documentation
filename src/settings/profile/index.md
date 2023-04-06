@@ -20,7 +20,7 @@ Deployments, websites, clusters, and applications installed within an organizati
 
 Update organization profile details.
 
-<img src="../../../images/updateprofile.jpg" alt="updateprofile" style="width: 50%; display: block"></a>
+<img src="../../../images/updateprofile.jpg" alt="updateprofile" style="width: 40%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---
@@ -33,7 +33,7 @@ Description | Enter the intro.
 
 Manage the organization.
 
-<img src="../../../images/renameordeleteorg.jpg" alt="renameordeleteorg" style="width: 50%; display: block"></a>
+<img src="../../../images/renameordeleteorg.jpg" alt="renameordeleteorg" style="width: 40%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---
