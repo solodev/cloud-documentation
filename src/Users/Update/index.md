@@ -6,7 +6,7 @@ Update the user's profile.
 
 **Name** | **Description** 
 :--- | ---
-<a href="/users/update-user/#advanced">Advanced</a> | Manage the advanced settings.
+<a href="/users/update/#advanced">Advanced</a> | Manage the advanced settings.
 
 ## Advanced
 

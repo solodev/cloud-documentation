@@ -1,4 +1,4 @@
 order: 99
 icon: code-of-conduct
 expanded: 
-redirect: 
+visibility: hidden
