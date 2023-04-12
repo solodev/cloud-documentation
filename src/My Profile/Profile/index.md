@@ -11,7 +11,7 @@ Manage the profile by clicking **Manage Profile** on the bottom left and choosin
 
 ## Profile Information 
 
-Manage the profile information by providing names, phone number and more.
+Manage the profile information by providing names, phone number, and more.
 
 <img src="../../../images/profileinformation.jpg" alt="profileinformation" style="width: 40%; display: block"></a>
 
@@ -25,7 +25,7 @@ Title | Enter the title.
 
 ## Profile Picture or Profile Avatar
 
-Create and manage the profile picture or provile avatar.
+Create and manage the profile picture or profile avatar.
 
 <img src="../../../images/profilepicture.jpg" alt="profilepicture" style="width: 40%; display: block"></a>
 
@@ -48,9 +48,32 @@ Replace Image | Add an image by clicking **Replace Image** and choosing the file
 
 Create and manage the profile avatar.
 
-TO BE COMPLETED.
+<img src="../../../images/avatar.jpg" alt="avatar" style="width: 75%; display: block"></a>
 
-<img src="../../../images/profileavatar.jpg" alt="profileavatar" style="width: 40%; display: block"></a>
+**Name** | **Description** 
+:--- | ---
+Choose Your Body Type | Choose body type from: **Masculine**, **Feminine**, **Don't specify**.
+Sign In With **Ready Player Me** | Sign in if you have already an avatar.
+
+<img src="../../../images/avatar2.jpg" alt="avatar2" style="width: 75%; display: block"></a>
+
+**Name** | **Description** 
+:--- | ---
+Take a photo | Create an avatar based on taking a photo.
+Pick a file | Create an avatar based on a photo you have uploaded.
+Continue without a photo | Create your avatar without using a photo.
+
+<img src="../../../images/avatar3.jpg" alt="avatar3" style="width: 75%; display: block"></a>
+
+**Name** | **Description** 
+:--- | ---
+Pick an Avatar | Pick your avatar and click **Next**.
+
+<img src="../../../images/avatar4.jpg" alt="avatar4" style="width: 75%; display: block"></a>
+
+**Name** | **Description** 
+:--- | ---
+Create your avatar | Build your avatar by selecting individual elements. When finish, click **Next**.
 
 ## Confirm
 
