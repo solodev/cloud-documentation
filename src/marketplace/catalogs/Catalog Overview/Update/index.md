@@ -1,8 +1,8 @@
 # Update
 
-Update a catalog's details or delete a catalog from your Marketplace by clicking the **Update** button on the Catalog Overview page.
+Update the catalog's details or delete the catalog.
 
-<img src="../../../../../images/catalogupdate.jpg" alt="catalogsupdate" style="width: 40%; display: block"></a>
+<img src="../../../../../images/catalogupdate.jpg" alt="catalogupdate" style="width: 50%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---
@@ -17,19 +17,22 @@ Blockchain Provider | Choose from the existing ones or add the new Blockchain Pr
 
 Under the Advanced dropdown, you can execute advanced operations such as deleting a catalog. 
 
-<img src="../../../../../images/catalogupdate2.jpg" alt="catalogsupdate2" style="width: 40%; display: block"></a>
+<img src="../../../../images/catalogupdate2.jpg" alt="catalogupdate2" style="width: 50%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---
-Delete | To remove your catalog, type **DELETE** in all caps and click the Delete button.
+Delete | To remove the catalog, type **DELETE** in all caps into the field and click the red Delete button.
 
-!!! Note:
+!!! Note: 
 Deleting a catalog will permanently remove the catalog and all of its content and cannot be undone.
 !!!
+
 
 ## Confirm
 
 Once you have completed all the fields, click **Submit** to apply your changes.
+
+
 
 
 

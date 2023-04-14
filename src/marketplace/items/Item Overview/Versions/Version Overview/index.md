@@ -7,7 +7,6 @@ Manage your item versions by managing its details and statuses, and more.
 **Name** | **Description** 
 :--- | ---
 <a href="/marketplace/items/item-overview/versions/version-overview/#update-version">Update Version</a>| Update your version.
-<a href="/marketplace/items/item-overview/versions/version-overview/#mapped-products">Mapped Products</a> | Manage your mapped products
 <a href="/marketplace/items/item-overview/versions/version-overview/#version-details">Version Details</a> | Manage your version details.
 <a href="/marketplace/items/item-overview/versions/version-overview/#status">Status</a>  | Manage your version status.
 <a href="/marketplace/items/item-overview/versions/version-overview/delete">Delete</a> | Delete the version.
@@ -21,17 +20,6 @@ Update your version.
 **Name** | **Description** 
 :--- | ---
 Enter the code | Update your version with Buildspec.
-
-## Mapped Products
-
-Manage your mapped products.
-
-<img src="../../../../../images/mappedproducts.jpg" alt="mappedproducts" style="width: 60%; display: block"></a>
-
-**Name** | **Description** 
-:--- | ---
-<a href="/marketplace/items/item-overview/versions/version-overview/map-product-catalog-item-version-compatibility">Map Product Catalog Item Version Compatibility</a> | Map product catalog item version compatibility.
-Delete Mapped Product | Click **Trash** button to delete the mapped product.
 
 ## Version Details
 

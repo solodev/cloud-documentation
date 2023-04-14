@@ -2,7 +2,7 @@
 
 Delete your selected catalog item.
     
-<img src="../../../../../images/deleteitem.jpg" alt="deleteitem" style="width: 40%; display: block"></a>
+<img src="../../../../../images/deleteitem.jpg" alt="deleteitem" style="width: 50%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---

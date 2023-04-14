@@ -11,6 +11,7 @@ Manage your items. Define the version, category, logo, and more.
 <a href="/marketplace/items/item-overview/#status">Status </a> | Manage item status.
 <a href="/marketplace/items/item-overview/#categories">Categories </a>  | Manage item category.
 <a href="/marketplace/items/item-overview/versions/add-catalog-item-version">Add Catalog Item Version</a>  | Add a new catalog item version.
+<a href="/marketplace/items/item-overview/plans/add-catalog-item-plan">Add Catalog Item Plan</a>  | Add a new catalog item plan.
 <a href="/marketplace/items/item-overview/copy/#copy-item">Copy Item</a> | Copy your item
 <a href="/marketplace/items/item-overview/transfer/#transfer-item">Transfer Item</a> | Transfer your item to another catalog.
 <a href="/marketplace/items/item-overview/delete/#delete">Delete</a> | Delete your item.
@@ -19,8 +20,6 @@ Manage your items. Define the version, category, logo, and more.
 !!!Note:
 Item Overview page content depends on the fulfillment type. In the case of **Service**, Buildspec formulas can be managed directly, not via item versions. Below is an example of service fulfillment type.
 !!!
-
-<img src="../../../../../images/itemoverview2.jpg" alt="itemoverview2" style="width: 100%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---

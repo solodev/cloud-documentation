@@ -19,15 +19,17 @@ You can choose from three plans:
  
 **Name** | **Description** 
 :--- | ---
-<a href="/marketplace/profile/credit-card-details/">Credit Card Details</a> | Change your credit card details.
-[Payment Details](https://cloud.solodev.net/marketplace/profile/change-plan#payment-details) | Update your payment details.
-[Contact Solodev](https://cloud.solodev.net/marketplace/profile/change-plan#contact-solodev) | Contact Solodev in case of any questions.
+<a href="/marketplace/profile/credit-card-details/">Credit Card Details</a> | Click pencil icon to change your credit card details.
+<a href="/marketplace/profile/change-plan/#payment-details">Payment Details</a> | Update your payment details.
+[Contact Billing Department](mailto:billing@solodev.com) | Contact Billing Department.
+[Contact Solodev](http://www.solodev.com/contact) | Contact Solodev.
+[Contact Support Team](mailto:help@solodev.com) | Contact Support Team.
 
 ## Payment Details
 
 Update your payment details.
 
-<img src="../../../images/marketplaceprofilepaymentdetails.jpg" alt="marketplaceprofilepaymentdetails" style="width: 35%; display: block"></a>
+<img src="../../../images/profileinformation3.jpg" alt="profileinformation3" style="width: 40%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---
@@ -38,18 +40,6 @@ State or Region | Choose your state or region.
 City | Enter your city.
 Postal Code | Enter your postal code.
 VAT Number | Enter your VAT number.
-
-## Contact Solodev
-
-If you have any questions regarding billing or about plans, make contact Solodev.
-
-<img src="../../../images/marketplaceprofilecontactsolodev.jpg" alt="marketplaceprofilecontactsolodev" style="width: 45%; display: block"></a>
-
-**Name** | **Description** 
-:--- | ---
-[Contact Billing Department](mailto:billing@solodev.com) | Contact Billing Department.
-[Contact Solodev](http://www.solodev.com/contact) | Contact Solodev.
-[Contact Support Team](mailto:help@solodev.com) | Contact Support Team.
 
 ## Subscribe
 
