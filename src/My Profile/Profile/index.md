@@ -6,8 +6,8 @@ Manage the profile by clicking **Manage Profile** on the bottom left and choosin
 
 **Name** | **Description** 
 :--- | ---
-[Profile Information](https://cloud.solodev.net/my-profile/profile/#profile-information) | Manage profile information.
-[Profile Picture or Profile Avatar](https://cloud.solodev.net/my-profile/profile/#profile-picture-or-profile-avatar) | Manage profile picture or profile avatar.
+<a href="/my-profile/profile/#profile-information">Profile Information</a> | Manage profile information.
+<a href="/my-profile/profile/#profile-picture-or-profile-avatar">Profile Picture or Profile Avatar</a> | Manage profile picture or profile avatar.
 
 ## Profile Information 
 
@@ -27,18 +27,18 @@ Title | Enter the title.
 
 Create and manage the profile picture or profile avatar.
 
-<img src="../../../images/profilepicture.jpg" alt="profilepicture" style="width: 40%; display: block"></a>
+<img src="../../../images/profilepicture.jpg" alt="profilepicture" style="width: 30%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---
-[Profile Picture](https://cloud.solodev.net/my-profile/profile/#profile-picture) | Manage the profile picture.
-[Profile Avatar](https://cloud.solodev.net/my-profile/profile/#profile-avatar) | Manage the profile avatar.
+<a href="/my-profile/profile/#profile-picture">Profile Picture</a> | Manage the profile picture.
+<a href="/my-profile/profile/#profile-avatar">Profile Avatar</a> | Manage the profile avatar.
 
 ### Profile Picture
 
 Create and manage the profile picture.
 
-<img src="../../../images/profilepicture2.jpg" alt="profilepicture2" style="width: 40%; display: block"></a>
+<img src="../../../images/profilepicture2.jpg" alt="profilepicture2" style="width: 30%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---

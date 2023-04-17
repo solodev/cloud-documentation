@@ -24,7 +24,7 @@ The basic structure of the content follows this format:
     ...</p>
 !!!
 
-Using the build param, you can provide default values for questions asked in Cloud Formation Templates. The basic structure of the param looks like this:
+Using the build param, you can provide default values for questions asked in AWS CloudFormation Templates. The basic structure of the param looks like this:
 
 !!!
 <p>build: // beginning of the build section<br>

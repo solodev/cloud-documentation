@@ -25,5 +25,3 @@ Deleting a user will permanently remove the user.
 ## Confirm
 
 Once you have completed all the fields, click **Submit** to apply your changes.
-
-

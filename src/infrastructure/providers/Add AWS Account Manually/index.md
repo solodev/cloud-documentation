@@ -1,30 +1,30 @@
 # Add AWS Account Manually
 
-Use this guide to manually set up integration between the Cloud and AWS via Access keys.
+Use this guide to manually set up integration between the Cloud and AWS via access keys.
 
-In order to integrate Solodev Cloud with AWS please follow these simple steps:
+In order to integrate Solodev Cloud with AWS, please follow these simple steps:
 
 #### AWS
-1. Create an AWS IAM user to be used for the integration with the Solodev Cloud. Easiest way to do it is via your AWS console. To make sure that the user will have necessary permissions please refer to IAM Policy .
-2. Generate an access key and secret key for the  integration with Solodev Cloud.
+1. Create an AWS IAM user to be used for integration with Solodev Cloud. The easiest way to do this is via your AWS console. To ensure that the user has the necessary permissions, please refer to the IAM Policy.
+2. Generate an access key and secret key for the integration with Solodev Cloud.
 
 #### Solodev Cloud
 
 3. In the **Provider** tile, click **Add Cloud Account**, select AWS, click **Install for free**, click **Complete Purchase**, and select **Install**.
-4. You will be taken to "Add Provider" tile. Click **Manually**, and then select the Access Keys option from the dropdown menu.
+4. You will be taken to the "Add Provider" tile. Click **Manually**, and then select the Access Keys option from the dropdown menu.
 5. Enter your Account ID, AWS Access Key and AWS Secret Key.
 6. Click **Connect**.
 7. Wait few minutes for data to start being collected.
 
 #### AWS IAM Permissions
 
-AWS IAM permissions enable Solodev Cloud to collect data necessary to monitor your AWS environment.
+AWS IAM permissions enable Solodev Cloud to collect the necessary data to monitor your AWS environment.
 
 To correctly set up the AWS Integration, you must attach the relevant IAM policies to the Solodev Cloud IAM Role in your AWS account.
 
 #### AWS Integration IAM Policy
 
-The following permissions included in the policy document use wild cards such as *List* and Get*. If you require strict policies, use the complete action names as listed and reference the Amazon API documentation for your respective services.
+The following permissions included in the policy document use wildcards such as List and Get. If you require strict policies, use the complete action names as listed and reference the Amazon API documentation for your respective services.
 
 ```js 
 {

@@ -59,7 +59,7 @@ Marketplace is not a default option in your Developer Org. You must activate it 
 
 **Name** | **Description** 
 :--- | ---
-<a href="/services/">Services</a> | Add and manage your services.
+<a href="/services/">Services</a> |  Add and manage your services.
 <a href="/pages/">Pages</a> | Build and manage pages and sites.
 <a href="/infrastructure/">Infrastructure</a> | Add and manage clusters, containers, deployments, and more.
 Marketplace | Create catalogs of apps and services to sell or resell in your org. Must be manually activated in your account.
