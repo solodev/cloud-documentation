@@ -45,7 +45,7 @@ Enable private catalogs | Deploy and sell from private catalogs of users in your
 
 Create and manage the organization image.
 
-<img src="../../../images/organizationimage.jpg" alt="organizationimage" style="width: 40%; display: block"></a>
+<img src="../../../images/organizationimage.jpg" alt="organizationimage" style="width: 30%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---

@@ -2,7 +2,7 @@
 
 Under the Advanced dropdown, you can execute advanced operations such as deleting an organization. 
 
-<img src="../../../../images/deleteorg.jpg" alt="deleteorg" style="width: 50%; display: block"></a>
+<img src="../../../../images/deleteorg.jpg" alt="deleteorg" style="width: 40%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---

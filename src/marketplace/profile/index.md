@@ -31,7 +31,7 @@ The fields above can differ dependently on the selected plan.
 
 Create and manage the organization image.
 
-<img src="../../../images/organizationimage.jpg" alt="organizationimage" style="width: 40%; display: block"></a>
+<img src="../../../images/organizationimage.jpg" alt="organizationimage" style="width: 30%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---

@@ -2,7 +2,7 @@
 
 Create the new organization.
 
-<img src="../../../images/addorganization.jpg" alt="addorganization" style="width: 40%; display: block"></a>
+<img src="../../../images/addorganization.jpg" alt="addorganization" style="width: 50%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---
@@ -14,5 +14,5 @@ Billing Email | Enter the billing email.
 Once you have completed all the fields, click **Add** to create the new organization.
 
 !!!Note:
-The organization build process may take several minutes to complete after clicking the **Add** button. Do not close or quit your browser during this process.
+The organization build process may take several minutes to complete after clicking the **Add** button. Do not close or quit your browser during this process.f
 !!!

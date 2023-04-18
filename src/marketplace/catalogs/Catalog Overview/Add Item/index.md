@@ -2,7 +2,7 @@
 
 Adding an item to the catalog in Solodev Cloud is a simple process and can be completed in minutes.
 
-<img src="../../../../images/catalogadditem.jpg" alt="catalogadditem" style="width: 50%; display: block"></a>
+<img src="../../../../images/catalogadditem.jpg" alt="catalogadditem" style="width: 40%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---

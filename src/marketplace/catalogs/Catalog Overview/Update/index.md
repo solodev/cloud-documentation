@@ -17,7 +17,7 @@ Blockchain Provider | Choose from the existing ones or add the new Blockchain Pr
 
 Under the Advanced dropdown, you can execute advanced operations such as deleting a catalog. 
 
-<img src="../../../../images/catalogupdate2.jpg" alt="catalogupdate2" style="width: 50%; display: block"></a>
+<img src="../../../../images/catalogupdate2.jpg" alt="catalogupdate2" style="width: 40%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---

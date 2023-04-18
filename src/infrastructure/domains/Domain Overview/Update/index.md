@@ -2,13 +2,13 @@
 
 Update domain details or delete a domain from your Solodev Cloud by clicking the **Update** button on the Domain Overview page.
 
-<img src="../../../../images/updatedomain.jpg" alt="updatedomain" style="width: 35%; display: block"></a>
+<img src="../../../../images/updatedomain.jpg" alt="updatedomain" style="width: 40%; display: block"></a>
 
 ## Advanced
 
 Under the Advanced dropdown, you can execute advanced operations such as deleting a domain. 
 
-<img src="../../../../images/updatedomain2.jpg" alt="updatedomain2" style="width: 35%; display: block"></a>
+<img src="../../../../images/updatedomain2.jpg" alt="updatedomain2" style="width: 40%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---
