@@ -13,7 +13,7 @@ Set up a new account in Solodev Cloud or sign in.
 
 First, set up a new account. Visit [Solodev.com](https://www.solodev.com) and navigate to the **Sign Up** button to the right of the search bar.
 
-<img src="../../../images/signup.jpg" alt="signup" style="width: 40%; display: block"></a>
+<img src="../../../images/signup.jpg" alt="signup" style="width: 50%; display: block"></a>
 
 
 **Name** | **Description** 
@@ -38,34 +38,40 @@ You will need to wait up to 48 hours for your account to be approved. If you nee
 
 ## Sign In
 
-Sign into Solodev with the Solodev credentials or the GitHub credentials. 
+Sign into Solodev with your Solodev credentials. 
 
-<img src="../../../images/signin.jpg" alt="signin" style="width: 40%; display: block"></a>
+<img src="/../../../images/signin.png" alt="signin" style="width: 40%; display: block"></a>
 
 **Name** | **Description** 
 --- | ---
 Username | Enter your username.
+Email | Enter your email.
+
+<img src="/../../../images/signin2.png" alt="signin" style="width: 40%; display: block"></a>
+
+**Name** | **Description** 
+--- | ---
 Password | Enter your password.
-<a href="/overview/#cant-log-in">Can’t Login?</a>  | Use this option if you’re having trouble logging in.
-<a href="/overview/#sign-up">Sign Up For an Account</a>  | Use this option if you want to register an account.
+<a href="/overview/#forgot-password">Forgot Password?</a> | Use this option if you’re having trouble logging in.
 
 !!!Tip:
-If you’re having trouble logging in with GitHub, use the **Forgot Password** link on the GitHub credentials screen and follow the steps.
+If you’re having trouble logging, use the **Forgot Password** link on the screen and follow the steps.
 !!!
 
 ### Confirm
 
-Once you have completed all the fields, click either **Log In** or **Log In With GitHub** to log in to Solodev Cloud.
+Once you have completed all the fields, click on **Log In** to sign into Solodev Cloud.
 
-## Can't log in?
+## Forgot Password?
 
 Reset your password using your username or email address.
 
-<img src="../../../images/cantlogin.jpg" alt="cantlogin" style="width: 40%; display: block"></a>
+<img src="../../../images/forgot-password.png" alt="forgot password" style="width: 40%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---
-Username | Enter your username or email address.
+Username | Enter your username.
+Email | Enter your email.
 <a href="/overview/#sign-in">Sign In</a> | Login to use Solodev Cloud account.
 
 ### Confirm
