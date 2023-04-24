@@ -6,7 +6,7 @@ Set up a new account in Solodev Cloud or sign in.
 
 **Name** | **Description** 
 --- | ---
-<a href="/overview/#sign-up">Sign Up</a>  | Create an account.
+<a href="/overview/#sign-up">Sign Up</a> | Create an account.
 <a href="/overview/#sign-in">Sign In</a> | Login to use Solodev Cloud account.
 
 ## Sign Up

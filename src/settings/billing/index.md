@@ -17,7 +17,7 @@ On the billing page, among others, you can check billing contact and billing his
 <a href="/settings/billing/subscriptions">Subscriptions</a> | View and manage subscriptions.
 <a href="/settings/billing/purchases">Purchases</a> | View purchases.
 <a href="/settings/billing/#payment-details">Payment Details</a> | Manage payment details.	
-<a href="/settings/billing/#billing-address">Billing Address</a>  | Manage billing address.
+<a href="/settings/billing/#billing-address">Billing Address</a> | Manage billing address.
 
 ## Payment Details
 

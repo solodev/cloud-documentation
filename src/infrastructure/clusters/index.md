@@ -12,5 +12,5 @@ Click the provider drop-down to filter by provider.
 
 **Name** | **Description** 
 :--- | ---
-<a href="/infrastructure/clusters/add-cluster">Add Cluster</a>  | Add a new cluster to your Solodev Cloud.
-<a href="/infrastructure/containers/add-container">Add Container</a>  | Add a new container to your Solodev Cloud.
+<a href="/infrastructure/clusters/add-cluster">Add Cluster</a> | Add a new cluster to your Solodev Cloud.
+<a href="/infrastructure/containers/add-container">Add Container</a> | Add a new container to your Solodev Cloud.

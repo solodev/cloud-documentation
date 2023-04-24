@@ -13,7 +13,7 @@ There are two main dashboard views in Solodev Cloud:
 
 The Developer Org Dashboard is the primary view of your Solodev Cloud account. You can access your Services, Pages, Infrastructure, Marketplace, and Settings using the left-hand tree. 
 
-<img src="../../../images/dev-org-dashboard1.jpg" alt="dev_dashboard" style="width: 100%; display: block"></a>
+<img src="../../../images/dev-org-dashboard1.png" alt="dev_dashboard" style="width: 100%; display: block"></a>
 
 The dashboard view will display a collection of your active apps and services in a card or table format. You can also quickly add new services from your dashboard by clicking the **Add Service** button.
 
@@ -28,6 +28,7 @@ Marketplace is not a default option in your Developer Org. You must activate it 
 <a href="/services/">Services</a> | Add and manage your services.
 <a href="/pages/">Pages</a> | Build and manage pages and sites.
 <a href="/infrastructure/">Infrastructure</a> | Add and manage clusters, containers, deployments, and more.
+<a href="/api/">API</a> | Allows you to manage Swagger.
 Marketplace | Create catalogs of apps and services to sell or resell in your org. Must be manually activated in your account.
 <a href="/settings/">Settings</a> | Manage your Solodev Cloud settings, such as permissions, API, and more.
 <a href="/organizations/">Organization</a> | Build and manage your organization.
@@ -45,7 +46,7 @@ While in your Developer Org, you can also click the logo in the upper left corne
 
 The Business Org Dashboard provides a common view for all organizations you create or are invited to. You can access your Services, Pages, Infrastructure, Marketplace, and Settings using the left-hand tree. Unlike the Developer Org Dashboard, the Business Org Dashboard allows you to access and manage your Users and Groups. 
 
-<img src="../../../images/biz-org-dashboard.jpg" alt="biz" style="width: 100%; display: block"></a>
+<img src="../../../images/dev-dashboard.png" alt="biz" style="width: 100%; display: block"></a>
 
 Each organization in Solodev Cloud will have its own default dashboard that will display a collection of your active apps and services in a card or table format. You can also quickly add new services from your dashboard by clicking the **Add Service** button. 
 
@@ -61,6 +62,7 @@ Marketplace is not a default option in your Developer Org. You must activate it 
 :--- | ---
 <a href="/services/">Services</a> |  Add and manage your services.
 <a href="/pages/">Pages</a> | Build and manage pages and sites.
+<a href="/api/">API</a> | Allows you to manage Swagger.
 <a href="/infrastructure/">Infrastructure</a> | Add and manage clusters, containers, deployments, and more.
 Marketplace | Create catalogs of apps and services to sell or resell in your org. Must be manually activated in your account.
 <a href="/settings/">Settings</a> | Manage your Solodev Cloud settings, such as permissions, API, and more.

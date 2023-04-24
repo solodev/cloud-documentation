@@ -14,7 +14,7 @@ Some products have a purchase option. For others without a purchase option, cont
 
 **Name** | **Description** 
 :--- | ---
-<a href="/services/add-service/#purchase">Purchase</a>  | Purchase the product.
+<a href="/services/add-service/#purchase">Purchase</a> | Purchase the product.
 <a href="/services/add-service/#call-us">Call Us</a> | Ask about the product.
 
 ## Purchase

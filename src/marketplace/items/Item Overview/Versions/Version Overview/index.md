@@ -8,7 +8,7 @@ Manage your item versions by managing its details and statuses, and more.
 :--- | ---
 <a href="/marketplace/items/item-overview/versions/version-overview/#update-version">Update Version</a>| Update your version.
 <a href="/marketplace/items/item-overview/versions/version-overview/#version-details">Version Details</a> | Manage your version details.
-<a href="/marketplace/items/item-overview/versions/version-overview/#status">Status</a>  | Manage your version status.
+<a href="/marketplace/items/item-overview/versions/version-overview/#status">Status</a> | Manage your version status.
 <a href="/marketplace/items/item-overview/versions/version-overview/delete">Delete</a> | Delete the version.
 
 ## Update Version

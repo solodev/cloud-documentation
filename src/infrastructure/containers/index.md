@@ -12,5 +12,5 @@ Click the cluster dropdown to filter by cluster.
 
 **Name** | **Description** 
 :--- | ---
-<a href="/infrastructure/containers/add-container">Add Container</a>  | Add a new container to your Solodev Cloud.
+<a href="/infrastructure/containers/add-container">Add Container</a> | Add a new container to your Solodev Cloud.
 

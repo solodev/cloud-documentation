@@ -10,4 +10,4 @@ Click the provider dropdown to filter by provider.
 
 **Name** | **Description** 
 :--- | ---
-<a href="/infrastructure/deployments/add-deployment">Add Deployment</a>  | Add a new deployment to your Solodev Cloud.
+<a href="/infrastructure/deployments/add-deployment">Add Deployment</a> | Add a new deployment to your Solodev Cloud.
