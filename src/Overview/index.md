@@ -70,7 +70,7 @@ Reset your password using your username or email address.
 
 **Name** | **Description** 
 :--- | ---
-Username | Enter your username.
+Username | Enter your username. 
 Email | Enter your email.
 <a href="/overview/#sign-in">Sign In</a> | Login to use Solodev Cloud account.
 
