@@ -1,3 +1,4 @@
 order: 99
 icon: plus
 expanded: 
+visibility: hidden
