@@ -14,8 +14,8 @@ At the top, you can check API Server that is currently used.
 
 **Name** | **Description** 
 :--- | ---
-[Authorize](https://cloud.solodev.net/settings/api/#authorize) | Authorize yourself to gain access to Swagger.
-[Swagger Management](https://cloud.solodev.net/settings/api/#swagger-management) | Select a method name under a category to expand the Swagger options.
+<a href="/api/#authorize">Authorize</a> | Authorize yourself to gain access to Swagger.
+<a href="/api/#swagger-management">Swagger Management</a> | Select a method name under a category to expand the Swagger options.
 
 ## Authorize
 

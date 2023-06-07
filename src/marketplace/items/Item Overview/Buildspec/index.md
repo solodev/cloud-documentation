@@ -10,57 +10,55 @@ With Buildspec, you can put your form into a structure, using such elements as p
 
 The basic structure of the content follows this format:
 
-!!!
-<p>form: // beginning the form definition section<br>
-- id: {name} // unique identifier of the field<br>
-    type: {field_type} // type of the field<br>
-    label: {Some Label} // label connected with this field<br>
-    description: {Test description for the name field} // helper text displayed under the label<br>
-    required: {true|false} // requirement flag<br>
-    autofocus: {true|false} // this field will gain focus right after the page load<br>
-    hideLabel: {true|false} // if you need to turn off the label<br>
-    placeholder: {Placeholder text} // useful with input or dropdown fields<br>
-- id: {name}<br>
-    ...</p>
-!!!
-
+```json
+form: // beginning the form definition section
+- id: {name} // unique identifier of the field
+    type: {field_type} // type of the field
+    label: {Some Label} // label connected with this field
+    description: {Test description for the name field} // helper text displayed under the label
+    required: {true|false} // requirement flag
+    autofocus: {true|false} // this field will gain focus right after the page load
+    hideLabel: {true|false} // if you need to turn off the label
+    placeholder: {Placeholder text} // useful with input or dropdown fields
+- id: {name}
+    ...
+```
 Using the build param, you can provide default values for questions asked in AWS CloudFormation Templates. The basic structure of the param looks like this:
 
-!!!
-<p>build: // beginning of the build section<br>
--ParameterKey: AppVersion // key of the parameter<br>
- ParameterValue: latest // value of the paramter<br>
--ParameterKey: DatabasePassword<br>
-...</p>
-!!!
+```json
+build: // beginning of the build section
+-ParameterKey: AppVersion // key of the parameter
+ ParameterValue: latest // value of the paramter
+-ParameterKey: DatabasePassword
+...
+```
 
 **Field types**
 
 
 Field types are different kinds of question formats that a user can assign to a form. The type section controls how the questions are formatted in the UI as well as the types of responses that are expected or required.
 
-!!!Available formats include:
+Available formats include:
 
-<p>
--hidden – No field will be shown in the UI, but the value will be stored in the form.<br>
--string – A textbox will be shown in the UI to capture the answer, and the answer will be formatted to a string.<br>
--clob – A text area will be shown in the UI to capture the answer, and the answer will be formatted to a multiline string.<br>
--email – Behaves just like a string type, but with e-mail address validation.<br>
--password – A password style of the textbox will be shown in the UI to capture the answer, and the value will be dotted and formatted to a string.<br>
--url – Behaves just like a string type, but with the URL validation.<br>
--boolean – A checkbox will be shown in the UI to capture the answer, and the answer will be entered as true if the checkbox is selected or false otherwise.<br>
--enum – A drop-down menu will be shown in the UI and the options section will be populated in the menu. The multiple options set to true will enable a multiple-choice type of drop-down, while the expanded option set to true will change the dropdown into a radio button group.<br>
--color – A color picker will be shown in the UI to capture the answer, and the answer will be formatted to the string with a # sign at the beginning.<br>
--date – A date picker will be shown in the UI to capture the answer, and the value will be formatted to the string.<br>
--tel – Behaves just like a string type, but with telephone number validation (ie. digits and dashes).<br>
--datetime – A date-time picker will be shown in the UI to capture the answer, and the value will be formatted to the string.<br>
--time – A time picker will be shown in the UI to capture the answer, and the value will be formatted to the string.<br>
--integer – A number picker will be shown in the UI to capture the answer, and the value will be validated to confirm if it is an integer.<br>
--money – Behaves just like a string type but with number validation and a  $ sign that precedes the textbox.<br>
--number – Behaves just like a string type but with number validation.<br>
+```
+-hidden – No field will be shown in the UI, but the value will be stored in the form.
+-string – A textbox will be shown in the UI to capture the answer, and the answer will be formatted to a string.
+-clob – A text area will be shown in the UI to capture the answer, and the answer will be formatted to a multiline string.
+-email – Behaves just like a string type, but with e-mail address validation.
+-password – A password style of the textbox will be shown in the UI to capture the answer, and the value will be dotted and formatted to a string.
+-url – Behaves just like a string type, but with the URL validation.
+-boolean – A checkbox will be shown in the UI to capture the answer, and the answer will be entered as true if the checkbox is selected or false otherwise.
+-enum – A drop-down menu will be shown in the UI and the options section will be populated in the menu. The multiple options set to true will enable a multiple-choice type of drop-down,      while the expanded option set to true will change the dropdown into a radio button group.
+-color – A color picker will be shown in the UI to capture the answer, and the answer will be formatted to the string with a # sign at the beginning.
+-date – A date picker will be shown in the UI to capture the answer, and the value will be formatted to the string.
+-tel – Behaves just like a string type, but with telephone number validation (ie. digits and dashes).
+-datetime – A date-time picker will be shown in the UI to capture the answer, and the value will be formatted to the string.
+-time – A time picker will be shown in the UI to capture the answer, and the value will be formatted to the string.
+-integer – A number picker will be shown in the UI to capture the answer, and the value will be validated to confirm if it is an integer.
+-money – Behaves just like a string type but with number validation and a  $ sign that precedes the textbox.
+-number – Behaves just like a string type but with number validation.
 -percent – Behaves just like a string type but with number validation and a  % sign that follows the textbox.
-</p>
-!!!
+```
 
 ## Buildspec Management
 
