@@ -43,9 +43,9 @@ Fill out necessary fields | Add all the necessary parameters. Parameters differ 
 
 !!!Note:
 The Solodev API supports these HTTP methods for interacting with resources:<p>
-- GET, which is used to retrieve data. GET requests are safe and idempotent because they do not update or change user data.<p> 
-- POST, which is used to create new endpoints and update existing ones. 
-- DELETE, which is used to remove a resource.
+- **GET** which is used to retrieve data. GET requests are safe and idempotent because they do not update or change user data.<p> 
+- **POST** which is used to create new endpoints and update existing ones. 
+- **DELETE** which is used to remove a resource.
 !!!
 
 <img src="../../../images/swagger2.jpg" alt="swagger2" style="width: 100%; display: block"></a>
