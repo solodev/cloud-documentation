@@ -66,12 +66,6 @@ Company Name | Input the company name.
 Email Address | Input the email address where you will receive communications related to your query.
 Phone Number | Input the phone number.
 
-## Coming Soon
-
-## Free Trial
-
-## Demo
-
 ### Confirm
 
 Once you have completed all the fields, click **Schedule Call**.
