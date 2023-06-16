@@ -18,7 +18,7 @@ Code 200 | successful operation
 
 ### Asset Category
 
-* Schema 
+* Schema Wi
 ```js
 asset_category {
 asset_category_id	{...}
