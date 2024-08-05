@@ -1,0 +1,2673 @@
+{
+  "version": "3.5.0",
+  "created": "2024-08-01T16:52:59Z",
+  "files": [
+    {
+      "path": ".nojekyll"
+    },
+    {
+      "path": "404.html"
+    },
+    {
+      "path": "api\\api-list\\index.html"
+    },
+    {
+      "path": "api\\index.html"
+    },
+    {
+      "path": "CNAME"
+    },
+    {
+      "path": "dashboard\\2-acct-dashboard-lg.jpg"
+    },
+    {
+      "path": "dashboard\\2-acct-dashboard.jpg"
+    },
+    {
+      "path": "dashboard\\icon-desktop-solid.svg"
+    },
+    {
+      "path": "dashboard\\index.html"
+    },
+    {
+      "path": "groups\\add-member\\index.html"
+    },
+    {
+      "path": "groups\\add-user-group\\index.html"
+    },
+    {
+      "path": "groups\\groups-overview\\index.html"
+    },
+    {
+      "path": "groups\\index.html"
+    },
+    {
+      "path": "groups\\permissions\\index.html"
+    },
+    {
+      "path": "groups\\update\\index.html"
+    },
+    {
+      "path": "icons\\earth-americas-solid.svg"
+    },
+    {
+      "path": "icons\\icon-accounts.svg"
+    },
+    {
+      "path": "icons\\icon-api-compass-solid.svg"
+    },
+    {
+      "path": "icons\\icon-api.svg"
+    },
+    {
+      "path": "icons\\icon-apps-tablet-screen-button-solid.svg"
+    },
+    {
+      "path": "icons\\icon-arrow-solid.png"
+    },
+    {
+      "path": "icons\\icon-banking.svg"
+    },
+    {
+      "path": "icons\\icon-billing.svg"
+    },
+    {
+      "path": "icons\\icon-billingaddress.png"
+    },
+    {
+      "path": "icons\\icon-billinghistory.png"
+    },
+    {
+      "path": "icons\\icon-cdn.svg"
+    },
+    {
+      "path": "icons\\icon-certificates.svg"
+    },
+    {
+      "path": "icons\\icon-circle-plus-solid.svg"
+    },
+    {
+      "path": "icons\\icon-circle-question-solid.svg"
+    },
+    {
+      "path": "icons\\icon-circle-remove-solid.png"
+    },
+    {
+      "path": "icons\\icon-cloud-solid.png"
+    },
+    {
+      "path": "icons\\icon-clusters.png"
+    },
+    {
+      "path": "icons\\icon-containers.svg"
+    },
+    {
+      "path": "icons\\icon-contaners.png"
+    },
+    {
+      "path": "icons\\icon-copy.png"
+    },
+    {
+      "path": "icons\\icon-dashboard.svg"
+    },
+    {
+      "path": "icons\\icon-delete.png"
+    },
+    {
+      "path": "icons\\icon-deployments.svg"
+    },
+    {
+      "path": "icons\\icon-desktop-solid.svg"
+    },
+    {
+      "path": "icons\\icon-email-solid.png"
+    },
+    {
+      "path": "icons\\icon-email.png"
+    },
+    {
+      "path": "icons\\icon-folder-tree-solid.svg"
+    },
+    {
+      "path": "icons\\icon-gear-solid.svg"
+    },
+    {
+      "path": "icons\\icon-group-users-solid.svg"
+    },
+    {
+      "path": "icons\\icon-groups.svg"
+    },
+    {
+      "path": "icons\\icon-help.svg"
+    },
+    {
+      "path": "icons\\icon-infrastructure.svg"
+    },
+    {
+      "path": "icons\\icon-inrastructure.png"
+    },
+    {
+      "path": "icons\\icon-items.svg"
+    },
+    {
+      "path": "icons\\icon-lock-solid.png"
+    },
+    {
+      "path": "icons\\icon-login-dig-wallet.svg"
+    },
+    {
+      "path": "icons\\icon-marketplace-store-solid.svg"
+    },
+    {
+      "path": "icons\\icon-modules.svg"
+    },
+    {
+      "path": "icons\\icon-orgs-sitemap-solid.svg"
+    },
+    {
+      "path": "icons\\icon-permissions.png"
+    },
+    {
+      "path": "icons\\icon-plans-tags-solid.svg"
+    },
+    {
+      "path": "icons\\icon-profile-id-badge-solid.svg"
+    },
+    {
+      "path": "icons\\icon-profile.svg"
+    },
+    {
+      "path": "icons\\icon-purchases.png"
+    },
+    {
+      "path": "icons\\icon-register-id-card-solid.svg"
+    },
+    {
+      "path": "icons\\icon-rename.png"
+    },
+    {
+      "path": "icons\\icon-report.png"
+    },
+    {
+      "path": "icons\\icon-reports.svg"
+    },
+    {
+      "path": "icons\\icon-resources-circle-info-solid.svg"
+    },
+    {
+      "path": "icons\\icon-services.svg"
+    },
+    {
+      "path": "icons\\icon-settings.svg"
+    },
+    {
+      "path": "icons\\icon-start-rocket.svg"
+    },
+    {
+      "path": "icons\\icon-transfer.png"
+    },
+    {
+      "path": "icons\\icon-upgrade.png"
+    },
+    {
+      "path": "icons\\icon-user-lock-solid.png"
+    },
+    {
+      "path": "icons\\icon-user-pencil-solid.png"
+    },
+    {
+      "path": "icons\\icon-user-solid.svg"
+    },
+    {
+      "path": "icons\\icon-welcome-door-open-solid.svg"
+    },
+    {
+      "path": "icons\\icon-world-solid.png"
+    },
+    {
+      "path": "icons\\icons-rename.png"
+    },
+    {
+      "path": "images\\a.jpg"
+    },
+    {
+      "path": "images\\account-add-organization-lg.jpg"
+    },
+    {
+      "path": "images\\account-add-organization.jpg"
+    },
+    {
+      "path": "images\\account-dashboard-lg.jpg"
+    },
+    {
+      "path": "images\\account-dashboard.jpg"
+    },
+    {
+      "path": "images\\account-organizations-dashboard-lg.jpg"
+    },
+    {
+      "path": "images\\account-organizations-dashboard.jpg"
+    },
+    {
+      "path": "images\\account-profile-add-apitokens-lg.jpg"
+    },
+    {
+      "path": "images\\account-profile-add-apitokens.jpg"
+    },
+    {
+      "path": "images\\account-profile-apitokens-lg.jpg"
+    },
+    {
+      "path": "images\\account-profile-apitokens.jpg"
+    },
+    {
+      "path": "images\\account-profile-email-lg.jpg"
+    },
+    {
+      "path": "images\\account-profile-email.jpg"
+    },
+    {
+      "path": "images\\account-profile-home-lg.jpg"
+    },
+    {
+      "path": "images\\account-profile-home.jpg"
+    },
+    {
+      "path": "images\\account-profile-password-lg.jpg"
+    },
+    {
+      "path": "images\\account-profile-password.jpg"
+    },
+    {
+      "path": "images\\account-profile-username-lg.jpg"
+    },
+    {
+      "path": "images\\account-profile-username.jpg"
+    },
+    {
+      "path": "images\\accounts.jpg"
+    },
+    {
+      "path": "images\\activity.jpg"
+    },
+    {
+      "path": "images\\add-member.jpg"
+    },
+    {
+      "path": "images\\add-member2.jpg"
+    },
+    {
+      "path": "images\\add-user.jpg"
+    },
+    {
+      "path": "images\\addbanking.jpg"
+    },
+    {
+      "path": "images\\addcatalog.jpg"
+    },
+    {
+      "path": "images\\addcatalogitemversion.jpg"
+    },
+    {
+      "path": "images\\addcategory.jpg"
+    },
+    {
+      "path": "images\\addcdn.jpg"
+    },
+    {
+      "path": "images\\addcdnbehavior.jpg"
+    },
+    {
+      "path": "images\\addcdninvalidation.jpg"
+    },
+    {
+      "path": "images\\addcdnorigin.jpg"
+    },
+    {
+      "path": "images\\addcertificate.jpg"
+    },
+    {
+      "path": "images\\addcloudaccount.jpg"
+    },
+    {
+      "path": "images\\addcloudaccount2.jpg"
+    },
+    {
+      "path": "images\\addcloudaccount3.jpg"
+    },
+    {
+      "path": "images\\addcloudaccount4.jpg"
+    },
+    {
+      "path": "images\\addcloudaccount5.jpg"
+    },
+    {
+      "path": "images\\addcloudaccount6.jpg"
+    },
+    {
+      "path": "images\\addcloudaccount7.jpg"
+    },
+    {
+      "path": "images\\addcloudaccount8.jpg"
+    },
+    {
+      "path": "images\\addcloudaccount9.jpg"
+    },
+    {
+      "path": "images\\addcluster.jpg"
+    },
+    {
+      "path": "images\\addcluster2.jpg"
+    },
+    {
+      "path": "images\\addcluster3.jpg"
+    },
+    {
+      "path": "images\\addcontainer.jpg"
+    },
+    {
+      "path": "images\\addcontainer2.jpg"
+    },
+    {
+      "path": "images\\adddeployment.jpg"
+    },
+    {
+      "path": "images\\adddeployment2.jpg"
+    },
+    {
+      "path": "images\\adddeploymentmember.jpg"
+    },
+    {
+      "path": "images\\adddomain.jpg"
+    },
+    {
+      "path": "images\\additem.jpg"
+    },
+    {
+      "path": "images\\addorganization.jpg"
+    },
+    {
+      "path": "images\\addpage.jpg"
+    },
+    {
+      "path": "images\\addprovider.jpg"
+    },
+    {
+      "path": "images\\addprovider2.jpg"
+    },
+    {
+      "path": "images\\addprovider3.jpg"
+    },
+    {
+      "path": "images\\addreferral.jpg"
+    },
+    {
+      "path": "images\\addservice.jpg"
+    },
+    {
+      "path": "images\\addservice2.jpg"
+    },
+    {
+      "path": "images\\addservice3.jpg"
+    },
+    {
+      "path": "images\\addservice4.jpg"
+    },
+    {
+      "path": "images\\addservice5.jpg"
+    },
+    {
+      "path": "images\\addservicecallus.jpg"
+    },
+    {
+      "path": "images\\addservicecallus2.jpg"
+    },
+    {
+      "path": "images\\addsite.jpg"
+    },
+    {
+      "path": "images\\addsite10.jpg"
+    },
+    {
+      "path": "images\\addsite11.jpg"
+    },
+    {
+      "path": "images\\addsite12.jpg"
+    },
+    {
+      "path": "images\\addsite13.jpg"
+    },
+    {
+      "path": "images\\addsite2.jpg"
+    },
+    {
+      "path": "images\\addsite3.jpg"
+    },
+    {
+      "path": "images\\addsite4.jpg"
+    },
+    {
+      "path": "images\\addsite5.jpg"
+    },
+    {
+      "path": "images\\addsite6.jpg"
+    },
+    {
+      "path": "images\\addsite7.jpg"
+    },
+    {
+      "path": "images\\addsite8.jpg"
+    },
+    {
+      "path": "images\\addsite9.jpg"
+    },
+    {
+      "path": "images\\addtoken.jpg"
+    },
+    {
+      "path": "images\\addusergroup.jpg"
+    },
+    {
+      "path": "images\\adprovider.jpg"
+    },
+    {
+      "path": "images\\api-add.jpg"
+    },
+    {
+      "path": "images\\api-add2.jpg"
+    },
+    {
+      "path": "images\\api-delete.jpg"
+    },
+    {
+      "path": "images\\api-delete2.jpg"
+    },
+    {
+      "path": "images\\api-tokens.jpg"
+    },
+    {
+      "path": "images\\api-tokens2.jpg"
+    },
+    {
+      "path": "images\\api-tokens3.jpg"
+    },
+    {
+      "path": "images\\api-tokens4.jpg"
+    },
+    {
+      "path": "images\\api-tokens5.jpg"
+    },
+    {
+      "path": "images\\api-tokens6.jpg"
+    },
+    {
+      "path": "images\\api.jpg"
+    },
+    {
+      "path": "images\\apitokens.jpg"
+    },
+    {
+      "path": "images\\auth-api.png"
+    },
+    {
+      "path": "images\\authorize.jpg"
+    },
+    {
+      "path": "images\\avatar.jpg"
+    },
+    {
+      "path": "images\\avatar1.png"
+    },
+    {
+      "path": "images\\avatar2.jpg"
+    },
+    {
+      "path": "images\\avatar3.jpg"
+    },
+    {
+      "path": "images\\avatar4.jpg"
+    },
+    {
+      "path": "images\\b.jpg"
+    },
+    {
+      "path": "images\\banking.jpg"
+    },
+    {
+      "path": "images\\behaviors.jpg"
+    },
+    {
+      "path": "images\\billing.jpg"
+    },
+    {
+      "path": "images\\billing10.jpg"
+    },
+    {
+      "path": "images\\billing11.jpg"
+    },
+    {
+      "path": "images\\billing12.jpg"
+    },
+    {
+      "path": "images\\billing13.jpg"
+    },
+    {
+      "path": "images\\billing2.jpg"
+    },
+    {
+      "path": "images\\billing3.jpg"
+    },
+    {
+      "path": "images\\billing4.jpg"
+    },
+    {
+      "path": "images\\billing5.jpg"
+    },
+    {
+      "path": "images\\billing6.jpg"
+    },
+    {
+      "path": "images\\billing7.jpg"
+    },
+    {
+      "path": "images\\billing8.jpg"
+    },
+    {
+      "path": "images\\billing9.jpg"
+    },
+    {
+      "path": "images\\biz-org-dashboard.jpg"
+    },
+    {
+      "path": "images\\buildspec.jpg"
+    },
+    {
+      "path": "images\\buildspec2.jpg"
+    },
+    {
+      "path": "images\\buildspec3.jpg"
+    },
+    {
+      "path": "images\\buildspec4.jpg"
+    },
+    {
+      "path": "images\\cantlogin.jpg"
+    },
+    {
+      "path": "images\\catalogaddintegration.jpg"
+    },
+    {
+      "path": "images\\catalogadditem.jpg"
+    },
+    {
+      "path": "images\\catalogintegrations.jpg"
+    },
+    {
+      "path": "images\\catalogoverview.jpg"
+    },
+    {
+      "path": "images\\catalogs.jpg"
+    },
+    {
+      "path": "images\\catalogs.png"
+    },
+    {
+      "path": "images\\catalogupdate.jpg"
+    },
+    {
+      "path": "images\\catalogupdate2.jpg"
+    },
+    {
+      "path": "images\\categories.jpg"
+    },
+    {
+      "path": "images\\categoryicon.jpg"
+    },
+    {
+      "path": "images\\categoryoverview.jpg"
+    },
+    {
+      "path": "images\\categoryoverview2.jpg"
+    },
+    {
+      "path": "images\\categoryoverview2.png"
+    },
+    {
+      "path": "images\\cdn.jpg"
+    },
+    {
+      "path": "images\\cdnbehavioroverview.jpg"
+    },
+    {
+      "path": "images\\cdnbehavioroverview2.jpg"
+    },
+    {
+      "path": "images\\cdnoriginoverview.jpg"
+    },
+    {
+      "path": "images\\cdnoriginoverview2.jpg"
+    },
+    {
+      "path": "images\\cdnoriginsettings.jpg"
+    },
+    {
+      "path": "images\\cdnoverview.jpg"
+    },
+    {
+      "path": "images\\certificateoverview.jpg"
+    },
+    {
+      "path": "images\\certificates.jpg"
+    },
+    {
+      "path": "images\\changeplan.jpg"
+    },
+    {
+      "path": "images\\changeplan2.jpg"
+    },
+    {
+      "path": "images\\cloud-dev-org-group-users.jpg"
+    },
+    {
+      "path": "images\\cloud-store-marketplace.jpg"
+    },
+    {
+      "path": "images\\clusteroverview.jpg"
+    },
+    {
+      "path": "images\\clusters.jpg"
+    },
+    {
+      "path": "images\\cmspage.jpg"
+    },
+    {
+      "path": "images\\containeroverview.jpg"
+    },
+    {
+      "path": "images\\containers.jpg"
+    },
+    {
+      "path": "images\\copyitem.jpg"
+    },
+    {
+      "path": "images\\dashboard.jpg"
+    },
+    {
+      "path": "images\\dashboard11.jpg"
+    },
+    {
+      "path": "images\\dashboard2.jpg"
+    },
+    {
+      "path": "images\\dashboard3.jpg"
+    },
+    {
+      "path": "images\\dashboard4.jpg"
+    },
+    {
+      "path": "images\\dashboard5.jpg"
+    },
+    {
+      "path": "images\\dashboard6.jpg"
+    },
+    {
+      "path": "images\\dashboard7.jpg"
+    },
+    {
+      "path": "images\\dashboard8.jpg"
+    },
+    {
+      "path": "images\\dashboard9.jpg"
+    },
+    {
+      "path": "images\\delete-group.jpg"
+    },
+    {
+      "path": "images\\delete-organization.jpg"
+    },
+    {
+      "path": "images\\deletecategory.jpg"
+    },
+    {
+      "path": "images\\deletecdnbehavior.jpg"
+    },
+    {
+      "path": "images\\deletecdnorigin.jpg"
+    },
+    {
+      "path": "images\\deleteitem.jpg"
+    },
+    {
+      "path": "images\\deleteorg.jpg"
+    },
+    {
+      "path": "images\\deletesubscription.jpg"
+    },
+    {
+      "path": "images\\deleteversion.jpg"
+    },
+    {
+      "path": "images\\deploymentoverview.jpg"
+    },
+    {
+      "path": "images\\deployments.jpg"
+    },
+    {
+      "path": "images\\dev-dashboard.png"
+    },
+    {
+      "path": "images\\dev-org-dashboard.jpg"
+    },
+    {
+      "path": "images\\dev-org-dashboard.png"
+    },
+    {
+      "path": "images\\dev-org-dashboard1.jpg"
+    },
+    {
+      "path": "images\\dev-org-dashboard1.png"
+    },
+    {
+      "path": "images\\domainoverview.jpg"
+    },
+    {
+      "path": "images\\domains.jpg"
+    },
+    {
+      "path": "images\\email.jpg"
+    },
+    {
+      "path": "images\\external.jpg"
+    },
+    {
+      "path": "images\\favicon.png"
+    },
+    {
+      "path": "images\\forgot-password.png"
+    },
+    {
+      "path": "images\\georestrictions.jpg"
+    },
+    {
+      "path": "images\\groups-add-group-lg.jpg"
+    },
+    {
+      "path": "images\\groups-add-group.jpg"
+    },
+    {
+      "path": "images\\groups-add-member-lg.jpg"
+    },
+    {
+      "path": "images\\groups-add-member.jpg"
+    },
+    {
+      "path": "images\\groups-add2.jpg"
+    },
+    {
+      "path": "images\\groups-add3.jpg"
+    },
+    {
+      "path": "images\\groups-add4.jpg"
+    },
+    {
+      "path": "images\\groups-add5.jpg"
+    },
+    {
+      "path": "images\\groups-delete.jpg"
+    },
+    {
+      "path": "images\\groups-details.jpg"
+    },
+    {
+      "path": "images\\groups-details2.jpg"
+    },
+    {
+      "path": "images\\groups-group-detail-lg.jpg"
+    },
+    {
+      "path": "images\\groups-group-detail.jpg"
+    },
+    {
+      "path": "images\\groups-home-lg.jpg"
+    },
+    {
+      "path": "images\\groups-home.jpg"
+    },
+    {
+      "path": "images\\groups-modify-delete-lg.jpg"
+    },
+    {
+      "path": "images\\groups-modify-delete.jpg"
+    },
+    {
+      "path": "images\\groups-overview.jpg"
+    },
+    {
+      "path": "images\\groups-overview2.jpg"
+    },
+    {
+      "path": "images\\groups-permissions-lg.jpg"
+    },
+    {
+      "path": "images\\groups-permissions.jpg"
+    },
+    {
+      "path": "images\\groups-permissions2.jpg"
+    },
+    {
+      "path": "images\\groups-remove-member-lg.jpg"
+    },
+    {
+      "path": "images\\groups-remove-member.jpg"
+    },
+    {
+      "path": "images\\groups-upd.jpg"
+    },
+    {
+      "path": "images\\groups-update-delete-lg.jpg"
+    },
+    {
+      "path": "images\\groups-update-delete.jpg"
+    },
+    {
+      "path": "images\\groups-update.jpg"
+    },
+    {
+      "path": "images\\groups-update2.jpg"
+    },
+    {
+      "path": "images\\groups.jpg"
+    },
+    {
+      "path": "images\\groups2.jpg"
+    },
+    {
+      "path": "images\\groups3.jpg"
+    },
+    {
+      "path": "images\\groupstheuserispartof.jpg"
+    },
+    {
+      "path": "images\\history.jpg"
+    },
+    {
+      "path": "images\\infra-cdn-add-lg.jpg"
+    },
+    {
+      "path": "images\\infra-cdn-add.jpg"
+    },
+    {
+      "path": "images\\infra-cdn-detail-lg.jpg"
+    },
+    {
+      "path": "images\\infra-cdn-detail.jpg"
+    },
+    {
+      "path": "images\\infra-cdn-geo-restriction-lg.jpg"
+    },
+    {
+      "path": "images\\infra-cdn-geo-restriction.jpg"
+    },
+    {
+      "path": "images\\infra-cdn-lg.jpg"
+    },
+    {
+      "path": "images\\infra-cdn-update-lg.jpg"
+    },
+    {
+      "path": "images\\infra-cdn-update.jpg"
+    },
+    {
+      "path": "images\\infra-cdn.jpg"
+    },
+    {
+      "path": "images\\infra-certificate-detail-lg.jpg"
+    },
+    {
+      "path": "images\\infra-certificate-detail.jpg"
+    },
+    {
+      "path": "images\\infra-certificate-update-lg.jpg"
+    },
+    {
+      "path": "images\\infra-certificate-update.jpg"
+    },
+    {
+      "path": "images\\infra-certificates-add-lg.jpg"
+    },
+    {
+      "path": "images\\infra-certificates-add.jpg"
+    },
+    {
+      "path": "images\\infra-certificates-lg.jpg"
+    },
+    {
+      "path": "images\\infra-certificates.jpg"
+    },
+    {
+      "path": "images\\infra-cluster-detail-lg.jpg"
+    },
+    {
+      "path": "images\\infra-cluster-detail.jpg"
+    },
+    {
+      "path": "images\\infra-cluster-update-lg.jpg"
+    },
+    {
+      "path": "images\\infra-cluster-update.jpg"
+    },
+    {
+      "path": "images\\infra-clusters-add-lg.jpg"
+    },
+    {
+      "path": "images\\infra-clusters-add.jpg"
+    },
+    {
+      "path": "images\\infra-clusters-lg.jpg"
+    },
+    {
+      "path": "images\\infra-clusters.jpg"
+    },
+    {
+      "path": "images\\infra-container-detail-lg.jpg"
+    },
+    {
+      "path": "images\\infra-container-detail.jpg"
+    },
+    {
+      "path": "images\\infra-container-update-lg.jpg"
+    },
+    {
+      "path": "images\\infra-container-update.jpg"
+    },
+    {
+      "path": "images\\infra-container-upgrade-lg.jpg"
+    },
+    {
+      "path": "images\\infra-container-upgrade.jpg"
+    },
+    {
+      "path": "images\\infra-containers-add-lg.jpg"
+    },
+    {
+      "path": "images\\infra-containers-add.jpg"
+    },
+    {
+      "path": "images\\infra-containers-lg.jpg"
+    },
+    {
+      "path": "images\\infra-containers.jpg"
+    },
+    {
+      "path": "images\\infra-deployment-detail-lg.jpg"
+    },
+    {
+      "path": "images\\infra-deployment-detail.jpg"
+    },
+    {
+      "path": "images\\infra-deployment-update-lg.jpg"
+    },
+    {
+      "path": "images\\infra-deployment-update.jpg"
+    },
+    {
+      "path": "images\\infra-deployment-upgrade-lg.jpg"
+    },
+    {
+      "path": "images\\infra-deployment-upgrade.jpg"
+    },
+    {
+      "path": "images\\infra-deployments-add-lg.jpg"
+    },
+    {
+      "path": "images\\infra-deployments-add.jpg"
+    },
+    {
+      "path": "images\\infra-deployments-lg.jpg"
+    },
+    {
+      "path": "images\\infra-deployments.jpg"
+    },
+    {
+      "path": "images\\infra-domain-add-lg.jpg"
+    },
+    {
+      "path": "images\\infra-domain-add.jpg"
+    },
+    {
+      "path": "images\\infra-domain-detail-lg.jpg"
+    },
+    {
+      "path": "images\\infra-domain-detail.jpg"
+    },
+    {
+      "path": "images\\infra-domain-update-lg.jpg"
+    },
+    {
+      "path": "images\\infra-domain-update.jpg"
+    },
+    {
+      "path": "images\\infra-domains-lg.jpg"
+    },
+    {
+      "path": "images\\infra-domains.jpg"
+    },
+    {
+      "path": "images\\infra-lg.jpg"
+    },
+    {
+      "path": "images\\infra-provider-detail-lg.jpg"
+    },
+    {
+      "path": "images\\infra-provider-detail.jpg"
+    },
+    {
+      "path": "images\\infra-provider-update-lg.jpg"
+    },
+    {
+      "path": "images\\infra-provider-update.jpg"
+    },
+    {
+      "path": "images\\infra-providers-add-lg.jpg"
+    },
+    {
+      "path": "images\\infra-providers-add.jpg"
+    },
+    {
+      "path": "images\\infra-providers-lg.jpg"
+    },
+    {
+      "path": "images\\infra-providers.jpg"
+    },
+    {
+      "path": "images\\infra.jpg"
+    },
+    {
+      "path": "images\\infrastructure.jpg"
+    },
+    {
+      "path": "images\\invalidations.jpg"
+    },
+    {
+      "path": "images\\itemcategories.jpg"
+    },
+    {
+      "path": "images\\itemmanagement.jpg"
+    },
+    {
+      "path": "images\\itemmarketplacesettings.jpg"
+    },
+    {
+      "path": "images\\itemoverview.jpg"
+    },
+    {
+      "path": "images\\itemoverview2.png"
+    },
+    {
+      "path": "images\\items.jpg"
+    },
+    {
+      "path": "images\\itemstatus.jpg"
+    },
+    {
+      "path": "images\\logo.png"
+    },
+    {
+      "path": "images\\mappedproducts.jpg"
+    },
+    {
+      "path": "images\\mapproduct.jpg"
+    },
+    {
+      "path": "images\\marketplace-accounts-lg.jpg"
+    },
+    {
+      "path": "images\\marketplace-accounts.jpg"
+    },
+    {
+      "path": "images\\marketplace-add-account-lg.jpg"
+    },
+    {
+      "path": "images\\marketplace-add-account.jpg"
+    },
+    {
+      "path": "images\\marketplace-add-catalog-lg.jpg"
+    },
+    {
+      "path": "images\\marketplace-add-catalog.jpg"
+    },
+    {
+      "path": "images\\marketplace-add-item-lg.jpg"
+    },
+    {
+      "path": "images\\marketplace-add-item.jpg"
+    },
+    {
+      "path": "images\\marketplace-banking-lg.jpg"
+    },
+    {
+      "path": "images\\marketplace-banking.jpg"
+    },
+    {
+      "path": "images\\marketplace-catalog-detail-lg.jpg"
+    },
+    {
+      "path": "images\\marketplace-catalog-detail.jpg"
+    },
+    {
+      "path": "images\\marketplace-catalogs-lg.jpg"
+    },
+    {
+      "path": "images\\marketplace-catalogs.jpg"
+    },
+    {
+      "path": "images\\marketplace-copy-item-lg.jpg"
+    },
+    {
+      "path": "images\\marketplace-copy-item.jpg"
+    },
+    {
+      "path": "images\\marketplace-delete-item-lg.jpg"
+    },
+    {
+      "path": "images\\marketplace-delete-item.jpg"
+    },
+    {
+      "path": "images\\marketplace-item-detail-lg.jpg"
+    },
+    {
+      "path": "images\\marketplace-item-detail.jpg"
+    },
+    {
+      "path": "images\\marketplace-items-lg.jpg"
+    },
+    {
+      "path": "images\\marketplace-items.jpg"
+    },
+    {
+      "path": "images\\marketplace-org-home-lg.jpg"
+    },
+    {
+      "path": "images\\marketplace-org-home.jpg"
+    },
+    {
+      "path": "images\\marketplace-org-plans-lg.jpg"
+    },
+    {
+      "path": "images\\marketplace-org-plans-subscribe-lg.jpg"
+    },
+    {
+      "path": "images\\marketplace-org-plans-subscribe.jpg"
+    },
+    {
+      "path": "images\\marketplace-org-plans.jpg"
+    },
+    {
+      "path": "images\\marketplace-org-thanks-lg.jpg"
+    },
+    {
+      "path": "images\\marketplace-org-thanks.jpg"
+    },
+    {
+      "path": "images\\marketplace-overview-lg.jpg"
+    },
+    {
+      "path": "images\\marketplace-overview.jpg"
+    },
+    {
+      "path": "images\\marketplace-profile-lg.jpg"
+    },
+    {
+      "path": "images\\marketplace-profile.jpg"
+    },
+    {
+      "path": "images\\marketplace-reports-lg.jpg"
+    },
+    {
+      "path": "images\\marketplace-reports.jpg"
+    },
+    {
+      "path": "images\\marketplace-transfer-item-lg.jpg"
+    },
+    {
+      "path": "images\\marketplace-transfer-item.jpg"
+    },
+    {
+      "path": "images\\marketplace-update-catalog-lg.jpg"
+    },
+    {
+      "path": "images\\marketplace-update-catalog.jpg"
+    },
+    {
+      "path": "images\\marketplace.jpg"
+    },
+    {
+      "path": "images\\marketplaceprofile.jpg"
+    },
+    {
+      "path": "images\\marketplaceprofilecontactsolodev.jpg"
+    },
+    {
+      "path": "images\\marketplaceprofileimage.jpg"
+    },
+    {
+      "path": "images\\marketplaceprofilepaymentdetails.jpg"
+    },
+    {
+      "path": "images\\marketplaceprofilepaymentdetails2.jpg"
+    },
+    {
+      "path": "images\\marketplaceprofileupdate.jpg"
+    },
+    {
+      "path": "images\\member-add.jpg"
+    },
+    {
+      "path": "images\\members-list.jpg"
+    },
+    {
+      "path": "images\\org-add.jpg"
+    },
+    {
+      "path": "images\\org-add2.jpg"
+    },
+    {
+      "path": "images\\org-add3.jpg"
+    },
+    {
+      "path": "images\\org-delete.jpg"
+    },
+    {
+      "path": "images\\org-delete2.jpg"
+    },
+    {
+      "path": "images\\org-rename.jpg"
+    },
+    {
+      "path": "images\\org-rename2.jpg"
+    },
+    {
+      "path": "images\\org-update.jpg"
+    },
+    {
+      "path": "images\\org-update10.jpg"
+    },
+    {
+      "path": "images\\org-update11.jpg"
+    },
+    {
+      "path": "images\\org-update2.jpg"
+    },
+    {
+      "path": "images\\org-update3.jpg"
+    },
+    {
+      "path": "images\\org-update4.jpg"
+    },
+    {
+      "path": "images\\org-update5.jpg"
+    },
+    {
+      "path": "images\\org-update6.jpg"
+    },
+    {
+      "path": "images\\org-update7.jpg"
+    },
+    {
+      "path": "images\\org-update8.jpg"
+    },
+    {
+      "path": "images\\org-update9.jpg"
+    },
+    {
+      "path": "images\\org.jpg"
+    },
+    {
+      "path": "images\\org2.jpg"
+    },
+    {
+      "path": "images\\org3.jpg"
+    },
+    {
+      "path": "images\\org4.jpg"
+    },
+    {
+      "path": "images\\org5.jpg"
+    },
+    {
+      "path": "images\\organizationimage.jpg"
+    },
+    {
+      "path": "images\\organizations-add-banking-lg.jpg"
+    },
+    {
+      "path": "images\\organizations-add-banking.jpg"
+    },
+    {
+      "path": "images\\organizations-add-organization-lg.jpg"
+    },
+    {
+      "path": "images\\organizations-add-organization.jpg"
+    },
+    {
+      "path": "images\\organizations-dashboard-lg.jpg"
+    },
+    {
+      "path": "images\\organizations-dashboard.jpg"
+    },
+    {
+      "path": "images\\organizations-delete-lg.jpg"
+    },
+    {
+      "path": "images\\organizations-delete.jpg"
+    },
+    {
+      "path": "images\\organizations-rename-lg.jpg"
+    },
+    {
+      "path": "images\\organizations-rename.jpg"
+    },
+    {
+      "path": "images\\organizations.jpg"
+    },
+    {
+      "path": "images\\origins.jpg"
+    },
+    {
+      "path": "images\\overview.jpg"
+    },
+    {
+      "path": "images\\overview2.jpg"
+    },
+    {
+      "path": "images\\overview3.jpg"
+    },
+    {
+      "path": "images\\overview4.jpg"
+    },
+    {
+      "path": "images\\page-add.jpg"
+    },
+    {
+      "path": "images\\page-add2.jpg"
+    },
+    {
+      "path": "images\\page-add3.jpg"
+    },
+    {
+      "path": "images\\page-delete.jpg"
+    },
+    {
+      "path": "images\\pages-add-lg.jpg"
+    },
+    {
+      "path": "images\\pages-add.jpg"
+    },
+    {
+      "path": "images\\pages-delete-lg.jpg"
+    },
+    {
+      "path": "images\\pages-delete-page-lg.jpg"
+    },
+    {
+      "path": "images\\pages-delete-page.jpg"
+    },
+    {
+      "path": "images\\pages-delete.jpg"
+    },
+    {
+      "path": "images\\pages-details.jpg"
+    },
+    {
+      "path": "images\\pages-details2.jpg"
+    },
+    {
+      "path": "images\\pages-details3.jpg"
+    },
+    {
+      "path": "images\\pages-details4.jpg"
+    },
+    {
+      "path": "images\\pages-details5.jpg"
+    },
+    {
+      "path": "images\\pages-details6.jpg"
+    },
+    {
+      "path": "images\\pages-details7.jpg"
+    },
+    {
+      "path": "images\\pages-over.jpg"
+    },
+    {
+      "path": "images\\pages-over2.jpg"
+    },
+    {
+      "path": "images\\pages-over3.jpg"
+    },
+    {
+      "path": "images\\pages-over4.jpg"
+    },
+    {
+      "path": "images\\pages-over5.jpg"
+    },
+    {
+      "path": "images\\pages-overview-lg.jpg"
+    },
+    {
+      "path": "images\\pages-overview.jpg"
+    },
+    {
+      "path": "images\\pages-page-detail-lg.jpg"
+    },
+    {
+      "path": "images\\pages-page-detail.jpg"
+    },
+    {
+      "path": "images\\pages-page.jpg"
+    },
+    {
+      "path": "images\\pages-page2.jpg"
+    },
+    {
+      "path": "images\\pages-pages-lg.jpg"
+    },
+    {
+      "path": "images\\pages-pages.jpg"
+    },
+    {
+      "path": "images\\pages-save-btn.jpg"
+    },
+    {
+      "path": "images\\pages.jpg"
+    },
+    {
+      "path": "images\\pages2.jpg"
+    },
+    {
+      "path": "images\\paymentdetails.jpg"
+    },
+    {
+      "path": "images\\permissions-lg.jpg"
+    },
+    {
+      "path": "images\\permissions.jpg"
+    },
+    {
+      "path": "images\\profile-add-apitokens-lg.jpg"
+    },
+    {
+      "path": "images\\profile-add-apitokens.jpg"
+    },
+    {
+      "path": "images\\profile-apitokens-lg.jpg"
+    },
+    {
+      "path": "images\\profile-apitokens.jpg"
+    },
+    {
+      "path": "images\\profile-delete-apitokens-lg.jpg"
+    },
+    {
+      "path": "images\\profile-delete-apitokens.jpg"
+    },
+    {
+      "path": "images\\profile.jpg"
+    },
+    {
+      "path": "images\\profile10.jpg"
+    },
+    {
+      "path": "images\\profile11.jpg"
+    },
+    {
+      "path": "images\\profile12.jpg"
+    },
+    {
+      "path": "images\\profile13.jpg"
+    },
+    {
+      "path": "images\\profile15.jpg"
+    },
+    {
+      "path": "images\\profile16.jpg"
+    },
+    {
+      "path": "images\\profile17.jpg"
+    },
+    {
+      "path": "images\\profile18.jpg"
+    },
+    {
+      "path": "images\\profile19.jpg"
+    },
+    {
+      "path": "images\\profile2.jpg"
+    },
+    {
+      "path": "images\\profile3.jpg"
+    },
+    {
+      "path": "images\\profile4.jpg"
+    },
+    {
+      "path": "images\\profile5.jpg"
+    },
+    {
+      "path": "images\\profile6.jpg"
+    },
+    {
+      "path": "images\\profile7.jpg"
+    },
+    {
+      "path": "images\\profile8.jpg"
+    },
+    {
+      "path": "images\\profile9.jpg"
+    },
+    {
+      "path": "images\\profileinformation.jpg"
+    },
+    {
+      "path": "images\\profileinformation2.jpg"
+    },
+    {
+      "path": "images\\profileinformation3.jpg"
+    },
+    {
+      "path": "images\\profilepicture.jpg"
+    },
+    {
+      "path": "images\\profilepicture2.jpg"
+    },
+    {
+      "path": "images\\provideroverview.jpg"
+    },
+    {
+      "path": "images\\providers.jpg"
+    },
+    {
+      "path": "images\\purchases.jpg"
+    },
+    {
+      "path": "images\\quick-start-create-lg.jpg"
+    },
+    {
+      "path": "images\\quick-start-create.jpg"
+    },
+    {
+      "path": "images\\quick-start-home-lg.jpg"
+    },
+    {
+      "path": "images\\quick-start-home.jpg"
+    },
+    {
+      "path": "images\\quick-start-join-lg.jpg"
+    },
+    {
+      "path": "images\\quick-start-join.jpg"
+    },
+    {
+      "path": "images\\quick-start-login-github-lg.jpg"
+    },
+    {
+      "path": "images\\quick-start-login-github.jpg"
+    },
+    {
+      "path": "images\\quick-start-login-lg.jpg"
+    },
+    {
+      "path": "images\\quick-start-login.jpg"
+    },
+    {
+      "path": "images\\quick-start-sign-in-lg.jpg"
+    },
+    {
+      "path": "images\\quick-start-sign-in.jpg"
+    },
+    {
+      "path": "images\\rename.jpg"
+    },
+    {
+      "path": "images\\renameordeleteorg.jpg"
+    },
+    {
+      "path": "images\\renameorg.jpg"
+    },
+    {
+      "path": "images\\security.jpg"
+    },
+    {
+      "path": "images\\serverless-illustration.png"
+    },
+    {
+      "path": "images\\serviceoverview.jpg"
+    },
+    {
+      "path": "images\\services-add-leftmenu.jpg"
+    },
+    {
+      "path": "images\\services-add-service-lg.jpg"
+    },
+    {
+      "path": "images\\services-add-service.jpg"
+    },
+    {
+      "path": "images\\services-addons.jpg"
+    },
+    {
+      "path": "images\\services-buynow.jpg"
+    },
+    {
+      "path": "images\\services-buynowfinal.jpg"
+    },
+    {
+      "path": "images\\services-completepurchase.jpg"
+    },
+    {
+      "path": "images\\services-detail-lg.jpg"
+    },
+    {
+      "path": "images\\services-detail.jpg"
+    },
+    {
+      "path": "images\\services-details-home.jpg"
+    },
+    {
+      "path": "images\\services-details-info.jpg"
+    },
+    {
+      "path": "images\\services-details-leftmenu.jpg"
+    },
+    {
+      "path": "images\\services-details-users.jpg"
+    },
+    {
+      "path": "images\\services-home-active.jpg"
+    },
+    {
+      "path": "images\\services-home-add-service.jpg"
+    },
+    {
+      "path": "images\\services-home-leftmenu.jpg"
+    },
+    {
+      "path": "images\\services-home.jpg"
+    },
+    {
+      "path": "images\\services-lg.jpg"
+    },
+    {
+      "path": "images\\services-setplan.jpg"
+    },
+    {
+      "path": "images\\services-settings-lg.jpg"
+    },
+    {
+      "path": "images\\services-settings.jpg"
+    },
+    {
+      "path": "images\\services-thankyou.jpg"
+    },
+    {
+      "path": "images\\services-update-delete.jpg"
+    },
+    {
+      "path": "images\\services-update-lg.jpg"
+    },
+    {
+      "path": "images\\services-update.jpg"
+    },
+    {
+      "path": "images\\services-update1.jpg"
+    },
+    {
+      "path": "images\\services.jpg"
+    },
+    {
+      "path": "images\\services.png"
+    },
+    {
+      "path": "images\\services3.jpg"
+    },
+    {
+      "path": "images\\settings-api-authorize-btn-lg.jpg"
+    },
+    {
+      "path": "images\\settings-api-authorize-btn.jpg"
+    },
+    {
+      "path": "images\\settings-api-authorize-choice-lg.jpg"
+    },
+    {
+      "path": "images\\settings-api-authorize-choice.jpg"
+    },
+    {
+      "path": "images\\settings-api-authorize-lg.jpg"
+    },
+    {
+      "path": "images\\settings-api-authorize.jpg"
+    },
+    {
+      "path": "images\\settings-api-expand-lg.jpg"
+    },
+    {
+      "path": "images\\settings-api-expand.jpg"
+    },
+    {
+      "path": "images\\settings-api-get-expand-lg.jpg"
+    },
+    {
+      "path": "images\\settings-api-get-expand.jpg"
+    },
+    {
+      "path": "images\\settings-api-home-lg.jpg"
+    },
+    {
+      "path": "images\\settings-api-home.jpg"
+    },
+    {
+      "path": "images\\settings-api-lg.jpg"
+    },
+    {
+      "path": "images\\settings-api.jpg"
+    },
+    {
+      "path": "images\\settings-billing-address-lg.jpg"
+    },
+    {
+      "path": "images\\settings-billing-address.jpg"
+    },
+    {
+      "path": "images\\settings-billing-history-lg.jpg"
+    },
+    {
+      "path": "images\\settings-billing-history.jpg"
+    },
+    {
+      "path": "images\\settings-billing-home-lg.jpg"
+    },
+    {
+      "path": "images\\settings-billing-home.jpg"
+    },
+    {
+      "path": "images\\settings-billing-payment-details-lg.jpg"
+    },
+    {
+      "path": "images\\settings-billing-payment-details.jpg"
+    },
+    {
+      "path": "images\\settings-billing-purchases-lg.jpg"
+    },
+    {
+      "path": "images\\settings-billing-purchases.jpg"
+    },
+    {
+      "path": "images\\settings-billing-subscriptions-lg.jpg"
+    },
+    {
+      "path": "images\\settings-billing-subscriptions.jpg"
+    },
+    {
+      "path": "images\\settings-overview-lg.jpg"
+    },
+    {
+      "path": "images\\settings-overview.jpg"
+    },
+    {
+      "path": "images\\settings-profile-home-lg.jpg"
+    },
+    {
+      "path": "images\\settings-profile-home.jpg"
+    },
+    {
+      "path": "images\\settings-profile-rename-lg.jpg"
+    },
+    {
+      "path": "images\\settings-profile-rename.jpg"
+    },
+    {
+      "path": "images\\settings.png"
+    },
+    {
+      "path": "images\\sign-up-for-account.png"
+    },
+    {
+      "path": "images\\signin.png"
+    },
+    {
+      "path": "images\\signin2.png"
+    },
+    {
+      "path": "images\\signup.jpg"
+    },
+    {
+      "path": "images\\site-add.jpg"
+    },
+    {
+      "path": "images\\site.jpg"
+    },
+    {
+      "path": "images\\sites-add-cms-lg.jpg"
+    },
+    {
+      "path": "images\\sites-add-cms.jpg"
+    },
+    {
+      "path": "images\\sites-add-external-lg.jpg"
+    },
+    {
+      "path": "images\\sites-add-external.jpg"
+    },
+    {
+      "path": "images\\sites-add-lg.jpg"
+    },
+    {
+      "path": "images\\sites-add-site-addbtn.jpg"
+    },
+    {
+      "path": "images\\sites-add-site-cms-choose-cluster.jpg"
+    },
+    {
+      "path": "images\\sites-add-site-cms-choose-cms.jpg"
+    },
+    {
+      "path": "images\\sites-add-site-cms-choose-theme.jpg"
+    },
+    {
+      "path": "images\\sites-add-site-cms-domain.jpg"
+    },
+    {
+      "path": "images\\sites-add-site-cms-timezone.jpg"
+    },
+    {
+      "path": "images\\sites-add-site-cms.jpg"
+    },
+    {
+      "path": "images\\sites-add-site-drop-down-detail.jpg"
+    },
+    {
+      "path": "images\\sites-add-site-external-domain.jpg"
+    },
+    {
+      "path": "images\\sites-add-site-lg.jpg"
+    },
+    {
+      "path": "images\\sites-add-site-name-domain.jpg"
+    },
+    {
+      "path": "images\\sites-add-site-pick-type.jpg"
+    },
+    {
+      "path": "images\\sites-add-site-static-provider.jpg"
+    },
+    {
+      "path": "images\\sites-add-site-static-static.jpg"
+    },
+    {
+      "path": "images\\sites-add-site-w-drop-down.jpg"
+    },
+    {
+      "path": "images\\sites-add-site.jpg"
+    },
+    {
+      "path": "images\\sites-add-static-lg.jpg"
+    },
+    {
+      "path": "images\\sites-add-static.jpg"
+    },
+    {
+      "path": "images\\sites-add.jpg"
+    },
+    {
+      "path": "images\\sites-home-card-add.jpg"
+    },
+    {
+      "path": "images\\sites-home-card.jpg"
+    },
+    {
+      "path": "images\\sites-home.jpg"
+    },
+    {
+      "path": "images\\sites-lg.jpg"
+    },
+    {
+      "path": "images\\sites-permissions-add-btn-and-list.jpg"
+    },
+    {
+      "path": "images\\sites-permissions-name.jpg"
+    },
+    {
+      "path": "images\\sites-permissions-role.jpg"
+    },
+    {
+      "path": "images\\sites-read-details-pages.jpg"
+    },
+    {
+      "path": "images\\sites-read-details.jpg"
+    },
+    {
+      "path": "images\\sites-read-edit-preview-bar.jpg"
+    },
+    {
+      "path": "images\\sites-read.jpg"
+    },
+    {
+      "path": "images\\sites-site-detail-lg.jpg"
+    },
+    {
+      "path": "images\\sites-site-detail-update-lg.jpg"
+    },
+    {
+      "path": "images\\sites-site-detail-update.jpg"
+    },
+    {
+      "path": "images\\sites-site-detail.jpg"
+    },
+    {
+      "path": "images\\sites-update-add-alias--kopia.jpg"
+    },
+    {
+      "path": "images\\sites-update-add-alias.jpg"
+    },
+    {
+      "path": "images\\sites-update-delete.jpg"
+    },
+    {
+      "path": "images\\sites-update-originurl.jpg"
+    },
+    {
+      "path": "images\\sites-update-primaryurl.jpg"
+    },
+    {
+      "path": "images\\sites-update-stagingurl.jpg"
+    },
+    {
+      "path": "images\\sites-update-submit-btn.png"
+    },
+    {
+      "path": "images\\sites.jpg"
+    },
+    {
+      "path": "images\\sitesoverview.jpg"
+    },
+    {
+      "path": "images\\sitespermissions.jpg"
+    },
+    {
+      "path": "images\\solo_welcome.png"
+    },
+    {
+      "path": "images\\static1.jpg"
+    },
+    {
+      "path": "images\\submit.jpg"
+    },
+    {
+      "path": "images\\submit2.jpg"
+    },
+    {
+      "path": "images\\subscriptions.jpg"
+    },
+    {
+      "path": "images\\swagger.jpg"
+    },
+    {
+      "path": "images\\swagger2.jpg"
+    },
+    {
+      "path": "images\\swagger3.jpg"
+    },
+    {
+      "path": "images\\swagger4.jpg"
+    },
+    {
+      "path": "images\\swagger5.jpg"
+    },
+    {
+      "path": "images\\swagger6.jpg"
+    },
+    {
+      "path": "images\\swagger7.jpg"
+    },
+    {
+      "path": "images\\swagger8.jpg"
+    },
+    {
+      "path": "images\\swagger9.jpg"
+    },
+    {
+      "path": "images\\transferitem.jpg"
+    },
+    {
+      "path": "images\\update-user.jpg"
+    },
+    {
+      "path": "images\\update-user2.jpg"
+    },
+    {
+      "path": "images\\updatebillingaddress.jpg"
+    },
+    {
+      "path": "images\\updatecdn.jpg"
+    },
+    {
+      "path": "images\\updatecdn2.jpg"
+    },
+    {
+      "path": "images\\updatecertificate.jpg"
+    },
+    {
+      "path": "images\\updatecluster.jpg"
+    },
+    {
+      "path": "images\\updatecluster2.jpg"
+    },
+    {
+      "path": "images\\updatecontainer.jpg"
+    },
+    {
+      "path": "images\\updatecontainer2.jpg"
+    },
+    {
+      "path": "images\\updatedeployment.jpg"
+    },
+    {
+      "path": "images\\updatedeployment2.jpg"
+    },
+    {
+      "path": "images\\updatedomain.jpg"
+    },
+    {
+      "path": "images\\updatedomain2.jpg"
+    },
+    {
+      "path": "images\\updateprofile.jpg"
+    },
+    {
+      "path": "images\\updateprovider.jpg"
+    },
+    {
+      "path": "images\\updateprovider2.jpg"
+    },
+    {
+      "path": "images\\updateservice.jpg"
+    },
+    {
+      "path": "images\\updateservice2.jpg"
+    },
+    {
+      "path": "images\\updateservice3.jpg"
+    },
+    {
+      "path": "images\\updatesite1.jpg"
+    },
+    {
+      "path": "images\\updatesite2.jpg"
+    },
+    {
+      "path": "images\\updateversion.jpg"
+    },
+    {
+      "path": "images\\upgradecontainer.jpg"
+    },
+    {
+      "path": "images\\upgradeservice.jpg"
+    },
+    {
+      "path": "images\\user-details.jpg"
+    },
+    {
+      "path": "images\\user-profile-email-lg.jpg"
+    },
+    {
+      "path": "images\\user-profile-email.jpg"
+    },
+    {
+      "path": "images\\username.jpg"
+    },
+    {
+      "path": "images\\users-add-user-lg.jpg"
+    },
+    {
+      "path": "images\\users-add-user.jpg"
+    },
+    {
+      "path": "images\\users-add2.jpg"
+    },
+    {
+      "path": "images\\users-add3.jpg"
+    },
+    {
+      "path": "images\\users-add4.jpg"
+    },
+    {
+      "path": "images\\users-add5.jpg"
+    },
+    {
+      "path": "images\\users-delete.jpg"
+    },
+    {
+      "path": "images\\users-details.jpg"
+    },
+    {
+      "path": "images\\users-details2.jpg"
+    },
+    {
+      "path": "images\\users-details3.jpg"
+    },
+    {
+      "path": "images\\users-details4.jpg"
+    },
+    {
+      "path": "images\\users-details5.jpg"
+    },
+    {
+      "path": "images\\users-email.jpg"
+    },
+    {
+      "path": "images\\users-home-lg.jpg"
+    },
+    {
+      "path": "images\\users-home.jpg"
+    },
+    {
+      "path": "images\\users-overview.jpg"
+    },
+    {
+      "path": "images\\users-update-delete-user-lg.jpg"
+    },
+    {
+      "path": "images\\users-update-delete-user.jpg"
+    },
+    {
+      "path": "images\\users-update-user-lg.jpg"
+    },
+    {
+      "path": "images\\users-update-user.jpg"
+    },
+    {
+      "path": "images\\users-user-detail-lg.jpg"
+    },
+    {
+      "path": "images\\users-user-detail-search-lg.jpg"
+    },
+    {
+      "path": "images\\users-user-detail-search.jpg"
+    },
+    {
+      "path": "images\\users-user-detail.jpg"
+    },
+    {
+      "path": "images\\users.jpg"
+    },
+    {
+      "path": "images\\users2.jpg"
+    },
+    {
+      "path": "images\\users3.jpg"
+    },
+    {
+      "path": "images\\versiondetails.jpg"
+    },
+    {
+      "path": "images\\versions.jpg"
+    },
+    {
+      "path": "images\\versionstatus.jpg"
+    },
+    {
+      "path": "index.html"
+    },
+    {
+      "path": "infrastructure\\cdn\\add-cdn\\index.html"
+    },
+    {
+      "path": "infrastructure\\cdn\\cdn-overview\\behaviors\\add-cdn-behavior\\index.html"
+    },
+    {
+      "path": "infrastructure\\cdn\\cdn-overview\\behaviors\\cdn-behavior-overview\\delete\\index.html"
+    },
+    {
+      "path": "infrastructure\\cdn\\cdn-overview\\behaviors\\cdn-behavior-overview\\index.html"
+    },
+    {
+      "path": "infrastructure\\cdn\\cdn-overview\\behaviors\\cdn-behavior-overview\\permissions\\index.html"
+    },
+    {
+      "path": "infrastructure\\cdn\\cdn-overview\\behaviors\\index.html"
+    },
+    {
+      "path": "infrastructure\\cdn\\cdn-overview\\geo-restrictions\\index.html"
+    },
+    {
+      "path": "infrastructure\\cdn\\cdn-overview\\index.html"
+    },
+    {
+      "path": "infrastructure\\cdn\\cdn-overview\\invalidations\\add-cdn-invalidation\\index.html"
+    },
+    {
+      "path": "infrastructure\\cdn\\cdn-overview\\invalidations\\index.html"
+    },
+    {
+      "path": "infrastructure\\cdn\\cdn-overview\\origins\\add-cdn-origin\\index.html"
+    },
+    {
+      "path": "infrastructure\\cdn\\cdn-overview\\origins\\cdn-origin-overview\\delete\\index.html"
+    },
+    {
+      "path": "infrastructure\\cdn\\cdn-overview\\origins\\cdn-origin-overview\\index.html"
+    },
+    {
+      "path": "infrastructure\\cdn\\cdn-overview\\origins\\cdn-origin-overview\\permissions\\index.html"
+    },
+    {
+      "path": "infrastructure\\cdn\\cdn-overview\\origins\\index.html"
+    },
+    {
+      "path": "infrastructure\\cdn\\cdn-overview\\permissions\\index.html"
+    },
+    {
+      "path": "infrastructure\\cdn\\cdn-overview\\update\\index.html"
+    },
+    {
+      "path": "infrastructure\\cdn\\index.html"
+    },
+    {
+      "path": "infrastructure\\certificates\\add-certificate\\index.html"
+    },
+    {
+      "path": "infrastructure\\certificates\\certificate-overview\\index.html"
+    },
+    {
+      "path": "infrastructure\\certificates\\certificate-overview\\permissions\\index.html"
+    },
+    {
+      "path": "infrastructure\\certificates\\certificate-overview\\update\\index.html"
+    },
+    {
+      "path": "infrastructure\\certificates\\index.html"
+    },
+    {
+      "path": "infrastructure\\clusters\\add-cluster\\index.html"
+    },
+    {
+      "path": "infrastructure\\clusters\\cluster-overview\\index.html"
+    },
+    {
+      "path": "infrastructure\\clusters\\cluster-overview\\permissions\\index.html"
+    },
+    {
+      "path": "infrastructure\\clusters\\cluster-overview\\update\\index.html"
+    },
+    {
+      "path": "infrastructure\\clusters\\index.html"
+    },
+    {
+      "path": "infrastructure\\containers\\add-container\\index.html"
+    },
+    {
+      "path": "infrastructure\\containers\\container-overview\\index.html"
+    },
+    {
+      "path": "infrastructure\\containers\\container-overview\\permissions\\index.html"
+    },
+    {
+      "path": "infrastructure\\containers\\container-overview\\update\\index.html"
+    },
+    {
+      "path": "infrastructure\\containers\\container-overview\\upgrade\\index.html"
+    },
+    {
+      "path": "infrastructure\\containers\\index.html"
+    },
+    {
+      "path": "infrastructure\\deployments\\add-deployment\\index.html"
+    },
+    {
+      "path": "infrastructure\\deployments\\deployment-overview\\index.html"
+    },
+    {
+      "path": "infrastructure\\deployments\\deployment-overview\\permissions\\index.html"
+    },
+    {
+      "path": "infrastructure\\deployments\\deployment-overview\\update\\index.html"
+    },
+    {
+      "path": "infrastructure\\deployments\\deployment-overview\\upgrade\\index.html"
+    },
+    {
+      "path": "infrastructure\\deployments\\index.html"
+    },
+    {
+      "path": "infrastructure\\domains\\add-domain\\index.html"
+    },
+    {
+      "path": "infrastructure\\domains\\domain-overview\\index.html"
+    },
+    {
+      "path": "infrastructure\\domains\\domain-overview\\permissions\\index.html"
+    },
+    {
+      "path": "infrastructure\\domains\\domain-overview\\update\\index.html"
+    },
+    {
+      "path": "infrastructure\\domains\\index.html"
+    },
+    {
+      "path": "infrastructure\\index.html"
+    },
+    {
+      "path": "infrastructure\\infrastructure-overview\\index.html"
+    },
+    {
+      "path": "infrastructure\\providers\\add-aws-account-manually\\index.html"
+    },
+    {
+      "path": "infrastructure\\providers\\add-cloud-account\\index.html"
+    },
+    {
+      "path": "infrastructure\\providers\\add-provider\\index.html"
+    },
+    {
+      "path": "infrastructure\\providers\\index.html"
+    },
+    {
+      "path": "infrastructure\\providers\\provider-overview\\index.html"
+    },
+    {
+      "path": "infrastructure\\providers\\provider-overview\\permissions\\index.html"
+    },
+    {
+      "path": "infrastructure\\providers\\provider-overview\\update\\index.html"
+    },
+    {
+      "path": "marketplace\\accounts\\add-referral\\index.html"
+    },
+    {
+      "path": "marketplace\\accounts\\index.html"
+    },
+    {
+      "path": "marketplace\\banking\\add-banking\\index.html"
+    },
+    {
+      "path": "marketplace\\banking\\index.html"
+    },
+    {
+      "path": "marketplace\\catalogs\\add-catalog\\index.html"
+    },
+    {
+      "path": "marketplace\\catalogs\\catalog-overview\\add-item\\index.html"
+    },
+    {
+      "path": "marketplace\\catalogs\\catalog-overview\\categories\\add-category\\index.html"
+    },
+    {
+      "path": "marketplace\\catalogs\\catalog-overview\\categories\\category-overview\\delete\\index.html"
+    },
+    {
+      "path": "marketplace\\catalogs\\catalog-overview\\categories\\category-overview\\index.html"
+    },
+    {
+      "path": "marketplace\\catalogs\\catalog-overview\\categories\\category-overview\\permissions\\index.html"
+    },
+    {
+      "path": "marketplace\\catalogs\\catalog-overview\\categories\\index.html"
+    },
+    {
+      "path": "marketplace\\catalogs\\catalog-overview\\index.html"
+    },
+    {
+      "path": "marketplace\\catalogs\\catalog-overview\\integrations\\add-integration\\index.html"
+    },
+    {
+      "path": "marketplace\\catalogs\\catalog-overview\\integrations\\index.html"
+    },
+    {
+      "path": "marketplace\\catalogs\\catalog-overview\\permissions\\index.html"
+    },
+    {
+      "path": "marketplace\\catalogs\\catalog-overview\\update\\index.html"
+    },
+    {
+      "path": "marketplace\\catalogs\\index.html"
+    },
+    {
+      "path": "marketplace\\index.html"
+    },
+    {
+      "path": "marketplace\\items\\add-item\\index.html"
+    },
+    {
+      "path": "marketplace\\items\\index.html"
+    },
+    {
+      "path": "marketplace\\items\\item-overview\\buildspec\\index.html"
+    },
+    {
+      "path": "marketplace\\items\\item-overview\\copy\\index.html"
+    },
+    {
+      "path": "marketplace\\items\\item-overview\\delete\\index.html"
+    },
+    {
+      "path": "marketplace\\items\\item-overview\\index.html"
+    },
+    {
+      "path": "marketplace\\items\\item-overview\\permissions\\index.html"
+    },
+    {
+      "path": "marketplace\\items\\item-overview\\plans\\add-catalog-item-plan\\index.html"
+    },
+    {
+      "path": "marketplace\\items\\item-overview\\plans\\index.html"
+    },
+    {
+      "path": "marketplace\\items\\item-overview\\transfer\\index.html"
+    },
+    {
+      "path": "marketplace\\items\\item-overview\\versions\\add-catalog-item-version\\index.html"
+    },
+    {
+      "path": "marketplace\\items\\item-overview\\versions\\index.html"
+    },
+    {
+      "path": "marketplace\\items\\item-overview\\versions\\version-overview\\delete\\index.html"
+    },
+    {
+      "path": "marketplace\\items\\item-overview\\versions\\version-overview\\index.html"
+    },
+    {
+      "path": "marketplace\\marketplace-overview\\index.html"
+    },
+    {
+      "path": "marketplace\\profile\\change-plan\\index.html"
+    },
+    {
+      "path": "marketplace\\profile\\credit-card-details\\index.html"
+    },
+    {
+      "path": "marketplace\\profile\\index.html"
+    },
+    {
+      "path": "marketplace\\reports\\index.html"
+    },
+    {
+      "path": "my-profile\\api-tokens\\add-token\\index.html"
+    },
+    {
+      "path": "my-profile\\api-tokens\\index.html"
+    },
+    {
+      "path": "my-profile\\email\\index.html"
+    },
+    {
+      "path": "my-profile\\index.html"
+    },
+    {
+      "path": "my-profile\\profile\\index.html"
+    },
+    {
+      "path": "my-profile\\security\\index.html"
+    },
+    {
+      "path": "my-profile\\username\\index.html"
+    },
+    {
+      "path": "organizations\\add-organization\\index.html"
+    },
+    {
+      "path": "organizations\\index.html"
+    },
+    {
+      "path": "overview\\index.html"
+    },
+    {
+      "path": "pages\\index.html"
+    },
+    {
+      "path": "pages\\pages-overview\\index.html"
+    },
+    {
+      "path": "pages\\pages\\add-page\\index.html"
+    },
+    {
+      "path": "pages\\pages\\index.html"
+    },
+    {
+      "path": "pages\\pages\\page-overview\\index.html"
+    },
+    {
+      "path": "pages\\sites\\add-site\\index.html"
+    },
+    {
+      "path": "pages\\sites\\index.html"
+    },
+    {
+      "path": "pages\\sites\\permissions\\index.html"
+    },
+    {
+      "path": "pages\\sites\\site-overview\\index.html"
+    },
+    {
+      "path": "pages\\sites\\update\\index.html"
+    },
+    {
+      "path": "quickstart\\index.html"
+    },
+    {
+      "path": "quickstart\\keycloak\\index.html"
+    },
+    {
+      "path": "quickstart\\kubernetes\\index.html"
+    },
+    {
+      "path": "quickstart\\wordpress\\index.html"
+    },
+    {
+      "path": "resources\\css\\retype.css"
+    },
+    {
+      "path": "resources\\fonts\\Inter-italic-latin-var.woff2"
+    },
+    {
+      "path": "resources\\fonts\\Inter-roman-latin-var.woff2"
+    },
+    {
+      "path": "resources\\js\\config.js"
+    },
+    {
+      "path": "resources\\js\\lunr.js"
+    },
+    {
+      "path": "resources\\js\\prism.js"
+    },
+    {
+      "path": "resources\\js\\retype.js"
+    },
+    {
+      "path": "resources\\js\\search.json"
+    },
+    {
+      "path": "resources\\lunr.js.LICENSE.txt"
+    },
+    {
+      "path": "resources\\mermaid.js.LICENSE.txt"
+    },
+    {
+      "path": "resources\\prism.js.LICENSE.txt"
+    },
+    {
+      "path": "resources\\retype.js.LICENSE.txt"
+    },
+    {
+      "path": "resources\\retype.LICENSE.txt"
+    },
+    {
+      "path": "robots.txt"
+    },
+    {
+      "path": "services\\add-service\\index.html"
+    },
+    {
+      "path": "services\\index.html"
+    },
+    {
+      "path": "services\\service-overview\\add-deployment-member\\index.html"
+    },
+    {
+      "path": "services\\service-overview\\index.html"
+    },
+    {
+      "path": "services\\service-overview\\permissions\\index.html"
+    },
+    {
+      "path": "services\\service-overview\\update\\index.html"
+    },
+    {
+      "path": "services\\service-overview\\upgrade\\index.html"
+    },
+    {
+      "path": "settings\\billing\\history\\index.html"
+    },
+    {
+      "path": "settings\\billing\\index.html"
+    },
+    {
+      "path": "settings\\billing\\purchases\\index.html"
+    },
+    {
+      "path": "settings\\billing\\subscriptions\\delete\\index.html"
+    },
+    {
+      "path": "settings\\billing\\subscriptions\\index.html"
+    },
+    {
+      "path": "settings\\index.html"
+    },
+    {
+      "path": "settings\\profile\\delete\\index.html"
+    },
+    {
+      "path": "settings\\profile\\index.html"
+    },
+    {
+      "path": "settings\\profile\\rename\\index.html"
+    },
+    {
+      "path": "sitemap.xml.gz"
+    },
+    {
+      "path": "users\\add-user\\index.html"
+    },
+    {
+      "path": "users\\index.html"
+    },
+    {
+      "path": "users\\update\\index.html"
+    },
+    {
+      "path": "users\\users-overview\\index.html"
+    }
+  ]
+}

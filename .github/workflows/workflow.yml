@@ -1,0 +1,29 @@
+name: Deploy to S3
+
+on:
+  push:
+    tags:
+      - 'v*'
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+    - uses: actions/checkout@v4
+
+    - name: Retype Build
+      uses: retypeapp/action-build@latest
+      id: build
+      with:
+        license: "${{ secrets.RETYPE_LICENSE_KEY }}"
+
+    - name: Configure AWS Credentials
+      uses: aws-actions/configure-aws-credentials@v4
+      with:
+        aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
+        aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+        aws-region: us-east-1
+
+    - name: Deploy static site to S3 bucket
+      run: aws s3 sync ${{ steps.build.outputs.retype-output-path }} s3://solodev-cloud-documentation --delete --acl public-read
