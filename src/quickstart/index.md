@@ -11,26 +11,38 @@
 
 Built from the ground up to leverage the power of AWS services, Solodev is a cloud-first enterprise content management system (CMS) and customer experience platform that lets individuals and teams collaborate on their digital transformation. Easy to use for non-technical content marketers yet robust enough for ambitious developers, Solodev lets everyone work together to create rich, enterprise-grade websites that engage and convert. An APN Advanced Technology Partner, Solodev is available with hourly, annual and BYOL pricing.
 
-<div style="display: flex; align-items: self-start; margin-bottom: 1rem;">
-  <div style="width: 23%; margin: 1rem 1rem 2rem 0; display: flex; align-items: center; justify-content: center; flex-direction: column; float: left; padding: 1rem;" class="text-center border">
-    <img src="https://www.solodev.com/_/images/logos/keycloak-logo.png" alt="CMS Enterprise Logo" style="width: 80px;">
-    <h2 style="margin-top: 2rem; font-size: 1.4rem;">Keycloak</h2>
-    <!-- <p style="font-size: .88rem; height: 95px;">A cluster deployment with load balancing and auto-scaling, designed for high-availability websites and apps.</p> -->
-    <p style="margin-top: 1rem;"><a href="/quickstart/keycloak" style="background-color: #0488ce; color: #fff; padding: .5rem 2.5rem; border-radius: 20px;">INSTALL</a></p>
+<div class="row">
+  <div class="col">
+    <div class="card text-center">
+      <img src="/static/images/logos/aws-logo.jpg" alt="AWS Logo">
+      <h2>AWS</h2>
+      <p class="content">Host and scale your apps on the world's most powerful cloud platform.</p>
+      <p style="margin-bottom: 10px;"><a href="/quickstart/aws">INSTALL</a></p>
+    </div>
   </div>
-
-  <div style="width: 23%; margin: 1rem 1rem 2rem 0; display: flex; align-items: center; justify-content: center; flex-direction: column; float: left; padding: 1rem;" class="text-center border">
-    <img src="https://www.solodev.com/file/a7d1f218-48f9-11eb-b0f2-023b938ab155/Kubernetes_Logo_Icon-15b25ca2.png" alt="Kubernetes Logo" style="width: 80px;">
-    <h2 style="margin-top: 2rem; font-size: 1.4rem;">Kubernetes</h2>
-    <!-- <p style="font-size: .88rem; height: 95px;">A single-server deployment designed for business-level projects that require moderate scalability.</p> -->
-    <p style="margin-top: 1rem;"><a href="/quickstart/kubernetes" style="background-color: #0488ce; color: #fff; padding: .5rem 2.5rem; border-radius: 20px;">INSTALL</a></p>
+  <div class="col">
+    <div class="card text-center">
+      <img src="/static/images/logos/keycloak-logo.png" alt="Keycloak Logo">
+      <h2>Keycloak</h2>
+      <p class="content"></p>
+      <p style="margin-bottom: 10px;"><a href="/quickstart/keycloak">INSTALL</a></p>
+    </div>
   </div>
-
-  <div style="width: 23%; margin: 1rem 1rem 2rem 0; display: flex; align-items: center; justify-content: center; flex-direction: column; float: left; padding: 1rem;" class="text-center border">
-    <img src="https://www.solodev.com/_/images/logos/wordpress-logo.png" alt="WordPress Logo" style="width: 80px;">
-    <h2 style="margin-top: 2rem; font-size: 1.4rem;">WordPress</h2>
-    <!-- <p style="font-size: .88rem; height: 95px;">The perfect launch pad for small development or proof of concept (PoC) projects.</p> -->
-    <p style="margin-top: 1rem;"><a href="/quickstart/wordpress" style="background-color: #0488ce; color: #fff; padding: .5rem 2.5rem; border-radius: 20px;">INSTALL</a></p>
+  <div class="col">
+    <div class="card text-center">
+      <img src="/static/images/logos/kubernetes-logo.png" alt="Kubernetes Logo">
+      <h2>Kubernetes</h2>
+      <p class="content">Deploy websites and apps in containers at scale with Kubernetes and AWS.</p>
+      <p style="margin-bottom: 10px;"><a href="/quickstart/kubernetes">INSTALL</a></p>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card text-center">
+      <img src="/static/images/logos/wordpress-logo.png" alt="WordPress Logo">
+      <h2>WordPress</h2>
+      <p class="content">Build custom blogs and websites with themes, templates, and widgets.</p>
+      <p style="margin-bottom: 10px;"><a href="/quickstart/wordpress">INSTALL</a></p>
+    </div>
   </div>
 </div>
 
