@@ -158,9 +158,9 @@ To learn more about the stack failure options, <a href="https://docs.aws.amazon.
 
 <!-- <p><img src="../../images/quickstart/stack-outputs.jpg" alt="Keycloak Pro Stack Outputs" style="width: 62%;"></p> -->
 
-3. Open your preferred browser and paste the AdminUrl value to access the CMS login page. Use the **Admin Username** and **Admin Password** provided in the stacks output to log in.
+3. Open your preferred browser and paste the AdminUrl value to access the Keycloak login page. Use the **Admin Username** and **Admin Password** provided in the stacks output to log in.
 
-<p><img src="/static/images/quickstart/login-screen.jpg" alt="Solodev CMS Login Screen" style="width: 50%;"></p>
+<!-- <p><img src="/static/images/quickstart/login-screen.jpg" alt="Solodev CMS Login Screen" style="width: 50%;"></p> -->
 
 {% endtab %}
 
