@@ -12,9 +12,9 @@ Deployments, websites, clusters, and applications installed within an organizati
 
 **Name** | **Description** 
 :--- | ---
-<a href="/settings/profile/#update-organization-profile-details/">Update Organization Profile Details</a> | Manage organization profile details such as billing email.
-<a href="/settings/profile/#manage-organization/">Manage Organization</a> | Manage organization - rename or delete it and more.
-<a href="/settings/profile/#organization-image/">Organization Image</a> | Manage organization image.
+<a href="/settings/profile/#update-organization-profile-details">Update Organization Profile Details</a> | Manage organization profile details such as billing email.
+<a href="/settings/profile/#manage-organization">Manage Organization</a> | Manage organization - rename or delete it and more.
+<a href="/settings/profile/#organization-image">Organization Image</a> | Manage organization image.
 
 ## Update Organization Profile Details
 

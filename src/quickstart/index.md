@@ -38,10 +38,18 @@ Built from the ground up to leverage the power of AWS services, Solodev is a clo
   </div>
   <div class="col">
     <div class="card text-center">
-      <img src="/static/images/logos/wordpress-logo.png" alt="WordPress Logo">
+      <img src="/static/images/logos/wordpress-logo.jpg" alt="WordPress Logo">
       <h2>WordPress</h2>
       <p class="content">Build custom blogs and websites with themes, templates, and widgets.</p>
       <p style="margin-bottom: 10px;"><a href="/quickstart/wordpress">INSTALL</a></p>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card text-center">
+      <img src="/static/images/logos/cloudfront-logo.jpg" alt="CloudFront Logo">
+      <h2>CloudFront</h2>
+      <p class="content"></p>
+      <p style="margin-bottom: 10px;"><a href="/quickstart/cloudfront">INSTALL</a></p>
     </div>
   </div>
 </div>
