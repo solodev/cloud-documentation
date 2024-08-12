@@ -61,76 +61,7 @@ h3 .text-teal {
 .mb-2 {
   margin-bottom: 0.5rem;
 }
-/* Cards */
-.card {
-  border: 1px solid #dee2e6;
-  box-shadow: 0 1px 5px 0 #dcdcdc;
-  height: 100%;
-  box-sizing: content-box;
-  padding: 1rem;
-}
-.card h2 {
-  margin-top: 2rem;
-  font-size: 1.4rem;
-}
-.card a {
-  margin-top: .7rem;
-  padding: .5rem 2.5rem;
-  font-size: .9rem;
-  border-radius: 25px;
-  background-color: #0488ce;
-  color: #fff!important;
-}
-.card img {
-  width: 80px;
-}
-.card.card-color {
-  border-radius: 35px;
-  background-color: #0488ce;
-  color: #fff;
-}
-.card.card-color h2 {
-  color: #fff;
-}
-.card.card-color a {
-  border: 1.5px solid #fff;
-  background-color: #fff;
-  color: #0488ce!important;
-}
-.card.card-color a:hover {
-  color: #0488ce!important;
-}
-.card p.content {
-  height: 100px;
-  font-size: .88rem;
-}
 
-/* Headers */
-.header {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  padding: 2rem 1.5rem;
-  margin-bottom: 2rem;
-  background-color: #eef6ff;
-}
-.header .inner {
-  display: flex;
-  align-items: center;
-  justify-content: start;
-}
-.header img {
-  width: 80px;
-}
-.header h1 {
-  margin-left: 0;
-  font-size: 2rem;
-  margin-bottom: 0.25rem;
-}
-.header p {
-  padding-left: 2rem;
-  margin-bottom: 0;
-}
 /* Buttons */
 .btn-orange-lg,
 .btn-orange-sm {

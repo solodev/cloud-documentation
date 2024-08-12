@@ -55,3 +55,49 @@ Built from the ground up to leverage the power of AWS services, Solodev is a clo
 </div>
 
 <p>Enterprise-class software. Best-of-breed capabilities. World-class cloud hosting. It’s all here – and it’s all yours – with Solodev.</p>
+
+<style>
+  /* Cards */
+  .card {
+    border: 1px solid #dee2e6;
+    box-shadow: 0 1px 5px 0 #dcdcdc;
+    height: 100%;
+    box-sizing: content-box;
+    padding: 1rem;
+  }
+  .card h2 {
+    margin-top: 2rem;
+    font-size: 1.4rem;
+  }
+  .card a {
+    margin-top: .7rem;
+    padding: .5rem 2.5rem;
+    font-size: .9rem;
+    border-radius: 25px;
+    background-color: #0488ce;
+    color: #fff!important;
+  }
+  .card img {
+    width: 80px;
+  }
+  .card.card-color {
+    border-radius: 35px;
+    background-color: #0488ce;
+    color: #fff;
+  }
+  .card.card-color h2 {
+    color: #fff;
+  }
+  .card.card-color a {
+    border: 1.5px solid #fff;
+    background-color: #fff;
+    color: #0488ce!important;
+  }
+  .card.card-color a:hover {
+    color: #0488ce!important;
+  }
+  .card p.content {
+    height: 100px;
+    font-size: .88rem;
+  }
+</style>

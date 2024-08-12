@@ -87,3 +87,32 @@
 Congratulations! You have signed up for an AWS account. You can go to your <a href="https://console.aws.amazon.com/" target="_blank">AWS Management Console</a>.
 
 <p><img src="/static/images/aws/aws-congratulations.jpg" alt="Congratulations" style="width: 30%;"></p>
+
+<style>
+  /* Headers */
+  .header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 2rem 1.5rem;
+    margin-bottom: 2rem;
+    background-color: #eef6ff;
+  }
+  .header .inner {
+    display: flex;
+    align-items: center;
+    justify-content: start;
+  }
+  .header img {
+    width: 80px;
+  }
+  .header h1 {
+    margin-left: 0;
+    font-size: 2rem;
+    margin-bottom: 0.25rem;
+  }
+  .header p {
+    padding-left: 2rem;
+    margin-bottom: 0;
+  }
+</style>
