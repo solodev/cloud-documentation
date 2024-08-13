@@ -21,7 +21,7 @@
 
 The following steps cover the setup of the **WordPress Pro** on the AWS Marketplace. Click the **“Continue to Subscribe”** button at the top of the AWS Marketplace listing page to continue the process. WordPress Pro is available as a monthly subscription on the AWS Marketplace. The subscription includes the software's operational and infrastructure costs for running on AWS.
 
-1. Subscribe to Solodev on the AWS Marketplace. <a href="https://aws.amazon.com/marketplace/server/procurement?productId=prod-hdehqqssxce6q" target="_blank" class="btn-orange-sm" style="margin-left: 1rem;">SUBSCRIBE <span>:icon-link-external:</span></a>
+1. Subscribe to Solodev on the AWS Marketplace. <a href="https://aws.amazon.com/marketplace/server/procurement?productId=prod-qg2f5v7dum4aw" target="_blank" class="btn-orange-sm" style="margin-left: 1rem;">SUBSCRIBE <span>:icon-link-external:</span></a>
 2. Review and accept the **"Terms and Conditions"**.
 3. Click **"Continue to Configuration"**.
 
@@ -165,6 +165,10 @@ To learn more about the stack failure options, <a href="https://docs.aws.amazon.
 
 3. Open your preferred browser and paste the AdminUrl value to access the WordPress front-end website.
 
+!!!Note:
+Ensure that your browser's address bar includes "http://" instead of "https://."
+!!!
+
 4. To access the WordPress login page, add `/wp-admin` to the end of the website URL. Use the **Admin Username** and **Admin Password** provided in the stacks output to log in.
 
 <p><img src="/static/images/wordpress/wordpress-login-screen.jpg" alt="WordPress Login Screen" style="width: 30%;"></p>
@@ -245,6 +249,10 @@ For more information about storage, <a href="https://docs.aws.amazon.com/AWSEC2/
 
 3. To access the WordPress login page, add `/wp-admin` to the end of the website URL. Use **wordpress** as the username and your **instance ID** as the password.
 
+!!!Note:
+Ensure that your browser's address bar includes "http://" instead of "https://."
+!!!
+
 <p><img src="/static/images/wordpress/wordpress-login-screen.jpg" alt="WordPress Login Screen" style="width: 30%;"></p>
 
 {% endtab %}
@@ -255,35 +263,35 @@ For more information about storage, <a href="https://docs.aws.amazon.com/AWSEC2/
 
 1. Select **Launch from Website**
 
-<!-- <p><img src="/static/images/quickstart/cms-launch-from-website.jpg" alt="WordPress Choose Actions" style="width: 55%;"></p> -->
+<p><img src="/static/images/quickstart/launch-from-website.jpg" alt="WordPress Choose Actions" style="width: 55%;"></p>
 
 2. **EC2 Instance Type**. WordPress runs on a single Amazon Elastic Compute (EC2) instance and is defaulted to run on a recommended t2.large server. Depending on your traffic needs, you can select an instance size from the available options in the menu. 
 
-<!-- <p><img src="/static/images/quickstart/cms-instance.jpg" alt="WordPress EC2 Instance Type" style="width: 35%;"></p> -->
+<p><img src="/static/images/quickstart/instance-type.jpg" alt="WordPress EC2 Instance Type" style="width: 35%;"></p>
 
 To learn more about which instance to choose based on your traffic needs, <a href="https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/Instances.html" target="_blank">click here :icon-link-external:</a>.
 
 3. **VPC Settings**. An Amazon Virtual Private Cloud (VPC) is a dedicated environment that lets you launch the AWS resources that power your WordPress in an isolated virtual network. If you do not have a VPC, you will need to create one in your VPC Console.
 
-<!-- <p><img src="/static/images/quickstart/cms-vpc.jpg" alt="WordPress VPC Settings" style="width: 35%;"></p> -->
+<p><img src="/static/images/quickstart/vpc-settings.jpg" alt="WordPress VPC Settings" style="width: 35%;"></p>
 
 For instructions on how to create a VPC, <a href="https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-vpc.html" target="_blank">click here for instructions :icon-link-external:</a>.
 
 4. **Subnet Settings**. A subnet is a range of IP addresses contained in your VPC. You can create AWS resources, such as EC2 instances, in specific subnets, enabling you to group network resources more efficiently. 
 
-<!-- <p><img src="/static/images/quickstart/cms-subnet.jpg" alt="WordPress Subnet Settings" style="width: 35%;"></p> -->
+<p><img src="/static/images/quickstart/subnet-settings.jpg" alt="WordPress Subnet Settings" style="width: 35%;"></p>
 
 If you do not have any existing subnets, you will need to create one in your Subnet Console. For instructions, <a href="https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-vpc.html#ec2-shared-VPC-subnets" target="_blank">click here :icon-link-external:</a>.
 
 5. **Security Group Settings**. A security group acts as a firewall that controls the traffic allowed to reach one or more instances. You can create a new security group or choose one of your existing groups. Select an existing security group from the menu or configure a new security group using the form provided. Name your security group and give it a description.
 
-<!-- <p><img src="/static/images/quickstart/security-groups.jpg" alt="WordPress Security Groups" style="width: 60%;"></p> -->
+<p><img src="/static/images/quickstart/security-group-settings.jpg" alt="WordPress Security Groups" style="width: 60%;"></p>
 
 To learn more about security groups, <a href="https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-security-groups.html" target="_blank">click here :icon-link-external:</a>.
 
 6. **Key Pair Settings**. An Amazon EC2 key pair is a set of security credentials consisting of a public and private key that verify a user’s identity when connecting or communicating with an EC2 instance. Select an existing security group from the menu or configure a new security group using the form provided. 
 
-<!-- <p><img src="/static/images/quickstart/cms-key-pair.jpg" alt="WordPress Key Pair Settings" style="width: 63%;"></p> -->
+<p><img src="/static/images/quickstart/key-pair.jpg" alt="WordPress Key Pair Settings" style="width: 63%;"></p>
 
 If you do not have a Key Pair, you will need to create one in your Key Pair Console. For instructions <a href="https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-key-pairs.html" target="_blank">click here :icon-link-external:</a>.
 
@@ -291,17 +299,21 @@ If you do not have a Key Pair, you will need to create one in your Key Pair Cons
 
 8. You will receive a success message to view your instance. Click on **EC2 Console**.
 
-<!-- <p><img src="/static/images/quickstart/cms-success-launch.jpg" alt="WordPress Launch Message" style="width: 44%"></p> -->
+<p><img src="/static/images/quickstart/success-launch-website.jpg" alt="WordPress Launch Message" style="width: 44%"></p>
 
 #### EC2 Instance
 
 1. Check the **Instance State** and **Status Check** of your instance. Once your instance state changed from **Pending** to **Running**, click on the instance you created to access it.
 
-<!-- <p><img src="/static/images/quickstart/cms-instance-state.jpg" alt="WordPress Instance" style="width: 40%;"></p> -->
+<p><img src="/static/images/quickstart/instance-state.jpg" alt="WordPress Instance" style="width: 40%;"></p>
 
-2. Click on your **Public IPv4 address** to access the login page.
+2. To access the WordPress login page, add `/wp-admin` to the end of your **Public IPv4 address**.
 
-<!-- <p><img src="/static/images/quickstart/cms-public-address.jpg" alt="WordPress Public Address" style="width: 25%;"></p> -->
+<p><img src="/static/images/quickstart/public-address.jpg" alt="WordPress Public Address" style="width: 25%;"></p>
+
+!!!Note:
+Ensure that your browser's address bar includes "http://" instead of "https://."
+!!!
 
 3. To log in, use **wordpress** as the username and your **instance ID** as the password.
 
