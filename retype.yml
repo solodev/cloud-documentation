@@ -11,9 +11,15 @@ meta:
   title: " - Generate, publish, and share documentation"
 
 links:
-- text: Cloud Home
+- text: Home
   link: https://cloud.solodev.net/
   icon: home-fill
+- text: Cloud
+  link: https://cloud.solodev.net/
+  icon: cloud
+- text: CMS
+  link: https://cms.solodev.net/
+  icon: container
 
 footer:
   copyright: "&copy; Copyright {{ year }}. All rights reserved."
