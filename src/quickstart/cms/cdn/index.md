@@ -12,7 +12,7 @@
       <img src="/static/images/logos/cloudfront-logo.jpg" alt="CloudFront Logo">
       <h3>CMS CDN</h3>
       <p class="content"></p>
-      <p style="margin-bottom: 10px;"><a href="/quickstart/cms/cdn/cms-cloudfront/" target="_blank">INSTALL</a></p>
+      <p style="margin-bottom: 10px;"><a href="/quickstart/cms/cdn/cms-cloudfront/">INSTALL</a></p>
     </div>
   </div>
 </div>

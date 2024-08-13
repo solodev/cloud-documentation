@@ -4,7 +4,7 @@
   <div class="inner">
     <img src="/static/images/logos/cloudfront-logo.jpg" alt="CloudFront Logo">
     <div>
-      <h1>WordPress CloudFront</h1>
+      <h1>CMS CDN</h1>
     </div>
   </div>
   <button class="btn-orange-lg" disabled>COMING SOON</button>

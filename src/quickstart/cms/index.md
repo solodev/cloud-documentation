@@ -21,7 +21,7 @@
       <img src="/static/images/logos/enterprise-logo.jpg" alt="CMS Enterprise Logo">
       <h3>CMS Enterprise</h3>
       <p class="content">Develop enterprise websites and apps on a scalable, redundant CMS</p>
-      <p style="margin-bottom: 10px;"><a href="https://cms.solodev.net/quickstart/solodev-enterprise">INSTALL</a></p>
+      <p style="margin-bottom: 10px;"><a href="https://cms.solodev.net/quickstart/solodev-enterprise" target="_blank">INSTALL</a></p>
     </div>
   </div>
   <div class="col">
@@ -29,7 +29,7 @@
       <img src="/static/images/logos/pro-logo.jpg" alt="CMS Professional Logo">
       <h3>CMS Professional</h3>
       <p class="content">Powerful CMS features on a single server for professional websites and apps</p>
-      <p style="margin-bottom: 10px;"><a href="https://cms.solodev.net/quickstart/solodev-pro">INSTALL</a></p>
+      <p style="margin-bottom: 10px;"><a href="https://cms.solodev.net/quickstart/solodev-pro" target="_blank">INSTALL</a></p>
     </div>
   </div>
 </div>
