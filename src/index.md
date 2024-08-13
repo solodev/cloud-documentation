@@ -39,38 +39,6 @@ Solodev Cloud is the best-of-breed cloud-based solution for almost anything you 
       <p style="margin-bottom: 10px;"><a href="/quickstart/wordpress">INSTALL</a></p>
     </div>
   </div>
-  <div class="col">
-    <div class="card text-center">
-      <img src="/static/images/logos/cloudfront-logo.jpg" alt="CloudFront Logo">
-      <h2>CloudFront</h2>
-      <p class="content"></p>
-      <p style="margin-bottom: 10px;"><a href="/quickstart/cloudfront">INSTALL</a></p>
-    </div>
-  </div>
-  <div class="col">
-    <div class="card text-center">
-      <img src="/static/images/logos/eks-anywhere-logo.jpg" alt="CloudFront Logo">
-      <h2>EKS-A</h2>
-      <p class="content"></p>
-      <p style="margin-bottom: 10px;"><a href="/quickstart/eks-a">INSTALL</a></p>
-    </div>
-  </div>
-  <div class="col">
-    <div class="card text-center">
-      <img src="/static/images/logos/solodev-static-logo.jpg" alt="Solodev Static Logo">
-      <h2>Solodev Static</h2>
-      <p class="content">Instantly launch static web pages without the hosting headaches.</p>
-      <p style="margin-bottom: 10px;"><a href="/quickstart/solodev-static">INSTALL</a></p>
-    </div>
-  </div>
-  <div class="col">
-    <div class="card text-center">
-      <img src="/static/images/logos/datadog-logo.png" alt="Datadog Logo">
-      <h2>Datadog</h2>
-      <p class="content">Monitor cloud-scale apps, databases, containers and more with SaaS analytics.</p>
-      <p style="margin-bottom: 10px;"><a href="/quickstart/datadog">INSTALL</a></p>
-    </div>
-  </div>
 </div>
 
 !!!Tip:
@@ -100,22 +68,6 @@ Need help with a custom enterprise deployment with unique requirements? [:icon-m
   }
   .card img {
     height: 80px;
-  }
-  .card.card-color {
-    border-radius: 35px;
-    background-color: #0488ce;
-    color: #fff;
-  }
-  .card.card-color h2 {
-    color: #fff;
-  }
-  .card.card-color a {
-    border: 1.5px solid #fff;
-    background-color: #fff;
-    color: #0488ce!important;
-  }
-  .card.card-color a:hover {
-    color: #0488ce!important;
   }
   .card p.content {
     height: 100px;

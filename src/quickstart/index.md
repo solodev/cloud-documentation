@@ -47,9 +47,17 @@ Built from the ground up to leverage the power of AWS services, Solodev is a clo
   <div class="col">
     <div class="card text-center">
       <img src="/static/images/logos/cloudfront-logo.jpg" alt="CloudFront Logo">
-      <h2>CloudFront</h2>
+      <h2 style="margin-bottom: 0;">WordPress CloudFront</h2>
       <p class="content"></p>
-      <p style="margin-bottom: 10px;"><a href="/quickstart/cloudfront">INSTALL</a></p>
+      <p style="margin-bottom: 6px;"><a href="/quickstart/wordpress-cloudfront">INSTALL</a></p>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card text-center">
+      <img src="/static/images/logos/cloudfront-logo.jpg" alt="CloudFront Logo">
+      <h2>CMS CloudFront</h2>
+      <p class="content"></p>
+      <p style="margin-bottom: 10px;"><a href="/quickstart/cms-cloudfront">INSTALL</a></p>
     </div>
   </div>
   <div class="col">
@@ -89,7 +97,7 @@ Built from the ground up to leverage the power of AWS services, Solodev is a clo
     box-shadow: 0 1px 5px 0 #dcdcdc;
     height: 100%;
     box-sizing: content-box;
-    padding: 1rem;
+    padding: 1.5rem;
   }
   .card h2 {
     margin-top: 2rem;
@@ -124,6 +132,6 @@ Built from the ground up to leverage the power of AWS services, Solodev is a clo
   }
   .card p.content {
     height: 100px;
-    font-size: .88rem;
+    font-size: .9rem;
   }
 </style>
