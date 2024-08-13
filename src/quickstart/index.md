@@ -80,6 +80,8 @@ Built from the ground up to leverage the power of AWS services, Solodev is a clo
 
 <p>Enterprise-class software. Best-of-breed capabilities. World-class cloud hosting. It’s all here – and it’s all yours – with Solodev.</p>
 
+<img src="/static/images/quickstart/aws-badges.jpg" alt="AWS Badges" style="width: 56%; display: block; margin: 0 auto;">
+
 <style>
   /* Cards */
   .card {

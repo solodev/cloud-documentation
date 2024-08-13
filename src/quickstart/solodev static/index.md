@@ -5,10 +5,13 @@
     <img src="/static/images/logos/solodev-static-logo.jpg" alt="Solodev Static Logo">
     <div>
       <h1>Solodev Static</h1>
+      <p style="padding-left: 2rem; margin-bottom: 0;">Instantly launch static web pages without the hosting headaches.</p>
     </div>
   </div>
   <button class="btn-orange-lg" disabled>COMING SOON</button>
 </div>
+
+Build static pages with an easy to use drag and drop builder. Simply build your page by placing individual elements onto a canvas.
 
 <style>
   /* Headers */

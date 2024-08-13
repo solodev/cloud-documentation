@@ -2,7 +2,7 @@
 
 <div class="header">
   <div class="inner">
-    <img src="/static/images/logos/keycloak-logo.png" alt="Keycloak Logo">
+    <img src="/static/images/logos/keycloak-pro-logo.jpg" alt="Keycloak Logo">
     <div>
       <h1>Keycloak Pro</h1>
       <p style="padding-left: 2rem; margin-bottom: 0;">Keycloak provides user federation, strong authentication, user management, fine-grained authorization, and more.</p>
