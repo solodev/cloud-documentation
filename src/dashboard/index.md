@@ -13,7 +13,7 @@ There are two main dashboard views in Solodev Cloud:
 
 The Developer Org Dashboard is the primary view of your Solodev Cloud account. You can access your Services, Pages, Infrastructure, Marketplace, and Settings using the left-hand tree. 
 
-<img src="../../../images/dev-org-dashboard1.png" alt="dev_dashboard" style="width: 100%; display: block"></a>
+<img src="/static/images/dev-org-dashboard1.png" alt="dev_dashboard" style="width: 100%; display: block"></a>
 
 The dashboard view will display a collection of your active apps and services in a card or table format. You can also quickly add new services from your dashboard by clicking the **Add Service** button.
 
@@ -46,7 +46,7 @@ While in your Developer Org, you can also click the logo in the upper left corne
 
 The Business Org Dashboard provides a common view for all organizations you create or are invited to. You can access your Services, Pages, Infrastructure, Marketplace, and Settings using the left-hand tree. Unlike the Developer Org Dashboard, the Business Org Dashboard allows you to access and manage your Users and Groups. 
 
-<img src="../../../images/dev-dashboard.png" alt="biz" style="width: 100%; display: block"></a>
+<img src="/static/images/dev-dashboard.png" alt="biz" style="width: 100%; display: block"></a>
 
 Each organization in Solodev Cloud will have its own default dashboard that will display a collection of your active apps and services in a card or table format. You can also quickly add new services from your dashboard by clicking the **Add Service** button. 
 

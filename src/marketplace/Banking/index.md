@@ -2,7 +2,7 @@
 
 Manage your banking information to receive disbursements from active subscribers. 
 
-<img src="../../../../images/banking.jpg" alt="banking" style="width: 100%; display: block"></a>
+<img src="/static/images/banking.jpg" alt="banking" style="width: 100%; display: block"></a>
 
 !!!Note:
 You may have up to 2 accounts. It must be a US bank account.

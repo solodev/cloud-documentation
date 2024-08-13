@@ -2,31 +2,31 @@
 
 Adding a cloud account in Solodev Cloud is a simple process and can be completed in minutes by following the steps below.
 
-<img src="../../../images/addcloudaccount.jpg" alt="addcloudaccount" style="width: 100%; display: block"></a>
+<img src="/static/images/addcloudaccount.jpg" alt="addcloudaccount" style="width: 100%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---
 Product Selection | Select the provider you are interested in by clicking on the button on the product card.
 
-<img src="../../../images/addcloudaccount2.jpg" alt="addcloudaccount2" style="width: 100%; display: block"></a>
+<img src="/static/images/addcloudaccount2.jpg" alt="addcloudaccount2" style="width: 100%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---
 Install for free | Click this button to go one step further, selecting a product type before.
 
-<img src="../../../images/addcloudaccount3.jpg" alt="addcloudaccount3" style="width: 100%; display: block"></a>
+<img src="/static/images/addcloudaccount3.jpg" alt="addcloudaccount3" style="width: 100%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---
 Complete Purchase | Click this button to complete your purchase.
 
-<img src="../../../images/addcloudaccount4.jpg" alt="addcloudaccount4" style="width: 100%; display: block"></a>
+<img src="/static/images/addcloudaccount4.jpg" alt="addcloudaccount4" style="width: 100%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---
 Install | Install the product.
 
-<img src="../../../images/addcloudaccount5.jpg" alt="addcloudaccount5" style="width: 100%; display: block"></a>
+<img src="/static/images/addcloudaccount5.jpg" alt="addcloudaccount5" style="width: 100%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---
@@ -37,7 +37,7 @@ Install | Install the product.
 
 Use the automatic mode.
 
-<img src="../../../images/addcloudaccount6.jpg" alt="addcloudaccount6" style="width: 100%; display: block"></a>
+<img src="/static/images/addcloudaccount6.jpg" alt="addcloudaccount6" style="width: 100%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---
@@ -47,13 +47,13 @@ Select AWS Region | Choose the region where the AWS CloudFormation stack is crea
 
 Use the manual mode.
 
-<img src="../../../images/addcloudaccount7.jpg" alt="addcloudaccount6" style="width: 100%; display: block"></a>
+<img src="/static/images/addcloudaccount7.jpg" alt="addcloudaccount6" style="width: 100%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---
 Credentials Type | Choose the credentials type. Ypu can choose from **Role Delegation** and **Access Key**. In case of **Access Key** you will be asked to provide more details as: name, AWS access and secret keys.
 
-<img src="../../../images/addcloudaccount8.jpg" alt="addcloudaccount8" style="width: 100%; display: block"></a>
+<img src="/static/images/addcloudaccount8.jpg" alt="addcloudaccount8" style="width: 100%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---

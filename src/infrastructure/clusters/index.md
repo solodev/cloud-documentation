@@ -8,7 +8,7 @@ Manage clusters that are presented in the form of cards showing all their status
 
 Click the provider drop-down to filter by provider.
 
-<img src="../../../images/clusters.jpg" alt="clusters" style="width: 100%; display: block"></a>
+<img src="/static/images/clusters.jpg" alt="clusters" style="width: 100%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---

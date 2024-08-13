@@ -2,7 +2,7 @@
 
 Manage SSO settings, delete the service.
 
-<img src="../../../images/updateservice.jpg" alt="updateservice" style="width: 50%; display: block"></a>
+<img src="/static/images/updateservice.jpg" alt="updateservice" style="width: 50%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---
@@ -21,13 +21,13 @@ Copy data by clicking the copy icon.
 
 Unhide the Client Secret by clicking the eye icon.
 
-<img src="../../../images/updateservice3.jpg" alt="updateservice3" style="width: 50%; display: block"></a>
+<img src="/static/images/updateservice3.jpg" alt="updateservice3" style="width: 50%; display: block"></a>
 
 ## Advanced
 
 Under the Advanced dropdown, you can execute advanced operations such as deleting a service. 
 
-<img src="../../../images/updateservice2.jpg" alt="updateservice2" style="width: 50%; display: block"></a>
+<img src="/static/images/updateservice2.jpg" alt="updateservice2" style="width: 50%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---

@@ -2,7 +2,7 @@
 
 Change your organization's plan.
 
-<img src="../../../images/changeplan.jpg" alt="changeplan" style="width: 100%; display: block"></a>
+<img src="/static/images/changeplan.jpg" alt="changeplan" style="width: 100%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---
@@ -15,7 +15,7 @@ You can choose from three plans:
 - **Reseller:** Build a custom catalog of ready-to-sell apps and containers from the Marketplace.
 !!!
 
-<img src="../../../images/changeplan2.jpg" alt="changeplan2" style="width: 100%; display: block"></a>
+<img src="/static/images/changeplan2.jpg" alt="changeplan2" style="width: 100%; display: block"></a>
  
 **Name** | **Description** 
 :--- | ---
@@ -29,7 +29,7 @@ You can choose from three plans:
 
 Update your payment details.
 
-<img src="../../../images/profileinformation3.jpg" alt="profileinformation3" style="width: 40%; display: block"></a>
+<img src="/static/images/profileinformation3.jpg" alt="profileinformation3" style="width: 40%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---

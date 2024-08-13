@@ -4,7 +4,7 @@ Site Overview gives you a comprehensive overview of your site with convenient ac
 
 At the top, there are three icons, which can be used to change the site view. Maximize the window using the icon of doubled arrows on the right. 
 
-<img src="../../../images/sitesoverview.jpg" alt="sitesoverview" style="width: 100%; display: block"></a>
+<img src="/static/images/sitesoverview.jpg" alt="sitesoverview" style="width: 100%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---

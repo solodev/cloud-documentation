@@ -3,7 +3,7 @@
 The Provider Overview page gives you the ability to manage your providers. Do it by updating details, modifying permissions for members, managing deployments, clusters and 
 domains.
 
-<img src="../../../images/provideroverview.jpg" alt="provideroverview" style="width: 100%; display: block"></a>
+<img src="/static/images/provideroverview.jpg" alt="provideroverview" style="width: 100%; display: block"></a>
 
 !!!Note:
 The specificity of each product is different, therefore the options that are available after opening the container card differ. Universal options that appear for almost every container are **Update**, **Permissions**, **Add Deployment, Cluster, or Domain**.

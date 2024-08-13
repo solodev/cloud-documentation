@@ -2,7 +2,7 @@
 
 Infrastructure is the core of your builds and is divided into two main groups: Infrastructure and Settings. From the Infrastructure Overview page, you get a high-level overview of your containers and deployments and also access to your settings.
 
-<img src="../../../images/infrastructure.jpg" alt="infrastructure" style="width: 100%; display: block"></a>
+<img src="/static/images/infrastructure.jpg" alt="infrastructure" style="width: 100%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---

@@ -162,7 +162,7 @@ You can monitor the pod creation progress in the dashboard under your namespace.
 ./ekscli.sh cms cms**********
 ```
 
-<!-- <p><img src="../../images/quickstart/eks/eks-cms-console.jpg" alt="EKS CMS console" style="width: 62%;"></p> -->
+<!-- <p><img src="/static/images/quickstart/eks/eks-cms-console.jpg" alt="EKS CMS console" style="width: 62%;"></p> -->
 
 !!!NOTE:
 This updates the ports for the CMS on Kubernetes to be hosted locally so you can access it in the browser.

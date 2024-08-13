@@ -2,7 +2,7 @@
 
 Adding a site is a simple process and can be completed in minutes by following the steps below. 
 
-<img src="../../../images/addsite.jpg" alt="addsite" style="width: 100%; display: block"></a>
+<img src="/static/images/addsite.jpg" alt="addsite" style="width: 100%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---
@@ -23,7 +23,7 @@ Site Types:
 
 Create your site using CMS.
 
-<img src="../../../images/addsite2.jpg" alt="addsite2" style="width: 100%; display: block"></a>
+<img src="/static/images/addsite2.jpg" alt="addsite2" style="width: 100%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---
@@ -33,26 +33,26 @@ Product Selection | Select the product you are interested in by clicking on the 
 Some products have a purchase option. For others without a purchase option, contact Solodev by filling out the contact form. Below is an example of a product WordPress that can be purchased immediately without having to contact Solodev.
 !!!
 
-<img src="../../../images/addsite3.jpg" alt="addsite3" style="width: 100%; display: block"></a>
+<img src="/static/images/addsite3.jpg" alt="addsite3" style="width: 100%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---
 Buy Now	| Click this button to go one step further to completing your purchase.
 
-<img src="../../../images/addsite4.jpg" alt="addsite4" style="width: 100%; display: block"></a>
+<img src="/static/images/addsite4.jpg" alt="addsite4" style="width: 100%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---
 Choose Add-Ons | Enter add-ons number, if needed.
 Complete Purchase |	Click this button to complete your purchase.
 
-<img src="../../../images/addsite5.jpg" alt="addsite5" style="width: 100%; display: block"></a>
+<img src="/static/images/addsite5.jpg" alt="addsite5" style="width: 100%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---
 Install	| Install the product in the Solodev Cloud.
 
-<img src="../../../images/addsite6.jpg" alt="addsite6" style="width: 60%; display: block"></a>
+<img src="/static/images/addsite6.jpg" alt="addsite6" style="width: 60%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---
@@ -70,32 +70,32 @@ When adding a new domain, it must be a valid URL such as www.yourdomain.com. Bef
 
 Create your site using Static.
 
-<img src="../../../images/addsite7.jpg" alt="addsite7" style="width: 100%; display: block"></a>
+<img src="/static/images/addsite7.jpg" alt="addsite7" style="width: 100%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---
 Buy Now	| Click this button to go one step further to completing your purchase.
 
-<img src="../../../images/addsite8.jpg" alt="addsite8" style="width: 100%; display: block"></a>
+<img src="/static/images/addsite8.jpg" alt="addsite8" style="width: 100%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---
 Buy Now	| Click this button to go one step further to completing your purchase.
 
-<img src="../../../images/addsite9.jpg" alt="addsite9" style="width: 100%; display: block"></a>
+<img src="/static/images/addsite9.jpg" alt="addsite9" style="width: 100%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---
 Choose Add-Ons | Enter add-ons number, if needed.
 Complete Purchase |	Click this button to complete your purchase.
 
-<img src="../../../images/addsite10.jpg" alt="addsite10" style="width: 100%; display: block"></a>
+<img src="/static/images/addsite10.jpg" alt="addsite10" style="width: 100%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---
 Install	| Install the product in the Solodev Cloud.
 
-<img src="../../../images/addsite11.jpg" alt="addsite11" style="width: 60%; display: block"></a>
+<img src="/static/images/addsite11.jpg" alt="addsite11" style="width: 60%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---
@@ -113,13 +113,13 @@ When adding a new domain, it must be a valid URL such as www.yourdomain.com. Bef
 
 Launch external site.
 
-<img src="../../../images/addsite12.jpg" alt="addsite12" style="width: 100%; display: block"></a>
+<img src="/static/images/addsite12.jpg" alt="addsite12" style="width: 100%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---
 Add Site | Add your site.
 
-<img src="../../../images/addsite13.jpg" alt="addsite13" style="width: 60%; display: block"></a>
+<img src="/static/images/addsite13.jpg" alt="addsite13" style="width: 60%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---

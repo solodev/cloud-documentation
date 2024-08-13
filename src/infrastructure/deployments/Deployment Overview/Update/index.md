@@ -6,7 +6,7 @@ Copy data by clicking the copy icon.
 
 Unhide the Admin Password by clicking the eye icon.
 
-<img src="../../../../images/updatedeployment.jpg" alt="updatedeployment" style="width: 50%; display: block"></a>
+<img src="/static/images/updatedeployment.jpg" alt="updatedeployment" style="width: 50%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---
@@ -16,7 +16,7 @@ Unhide the Admin Password by clicking the eye icon.
 
 Under the Advanced dropdown, you can execute advanced operations such as deleting a deployment. 
 
-<img src="../../../../images/updatedeployment2.jpg" alt="updatedeployment2" style="width: 50%; display: block"></a>
+<img src="/static/images/updatedeployment2.jpg" alt="updatedeployment2" style="width: 50%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---

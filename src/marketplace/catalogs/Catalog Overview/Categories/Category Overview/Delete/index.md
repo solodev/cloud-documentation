@@ -2,7 +2,7 @@
 
 Under the Advanced dropdown, you can execute advanced operations such as deleting a category. 
     
-<img src="../../../../../../images/deletecategory.jpg" alt="deletecategory" style="width: 50%; display: block"></a>
+<img src="/static/images/deletecategory.jpg" alt="deletecategory" style="width: 50%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---

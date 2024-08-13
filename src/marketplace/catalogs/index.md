@@ -6,7 +6,7 @@ The catalogs page gives you an overview of all of your catalogs.
 
 Filter catalogs by organization. Search for an existing catalog by using search bar.
 
-<img src="../../../images/catalogs.jpg" alt="catalogs" style="width: 100%; display: block"></a>
+<img src="/static/images/catalogs.jpg" alt="catalogs" style="width: 100%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---

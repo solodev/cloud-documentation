@@ -10,7 +10,7 @@ Items are categorized based on their Fulfillment Type, which includes:
 
 Manage your Items via Items page. Search the item using Search bar. Filter Items by fulfillment types, categories and catalogs.
 
-<img src="../../../../images/items.jpg" alt="items" style="width: 100%; display: block"></a>
+<img src="/static/images/items.jpg" alt="items" style="width: 100%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---

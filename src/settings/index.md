@@ -2,7 +2,7 @@
 
 The Settings Overview page gives access to make changes in the organization.
 
-<img src="../../../images/settings.png" alt="settings" style="width: 100%; display: block"></a>
+<img src="/static/images/settings.png" alt="settings" style="width: 100%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---

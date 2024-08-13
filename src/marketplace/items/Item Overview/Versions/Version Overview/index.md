@@ -2,7 +2,7 @@
 
 Manage your item versions by managing its details and statuses, and more.
 
-<img src="../../../../../images/versions.jpg" alt="versions" style="width: 100%; display: block"></a>
+<img src="/static/images/versions.jpg" alt="versions" style="width: 100%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---
@@ -15,7 +15,7 @@ Manage your item versions by managing its details and statuses, and more.
 
 Update your version.
 
-<img src="../../../../../images/updateversion.jpg" alt="updateversion" style="width: 75%; display: block"></a>
+<img src="/static/images/updateversion.jpg" alt="updateversion" style="width: 75%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---
@@ -23,7 +23,7 @@ Enter the code | Update your version with Buildspec.
 
 ## Version Details
 
-<img src="../../../../../images/versiondetails.jpg" alt="versions" style="width: 35%; display: block"></a>
+<img src="/static/images/versiondetails.jpg" alt="versions" style="width: 35%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---
@@ -33,7 +33,7 @@ Description | Enter the description.
 
 ## Status
 
-<img src="../../../../../images/versionstatus.jpg" alt="versionstatus" style="width: 35%; display: block"></a>
+<img src="/static/images/versionstatus.jpg" alt="versionstatus" style="width: 35%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---

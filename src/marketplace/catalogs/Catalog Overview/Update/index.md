@@ -2,7 +2,7 @@
 
 Update the catalog's details or delete the catalog.
 
-<img src="../../../../../images/catalogupdate.jpg" alt="catalogupdate" style="width: 50%; display: block"></a>
+<img src="/static/images/catalogupdate.jpg" alt="catalogupdate" style="width: 50%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---
@@ -17,7 +17,7 @@ Blockchain Provider | Choose from the existing ones or add the new Blockchain Pr
 
 Under the Advanced dropdown, you can execute advanced operations such as deleting a catalog. 
 
-<img src="../../../../images/catalogupdate2.jpg" alt="catalogupdate2" style="width: 40%; display: block"></a>
+<img src="/static/images/catalogupdate2.jpg" alt="catalogupdate2" style="width: 40%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---

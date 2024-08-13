@@ -2,7 +2,7 @@
 
 Adding a deployment in Solodev Cloud is a simple process and can be completed in minutes by following the steps below.
 
-<img src="../../../images/adddeployment.jpg" alt="adddeployment" style="width: 100%; display: block"></a>
+<img src="/static/images/adddeployment.jpg" alt="adddeployment" style="width: 100%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---

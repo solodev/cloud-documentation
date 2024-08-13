@@ -2,7 +2,7 @@
 
 Adding a group in Solodev Cloud is a simple process and can be completed in minutes.
 
-<img src="../../../images/addusergroup.jpg" alt="addusergroup" style="width: 40%; display: block"></a>
+<img src="/static/images/addusergroup.jpg" alt="addusergroup" style="width: 40%; display: block"></a>
 
 
 **Name** | **Description** 

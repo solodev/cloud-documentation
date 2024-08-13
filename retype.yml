@@ -1,10 +1,10 @@
 input: src
 output: dist
 url: cloud.solodev.net
-favicon: images/favicon.png
+favicon: /static/images/favicon.png
 
 branding:
-  logo: images/logo.png
+  logo: /static/images/logo.png
   label: Cloud v1.1
 
 meta:

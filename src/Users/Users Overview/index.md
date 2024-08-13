@@ -6,7 +6,7 @@ View the most recent user's activity.
 
 View and access the groups that a user is a member of by clicking on a specific row.
 
-<img src="../../../images/users-overview.jpg" alt="users-overview" style="width: 100%; display: block"></a>
+<img src="/static/images/users-overview.jpg" alt="users-overview" style="width: 100%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---

@@ -4,7 +4,7 @@ A domain name is a unique, easy-to-remember address used to access websites. Use
 
 Easily manage your domains from the Domain Page.
 
-<img src="../../../images/domains.jpg" alt="domains" style="width: 100%; display: block"></a>
+<img src="/static/images/domains.jpg" alt="domains" style="width: 100%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---

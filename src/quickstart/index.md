@@ -1,7 +1,7 @@
 #
 
 <div style="display: flex; align-items: center; margin-bottom: 2rem;">
-  <img src="../../../images/logo.png" alt="Solodev Logo" style="width: 80px;">
+  <img src="/static/images/logo.png" alt="Solodev Logo" style="width: 80px;">
   <span style="font-size: 2.5rem; padding-left: 1.5rem; font-weight: 600;">Solodev</span>
 </div>
 
@@ -57,7 +57,7 @@ Built from the ground up to leverage the power of AWS services, Solodev is a clo
       <img src="/static/images/logos/cloudfront-logo.jpg" alt="CloudFront Logo">
       <h2>CMS CloudFront</h2>
       <p class="content"></p>
-      <p style="margin-bottom: 10px;"><a href="/quickstart/cms-cloudfront">INSTALL</a></p>
+      <p style="margin-bottom: 10px;"><a href="https://cms.solodev.net/quickstart/solodev-enterprise/" target="_blank">INSTALL</a></p>
     </div>
   </div>
   <div class="col">

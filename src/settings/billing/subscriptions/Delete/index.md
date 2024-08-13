@@ -2,7 +2,7 @@
 
 Delete the subscription.
 
-<img src="../../../../images/deletesubscription.jpg" alt="deletesubscription" style="width: 40%; display: block"></a>
+<img src="/static/images/deletesubscription.jpg" alt="deletesubscription" style="width: 40%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---

@@ -2,7 +2,7 @@
 
 Add version numbers for the catalog item’s associated application.
     
-<img src="../../../../../images/addcatalogitemversion.jpg" alt="addcatalogitemversion" style="width: 40%; display: block"></a>
+<img src="/static/images/addcatalogitemversion.jpg" alt="addcatalogitemversion" style="width: 40%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---

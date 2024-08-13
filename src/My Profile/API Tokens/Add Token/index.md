@@ -2,7 +2,7 @@
 
 Add a new token.
 
-<img src="../../../images/addtoken.jpg" alt="addtoken" style="width: 60%; display: block"></a>
+<img src="/static/images/addtoken.jpg" alt="addtoken" style="width: 60%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---

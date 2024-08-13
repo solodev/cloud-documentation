@@ -8,7 +8,7 @@ Manage containers which are presented in the form of cards showing all their sta
 
 Click the cluster dropdown to filter by cluster.
 
-<img src="../../../images/containers.jpg" alt="containers" style="width: 100%; display: block"></a>
+<img src="/static/images/containers.jpg" alt="containers" style="width: 100%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---

@@ -4,7 +4,7 @@ A CDN topology distinguishes between your own origin servers and the on-edge ser
 
 CDN Origins are presented in the form of a table with the details such as origins, certificates, and CDN creator. 
 
-<img src="../../../../images/origins.jpg" alt="origins" style="width: 100%; display: block"></a>
+<img src="/static/images/origins.jpg" alt="origins" style="width: 100%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---

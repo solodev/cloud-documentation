@@ -179,7 +179,7 @@ The specificity of use Buildspec depends on the fulfillment type. In the all ful
 
 **Service Fulfillment Type**
 
-<img src="../../../../images/buildspec3.jpg" alt="buildspec3" style="width: 75%; display: block"></a>
+<img src="/static/images/buildspec3.jpg" alt="buildspec3" style="width: 75%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---
@@ -187,15 +187,15 @@ Formula | Enter the Buildspec formula.
 
 **Example of formula 1**:
 
-<img src="../../../../images/buildspec.jpg" alt="buildspec" style="width: 75%; display: block"></a>
+<img src="/static/images/buildspec.jpg" alt="buildspec" style="width: 75%; display: block"></a>
 
 **Example of formula 2**:
 
-<img src="../../../../images/buildspec2.jpg" alt="buildspec2" style="width: 75%; display: block"></a>
+<img src="/static/images/buildspec2.jpg" alt="buildspec2" style="width: 75%; display: block"></a>
 
 **Rest of fulfillment types**
 
-<img src="../../../../images/buildspec4.jpg" alt="buildspec4" style="width: 75%; display: block"></a>
+<img src="/static/images/buildspec4.jpg" alt="buildspec4" style="width: 75%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---

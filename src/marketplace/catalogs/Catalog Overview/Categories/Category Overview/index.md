@@ -2,7 +2,7 @@
 
 The Category Overview page gives you the details of your category and the items in it.
 
-<img src="../../../../../images/categoryoverview.jpg" alt="categoryoverview" style="width: 100%; display: block"></a>
+<img src="/static/images/categoryoverview.jpg" alt="categoryoverview" style="width: 100%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---
@@ -15,7 +15,7 @@ The Category Overview page gives you the details of your category and the items 
 
 Manage your category features.
 
-<img src="../../../../../images/categoryoverview2.jpg" alt="categoryoverview2" style="width: 50%; display: block"></a>
+<img src="/static/images/categoryoverview2.jpg" alt="categoryoverview2" style="width: 50%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---
@@ -30,7 +30,7 @@ Layout | Select the layout. You can select the layout from: **Category**, **Defa
 
 Create and manage the category icon.
 
-<img src="../../../../../images/categoryicon.jpg" alt="categoryicon" style="width: 40%; display: block"></a>
+<img src="/static/images/categoryicon.jpg" alt="categoryicon" style="width: 40%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---

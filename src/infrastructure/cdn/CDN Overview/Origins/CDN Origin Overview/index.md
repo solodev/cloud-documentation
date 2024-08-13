@@ -2,7 +2,7 @@
 
 The CDN Origin Overview page shows you important CDN Origin details as well as the ability to update your CDN Origin.
 
-<img src="../../../../../images/cdnoriginoverview.jpg" alt="cdnoriginoverview" style="width: 100%; display: block"></a>
+<img src="/static/images/cdnoriginoverview.jpg" alt="cdnoriginoverview" style="width: 100%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---
@@ -15,7 +15,7 @@ The CDN Origin Overview page shows you important CDN Origin details as well as t
 
 Manage CDN Origin
 
-<img src="../../../../../images/cdnoriginoverview2.jpg" alt="cdnoriginoverview2" style="width: 75%; display: block"></a>
+<img src="/static/images/cdnoriginoverview2.jpg" alt="cdnoriginoverview2" style="width: 75%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---
@@ -32,7 +32,7 @@ Minimum origin SSL protocol | Enter the minimum origin SSL protocol. You can cho
 
 Manage CDN Origin settings.
 
-<img src="../../../../../images/cdnoriginsettings.jpg" alt="cdnoriginsettings" style="width: 40%; display: block"></a>
+<img src="/static/images/cdnoriginsettings.jpg" alt="cdnoriginsettings" style="width: 40%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---

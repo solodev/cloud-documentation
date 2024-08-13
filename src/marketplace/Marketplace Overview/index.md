@@ -2,7 +2,7 @@
 
 Marketplace Overview page gives you direct access to all parts of the organization’s marketplace account. 
 
-<img src="../../../images/marketplace.jpg" alt="marketplace" style="width: 100%; display: block"></a>
+<img src="/static/images/marketplace.jpg" alt="marketplace" style="width: 100%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---

@@ -2,7 +2,7 @@
 
 The CDN GEO Restriction modal allows you to add and remove restrictions to your CDN.
 
-<img src="../../../../images/georestrictions.jpg" alt="addcdn" style="width: 50%; display: block"></a>
+<img src="/static/images/georestrictions.jpg" alt="addcdn" style="width: 50%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---

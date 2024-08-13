@@ -6,7 +6,7 @@ With a website security certificate users can be confident their connection is s
 
 On the certificates page, you can easily manage your certificates.
 
-<img src="../../../images/certificates.jpg" alt="certificates" style="width: 100%; display: block"></a>
+<img src="/static/images/certificates.jpg" alt="certificates" style="width: 100%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---

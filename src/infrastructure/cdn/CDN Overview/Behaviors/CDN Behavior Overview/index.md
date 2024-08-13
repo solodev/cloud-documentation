@@ -2,7 +2,7 @@
 
 The CDN Behavior Overview page shows you important CDN Behavior details as well as the ability to update your CDN Behavior.
 
-<img src="../../../../../images/cdnbehavioroverview.jpg" alt="cdnbehavioroverview" style="width: 100%; display: block"></a>
+<img src="/static/images/cdnbehavioroverview.jpg" alt="cdnbehavioroverview" style="width: 100%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---
@@ -14,7 +14,7 @@ The CDN Behavior Overview page shows you important CDN Behavior details as well 
 
 Manage CDN Behavior.
 
-<img src="../../../../../images/cdnbehavioroverview2.jpg" alt="cdnbehavioroverview2" style="width: 100%; display: block"></a>
+<img src="/static/images/cdnbehavioroverview2.jpg" alt="cdnbehavioroverview2" style="width: 100%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---

@@ -2,7 +2,7 @@
 
 Manage the deployment by updating details, modifying permissions for members, or upgrading the deployment version.
 
-<img src="../../../images/deploymentoverview.jpg" alt="deploymentoverview" style="width: 100%; display: block"></a>
+<img src="/static/images/deploymentoverview.jpg" alt="deploymentoverview" style="width: 100%; display: block"></a>
 
 !!!Note:
 The specificity of each product is different, therefore the options that are available after opening the deployment card differ. Universal options that appear for almost every deployment are **Update**, **Permissions**, and **Upgrade**.

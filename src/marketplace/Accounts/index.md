@@ -2,7 +2,7 @@
 
 Accounts to view a comprehensive list of clients and client status (**Active**, **Inactive**, and **Invited**) and add new clients.
 
-<img src="../../../images/accounts.jpg" alt="accounts" style="width: 100%; display: block"></a>
+<img src="/static/images/accounts.jpg" alt="accounts" style="width: 100%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---

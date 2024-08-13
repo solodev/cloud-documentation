@@ -6,7 +6,7 @@ Solodev CMS APIs provide seamless integration and efficient content management c
 
 ### Authentication
 
-<img src="../../../images/auth-api.png" alt="authentication" style="width: 100%; display: block"></a>
+<img src="/static/images/auth-api.png" alt="authentication" style="width: 100%; display: block"></a>
 
 ||| Parameters
   token 

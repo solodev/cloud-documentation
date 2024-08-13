@@ -2,7 +2,7 @@
 
 Change the name of the organization.
 
-<img src="../../../../images/renameorg.jpg" alt="renameorg" style="width: 40%; display: block"></a>
+<img src="/static/images/renameorg.jpg" alt="renameorg" style="width: 40%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---

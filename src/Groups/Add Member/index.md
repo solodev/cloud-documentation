@@ -2,7 +2,7 @@
 
 Add the new member to your group in Solodev Cloud.
 
-<img src="../../../images/add-member.jpg" alt="add-member" style="width: 45%; display: block"></a>
+<img src="/static/images/add-member.jpg" alt="add-member" style="width: 45%; display: block"></a>
 
 
 **Name** | **Description** 

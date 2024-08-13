@@ -2,7 +2,7 @@
 
 Manage domains and certificates. Delete the CDN.
 
-<img src="../../../../images/updatecdn.jpg" alt="updatedecdn" style="width: 50%; display: block"></a>
+<img src="/static/images/updatecdn.jpg" alt="updatedecdn" style="width: 50%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---
@@ -16,7 +16,7 @@ Delete Certificate | Click the **"x"** button to remove the certificate.
 
 Under the Advanced dropdown, you can execute advanced operations such as deleting a CDN. 
 
-<img src="../../../../images/updatecdn2.jpg" alt="updatecdn2" style="width: 50%; display: block"></a>
+<img src="/static/images/updatecdn2.jpg" alt="updatecdn2" style="width: 50%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---

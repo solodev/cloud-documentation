@@ -4,7 +4,7 @@ After an object is cached, it normally remains in the cache until it expires or 
 
 CDN Invalidations are presented in the form of a table with the details such as Description, Status, Date of Creation, and the CDN creator. Open the CDN Invalidation page by clicking it. 
 
-<img src="../../../../images/invalidations.jpg" alt="invalidations" style="width: 100%; display: block"></a>
+<img src="/static/images/invalidations.jpg" alt="invalidations" style="width: 100%; display: block"></a>
 
 !!!Note:
 You can open CDN Invalidation only when its status is **Live**.

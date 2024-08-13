@@ -6,7 +6,7 @@ Manage deployments through the cards showing which also display status. Click on
 
 Click the provider dropdown to filter by provider.
 
-<img src="../../../images/deployments.jpg" alt="deployments" style="width: 100%; display: block"></a>
+<img src="/static/images/deployments.jpg" alt="deployments" style="width: 100%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---

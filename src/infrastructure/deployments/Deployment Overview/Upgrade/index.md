@@ -2,7 +2,7 @@
 
 Upgrade the deployment to a newer version.
 
-<img src="../../../../images/upgradeservice.jpg" alt="upgradeservice" style="width: 50%; display: block"></a>
+<img src="/static/images/upgradeservice.jpg" alt="upgradeservice" style="width: 50%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---

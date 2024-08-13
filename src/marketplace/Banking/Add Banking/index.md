@@ -2,7 +2,7 @@
 
 Add your banking information.
 
-<img src="../../../../images/addbanking.jpg" alt="addbanking" style="width: 50%; display: block"></a>
+<img src="/static/images/addbanking.jpg" alt="addbanking" style="width: 50%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---

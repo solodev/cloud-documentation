@@ -2,7 +2,7 @@
 
 Adding a container in Solodev Cloud is a simple process and can be completed in minutes by following the steps below.
 
-<img src="../../../images/addcontainer.jpg" alt="addcontainer" style="width: 100%; display: block"></a>
+<img src="/static/images/addcontainer.jpg" alt="addcontainer" style="width: 100%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---

@@ -2,7 +2,7 @@
 
 Manage services from the Service Overview page. Update details and modify permissions for members of your organization. 
 
-<img src="../../../images/serviceoverview.jpg" alt="serviceoverview" style="width: 100%; display: block"></a>
+<img src="/static/images/serviceoverview.jpg" alt="serviceoverview" style="width: 100%; display: block"></a>
 
 !!!Note:
 The specificity of each product varies so the options available for each service card differ. Universal options that appear for almost every service are **Update** and **Permissions**. **Add Deployment Member** is another common option.

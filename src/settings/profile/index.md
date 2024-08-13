@@ -2,7 +2,7 @@
 
 Update your organization on the Profile page by providing a new billing email, country, postal code, or description.
 
-<img src="../../../images/profile.jpg" alt="profile" style="width: 100%; display: block"></a>
+<img src="/static/images/profile.jpg" alt="profile" style="width: 100%; display: block"></a>
 
 !!!Note:
 URLs used to log in to an instance of Solodev installed within an organization change whenever the administrator changes the name of the organization.
@@ -20,7 +20,7 @@ Deployments, websites, clusters, and applications installed within an organizati
 
 Update organization profile details.
 
-<img src="../../../images/updateprofile.jpg" alt="updateprofile" style="width: 40%; display: block"></a>
+<img src="/static/images/updateprofile.jpg" alt="updateprofile" style="width: 40%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---
@@ -33,7 +33,7 @@ Description | Enter the intro.
 
 Manage the organization.
 
-<img src="../../../images/renameordeleteorg.jpg" alt="renameordeleteorg" style="width: 40%; display: block"></a>
+<img src="/static/images/renameordeleteorg.jpg" alt="renameordeleteorg" style="width: 40%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---
@@ -45,7 +45,7 @@ Enable private catalogs | Deploy and sell from private catalogs of users in your
 
 Create and manage the organization image.
 
-<img src="../../../images/organizationimage.jpg" alt="organizationimage" style="width: 30%; display: block"></a>
+<img src="/static/images/organizationimage.jpg" alt="organizationimage" style="width: 30%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---

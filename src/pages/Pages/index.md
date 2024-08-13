@@ -6,7 +6,7 @@ Existing pages are listed in the table on the dashboard. Each page is shown with
 
 Find the page by typing its name in the search field. Filter pages by page type and by the site.
 
-<img src="../../../images/pages2.jpg" alt="pages2" style="width: 100%; display: block"></a>
+<img src="/static/images/pages2.jpg" alt="pages2" style="width: 100%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---

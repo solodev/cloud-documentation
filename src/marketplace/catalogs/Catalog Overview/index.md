@@ -2,7 +2,7 @@
 
 The Catalog Overview page gives you the details of your catalog and the items in it.
 
-<img src="../../../images/catalogoverview.jpg" alt="catalogoverview" style="width: 100%; display: block"></a>
+<img src="/static/images/catalogoverview.jpg" alt="catalogoverview" style="width: 100%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---

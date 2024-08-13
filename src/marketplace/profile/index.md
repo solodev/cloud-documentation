@@ -2,7 +2,7 @@
 
 Update your profile in several areas, such as the update of your organization title or changing your organization's plan.
 
-<img src="../../../images/marketplaceprofile.jpg" alt="marketplaceprofile" style="width: 100%; display: block"></a>
+<img src="/static/images/marketplaceprofile.jpg" alt="marketplaceprofile" style="width: 100%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---
@@ -15,7 +15,7 @@ Allow catalog access | Mark this option to enable other users to install your pr
 
 Manage the profile information.
 
-<img src="../../../images/marketplaceprofileupdate.jpg" alt="marketplaceprofileupdate" style="width: 40%; display: block"></a>
+<img src="/static/images/marketplaceprofileupdate.jpg" alt="marketplaceprofileupdate" style="width: 40%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---
@@ -31,7 +31,7 @@ The fields above can differ dependently on the selected plan.
 
 Create and manage the organization image.
 
-<img src="../../../images/organizationimage.jpg" alt="organizationimage" style="width: 30%; display: block"></a>
+<img src="/static/images/organizationimage.jpg" alt="organizationimage" style="width: 30%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---

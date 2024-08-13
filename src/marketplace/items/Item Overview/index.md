@@ -2,7 +2,7 @@
 
 Manage your items. Define the version, category, logo, and more.
 
-<img src="../../../../../images/itemoverview.jpg" alt="itemoverview" style="width: 100%; display: block"></a>
+<img src="/static/images/itemoverview.jpg" alt="itemoverview" style="width: 100%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---
@@ -29,7 +29,7 @@ Item Overview page content depends on the fulfillment type. In the case of **Ser
 
 Manage your item features.
 
-<img src="../../../../../images/itemmanagement.jpg" alt="itemmanagement" style="width: 50%; display: block"></a>
+<img src="/static/images/itemmanagement.jpg" alt="itemmanagement" style="width: 50%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---
@@ -61,7 +61,7 @@ Item Management in this manual is based on the fulfillment type that is not **Se
 
 Manage the item settings.
 
-<img src="../../../../../images/itemmarketplacesettings.jpg" alt="itemmarketplacesettings" style="width: 35%; display: block"></a>
+<img src="/static/images/itemmarketplacesettings.jpg" alt="itemmarketplacesettings" style="width: 35%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---
@@ -73,7 +73,7 @@ Top Product | Mark this option to have your item top product.
 
 Manage the item status.
 
-<img src="../../../../../images/itemstatus.jpg" alt="itemstatus" style="width: 35%; display: block"></a>
+<img src="/static/images/itemstatus.jpg" alt="itemstatus" style="width: 35%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---
@@ -93,7 +93,7 @@ You can choose from three status types:
 
 Define the item category.
 
-<img src="../../../../../images/itemcategories.jpg" alt="itemcategories" style="width: 35%; display: block"></a>
+<img src="/static/images/itemcategories.jpg" alt="itemcategories" style="width: 35%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---

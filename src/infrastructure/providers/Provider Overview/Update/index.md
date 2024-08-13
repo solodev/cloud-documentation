@@ -2,7 +2,7 @@
 
 Update a provider's details or delete a provider from your Solodev Cloud by clicking the **Update** button on the Provider Overview page.
 
-<img src="../../../../images/updateprovider.jpg" alt="updateprovider" style="width: 50%; display: block"></a>
+<img src="/static/images/updateprovider.jpg" alt="updateprovider" style="width: 50%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---
@@ -14,7 +14,7 @@ Secret Access Key | Enter the Secret Access Key.
 ## Advanced
 
 Under the Advanced dropdown, you can execute advanced operations such as deleting a provider. 
-<img src="../../../../images/updateprovider2.jpg" alt="updateprovider2" style="width: 40%; display: block"></a>
+<img src="/static/images/updateprovider2.jpg" alt="updateprovider2" style="width: 40%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---

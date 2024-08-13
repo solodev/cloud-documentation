@@ -2,7 +2,7 @@
 
 Manage the username.
 
-<img src="../../../images/username.jpg" alt="username" style="width: 100%; display: block"></a>
+<img src="/static/images/username.jpg" alt="username" style="width: 100%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---

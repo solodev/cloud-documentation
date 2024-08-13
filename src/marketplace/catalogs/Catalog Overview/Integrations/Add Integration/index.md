@@ -2,7 +2,7 @@
 
 Adding an integration in Solodev Cloud is a simple process and can be completed in minutes.
 
-<img src="../../../../../images/catalogaddintegration.jpg" alt="catalogaddintegration" style="width: 100%; display: block"></a>
+<img src="/static/images/catalogaddintegration.jpg" alt="catalogaddintegration" style="width: 100%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---

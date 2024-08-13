@@ -2,7 +2,7 @@
 
 Adding a certificate in Solodev Cloud is a simple process and can be completed in minutes.
 
-<img src="../../../images/addcertificate.jpg" alt="addcertificate" style="width: 40%; display: block"></a>
+<img src="/static/images/addcertificate.jpg" alt="addcertificate" style="width: 40%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---

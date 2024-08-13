@@ -4,7 +4,7 @@ The Categories page gives you the details of your Categories.
 
 Click the category to open it.
 
-<img src="../../../../images/categories.jpg" alt="categories" style="width: 100%; display: block"></a>
+<img src="/static/images/categories.jpg" alt="categories" style="width: 100%; display: block"></a>
 
 **Name** | **Description** 
 :--- | ---
