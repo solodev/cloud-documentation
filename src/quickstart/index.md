@@ -22,7 +22,7 @@ Built from the ground up to leverage the power of AWS services, Solodev is a clo
   </div>
   <div class="col">
     <div class="card text-center">
-      <img src="/static/images/logos/keycloak-logo.png" alt="Keycloak Logo">
+      <img src="/static/images/logos/keycloak-pro-logo.jpg" alt="Keycloak Logo">
       <h2>Keycloak</h2>
       <p class="content"></p>
       <p style="margin-bottom: 10px;"><a href="/quickstart/keycloak">INSTALL</a></p>
@@ -30,7 +30,7 @@ Built from the ground up to leverage the power of AWS services, Solodev is a clo
   </div>
   <div class="col">
     <div class="card text-center">
-      <img src="/static/images/logos/kubernetes-logo.png" alt="Kubernetes Logo">
+      <img src="/static/images/logos/kubernetes-pro-logo.jpg" alt="Kubernetes Logo">
       <h2>Kubernetes</h2>
       <p class="content">Deploy websites and apps in containers at scale with Kubernetes and AWS.</p>
       <p style="margin-bottom: 10px;"><a href="/quickstart/kubernetes">INSTALL</a></p>
@@ -50,6 +50,30 @@ Built from the ground up to leverage the power of AWS services, Solodev is a clo
       <h2>CloudFront</h2>
       <p class="content"></p>
       <p style="margin-bottom: 10px;"><a href="/quickstart/cloudfront">INSTALL</a></p>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card text-center">
+      <img src="/static/images/logos/eks-anywhere-logo.jpg" alt="CloudFront Logo">
+      <h2>EKS-A</h2>
+      <p class="content"></p>
+      <p style="margin-bottom: 10px;"><a href="/quickstart/eks-a">INSTALL</a></p>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card text-center">
+      <img src="/static/images/logos/solodev-static-logo.jpg" alt="Solodev Static Logo">
+      <h2>Solodev Static</h2>
+      <p class="content">Instantly launch static web pages without the hosting headaches.</p>
+      <p style="margin-bottom: 10px;"><a href="/quickstart/solodev-static">INSTALL</a></p>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card text-center">
+      <img src="/static/images/logos/datadog-logo.png" alt="Datadog Logo">
+      <h2>Datadog</h2>
+      <p class="content">Monitor cloud-scale apps, databases, containers and more with SaaS analytics.</p>
+      <p style="margin-bottom: 10px;"><a href="/quickstart/datadog">INSTALL</a></p>
     </div>
   </div>
 </div>
@@ -78,7 +102,7 @@ Built from the ground up to leverage the power of AWS services, Solodev is a clo
     color: #fff!important;
   }
   .card img {
-    width: 80px;
+    height: 80px;
   }
   .card.card-color {
     border-radius: 35px;

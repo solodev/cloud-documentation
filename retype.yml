@@ -5,7 +5,7 @@ favicon: images/favicon.png
 
 branding:
   logo: images/logo.png
-  label: Cloud v1.0.1
+  label: Cloud v1.1
 
 meta:
   title: " - Generate, publish, and share documentation"
