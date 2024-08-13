@@ -12,8 +12,9 @@ meta:
 
 links:
 - text: Home
-  link: https://cloud.solodev.net/
+  link: https://www.solodev.com/
   icon: home-fill
+  target: blank
 - text: Cloud
   link: https://cloud.solodev.net/
   icon: cloud
