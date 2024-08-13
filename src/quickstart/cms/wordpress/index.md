@@ -13,7 +13,7 @@
 
 ## Prerequisites
 
-* Have an existing [AWS Account](/quickstart/aws)</a>.
+* Have an existing [AWS Account](/quickstart/cloud/aws)</a>.
 * Have an existing <a href="https://console.aws.amazon.com/ec2/" target="_blank">EC2 Pair Key <span>:icon-link-external:</span></a>
 * Preexisting VPC <a href="https://us-east-1.console.aws.amazon.com/cloudformation/home?region=us-east-1#/stacks/create?stackName=solodev-vpc&templateURL=https://s3.amazonaws.com/solodev-cms/cloudformation/infrastructure/vpc.yaml" target="_blank" class="btn-orange-sm mt-2" style="margin-left: .5rem;">LAUNCH STACK <span>:icon-play:</span></a>
 

@@ -12,7 +12,7 @@ Solodev Cloud is the best-of-breed cloud-based solution for almost anything you 
       <img src="/static/images/logos/aws-logo.jpg" alt="AWS Logo">
       <h2>AWS</h2>
       <p class="content">Host and scale your apps on the world's most powerful cloud platform.</p>
-      <p style="margin-bottom: 10px;"><a href="/quickstart/aws">INSTALL</a></p>
+      <p style="margin-bottom: 10px;"><a href="/quickstart/cloud/aws">INSTALL</a></p>
     </div>
   </div>
   <div class="col">
@@ -20,7 +20,7 @@ Solodev Cloud is the best-of-breed cloud-based solution for almost anything you 
       <img src="/static/images/logos/keycloak-pro-logo.jpg" alt="Keycloak Logo">
       <h2>Keycloak</h2>
       <p class="content"></p>
-      <p style="margin-bottom: 10px;"><a href="/quickstart/keycloak">INSTALL</a></p>
+      <p style="margin-bottom: 10px;"><a href="/quickstart/cloud/keycloak">INSTALL</a></p>
     </div>
   </div>
   <div class="col">
@@ -28,7 +28,7 @@ Solodev Cloud is the best-of-breed cloud-based solution for almost anything you 
       <img src="/static/images/logos/kubernetes-pro-logo.jpg" alt="Kubernetes Logo">
       <h2>Kubernetes</h2>
       <p class="content">Deploy websites and apps in containers at scale with Kubernetes and AWS.</p>
-      <p style="margin-bottom: 10px;"><a href="/quickstart/kubernetes">INSTALL</a></p>
+      <p style="margin-bottom: 10px;"><a href="/quickstart/cloud/kubernetes">INSTALL</a></p>
     </div>
   </div>
   <div class="col">
@@ -36,7 +36,7 @@ Solodev Cloud is the best-of-breed cloud-based solution for almost anything you 
       <img src="/static/images/logos/wordpress-logo.jpg" alt="WordPress Logo">
       <h2>WordPress</h2>
       <p class="content">Build custom blogs and websites with themes, templates, and widgets.</p>
-      <p style="margin-bottom: 10px;"><a href="/quickstart/wordpress">INSTALL</a></p>
+      <p style="margin-bottom: 10px;"><a href="/quickstart/cms/wordpress">INSTALL</a></p>
     </div>
   </div>
 </div>
