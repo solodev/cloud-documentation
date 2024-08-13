@@ -1,18 +1,10 @@
 <div class="row">
   <div class="col">
     <div class="card text-center">
-      <img src="/static/images/logos/cloudfront-logo.jpg" alt="CloudFront Logo">
-      <h3>WordPress CDN</h3>
+      <img src="/static/images/logos/eks-anywhere-logo.jpg" alt="CloudFront Logo">
+      <h3>EKS-A</h3>
       <p class="content"></p>
-      <p style="margin-bottom: 10px;"><a href="/quickstart/cms/cdn/wordpress-cloudfront">INSTALL</a></p>
-    </div>
-  </div>
-  <div class="col">
-    <div class="card text-center">
-      <img src="/static/images/logos/cloudfront-logo.jpg" alt="CloudFront Logo">
-      <h3>CMS CDN</h3>
-      <p class="content"></p>
-      <p style="margin-bottom: 10px;"><a href="/quickstart/cms/cdn/cms-cloudfront/" target="_blank">INSTALL</a></p>
+      <p style="margin-bottom: 10px;"><a href="/quickstart/developer/eks-a">INSTALL</a></p>
     </div>
   </div>
 </div>

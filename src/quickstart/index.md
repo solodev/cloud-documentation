@@ -11,7 +11,7 @@
 
 Built from the ground up to leverage the power of AWS services, Solodev is a cloud-first enterprise content management system (CMS) and customer experience platform that lets individuals and teams collaborate on their digital transformation. Easy to use for non-technical content marketers yet robust enough for ambitious developers, Solodev lets everyone work together to create rich, enterprise-grade websites that engage and convert. An APN Advanced Technology Partner, Solodev is available with hourly, annual and BYOL pricing.
 
-## Cloud
+<h2 class="text-center" style="margin-top: 2rem;">Cloud</h2>
 
 <div class="row">
   <div class="col">
@@ -48,7 +48,7 @@ Built from the ground up to leverage the power of AWS services, Solodev is a clo
   </div>
 </div>
 
-## CMS
+<h2 class="text-center" style="margin-top: 2rem;">CMS</h2>
 
 <div class="row">
   <div class="col">
@@ -64,14 +64,30 @@ Built from the ground up to leverage the power of AWS services, Solodev is a clo
       <img src="/static/images/logos/solodev-static-logo.jpg" alt="Solodev Static Logo">
       <h3>Solodev Static</h3>
       <p class="content">Instantly launch static web pages without the hosting headaches.</p>
-      <p style="margin-bottom: 10px;"><a href="/quickstart//cmssolodev-static">INSTALL</a></p>
+      <p style="margin-bottom: 10px;"><a href="/quickstart/cms/solodev-static">INSTALL</a></p>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card text-center">
+      <img src="/static/images/logos/enterprise-logo.jpg" alt="CMS Enterprise Logo">
+      <h3>CMS Enterprise</h3>
+      <p class="content">Develop enterprise websites and apps on a scalable, redundant CMS</p>
+      <p style="margin-bottom: 10px;"><a href="https://cms.solodev.net/quickstart/solodev-enterprise">INSTALL</a></p>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card text-center">
+      <img src="/static/images/logos/pro-logo.jpg" alt="CMS Professional Logo">
+      <h3>CMS Professional</h3>
+      <p class="content">Powerful CMS features on a single server for professional websites and apps</p>
+      <p style="margin-bottom: 10px;"><a href="https://cms.solodev.net/quickstart/solodev-pro">INSTALL</a></p>
     </div>
   </div>
 </div>
 
-### CDN
+<h3 class="text-center" style="margin-top: 2rem;">CDN</h3>
 
-<div class="row">
+<div class="row" style="justify-content: center;">
   <div class="col">
     <div class="card text-center">
       <img src="/static/images/logos/cloudfront-logo.jpg" alt="CloudFront Logo">
@@ -90,9 +106,9 @@ Built from the ground up to leverage the power of AWS services, Solodev is a clo
   </div>
 </div>
 
-## Developer
+<h2 class="text-center" style="margin-top: 2rem;">Developer</h2>
 
-<div class="row">
+<div class="row" style="justify-content: center;">
   <div class="col">
     <div class="card text-center">
       <img src="/static/images/logos/eks-anywhere-logo.jpg" alt="CloudFront Logo">
@@ -103,7 +119,7 @@ Built from the ground up to leverage the power of AWS services, Solodev is a clo
   </div>
 </div>
 
-<p>Enterprise-class software. Best-of-breed capabilities. World-class cloud hosting. It’s all here – and it’s all yours – with Solodev.</p>
+<p class="text-center" style="margin-top: 2.5rem;">Enterprise-class software. Best-of-breed capabilities. World-class cloud hosting. It’s all here – and it’s all yours – with Solodev.</p>
 
 <img src="/static/images/quickstart/aws-badges.jpg" alt="AWS Badges" style="width: 56%; display: block; margin: 0 auto;">
 
