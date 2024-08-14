@@ -2,7 +2,7 @@
 
 <div class="header">
   <div class="inner">
-    <img src="/static/images/logos/cloudfront-logo.jpg" alt="CDN Logo">
+    <img src="/static/images/logos/cdn.png" alt="CDN Logo">
     <div>
       <h1>CDN</h1>
       <p style="padding-left: 2rem; margin-bottom: 0;">Protect websites and apps with CDN.</p>
@@ -15,7 +15,7 @@ A Content Delivery Network (CDN) is a network of servers spread out across diffe
 <div class="card-lg" style="margin: 3rem 0 1.5rem;">
   <div style="display: flex; align-items: center; justify-content: start;">
     <div style="width: 120px;">
-      <img src="/static/images/logo.png" alt="CDN Logo" style="width: 100%;">
+      <img src="/static/images/logos/cdn-cms.png" alt="CMS CDN Logo" style="width: 100%;">
     </div>
     <div style="margin-left: 30px; width: 80%;">
       <h2>CMS CDN</h2>
@@ -31,7 +31,7 @@ A Content Delivery Network (CDN) is a network of servers spread out across diffe
 <div class="card-lg" style="margin-bottom: 1.5rem;">
   <div style="display: flex; align-items: center; justify-content: start;">
     <div style="width: 120px;">
-      <img src="/static/images/logos/wordpress-logo.jpg" alt="CDN Logo" style="width: 100%;">
+      <img src="/static/images/logos/cdn-wordpress.png" alt="WordPress CDN Logo" style="width: 100%;">
     </div>
     <div style="margin-left: 30px; width: 80%;">
       <h2>WordPress CDN</h2>
