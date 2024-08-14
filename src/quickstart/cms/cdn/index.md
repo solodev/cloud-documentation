@@ -19,7 +19,7 @@ A Content Delivery Network (CDN) is a network of servers spread out across diffe
     </div>
     <div style="margin-left: 30px; width: 80%;">
       <h2>CMS CDN</h2>
-      <p style="font-size: .9rem;"><strong>Prerequisites:</strong> you need a <a href="https://docs.aws.amazon.com/acm/" target="_blank">certificate</a> with the name of site you are trying to launch <br>and have an existing <a href="/quickstart/cms/solodev-cms" target="_blank">CMS</a>.</p>
+      <p style="font-size: .9rem;"><strong>Prerequisites:</strong> you need a <a href="https://console.aws.amazon.com/acm/" target="_blank">certificate</a> with the name of site you are trying to launch <br>and have an existing <a href="/quickstart/cms/solodev-cms" target="_blank">CMS</a>.</p>
       <p class="mt-2">Enhance the performance of your CMS and speed up load times.</p>
     </div>
   </div>
@@ -35,7 +35,7 @@ A Content Delivery Network (CDN) is a network of servers spread out across diffe
     </div>
     <div style="margin-left: 30px; width: 80%;">
       <h2>WordPress CDN</h2>
-      <p style="font-size: .9rem;"><strong>Prerequisites:</strong> you need a <a href="https://docs.aws.amazon.com/acm/" target="_blank">certificate</a> with the name of site you are trying to launch <br>and have an existing <a href="/quickstart/cms/wordpress" target="_blank">WordPress</a>.</p>
+      <p style="font-size: .9rem;"><strong>Prerequisites:</strong> you need a <a href="https://console.aws.amazon.com/acm/" target="_blank">certificate</a> with the name of site you are trying to launch <br>and have an existing <a href="/quickstart/cms/wordpress" target="_blank">WordPress</a>.</p>
       <p class="mt-2">Boost your site's speed by delivering content from servers near your visitors.</p>
     </div>
   </div>

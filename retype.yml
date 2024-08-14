@@ -10,6 +10,12 @@ branding:
 meta:
   title: " - Generate, publish, and share documentation"
 
+outbound:
+  enabled: true
+  custom: 'rel="noopener noreferrer"'
+  icon: link-external
+  target: blank
+
 links:
 - text: Home
   link: https://www.solodev.com/
