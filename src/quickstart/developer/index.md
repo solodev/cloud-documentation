@@ -13,7 +13,7 @@
   /* Cards */
   .card {
     border: 1px solid #dee2e6;
-    box-shadow: 0 1px 5px 0 #dcdcdc;
+    box-shadow: 0 1px 15px rgba(0, 0, 0, .15);
     height: 100%;
     box-sizing: content-box;
     padding: 1.5rem;

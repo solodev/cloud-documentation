@@ -1,20 +1,18 @@
+#
+
+<div class="header">
+  <div class="inner">
+    <img src="/static/images/logo.png" alt="Solodev CMS Logo">
+    <div>
+      <h1>Solodev CMS</h1>
+      <p style="padding-left: 2rem; margin-bottom: 0;">Create powerful, secure, and scalable experiences with Solodev CMS, <br>a trusted cloud-first, hybrid headless system.</p>
+    </div>
+  </div>
+</div>
+
+The enterprise CMS for AWS, Solodev gives you the freedom to bring the most imaginative digital experiences to life in the cloud. Add sites with total control and manage your digital world in one place.
+
 <div class="row">
-  <div class="col">
-    <div class="card text-center">
-      <img src="/static/images/logos/wordpress-logo.jpg" alt="WordPress Logo">
-      <h3>WordPress</h3>
-      <p class="content">Build custom blogs and websites with themes, templates, and widgets.</p>
-      <p style="margin-bottom: 10px;"><a href="/quickstart/cms/wordpress">INSTALL</a></p>
-    </div>
-  </div>
-  <div class="col">
-    <div class="card text-center">
-      <img src="/static/images/logos/solodev-static-logo.jpg" alt="Solodev Static Logo">
-      <h3>Solodev Static</h3>
-      <p class="content">Instantly launch static web pages without the hosting headaches.</p>
-      <p style="margin-bottom: 10px;"><a href="/quickstart/cms/solodev-static">INSTALL</a></p>
-    </div>
-  </div>
   <div class="col">
     <div class="card text-center">
       <img src="/static/images/logos/enterprise-logo.jpg" alt="CMS Enterprise Logo">
@@ -29,6 +27,14 @@
       <h3>CMS Professional</h3>
       <p class="content">Powerful CMS features on a single server for professional websites and apps</p>
       <p style="margin-bottom: 10px;"><a href="https://cms.solodev.net/quickstart/solodev-pro" target="_blank">INSTALL</a></p>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card text-center">
+      <img src="/static/images/logos/micro-logo.png" alt="CMS Micro Logo">
+      <h3>CMS Micro</h3>
+      <p class="content">Full featured CMS capabilities on a single server, ideal for small development projects</p>
+      <p style="margin-bottom: 10px;"><a href="https://cms.solodev.net/quickstart/solodev-micro" target="_blank">INSTALL</a></p>
     </div>
   </div>
 </div>
@@ -76,5 +82,31 @@
   .card p.content {
     height: 100px;
     font-size: .9rem;
+  }
+  /* Headers */
+  .header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 2rem 1.5rem;
+    margin-bottom: 2rem;
+    background-color: #eef6ff;
+  }
+  .header .inner {
+    display: flex;
+    align-items: center;
+    justify-content: start;
+  }
+  .header img {
+    width: 80px;
+  }
+  .header h1 {
+    margin-left: 0;
+    font-size: 2rem;
+    margin-bottom: 0.25rem;
+  }
+  .header p {
+    padding-left: 2rem;
+    margin-bottom: 0;
   }
 </style>
