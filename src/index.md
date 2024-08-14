@@ -6,7 +6,7 @@ Solodev Cloud is the best-of-breed cloud-based solution for almost anything you 
 
 ## Platform
 
-<div class="row">
+<div class="row" style="margin-bottom: 1.5rem;">
   <div class="col">
     <div class="card text-center">
       <img src="/static/images/icons/icons-thin-cloud.svg" alt="Cloud icon">
@@ -37,6 +37,7 @@ Need help with a custom enterprise deployment with unique requirements? [:icon-m
     box-sizing: content-box;
     padding: 1.5rem;
     box-shadow: 0 1px 15px rgba(0, 0, 0, .15);
+    border-radius: 1.5rem;
   }
   .card h2 {
     margin-top: 2rem;

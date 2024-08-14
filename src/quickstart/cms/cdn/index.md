@@ -1,64 +1,91 @@
-<div class="row">
-  <div class="col">
-    <div class="card text-center">
-      <img src="/static/images/logos/cloudfront-logo.jpg" alt="CloudFront Logo">
-      <h3>WordPress CDN</h3>
-      <p class="content"></p>
-      <p style="margin-bottom: 10px;"><a href="/quickstart/cms/cdn/wordpress-cloudfront">INSTALL</a></p>
-    </div>
-  </div>
-  <div class="col">
-    <div class="card text-center">
-      <img src="/static/images/logos/cloudfront-logo.jpg" alt="CloudFront Logo">
-      <h3>CMS CDN</h3>
-      <p class="content"></p>
-      <p style="margin-bottom: 10px;"><a href="/quickstart/cms/cdn/cms-cloudfront/">INSTALL</a></p>
+#
+
+<div class="header">
+  <div class="inner">
+    <img src="/static/images/logos/cloudfront-logo.jpg" alt="CDN Logo">
+    <div>
+      <h1>CDN</h1>
+      <p style="padding-left: 2rem; margin-bottom: 0;">Protect websites and apps with CDN.</p>
     </div>
   </div>
 </div>
 
+A Content Delivery Network (CDN) is a network of servers spread out across different locations to deliver content faster to users. By storing copies of files closer to where they're needed, CDNs help websites load quicker and handle more traffic without breaking a sweat.
+
+## Prerequisites
+
+* Have an [AWS Account](/quickstart/cloud/aws)</a>.
+* Have an existing [CMS](/quickstart/cms)</a>.
+* Preexisting <a href="https://aws.amazon.com/route53/" target="_blank">DNS :icon-link-external:</a>.
+* Have a <a href="https://docs.aws.amazon.com/acm/" target="_blank">Certificate :icon-link-external:</a>.
+
+<div class="card-lg" style="margin: 3rem 0 1.5rem;">
+  <div style="display: flex; align-items: center; justify-content: start;">
+    <div style="width: 120px;">
+      <img src="/static/images/logos/cloudfront-logo.jpg" alt="CDN Logo" style="width: 100%;">
+    </div>
+    <div style="margin-left: 30px; width: 80%;">
+      <h2>CMS CDN</h2>
+      <p class="mt-2">Enhance the performance of your content management system by delivering assets like images, scripts, and stylesheets from servers closer to your users. Speeds up load times, ensure a smoother experience, and help your site scale efficiently during high traffic.</p>
+    </div>
+  </div>
+  <div>
+    <a href="https://us-east-1.console.aws.amazon.com/cloudformation/home?region=us-east-1#/stacks/create?stackName=cms-cdn&templateURL=https://solodev-cms.s3.amazonaws.com/cloudformation/cloudfront-cms.yaml" class="btn-orange-lg" target="_blank">LAUNCH <img src="/static/images/icons/circle-play-solid.svg" style="width: 16px; margin-left: 1rem;"></a>
+  </div>
+</div>
+
+<div class="card-lg" style="margin-bottom: 1.5rem;">
+  <div style="display: flex; align-items: center; justify-content: start;">
+    <div style="width: 120px;">
+      <img src="/static/images/logos/cloudfront-logo.jpg" alt="CDN Logo" style="width: 100%;">
+    </div>
+    <div style="margin-left: 30px; width: 80%;">
+      <h2>WordPress CDN</h2>
+      <p class="mt-2">Boost your site's speed by delivering your content from servers located closer to your visitors. Reduce load times, improve performance, and help your site handle traffic spikes without slowing down.</p>
+    </div>
+  </div>
+  <div>
+    <a href="https://us-east-1.console.aws.amazon.com/cloudformation/home?region=us-east-1#/stacks/create?stackName=cms-cdn&templateURL=https://s3://wordpress-release/cloudformation/cloudfront-wordpress.yaml" class="btn-orange-lg" target="_blank">LAUNCH <img src="/static/images/icons/circle-play-solid.svg" style="width: 16px; margin-left: 1rem;"></a>
+  </div>
+</div>
+
 <style>
-  /* Cards */
-  .card {
+  .card-lg {
     border: 1px solid #dee2e6;
     box-shadow: 0 1px 15px rgba(0, 0, 0, .15);
-    height: 100%;
-    box-sizing: content-box;
     padding: 1.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
   }
-  .card h3 {
-    margin-top: 2rem;
+  .card-lg h2 {
+    margin-top: 0;
     font-size: 1.4rem;
   }
-  .card a {
-    margin-top: .7rem;
-    padding: .5rem 2.5rem;
-    font-size: .9rem;
-    border-radius: 25px;
-    background-color: #0488ce;
-    color: #fff!important;
+  /* Headers */
+  .header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 2rem 1.5rem;
+    margin-bottom: 2rem;
+    background-color: #eef6ff;
   }
-  .card img {
-    height: 80px;
+  .header .inner {
+    display: flex;
+    align-items: center;
+    justify-content: start;
   }
-  .card.card-color {
-    border-radius: 35px;
-    background-color: #0488ce;
-    color: #fff;
+  .header img {
+    width: 80px;
   }
-  .card.card-color h3 {
-    color: #fff;
+  .header h1 {
+    margin-left: 0;
+    font-size: 2rem;
+    margin-bottom: 0.25rem;
   }
-  .card.card-color a {
-    border: 1.5px solid #fff;
-    background-color: #fff;
-    color: #0488ce!important;
-  }
-  .card.card-color a:hover {
-    color: #0488ce!important;
-  }
-  .card p.content {
-    height: 100px;
-    font-size: .9rem;
+  .header p {
+    padding-left: 2rem;
+    margin-bottom: 0;
   }
 </style>

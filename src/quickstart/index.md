@@ -28,14 +28,6 @@ Built from the ground up to leverage the power of AWS services, Solodev is a clo
       <p style="margin-bottom: 10px;"><a href="/quickstart/cms">INSTALL</a></p>
     </div>
   </div>
-  <div class="col">
-    <div class="card text-center">
-      <img src="/static/images/icons/icons-thin-terminal.svg" alt="Terminal icon">
-      <h2>Developer</h2>
-      <p class="content"></p>
-      <p style="margin-bottom: 10px;"><a href="/quickstart/developer">INSTALL</a></p>
-    </div>
-  </div>
 </div>
 
 <p class="text-center" style="margin-top: 2.5rem;">Enterprise-class software. Best-of-breed capabilities. World-class cloud hosting. It’s all here – and it’s all yours – with Solodev.</p>
@@ -50,6 +42,7 @@ Built from the ground up to leverage the power of AWS services, Solodev is a clo
     height: 100%;
     box-sizing: content-box;
     padding: 1.5rem;
+    border-radius: 1.5rem;
   }
   .card h2 {
     margin-top: 2rem;

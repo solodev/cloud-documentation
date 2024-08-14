@@ -1,9 +1,21 @@
+#
+
+<div class="header">
+  <div class="inner">
+    <img src="/static/images/icons/icons-thin-terminal.svg" alt="Terminal Icon">
+    <div>
+      <h1>Developer</h1>
+      <!-- <p style="padding-left: 2rem; margin-bottom: 0;">Protect websites and apps with CDN.</p> -->
+    </div>
+  </div>
+</div>
+
 <div class="row">
   <div class="col">
     <div class="card text-center">
       <img src="/static/images/logos/eks-anywhere-logo.jpg" alt="CloudFront Logo">
       <h3>EKS-A</h3>
-      <p class="content"></p>
+      <p class="content">Development Environment for Kubernetes EKS-Anywhere</p>
       <p style="margin-bottom: 10px;"><a href="/quickstart/developer/eks-a">INSTALL</a></p>
     </div>
   </div>
@@ -52,5 +64,31 @@
   .card p.content {
     height: 100px;
     font-size: .9rem;
+  }
+  /* Headers */
+  .header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 2rem 1.5rem;
+    margin-bottom: 2rem;
+    background-color: #eef6ff;
+  }
+  .header .inner {
+    display: flex;
+    align-items: center;
+    justify-content: start;
+  }
+  .header img {
+    width: 80px;
+  }
+  .header h1 {
+    margin-left: 0;
+    font-size: 2rem;
+    margin-bottom: 0.25rem;
+  }
+  .header p {
+    padding-left: 2rem;
+    margin-bottom: 0;
   }
 </style>

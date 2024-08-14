@@ -5,6 +5,7 @@
     <img src="/static/images/logos/eks-anywhere-logo.jpg" alt="EKS Anywhere Logo">
     <div>
       <h1>EKS Anywhere</h1>
+      <p style="padding-left: 2rem; margin-bottom: 0;">Development Environment for Kubernetes EKS-Anywhere</p>
     </div>
   </div>
   <button class="btn-orange-lg" disabled>COMING SOON</button>

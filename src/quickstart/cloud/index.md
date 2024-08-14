@@ -1,4 +1,18 @@
-<div class="row">
+#
+
+<div class="header">
+  <div class="inner">
+    <img src="/static/images/icons/icons-thin-cloud.svg" alt="Cloud Icon">
+    <div>
+      <h1>Cloud</h1>
+      <p style="padding-left: 2rem; margin-bottom: 0;">Deploy with containers and serverless on AWS.</p>
+    </div>
+  </div>
+</div>
+
+Secure, scalable, and home to the most advanced services, from AI to IoT. Build your future in the cloud with the leading ecosystem for innovation: Amazon Web Services.
+
+<div class="row" style="margin-top: 2.5rem;">
   <div class="col">
     <div class="card text-center">
       <img src="/static/images/logos/aws-logo.jpg" alt="AWS Logo">
@@ -11,7 +25,7 @@
     <div class="card text-center">
       <img src="/static/images/logos/keycloak-pro-logo.jpg" alt="Keycloak Logo">
       <h3>Keycloak</h3>
-      <p class="content"></p>
+      <p class="content">Identity and access management solution for authentication and authorization services.</p>
       <p style="margin-bottom: 10px;"><a href="/quickstart/cloud/keycloak">INSTALL</a></p>
     </div>
   </div>
@@ -76,5 +90,31 @@
   .card p.content {
     height: 100px;
     font-size: .9rem;
+  }
+  /* Headers */
+  .header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 2rem 1.5rem;
+    margin-bottom: 2rem;
+    background-color: #eef6ff;
+  }
+  .header .inner {
+    display: flex;
+    align-items: center;
+    justify-content: start;
+  }
+  .header img {
+    width: 80px;
+  }
+  .header h1 {
+    margin-left: 0;
+    font-size: 2rem;
+    margin-bottom: 0.25rem;
+  }
+  .header p {
+    padding-left: 2rem;
+    margin-bottom: 0;
   }
 </style>

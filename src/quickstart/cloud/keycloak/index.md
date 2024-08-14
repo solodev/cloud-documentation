@@ -4,7 +4,7 @@
   <div class="inner">
     <img src="/static/images/logos/keycloak-pro-logo.jpg" alt="Keycloak Logo">
     <div>
-      <h1>Keycloak Pro</h1>
+      <h1>Keycloak Serverless</h1>
       <p style="padding-left: 2rem; margin-bottom: 0;">Keycloak provides user federation, strong authentication, user management, fine-grained authorization, and more.</p>
     </div>
   </div>
@@ -20,13 +20,13 @@
 
 ## CMS Subscription
 
-The following steps cover the setup of the **Keycloak Pro** on the AWS Marketplace. Click the **“Continue to Subscribe”** button at the top of the AWS Marketplace listing page to continue the process. Keycloak Pro is available as a monthly subscription on the AWS Marketplace. The subscription includes the software's operational and infrastructure costs for running on AWS.
+The following steps cover the setup of the **Keycloak Serverless** on the AWS Marketplace. Click the **“Continue to Subscribe”** button at the top of the AWS Marketplace listing page to continue the process. Keycloak Serverless is available as a monthly subscription on the AWS Marketplace. The subscription includes the software's operational and infrastructure costs for running on AWS.
 
 1. Subscribe to Solodev on the AWS Marketplace. <a href="https://aws.amazon.com/marketplace/server/procurement?productId=prod-hdehqqssxce6q" target="_blank" class="btn-orange-sm" style="margin-left: 1rem;">SUBSCRIBE <span>:icon-link-external:</span></a>
 2. Review and accept the **"Terms and Conditions"**.
 3. Click **"Continue to Configuration"**.
 
-<p><img src="/static/images/keycloak/keycloak-subscribe-terms.jpg" alt="Keycloak Pro Continue to Configuration" style="width: 80%;"></p>
+<p><img src="/static/images/keycloak/keycloak-subscribe-terms.jpg" alt="Keycloak Serverless Continue to Configuration" style="width: 80%;"></p>
 
 !!!NOTE:
 Once accepted, you will receive a thank you message asking you to configure your software. <br>This process can take a few moments. Please do not exit the screen or refresh the page.
@@ -67,7 +67,7 @@ If your AWS region is different from `us-east-1`, make sure to select your speci
 
 1. Create a stack.
 
-<p><img src="/static/images/keycloak/keycloak-create-stack.jpg" alt="Keycloak Pro Create Stack" style="width: 90%;"></p>
+<p><img src="/static/images/keycloak/keycloak-create-stack.jpg" alt="Keycloak Serverless Create Stack" style="width: 90%;"></p>
 
 2. Click <span class="text-orange">**Next**</span>.
 
@@ -77,13 +77,13 @@ If your AWS region is different from `us-east-1`, make sure to select your speci
 
 1. Provide a stack name. Stack name must be 1 to 128 characters, start with a letter, and only contain alphanumeric characters.
 
-<p><img src="/static/images/keycloak/keycloak-stack-name.jpg" alt="Keycloak Pro stack name" style="width: 62%;"></p>
+<p><img src="/static/images/keycloak/keycloak-stack-name.jpg" alt="Keycloak Serverless stack name" style="width: 62%;"></p>
 
 ##### Parameters
 
 1. Specify the parameters in the setup section.
 
-<p><img src="/static/images/keycloak/keycloak-params-setup.jpg" alt="Keycloak Pro params setup" style="width: 50%;"></p>
+<p><img src="/static/images/keycloak/keycloak-params-setup.jpg" alt="Keycloak Serverless params setup" style="width: 50%;"></p>
 
 Name   | Description
 ---    | ---
@@ -92,7 +92,7 @@ Hostname | Domain name or IP address used to access the Keycloak instance.
 
 2. VPC Settings.
 
-<p><img src="/static/images/keycloak/keycloak-vpc-settings.jpg" alt="Keycloak Pro params optional" style="width: 28%;"></p>
+<p><img src="/static/images/keycloak/keycloak-vpc-settings.jpg" alt="Keycloak Serverless params optional" style="width: 28%;"></p>
 
 Name   | Description
 ---    | ---
@@ -103,7 +103,7 @@ DBSubnets | The ID of the database subnets in Availability Zone 1 and 2 in your 
 
 3. Fargate Task Size Settings
 
-<p><img src="/static/images/keycloak/keycloak-fargate-settings.jpg" alt="Keycloak Pro Fargate Task Size Settings" style="width: 55%;"></p>
+<p><img src="/static/images/keycloak/keycloak-fargate-settings.jpg" alt="Keycloak Serverless Fargate Task Size Settings" style="width: 55%;"></p>
 
 Name   | Description
 ---    | ---
@@ -112,7 +112,7 @@ TaskMemory | The amount of memory to reserve for your keycloak task. Please conf
 
 4. AutoScaling Settings
 
-<p><img src="/static/images/keycloak/keycloak-autoscaling-settings.jpg" alt="Keycloak Pro AutoScaling Settings" style="width: 28%;"></p>
+<p><img src="/static/images/keycloak/keycloak-autoscaling-settings.jpg" alt="Keycloak Serverless AutoScaling Settings" style="width: 28%;"></p>
 
 Name   | Description
 ---    | ---
@@ -122,7 +122,7 @@ AutoScalingTargetCpuUtilization | Auto scaling target CPU utilization.
 
 5. Environment variable
 
-<p><img src="/static/images/keycloak/keycloak-environment-variable.jpg" alt="Keycloak Pro Environment variable" style="width: 28%;"></p>
+<p><img src="/static/images/keycloak/keycloak-environment-variable.jpg" alt="Keycloak Serverless Environment variable" style="width: 28%;"></p>
 
 Name   | Description
 ---    | ---
@@ -136,15 +136,15 @@ JavaOpts | JAVA_OPTS environment variable.
 
 Tags (key-value pairs) are used to apply metadata to AWS resources, which can help in organizing, identifying, and categorizing those resources. You can add up to 50 unique tags for each stack. If you need more information about tags, click here.
 
-<p><img src="/static/images/quickstart/stack-tags.jpg" alt="Keycloak Pro tags" style="width: 80%;"></p>
+<p><img src="/static/images/quickstart/stack-tags.jpg" alt="Keycloak Serverless tags" style="width: 80%;"></p>
 
 2. Specify an existing AWS Identity and Access Management (IAM) service role that CloudFormation can assume. **This step is optional**.
 
-<p><img src="/static/images/quickstart/stack-permissions.jpg" alt="Keycloak Pro permissions" style="width: 80%;"></p>
+<p><img src="/static/images/quickstart/stack-permissions.jpg" alt="Keycloak Serverless permissions" style="width: 80%;"></p>
 
 3. Select the stack failure options.
 
-<p><img src="/static/images/quickstart/stack-failure.jpg" alt="Keycloak Pro failure" style="width: 80%;"></p>
+<p><img src="/static/images/quickstart/stack-failure.jpg" alt="Keycloak Serverless failure" style="width: 80%;"></p>
 
 Name   | Description
 ---    | ---
@@ -157,7 +157,7 @@ To learn more about the stack failure options, <a href="https://docs.aws.amazon.
 
 1. You can set additional options for your stack, like notification options and a stack policy. For more information, <a href="https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/cfn-console-add-tags.html" target="_blank">click here :icon-link-external:</a>.
 
-<p><img src="/static/images/quickstart/stack-advanced.jpg" alt="Keycloak Pro advanced options" style="width: 50%;"></p>
+<p><img src="/static/images/quickstart/stack-advanced.jpg" alt="Keycloak Serverless advanced options" style="width: 50%;"></p>
 
 2. Click <span class="text-orange">**Next**</span>.
 
@@ -167,7 +167,7 @@ To learn more about the stack failure options, <a href="https://docs.aws.amazon.
 
 2. Acknowledge the AWS CloudFormation terms.
 
-<p><img src="/static/images/quickstart/stack-capabilities-short.jpg" alt="Keycloak Pro capabilities" style="width: 62%;"></p>
+<p><img src="/static/images/quickstart/stack-capabilities-short.jpg" alt="Keycloak Serverless capabilities" style="width: 62%;"></p>
 
 3. Click <span class="text-orange">**Submit**</span>.
 
@@ -175,11 +175,11 @@ To learn more about the stack failure options, <a href="https://docs.aws.amazon.
 
 1. <span class="text-orange">**Watch your CMS being created!**</span> Once the status changes from **CREATE_IN_PROGRESS** to **CREATE_COMPLETE**, you can access your CMS.
 
-<!-- <p><img src="/static/images/quickstart/micro/micro-stack.jpg" alt="Keycloak Pro Stack" style="width: 62%;"></p> -->
+<!-- <p><img src="/static/images/quickstart/micro/micro-stack.jpg" alt="Keycloak Serverless Stack" style="width: 62%;"></p> -->
 
 2. Click on the **Outputs** tab and copy the AdminUrl value.
 
-<!-- <p><img src="/static/images/quickstart/stack-outputs.jpg" alt="Keycloak Pro Stack Outputs" style="width: 62%;"></p> -->
+<!-- <p><img src="/static/images/quickstart/stack-outputs.jpg" alt="Keycloak Serverless Stack Outputs" style="width: 62%;"></p> -->
 
 3. Open your preferred browser and paste the AdminUrl value to access the Keycloak login page. Use the **Admin Username** and **Admin Password** provided in the stacks output to log in.
 

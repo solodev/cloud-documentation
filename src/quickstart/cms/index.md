@@ -1,4 +1,18 @@
-<div class="row">
+#
+
+<div class="header">
+  <div class="inner">
+    <img src="/static/images/icons/icons-thin-cms.svg" alt="Solodev Logo">
+    <div>
+      <h1>CMS</h1>
+      <p style="padding-left: 2rem; margin-bottom: 0;">Build websites with hybrid headless features.</p>
+    </div>
+  </div>
+</div>
+
+From enterprise-grade to open source, build amazing sites and apps with the right CMS and deploy in the cloud with Solodev.
+
+<div class="row" style="margin-top: 2.5rem;">
   <div class="col">
     <div class="card text-center">
       <img src="/static/images/logos/wordpress-logo.jpg" alt="WordPress Logo">
@@ -76,5 +90,31 @@
   .card p.content {
     height: 100px;
     font-size: .9rem;
+  }
+  /* Headers */
+  .header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 2rem 1.5rem;
+    margin-bottom: 2rem;
+    background-color: #eef6ff;
+  }
+  .header .inner {
+    display: flex;
+    align-items: center;
+    justify-content: start;
+  }
+  .header img {
+    width: 80px;
+  }
+  .header h1 {
+    margin-left: 0;
+    font-size: 2rem;
+    margin-bottom: 0.25rem;
+  }
+  .header p {
+    padding-left: 2rem;
+    margin-bottom: 0;
   }
 </style>
