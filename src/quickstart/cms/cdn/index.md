@@ -12,21 +12,15 @@
 
 A Content Delivery Network (CDN) is a network of servers spread out across different locations to deliver content faster to users. By storing copies of files closer to where they're needed, CDNs help websites load quicker and handle more traffic without breaking a sweat.
 
-## Prerequisites
-
-* Have an [AWS Account](/quickstart/cloud/aws)</a>.
-* Have an existing [CMS](/quickstart/cms)</a>.
-* Preexisting <a href="https://aws.amazon.com/route53/" target="_blank">DNS :icon-link-external:</a>.
-* Have a <a href="https://docs.aws.amazon.com/acm/" target="_blank">Certificate :icon-link-external:</a>.
-
 <div class="card-lg" style="margin: 3rem 0 1.5rem;">
   <div style="display: flex; align-items: center; justify-content: start;">
     <div style="width: 120px;">
-      <img src="/static/images/logos/cloudfront-logo.jpg" alt="CDN Logo" style="width: 100%;">
+      <img src="/static/images/logo.png" alt="CDN Logo" style="width: 100%;">
     </div>
     <div style="margin-left: 30px; width: 80%;">
       <h2>CMS CDN</h2>
-      <p class="mt-2">Enhance the performance of your content management system by delivering assets like images, scripts, and stylesheets from servers closer to your users. Speeds up load times, ensure a smoother experience, and help your site scale efficiently during high traffic.</p>
+      <p style="font-size: .9rem;"><strong>Prerequisites:</strong> you need a <a href="https://docs.aws.amazon.com/acm/" target="_blank">certificate</a> with the name of site you are trying to launch, <br>and have an existing <a href="/quickstart/cms/solodev-cms" target="_blank">CMS</a>.</p>
+      <p class="mt-2">Enhance the performance of your CMS and speed up load times.</p>
     </div>
   </div>
   <div>
@@ -37,11 +31,12 @@ A Content Delivery Network (CDN) is a network of servers spread out across diffe
 <div class="card-lg" style="margin-bottom: 1.5rem;">
   <div style="display: flex; align-items: center; justify-content: start;">
     <div style="width: 120px;">
-      <img src="/static/images/logos/cloudfront-logo.jpg" alt="CDN Logo" style="width: 100%;">
+      <img src="/static/images/logos/wordpress-logo.jpg" alt="CDN Logo" style="width: 100%;">
     </div>
     <div style="margin-left: 30px; width: 80%;">
       <h2>WordPress CDN</h2>
-      <p class="mt-2">Boost your site's speed by delivering your content from servers located closer to your visitors. Reduce load times, improve performance, and help your site handle traffic spikes without slowing down.</p>
+      <p style="font-size: .9rem;"><strong>Prerequisites:</strong> you need a <a href="https://docs.aws.amazon.com/acm/" target="_blank">certificate</a> with the name of site you are trying to launch, <br>and have an existing <a href="/quickstart/cms/wordpress" target="_blank">WordPress</a>.</p>
+      <p class="mt-2">Boost your site's speed by delivering content from servers near your visitors.</p>
     </div>
   </div>
   <div>

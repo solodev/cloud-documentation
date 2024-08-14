@@ -2,7 +2,7 @@
 
 <div class="header">
   <div class="inner">
-    <img src="/static/images/icons/icons-thin-terminal.svg" alt="Terminal Icon">
+    <img src="/static/images/icons/code-simple-thin.svg" alt="Code Icon">
     <div>
       <h1>Developer</h1>
       <!-- <p style="padding-left: 2rem; margin-bottom: 0;">Protect websites and apps with CDN.</p> -->
