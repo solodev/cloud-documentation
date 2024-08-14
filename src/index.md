@@ -6,13 +6,13 @@ Solodev Cloud is the best-of-breed cloud-based solution for almost anything you 
 
 ## Platform
 
-<div class="row" style="margin-bottom: 1.5rem;">
+<div class="row" style="margin-bottom: 2.5rem;">
   <div class="col">
     <div class="card text-center">
       <img src="/static/images/icons/icons-thin-cloud.svg" alt="Cloud icon">
       <h2>Cloud</h2>
       <p class="content">Deploy and host on AWS and integrate with the most secure and scalable cloud services.</p>
-      <p style="margin-bottom: 10px;"><a href="/quickstart/cloud">INSTALL</a></p>
+      <p style="margin-bottom: 10px;"><a href="/quickstart/cloud">ACCESS</a></p>
     </div>
   </div>
   <div class="col">
@@ -20,7 +20,7 @@ Solodev Cloud is the best-of-breed cloud-based solution for almost anything you 
       <img src="/static/images/icons/icons-thin-cms.svg" alt="CMS icon">
       <h2>CMS</h2>
       <p class="content">Power frontends in any framework, build headless apps, and create custom experiences with code.</p>
-      <p style="margin-bottom: 10px;"><a href="/quickstart/cms">INSTALL</a></p>
+      <p style="margin-bottom: 10px;"><a href="/quickstart/cms">ACCESS</a></p>
     </div>
   </div>
 </div>

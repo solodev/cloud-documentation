@@ -15,22 +15,6 @@ From enterprise-grade to open source, build amazing sites and apps with the righ
 <div class="row" style="margin-top: 2.5rem;">
   <div class="col">
     <div class="card text-center">
-      <img src="/static/images/logos/wordpress-logo.jpg" alt="WordPress Logo">
-      <h3>WordPress</h3>
-      <p class="content">Build custom blogs and websites with themes, templates, and widgets.</p>
-      <p style="margin-bottom: 10px;"><a href="/quickstart/cms/wordpress">INSTALL</a></p>
-    </div>
-  </div>
-  <div class="col">
-    <div class="card text-center">
-      <img src="/static/images/logos/solodev-static-logo.jpg" alt="Solodev Static Logo">
-      <h3>Solodev Static</h3>
-      <p class="content">Instantly launch static web pages without the hosting headaches.</p>
-      <p style="margin-bottom: 10px;"><a href="/quickstart/cms/solodev-static">INSTALL</a></p>
-    </div>
-  </div>
-  <div class="col">
-    <div class="card text-center">
       <img src="/static/images/logos/enterprise-logo.jpg" alt="CMS Enterprise Logo">
       <h3>CMS Enterprise</h3>
       <p class="content">Develop enterprise websites and apps on a scalable, redundant CMS</p>
@@ -43,6 +27,30 @@ From enterprise-grade to open source, build amazing sites and apps with the righ
       <h3>CMS Professional</h3>
       <p class="content">Powerful CMS features on a single server for professional websites and apps</p>
       <p style="margin-bottom: 10px;"><a href="https://cms.solodev.net/quickstart/solodev-pro" target="_blank">INSTALL</a></p>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card text-center">
+      <img src="/static/images/logos/micro-logo.png" alt="CMS Micro Logo">
+      <h3>CMS Micro</h3>
+      <p class="content">Full featured CMS capabilities on a single server, ideal for small development projects</p>
+      <p style="margin-bottom: 10px;"><a href="https://cms.solodev.net/quickstart/solodev-micro" target="_blank">INSTALL</a></p>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card text-center">
+      <img src="/static/images/logos/eks-logo.jpg" alt="CMS EKS Logo">
+      <h3>CMS EKS</h3>
+      <p class="content">Deploy highly scalable websites and apps on a containerized CMS with Elastic Kubernetes Service</p>
+      <p style="margin-bottom: 10px;"><a href="https://cms.solodev.net/quickstart/solodev-cms-for-kubernetes" target="_blank">INSTALL</a></p>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card text-center">
+      <img src="/static/images/logos/wordpress-logo.jpg" alt="WordPress Logo">
+      <h3>WordPress</h3>
+      <p class="content">Build custom blogs and websites with themes, templates, and widgets.</p>
+      <p style="margin-bottom: 10px;"><a href="/quickstart/cms/wordpress">INSTALL</a></p>
     </div>
   </div>
 </div>

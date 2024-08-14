@@ -37,6 +37,14 @@ The enterprise CMS for AWS, Solodev gives you the freedom to bring the most imag
       <p style="margin-bottom: 10px;"><a href="https://cms.solodev.net/quickstart/solodev-micro" target="_blank">INSTALL</a></p>
     </div>
   </div>
+  <div class="col">
+    <div class="card card-color text-center">
+      <img src="/static/images/logos/eks-logo.jpg" alt="CMS EKS Logo">
+      <h3>CMS EKS</h3>
+      <p class="content">Deploy highly scalable websites and apps on a containerized CMS with Elastic Kubernetes Service</p>
+      <p style="margin-bottom: 10px;"><a href="https://cms.solodev.net/quickstart/solodev-cms-for-kubernetes" target="_blank">INSTALL</a></p>
+    </div>
+  </div>
 </div>
 
 <style>
@@ -64,8 +72,8 @@ The enterprise CMS for AWS, Solodev gives you the freedom to bring the most imag
     height: 80px;
   }
   .card.card-color {
-    border-radius: 35px;
-    background-color: #0488ce;
+    border-radius: 1.5rem;
+    background-color: #1f335d;
     color: #fff;
   }
   .card.card-color h3 {
