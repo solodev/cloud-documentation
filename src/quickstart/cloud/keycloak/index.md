@@ -171,20 +171,6 @@ To learn more about the stack failure options, <a href="https://docs.aws.amazon.
 
 3. Click <span class="text-orange">**Submit**</span>.
 
-### Stacks
-
-1. <span class="text-orange">**Watch your CMS being created!**</span> Once the status changes from **CREATE_IN_PROGRESS** to **CREATE_COMPLETE**, you can access your CMS.
-
-<!-- <p><img src="/static/images/quickstart/micro/micro-stack.jpg" alt="Keycloak Serverless Stack" style="width: 62%;"></p> -->
-
-2. Click on the **Outputs** tab and copy the AdminUrl value.
-
-<!-- <p><img src="/static/images/quickstart/stack-outputs.jpg" alt="Keycloak Serverless Stack Outputs" style="width: 62%;"></p> -->
-
-3. Open your preferred browser and paste the AdminUrl value to access the Keycloak login page. Use the **Admin Username** and **Admin Password** provided in the stacks output to log in.
-
-<!-- <p><img src="/static/images/quickstart/login-screen.jpg" alt="Solodev CMS Login Screen" style="width: 50%;"></p> -->
-
 {% endtab %}
 
 {% endtabs %}
