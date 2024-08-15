@@ -41,7 +41,7 @@ Once accepted, you will receive a thank you message asking you to configure your
 **Name** | **Description** 
 :--- | ---
 Fulfillment option | Select a fulfillment option. Default: Deploy Container.
-Software version | Select the software version. The latest version of Keycloak Pro is always recommended.
+Software version | Select the software version. The latest version of Keycloak Serverless is always recommended.
 
 2. Click <span class="text-orange">**"Continue to Launch."**</span>
 
@@ -55,7 +55,7 @@ Review the launch configuration details and follow the instructions to launch th
 
 {% tab title="CloudFormation" %}
 
-Before launching the Keycloak Pro software, make sure you are logged into your AWS account. If you do not have an AWS account, click here to create one. Once you have signed in, click the button below and follow the outlined steps.
+Before launching the Keycloak Serverless software, make sure you are logged into your AWS account. If you do not have an AWS account, click here to create one. Once you have signed in, click the button below and follow the outlined steps.
 
 <a href="https://us-east-1.console.aws.amazon.com/cloudformation/home?region=us-east-1#/stacks/create?stackName=keycloak-pro&templateURL=https://s3.amazonaws.com/keycloak-pro/cloudformation/keycloak-serverless.yaml" rel="noopener noreferrer" target="_blank" class="btn-orange-lg mb-2">LAUNCH KEYCLOAK <span><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="20" height="20" fill="#fff"><path d="M3.75 2h3.5a.75.75 0 0 1 0 1.5h-3.5a.25.25 0 0 0-.25.25v8.5c0 .138.112.25.25.25h8.5a.25.25 0 0 0 .25-.25v-3.5a.75.75 0 0 1 1.5 0v3.5A1.75 1.75 0 0 1 12.25 14h-8.5A1.75 1.75 0 0 1 2 12.25v-8.5C2 2.784 2.784 2 3.75 2Zm6.854-1h4.146a.25.25 0 0 1 .25.25v4.146a.25.25 0 0 1-.427.177L13.03 4.03 9.28 7.78a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042l3.75-3.75-1.543-1.543A.25.25 0 0 1 10.604 1Z"></path></svg></span></a>
 
@@ -88,7 +88,7 @@ If your AWS region is different from `us-east-1`, make sure to select your speci
 Name   | Description
 ---    | ---
 CertificateArn | CertificateArn for SSL cert that matches the FQDN above. Please visit the <a href="https://docs.aws.amazon.com/acm/" target="_blank">AWS Certificate Manager :icon-link-external:</a>.
-Hostname | Domain name or IP address used to access the Keycloak instance.
+Hostname | Domain name or IP address used to access the Keycloak instance (e.g. keycloak.domain.com).
 
 2. VPC Settings.
 
@@ -96,7 +96,7 @@ Hostname | Domain name or IP address used to access the Keycloak instance.
 
 Name   | Description
 ---    | ---
-VPCID | Choose which VPC the Application should be deployed to. <br><br>An Amazon Virtual Private Cloud (VPC) is a dedicated environment that lets you launch the AWS resources that power your Keycloak Pro in an isolated virtual network. If you do not have a VPC, you will need to create one in your VPC Console. For instructions on how to create a VPC, <a href="https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-vpc.html" target="_blank">click here for instructions :icon-link-external:</a>.
+VPCID | Choose which VPC the Application should be deployed to. <br><br>An Amazon Virtual Private Cloud (VPC) is a dedicated environment that lets you launch the AWS resources that power your Keycloak Serverless in an isolated virtual network. If you do not have a VPC, you will need to create one in your VPC Console. For instructions on how to create a VPC, <a href="https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-vpc.html" target="_blank">click here for instructions :icon-link-external:</a>.
 PubSubnets | The ID of the public subnets in Availability Zone 1 and 2 in your existing VPC (e.g., subnet-a0246dcd). <br><br>A subnet is a range of IP addresses contained in your VPC. You can create AWS resources, such as EC2 instances, in specific subnets, enabling you to group network resources more efficiently. If you do not have any existing subnets, you will need to create one in your Subnet Console. For instructions, <a href="https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-vpc.html#ec2-shared-VPC-subnets" target="_blank">click here :icon-link-external:</a>. (Choose two).
 PrivSubnets | The ID of the private subnets in Availability Zone 1 and 2 in your existing VPC (e.g., subnet-a0246dcd). (Choose two).
 DBSubnets | The ID of the database subnets in Availability Zone 1 and 2 in your existing VPC (e.g., subnet-a0246dcd). (Choose two).
@@ -122,11 +122,17 @@ AutoScalingTargetCpuUtilization | Auto scaling target CPU utilization.
 
 5. Environment variable
 
-<p><img src="/static/images/keycloak/keycloak-environment-variable.jpg" alt="Keycloak Serverless Environment variable" style="width: 28%;"></p>
+<p><img src="/static/images/keycloak/keycloak-environment-variable.jpg" alt="Keycloak Serverless Environment variable" style="width: 80%;"></p>
 
 Name   | Description
 ---    | ---
 JavaOpts | JAVA_OPTS environment variable.
+DeletionPolicy | A Deletion Policy is a configuration that you can set for resources in AWS CloudFormation templates to specify what should happen to the resource when its stack is deleted.
+HostnameStrict | Enables strict hostname validation. If you do not have a domain yet, set to `false`. For production environments, it's recommended to set this to `true` to ensure the request hostname matches the configured hostname for security purposes, unless your reverse proxy or load balancer overwrites the `Host` header.
+
+!!!Note:
+If you set `HostnameStrict=true`, you need to create your domain in [Amazon Route 53](https://console.aws.amazon.com/route53).
+!!!
 
 6. Click <span class="text-orange">**Next**</span>.
 
@@ -170,6 +176,48 @@ To learn more about the stack failure options, <a href="https://docs.aws.amazon.
 <p><img src="/static/images/quickstart/stack-capabilities-short.jpg" alt="Keycloak Serverless capabilities" style="width: 62%;"></p>
 
 3. Click <span class="text-orange">**Submit**</span>.
+
+### Stacks
+
+1. <span class="text-orange">**Watch your Keycloak being created!**</span> Once the status changes from **CREATE_IN_PROGRESS** to **CREATE_COMPLETE**, you can access your Keycloak.
+
+<p><img src="/static/images/keycloak/keycloak-stack.jpg" alt="Keycloak Stack" style="width: 62%;"></p>
+
+2. Click on the **Outputs** tab and copy the value on the **KeyCloakContainerServiceEndpointURL**.
+
+<p><img src="/static/images/keycloak/keycloak-stack-outputs.jpg" alt="Keycloak Stack Outputs" style="width: 62%;"></p>
+
+### Access the Keycloak console
+
+1. Go to the [AWS Secrets Manager console](https://console.aws.amazon.com/secretsmanager).
+
+2. Use the top navigation bar to select the region where your Keycloak is deployed.
+
+3. In the left navigation, choose **Secrets**.
+
+<p><img src="/static/images/keycloak/keycloak-secrets.jpg" alt="Keycloak AWS Secrets Manager Nav" style="width: 20%;"></p>
+
+4. In the the filter box, enter **KeyCloakKCSecret**. 
+
+<p><img src="/static/images/keycloak/keycloak-secret.jpg" alt="Keycloak Secret" style="width: 62%;"></p>
+
+5. Click on the **KeyCloakKCSecret** corresponding to the Keycloak you deployed.
+
+6. On the **Overview** tab, click **Retrieve secret value**.
+
+<p><img src="/static/images/keycloak/keycloak-retrieve-secret.jpg" alt="Keycloak retrieve secret" style="width: 62%;"></p>
+
+7. Copy the **username** and **password**.
+
+<p><img src="/static/images/keycloak/keycloak-secret-values.jpg" alt="Keycloak secret values" style="width: 30%;"></p>
+
+8. Open your preferred browser and enter your keycloak domain name in the address bar, such as https://keycloak.yourdomain.com.
+
+9. Click the Administration Console link.
+
+10. Use the credentials you just retrieve to log in.
+
+<p><img src="/static/images/keycloak/keycloak-login-screen.jpg" alt="Keycloak Login Screen" style="width: 40%;"></p>
 
 {% endtab %}
 
