@@ -49,8 +49,8 @@ If your AWS region is different from `us-east-1`, make sure to select your speci
 
 Name   | Description
 ---    | ---
-DatadogApiKey | [API key](add-api-key) for the Datadog account.
-DatadogAppKey  | [APP key](add-app-key) for the Datadog account. If this template was launched from the Datadog app, this key is tied to the user that launched the template, and is a key specifically generated for this integration.
+DatadogApiKey | [API key](#add-api-key) for the Datadog account.
+DatadogAppKey  | [APP key](#add-app-key) for the Datadog account. If this template was launched from the Datadog app, this key is tied to the user that launched the template, and is a key specifically generated for this integration.
 DatadogSite | Define your Datadog Site to send data to.
 InstallLambdaLogForwarder | Determines whether the default configuration for the Datadog Lambda Log Forwarder is installed as part of this stack. For more information, [click here](https://docs.datadoghq.com/serverless/libraries_integrations/forwarder/#installation).
 CloudSecurityPostureManagement | Add the AWS Managed SecurityAudit policy to your Datadog AWS Integration role, and enable Datadog Cloud Security Posture Management (CSPM) to start performing configuration checks across your AWS account. [Click here](https://www.datadoghq.com/product/security-platform/cloud-security-posture-management/) for more information.
