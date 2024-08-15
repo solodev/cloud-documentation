@@ -1,6 +1,6 @@
 # Welcome
 
-<p><img src="/static/images/welcome/solo_welcome.png" alt="Welcome banner"></p>
+<p><img src="/static/images/welcome/solodev-cloud-banner.jpg" alt="Solodev Cloud banner that reads Connect apps, launch containers, and develop your own marketplace in the cloud"></p>
 
 Solodev Cloud is the best-of-breed cloud-based solution for almost anything you can imagine. Whether you’re a single developer (Solodev) creating a custom app or a CTO looking to build a robust enterprise stack, Solodev Cloud has you covered. Our ever-growing Marketplace already has more than 100 options, from AI/ML, Web3, marketing, e-commerce, content management, SEO and so much more. Powered by AWS, Solodev Cloud is a turnkey solution where you can unify your digital ecosystem with single-sign-on (SSO) and centralized billing with little to no coding.
 
