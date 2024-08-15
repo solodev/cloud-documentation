@@ -323,7 +323,37 @@ Ensure that your browser's address bar includes "http://" instead of "https://."
 
 {% endtabs %}
 
+## Next Steps
+
+<div class="card-lg" style="margin-bottom: 1.5rem;">
+  <div style="display: flex; align-items: center; justify-content: start;">
+    <div style="width: 120px;">
+      <img src="/static/images/logos/cdn-wordpress.png" alt="WordPress CDN Logo" style="width: 100%;">
+    </div>
+    <div style="margin-left: 30px; width: 80%;">
+      <h2>WordPress CDN</h2>
+      <p style="font-size: .9rem;"><strong>Prerequisites:</strong> you need a <a href="https://console.aws.amazon.com/acm/" target="_blank">certificate</a> with the name of site you are trying to launch <br>and have an existing <a href="/quickstart/cms/wordpress" target="_blank">WordPress</a>.</p>
+      <p class="mt-2">Boost your site's speed by delivering content from servers near your visitors.</p>
+    </div>
+  </div>
+  <div>
+    <a href="https://us-east-1.console.aws.amazon.com/cloudformation/home?region=us-east-1#/stacks/create?stackName=cms-cdn&templateURL=https://s3://wordpress-release/cloudformation/cloudfront-wordpress.yaml" class="btn-orange-lg" target="_blank">LAUNCH <img src="/static/images/icons/circle-play-solid.svg" style="width: 16px; margin-left: 1rem;"></a>
+  </div>
+</div>
+
 <style>
+  .card-lg {
+    border: 1px solid #dee2e6;
+    box-shadow: 0 1px 15px rgba(0, 0, 0, .15);
+    padding: 1.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .card-lg h2 {
+    margin-top: 0;
+    font-size: 1.4rem;
+  }
   /* Headers */
   .header {
     display: flex;
