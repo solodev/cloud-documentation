@@ -2,7 +2,7 @@
 
 <div class="header">
   <div class="inner">
-    <img src="/static/images/logos/keycloak-pro-logo.jpg" alt="Keycloak Logo">
+    <img src="/static/images/logos/serverless-keycloak.png" alt="Keycloak Logo">
     <div>
       <h1>Keycloak Serverless</h1>
       <p style="padding-left: 2rem; margin-bottom: 0;">Keycloak provides user federation, strong authentication, user management, fine-grained authorization, and more.</p>
@@ -14,11 +14,11 @@
 ## Prerequisites
 
 * Have an existing [AWS Account](/quickstart/cloud/aws)</a>.
-* Previously created <a href="https://console.aws.amazon.com/ec2/" target="_blank">EC2 Pair Key <span>:icon-link-external:</span></a>.
-* Have an existing <a href="https://console.aws.amazon.com/acm/" target="_blank">Certificate ARN</a>.
+* Have an existing <a href="https://console.aws.amazon.com/acm/" target="_blank">Certificate <span>:icon-link-external:</span></a>.
+* Previously created <a href="https://console.aws.amazon.com/route53/" target="_blank">Hostname <span>:icon-link-external:</span></a>.
 * Preexisting VPC <a href="https://us-east-1.console.aws.amazon.com/cloudformation/home?region=us-east-1#/stacks/create?stackName=solodev-vpc&templateURL=https://s3.amazonaws.com/solodev-cms/cloudformation/infrastructure/vpc.yaml" target="_blank" class="btn-orange-sm mt-2" style="margin-left: .5rem;">LAUNCH STACK <span>:icon-play:</span></a>
 
-## CMS Subscription
+## Subscription
 
 The following steps cover the setup of the **Keycloak Serverless** on the AWS Marketplace. Click the **“Continue to Subscribe”** button at the top of the AWS Marketplace listing page to continue the process. Keycloak Serverless is available as a monthly subscription on the AWS Marketplace. The subscription includes the software's operational and infrastructure costs for running on AWS.
 
@@ -87,8 +87,8 @@ If your AWS region is different from `us-east-1`, make sure to select your speci
 
 Name   | Description
 ---    | ---
-CertificateArn | CertificateArn for SSL cert that matches the FQDN above. Please visit the <a href="https://docs.aws.amazon.com/acm/" target="_blank">AWS Certificate Manager :icon-link-external:</a>.
-Hostname | Domain name or IP address used to access the Keycloak instance (e.g. keycloak.domain.com).
+CertificateArn | (Required) CertificateArn for SSL cert that matches the FQDN above. Please visit the <a href="https://docs.aws.amazon.com/acm/" target="_blank">AWS Certificate Manager :icon-link-external:</a>.
+Hostname | (Required) Domain name or IP address used to access the Keycloak instance (e.g. keycloak.domain.com).
 
 2. VPC Settings.
 
@@ -171,7 +171,7 @@ To learn more about the stack failure options, <a href="https://docs.aws.amazon.
 
 1. Review your settings.
 
-2. Acknowledge the AWS CloudFormation terms.
+2. Acknowledge the AWS CloudFormation terms. For more information, [click here](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/using-iam-template.html?icmpid=docs_cfn_console#using-iam-capabilities).
 
 <p><img src="/static/images/quickstart/stack-capabilities-short.jpg" alt="Keycloak Serverless capabilities" style="width: 62%;"></p>
 
@@ -183,41 +183,35 @@ To learn more about the stack failure options, <a href="https://docs.aws.amazon.
 
 <p><img src="/static/images/keycloak/keycloak-stack.jpg" alt="Keycloak Stack" style="width: 62%;"></p>
 
-2. Click on the **Outputs** tab and copy the value on the **KeyCloakContainerServiceEndpointURL**.
+2. Click on the **Outputs** tab and click on the **KeyCloakContainerServiceEndpointURL** value.
 
 <p><img src="/static/images/keycloak/keycloak-stack-outputs.jpg" alt="Keycloak Stack Outputs" style="width: 62%;"></p>
 
-### Access the Keycloak console
+3. This will open your login screen.
+
+<p><img src="/static/images/keycloak/keycloak-login-screen.jpg" alt="Keycloak Login Screen" style="width: 40%;"></p>
+
+### Access your credentials
 
 1. Go to the [AWS Secrets Manager console](https://console.aws.amazon.com/secretsmanager).
 
-2. Use the top navigation bar to select the region where your Keycloak is deployed.
-
-3. In the left navigation, choose **Secrets**.
-
-<p><img src="/static/images/keycloak/keycloak-secrets.jpg" alt="Keycloak AWS Secrets Manager Nav" style="width: 20%;"></p>
-
-4. In the the filter box, enter **KeyCloakKCSecret**. 
+2. In the the filter box, enter **KeyCloakKCSecret**. 
 
 <p><img src="/static/images/keycloak/keycloak-secret.jpg" alt="Keycloak Secret" style="width: 62%;"></p>
 
-5. Click on the **KeyCloakKCSecret** corresponding to the Keycloak you deployed.
+3. Click on the **KeyCloakKCSecret** corresponding to the Keycloak you deployed.
 
-6. On the **Overview** tab, click **Retrieve secret value**.
+4. On the **Overview** tab, click **Retrieve secret value**.
 
 <p><img src="/static/images/keycloak/keycloak-retrieve-secret.jpg" alt="Keycloak retrieve secret" style="width: 62%;"></p>
 
-7. Copy the **username** and **password**.
+5. Copy the **username** and **password**.
 
 <p><img src="/static/images/keycloak/keycloak-secret-values.jpg" alt="Keycloak secret values" style="width: 30%;"></p>
 
-8. Open your preferred browser and enter your keycloak domain name in the address bar, such as https://keycloak.yourdomain.com.
+6. Use the credentials you just retrieve to log in.
 
-9. Click the Administration Console link.
-
-10. Use the credentials you just retrieve to log in.
-
-<p><img src="/static/images/keycloak/keycloak-login-screen.jpg" alt="Keycloak Login Screen" style="width: 40%;"></p>
+<p><img src="/static/images/keycloak/keycloak-login-screen-with-credentials.jpg" alt="Keycloak Login Screen" style="width: 40%;"></p>
 
 {% endtab %}
 

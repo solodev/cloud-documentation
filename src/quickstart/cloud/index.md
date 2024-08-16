@@ -23,7 +23,7 @@ Secure, scalable, and home to the most advanced services, from AI to IoT. Build 
   </div>
   <div class="col">
     <div class="card text-center">
-      <img src="/static/images/logos/keycloak-pro-logo.jpg" alt="Keycloak Logo">
+      <img src="/static/images/logos/serverless-keycloak.png" alt="Keycloak Logo">
       <h3>Keycloak</h3>
       <p class="content">Identity and access management solution for authentication and authorization services.</p>
       <p style="margin-bottom: 10px;"><a href="/quickstart/cloud/keycloak">INSTALL</a></p>
