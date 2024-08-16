@@ -1,2 +1,3 @@
 order: 65
 icon: "/static/images/logos/serverless-keycloak.png"
+description: "Keycloak provides user federation, strong authentication, user management, fine-grained authorization, and more"

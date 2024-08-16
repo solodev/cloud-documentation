@@ -15,42 +15,26 @@ From enterprise-grade to open source, build amazing sites and apps with the righ
 <div class="row" style="margin-top: 2.5rem;">
   <div class="col">
     <div class="card text-center">
-      <img src="/static/images/logos/enterprise-logo.jpg" alt="CMS Enterprise Logo">
-      <h3>CMS Enterprise</h3>
-      <p class="content">Develop enterprise websites and apps on a scalable, redundant CMS</p>
-      <p style="margin-bottom: 10px;"><a href="https://cms.solodev.net/quickstart/solodev-enterprise" target="_blank">INSTALL</a></p>
-    </div>
-  </div>
-  <div class="col">
-    <div class="card text-center">
-      <img src="/static/images/logos/pro-logo.jpg" alt="CMS Professional Logo">
-      <h3>CMS Professional</h3>
-      <p class="content">Powerful CMS features on a single server for professional websites and apps</p>
-      <p style="margin-bottom: 10px;"><a href="https://cms.solodev.net/quickstart/solodev-pro" target="_blank">INSTALL</a></p>
-    </div>
-  </div>
-  <div class="col">
-    <div class="card text-center">
-      <img src="/static/images/logos/micro-logo.png" alt="CMS Micro Logo">
-      <h3>CMS Micro</h3>
-      <p class="content">Full featured CMS capabilities on a single server, ideal for small development projects</p>
-      <p style="margin-bottom: 10px;"><a href="https://cms.solodev.net/quickstart/solodev-micro" target="_blank">INSTALL</a></p>
-    </div>
-  </div>
-  <div class="col">
-    <div class="card text-center">
-      <img src="/static/images/logos/eks-logo.jpg" alt="CMS EKS Logo">
-      <h3>CMS EKS</h3>
-      <p class="content">Deploy highly scalable websites and apps on a containerized CMS with Elastic Kubernetes Service</p>
-      <p style="margin-bottom: 10px;"><a href="https://cms.solodev.net/quickstart/solodev-cms-for-kubernetes" target="_blank">INSTALL</a></p>
+      <img src="/static/images/logo.png" alt="Solodev CMS Logo">
+      <h3>Solodev CMS</h3>
+      <p class="content">Create powerful, secure, and scalable experiences with Solodev CMS</p>
+      <p style="margin-bottom: 10px;"><a href="/quickstart/cms/solodev-cms/">INSTALL</a></p>
     </div>
   </div>
   <div class="col">
     <div class="card text-center">
       <img src="/static/images/logos/wordpress-logo.jpg" alt="WordPress Logo">
       <h3>WordPress</h3>
-      <p class="content">Build custom blogs and websites with themes, templates, and widgets.</p>
+      <p class="content">Build custom blogs and websites with themes, templates, and widgets</p>
       <p style="margin-bottom: 10px;"><a href="/quickstart/cms/wordpress">INSTALL</a></p>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card text-center">
+      <img src="/static/images/logos/cdn.png" alt="CDN Logo">
+      <h3>CDN</h3>
+      <p class="content">Protect websites and apps with CDN</p>
+      <p style="margin-bottom: 10px;"><a href="/quickstart/cms/cdn">INSTALL</a></p>
     </div>
   </div>
 </div>
