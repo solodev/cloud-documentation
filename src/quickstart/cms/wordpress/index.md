@@ -47,10 +47,6 @@ Region | Select the AWS Region.
 
 <p><img src="/static/images/wordpress/wordpress-continue-to-launch.jpg" alt="WordPress continue to launch" style="width: 80%;"></p>
 
-!!!danger Important:
-On the next screen, click on **"Usage Instructions"** and then select the Quickstart link to continue the installation.
-!!!
-
 ### <span class="text-teal">Launch Software</span>
 
 Review the launch configuration details and follow the instructions to launch this software.
