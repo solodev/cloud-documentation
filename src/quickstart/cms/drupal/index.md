@@ -2,13 +2,13 @@
 
 <div class="header">
   <div class="inner">
-    <img src="/static/images/logos/drupal-logo.png" alt="Drupal Logo">
+    <img src="/static/images/logos/drupal-pro.png" alt="Drupal Logo">
     <div>
       <h1>Drupal</h1>
       <!-- <p style="padding-left: 2rem; margin-bottom: 0;">Publish your ideas online with WordPress, the world's leading open source CMS! Perfect for powering blogs and website content, WordPress offers easy to use features and <br>a wide range of plugins.</p> -->
     </div>
   </div>
-  <a href="https://aws.amazon.com/marketplace/pp/prodview-wlzg335aurypc" rel="noopener noreferrer" target="_blank" style="background-color: #f99700; color: #fff; padding: .5rem 2.5rem; border-radius: 20px; font-weight: 600; display: inline-flex;">SUBSCRIBE <span style="padding-left: .5rem; display: inline-flex; align-items: center;"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="20" height="20" fill="#fff"><path d="M3.75 2h3.5a.75.75 0 0 1 0 1.5h-3.5a.25.25 0 0 0-.25.25v8.5c0 .138.112.25.25.25h8.5a.25.25 0 0 0 .25-.25v-3.5a.75.75 0 0 1 1.5 0v3.5A1.75 1.75 0 0 1 12.25 14h-8.5A1.75 1.75 0 0 1 2 12.25v-8.5C2 2.784 2.784 2 3.75 2Zm6.854-1h4.146a.25.25 0 0 1 .25.25v4.146a.25.25 0 0 1-.427.177L13.03 4.03 9.28 7.78a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042l3.75-3.75-1.543-1.543A.25.25 0 0 1 10.604 1Z"></path></svg></span></a>
+  <a href="https://aws.amazon.com/marketplace/server/procurement?productId=prod-jquf35j7xh5aq" rel="noopener noreferrer" target="_blank" style="background-color: #f99700; color: #fff; padding: .5rem 2.5rem; border-radius: 20px; font-weight: 600; display: inline-flex;">SUBSCRIBE <span style="padding-left: .5rem; display: inline-flex; align-items: center;"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="20" height="20" fill="#fff"><path d="M3.75 2h3.5a.75.75 0 0 1 0 1.5h-3.5a.25.25 0 0 0-.25.25v8.5c0 .138.112.25.25.25h8.5a.25.25 0 0 0 .25-.25v-3.5a.75.75 0 0 1 1.5 0v3.5A1.75 1.75 0 0 1 12.25 14h-8.5A1.75 1.75 0 0 1 2 12.25v-8.5C2 2.784 2.784 2 3.75 2Zm6.854-1h4.146a.25.25 0 0 1 .25.25v4.146a.25.25 0 0 1-.427.177L13.03 4.03 9.28 7.78a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042l3.75-3.75-1.543-1.543A.25.25 0 0 1 10.604 1Z"></path></svg></span></a>
 </div>
 
 ## Prerequisites
@@ -21,11 +21,11 @@
 
 The following steps cover the setup of the **Drupal Pro** on the AWS Marketplace. Click the **“Continue to Subscribe”** button at the top of the AWS Marketplace listing page to continue the process. Drupal Pro is available as a monthly subscription on the AWS Marketplace. The subscription includes the software's operational and infrastructure costs for running on AWS.
 
-1. Subscribe to Solodev on the AWS Marketplace. <a href="https://aws.amazon.com/marketplace/pp/prodview-wlzg335aurypc" target="_blank" class="btn-orange-sm" style="margin-left: 1rem;">SUBSCRIBE <span>:icon-link-external:</span></a>
+1. Subscribe to Solodev on the AWS Marketplace. <a href="https://aws.amazon.com/marketplace/server/procurement?productId=prod-jquf35j7xh5aq" target="_blank" class="btn-orange-sm" style="margin-left: 1rem;">SUBSCRIBE <span>:icon-link-external:</span></a>
 2. Review and accept the **"Terms and Conditions"**.
 3. Click **"Continue to Configuration"**.
 
-<!-- <p><img src="/static/images/wordpress/wordpress-subscribe-terms.jpg" alt="Drupal Pro Continue to Configuration" style="width: 80%;"></p> -->
+<p><img src="/static/images/drupal/drupal-subscribe-terms.jpg" alt="Drupal Pro Continue to Configuration" style="width: 80%;"></p>
 
 !!!NOTE:
 Once accepted, you will receive a thank you message asking you to configure your software. <br>This process can take a few moments. Please do not exit the screen or refresh the page.
@@ -35,7 +35,7 @@ Once accepted, you will receive a thank you message asking you to configure your
 
 1. Choose a fulfillment option and software version to launch this software.
 
-<p><img src="/static/images/wordpress/wordpress-configure-options.jpg" alt="Drupal Configure options" style="width: 35%;"></p>
+<p><img src="/static/images/drupal/drupal-configure-options.jpg" alt="Drupal Configure options" style="width: 35%;"></p>
 
 **Name** | **Description** 
 :--- | ---
@@ -45,7 +45,11 @@ Region | Select the AWS Region.
 
 2. Click <span class="text-orange">**"Continue to Launch."**</span>
 
-<!-- <p><img src="/static/images/wordpress/wordpress-continue-to-launch.jpg" alt="Drupal continue to launch" style="width: 80%;"></p> -->
+<p><img src="/static/images/drupal/drupal-continue-to-launch.jpg" alt="Drupal continue to launch" style="width: 80%;"></p>
+
+!!!danger Important:
+On the next screen, click on **"Usage Instructions"** and then select the Quickstart link to continue the installation.
+!!!
 
 ### <span class="text-teal">Launch Software</span>
 
@@ -55,9 +59,9 @@ Review the launch configuration details and follow the instructions to launch th
 
 {% tab title="CloudFormation" %}
 
-Before launching the Drupal Pro software, make sure you are logged into your AWS account. If you do not have an AWS account, click here to create one. Once you have signed in, click the button below and follow the outlined steps.
+To continue the installation, click the **Launch** button below and follow the outlined steps.
 
-<a href="https://us-east-1.console.aws.amazon.com/cloudformation/home?region=us-east-1#/stacks/create?stackName=wordpress-pro&templateURL=https://wordpress-release.s3.amazonaws.com/cloudformation/wordpress-pro-linux.yaml" rel="noopener noreferrer" target="_blank" class="btn-orange-lg mb-2">LAUNCH WORDPRESS <span><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="20" height="20" fill="#fff"><path d="M3.75 2h3.5a.75.75 0 0 1 0 1.5h-3.5a.25.25 0 0 0-.25.25v8.5c0 .138.112.25.25.25h8.5a.25.25 0 0 0 .25-.25v-3.5a.75.75 0 0 1 1.5 0v3.5A1.75 1.75 0 0 1 12.25 14h-8.5A1.75 1.75 0 0 1 2 12.25v-8.5C2 2.784 2.784 2 3.75 2Zm6.854-1h4.146a.25.25 0 0 1 .25.25v4.146a.25.25 0 0 1-.427.177L13.03 4.03 9.28 7.78a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042l3.75-3.75-1.543-1.543A.25.25 0 0 1 10.604 1Z"></path></svg></span></a>
+<a href="https://us-east-1.console.aws.amazon.com/cloudformation/home?region=us-east-1#/stacks/create?stackName=drupal-pro&templateURL=https://drupal-release.s3.amazonaws.com/cloudformation/drupal-pro-linux.yaml" rel="noopener noreferrer" target="_blank" class="btn-orange-lg mb-2">LAUNCH DRUPAL <span><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="20" height="20" fill="#fff"><path d="M3.75 2h3.5a.75.75 0 0 1 0 1.5h-3.5a.25.25 0 0 0-.25.25v8.5c0 .138.112.25.25.25h8.5a.25.25 0 0 0 .25-.25v-3.5a.75.75 0 0 1 1.5 0v3.5A1.75 1.75 0 0 1 12.25 14h-8.5A1.75 1.75 0 0 1 2 12.25v-8.5C2 2.784 2.784 2 3.75 2Zm6.854-1h4.146a.25.25 0 0 1 .25.25v4.146a.25.25 0 0 1-.427.177L13.03 4.03 9.28 7.78a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042l3.75-3.75-1.543-1.543A.25.25 0 0 1 10.604 1Z"></path></svg></span></a>
 
 !!!NOTE:
 If your AWS region is different from `us-east-1`, make sure to select your specific region from the top menu.
@@ -67,7 +71,7 @@ If your AWS region is different from `us-east-1`, make sure to select your speci
 
 1. Create a stack.
 
-<!-- <p><img src="/static/images/wordpress/wordpress-create-stack.jpg" alt="Drupal Pro Create Stack" style="width: 90%;"></p> -->
+<p><img src="/static/images/drupal/drupal-create-stack.jpg" alt="Drupal Pro Create Stack" style="width: 90%;"></p>
 
 2. Click <span class="text-orange">**Next**</span>.
 
@@ -77,13 +81,13 @@ If your AWS region is different from `us-east-1`, make sure to select your speci
 
 1. Provide a stack name. Stack name must be 1 to 128 characters, start with a letter, and only contain alphanumeric characters.
 
-<!-- <p><img src="/static/images/wordpress/wordpress-stack-name.jpg" alt="Drupal Pro stack name" style="width: 62%;"></p> -->
+<p><img src="/static/images/drupal/drupal-stack-name.jpg" alt="Drupal Pro stack name" style="width: 62%;"></p>
 
 ##### Parameters
 
 1. Specify the parameters in the setup section.
 
-<p><img src="/static/images/wordpress/wordpress-params-setup.jpg" alt="Drupal Pro params setup" style="width: 50%;"></p>
+<p><img src="/static/images/drupal/drupal-params-setup.jpg" alt="Drupal Pro params setup" style="width: 50%;"></p>
 
 Name   | Description
 ---    | ---
@@ -99,7 +103,7 @@ AmiAlias | An AMI Alias refers to a user-defined name or identifier for an Amazo
 
 2. Drupal Settings.
 
-<!-- <p><img src="/static/images/wordpress/wordpress-settings.jpg" alt="Drupal Pro Settings" style="width: 80%;"></p> -->
+<p><img src="/static/images/drupal/drupal-settings.jpg" alt="Drupal Pro Settings" style="width: 30%;"></p>
 
 Name   | Description
 ---    | ---
@@ -110,7 +114,18 @@ DatabaseUsername | The database admin account username.
 DatabasePassword | The database root password.
 WebsiteUrl | Name of initial Drupal website.
 
-3. Click <span class="text-orange">**Next**</span>.
+3. Optional: SSO.
+
+<p><img src="/static/images/drupal/drupal-optional-settings.jpg" alt="Drupal Pro Optional Settings" style="width: 24%;"></p>
+
+Name   | Description
+---    | ---
+SsoBaseUrl | Base URL of your OpenID Server.
+SsoClientId | Unique identifier assigned to a client application that is registered with an AWS Single Sign-On (SSO) service, used to authenticate and authorize the application to access SSO resources.
+SsoClientSecret | Confidential key assigned to a client application registered with an AWS Single Sign-On (SSO) service, used in conjunction with the SSO Client ID to authenticate the application and secure access to SSO resources.
+SsoRealm | Security component that manages user authentication across multiple applications within a defined domain.
+
+4. Click <span class="text-orange">**Next**</span>.
 
 #### Configure Stack Options
 
@@ -157,11 +172,11 @@ To learn more about the stack failure options, <a href="https://docs.aws.amazon.
 
 1. <span class="text-orange">**Watch your CMS being created!**</span> Once the status changes from **CREATE_IN_PROGRESS** to **CREATE_COMPLETE**, you can access your CMS.
 
-<p><img src="/static/images/quickstart/stack.jpg" alt="Drupal Pro Stack" style="width: 62%;"></p>
+<p><img src="/static/images/drupal/drupal-stack.jpg" alt="Drupal Pro Stack" style="width: 62%;"></p>
 
 2. Click on the **Outputs** tab and copy the AdminUrl value.
 
-<p><img src="/static/images/quickstart/stack-outputs.jpg" alt="Drupal Pro Stack Outputs" style="width: 62%;"></p>
+<p><img src="/static/images/drupal/drupal-stack-outputs.jpg" alt="Drupal Pro Stack Outputs" style="width: 62%;"></p>
 
 3. Open your preferred browser and paste the AdminUrl value to access the Drupal front-end website.
 
@@ -169,9 +184,9 @@ To learn more about the stack failure options, <a href="https://docs.aws.amazon.
 Ensure that your browser's address bar includes "http://" instead of "https://."
 !!!
 
-4. To access the Drupal login page, add `/admin` to the end of the website URL. Use the **Admin Username** and **Admin Password** provided in the stacks output to log in.
+4. To access the Drupal login page, add `/user/login` to the end of the website URL. Use the **Admin Username** and **Admin Password** provided in the stacks output to log in.
 
-<!-- <p><img src="/static/images/wordpress/wordpress-login-screen.jpg" alt="Drupal Login Screen" style="width: 30%;"></p> -->
+<p><img src="/static/images/drupal/drupal-login-screen.jpg" alt="Drupal Login Screen" style="width: 40%;"></p>
 
 {% endtab %}
 
