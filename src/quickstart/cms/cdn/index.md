@@ -40,7 +40,7 @@ A Content Delivery Network (CDN) is a network of servers spread out across diffe
     </div>
   </div>
   <div>
-    <a href="https://us-east-1.console.aws.amazon.com/cloudformation/home?region=us-east-1#/stacks/create?stackName=cms-cdn&templateURL=https://s3://wordpress-release/cloudformation/cloudfront-wordpress.yaml" class="btn-orange-lg" target="_blank">LAUNCH <img src="/static/images/icons/circle-play-solid.svg" style="width: 16px; margin-left: 1rem;"></a>
+    <a href="https://us-east-1.console.aws.amazon.com/cloudformation/home?region=us-east-1#/stacks/create?stackName=cms-cdn&templateURL=https://wordpress-release.s3.amazonaws.com/cloudformation/cloudfront-wordpress.yaml" class="btn-orange-lg" target="_blank">LAUNCH <img src="/static/images/icons/circle-play-solid.svg" style="width: 16px; margin-left: 1rem;"></a>
   </div>
 </div>
 
