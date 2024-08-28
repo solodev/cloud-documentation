@@ -2,7 +2,7 @@
 
 <div class="header">
   <div class="inner">
-    <img src="/static/images/logos/google-analytics-logo.jpg" alt="Google Analytics Logo">
+    <img src="/static/images/logos/analytics-logo.jpg" alt="Google Analytics Logo">
     <div>
       <h1>Google Analytics</h1>
       <p style="padding-left: 2rem; margin-bottom: 0;">Analyze your website data with the world's leading analytics platform.</p>
@@ -13,7 +13,16 @@
 
 Measure your website traffic and evaluate the performance of your marketing, content, products, and more with Google Analytics.
 
-<!-- ## Sign up for a Google Tag Manager -->
+<!-- ## Installation -->
+
+<!-- 1. Sign in to your Google Analytics account.
+2. Open the panel for the site you want to track.
+3. Click on Admin and then Property Settings.
+4. Look for your UA code (it starts with "UA-")—you'll need this.
+5. In your WordPress dashboard, go to Appearance Theme Editor.
+6. Find the header.php file (usually located under Theme Files).
+7. Add the tracking code just before the closing </head> tag.
+8. Save your changes. -->
 
 <style>
   /* Headers */

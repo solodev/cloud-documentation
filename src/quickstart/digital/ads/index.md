@@ -2,7 +2,7 @@
 
 <div class="header">
   <div class="inner">
-    <img src="/static/images/logos/google-ads-logo.jpg" alt="Google Ads Logo">
+    <img src="/static/images/logos/ads-logo.jpg" alt="Google Ads Logo">
     <div>
       <h1>Google Ads</h1>
       <p style="padding-left: 2rem; margin-bottom: 0;">Get in front of customers when they’re searching for businesses like yours.</p>

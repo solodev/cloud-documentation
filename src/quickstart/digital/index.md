@@ -13,26 +13,26 @@
 <div class="row" style="margin-top: 2.5rem;">
   <div class="col">
     <div class="card text-center">
-      <img src="/static/images/logos/google-tag-manager-logo.png" alt="Google Tag Manager Logo">
-      <h3>Google Tag Manager</h3>
-      <p class="content" style="margin-bottom: 0;">Manage all your website's tags in one place</p>
-      <p style="margin-bottom: 6px;"><a href="/quickstart/digital/google-tag-manager/">INSTALL</a></p>
+      <img src="/static/images/logos/tag-manager-logo.png" alt="Tag Manager Logo">
+      <h3>Tag Manager</h3>
+      <p class="content">Manage all your website's tags in one place</p>
+      <p style="margin-bottom: 10px;"><a href="/quickstart/digital/tag-manager/">INSTALL</a></p>
     </div>
   </div>
   <div class="col">
     <div class="card text-center">
-      <img src="/static/images/logos/google-analytics-logo.jpg" alt="Google Analytics Logo">
-      <h3>Google Analytics</h3>
+      <img src="/static/images/logos/analytics-logo.jpg" alt="Analytics Logo">
+      <h3>Analytics</h3>
       <p class="content">Analyze your website data with the world's leading analytics platform</p>
-      <p style="margin-bottom: 10px;"><a href="/quickstart/digital/google-analytics">INSTALL</a></p>
+      <p style="margin-bottom: 10px;"><a href="/quickstart/digital/analytics">INSTALL</a></p>
     </div>
   </div>
   <div class="col">
     <div class="card text-center">
-      <img src="/static/images/logos/google-ads-logo.jpg" alt="Google Ads Logo">
-      <h3>Google Ads</h3>
+      <img src="/static/images/logos/ads-logo.jpg" alt="Ads Logo">
+      <h3>Ads</h3>
       <p class="content">Get in front of customers when they’re searching for businesses like yours</p>
-      <p style="margin-bottom: 10px;"><a href="/quickstart/digital/google-ads">INSTALL</a></p>
+      <p style="margin-bottom: 10px;"><a href="/quickstart/digital/ads">INSTALL</a></p>
     </div>
   </div>
 </div>
