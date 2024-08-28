@@ -81,13 +81,13 @@ Tag management made easy. Google Tag Manager delivers simple, reliable, easily i
 
 2. Log in to your **WordPress Dashboard**.
 
-3. Navigate to **Appearance** and then to **Theme File Editor**.
+3. Navigate to **Tools** and then to **Theme File Editor**.
 
-<!-- <p><img src="/static/images/tag-manager/analytics-cms-update-website.jpg" alt="Update Website CMS" style="width: 40%;"></p> -->
+<p><img src="/static/images/tag-manager/analytics-wp-editor.jpg" alt="WordPress Theme File Editor" style="width: 26%;"></p>
 
 4. Paste the code snippet in the `header.php` file.
 
-<!-- <p><img src="/static/images/tag-manager/analytics-cms-meta-information.jpg" alt="CMS Meta Information Tab" style="width: 40%;"></p> -->
+<p><img src="/static/images/tag-manager/analytics-wp-header.jpg" alt="CMS Meta Information Tab" style="width: 60%;"></p>
 
 5. Click <span class="text-orange">**Update File**</span>.
 
@@ -99,15 +99,13 @@ Tag management made easy. Google Tag Manager delivers simple, reliable, easily i
 
 2. Paste the code snippet in the `footer.php` file. 
 
+<p><img src="/static/images/tag-manager/analytics-wp-footer.jpg" alt="CMS base template with analytics snippet" style="width: 60%;"></p>
+
 !!!Note:
-If your website does not have a `header.php`, paste the code in the `footer.php` immediately after the opening <body> tag.
+If your website does not have a `footer.php`, paste the code in the `header.php` immediately after the opening `body` tag.
 !!!
 
-<!-- <p><img src="/static/images/tag-manager/analytics-base-template.jpg" alt="CMS base template with analytics snippet" style="width: 60%;"></p> -->
-
 3. Click <span class="text-orange">**Update File**</span>.
-
-<!-- <p><img src="/static/images/tag-manager/base-template-publish.jpg" alt="CMS publish button" style="width: 28%;"></p> -->
 
 {% endtab %}
 {% tab title="Drupal" %}
