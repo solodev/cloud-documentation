@@ -72,10 +72,78 @@ Tag management made easy. Google Tag Manager delivers simple, reliable, easily i
 
 {% endtab %}
 {% tab title="WordPress" %}
-Coming soon...
+
+<h3 style="margin-top: 0;"><span class="text-teal" style="margin-top: 0;">Copy snippet in head tag</span></h3>
+
+1. Copy the first code snippet.
+
+<p><img src="/static/images/tag-manager/analytics-first-code-snippet.jpg" alt="GTM snippet code" style="width: 50%;"></p>
+
+2. Log in to your **WordPress Dashboard**.
+
+3. Navigate to **Appearance** and then to **Theme File Editor**.
+
+<!-- <p><img src="/static/images/tag-manager/analytics-cms-update-website.jpg" alt="Update Website CMS" style="width: 40%;"></p> -->
+
+4. Paste the code snippet in the `header.php` file.
+
+<!-- <p><img src="/static/images/tag-manager/analytics-cms-meta-information.jpg" alt="CMS Meta Information Tab" style="width: 40%;"></p> -->
+
+5. Click <span class="text-orange">**Update File**</span>.
+
+<h3 style="margin-top: 0;"><span class="text-teal" style="margin-top: 0;">Copy snippet in body tag</span></h3>
+
+1. Copy the second code snippet.
+
+<p><img src="/static/images/tag-manager/analytics-second-code-snippet.jpg" alt="GTM snippet code" style="width: 50%;"></p>
+
+2. Paste the code snippet in the `footer.php` file. 
+
+!!!Note:
+If your website does not have a `header.php`, paste the code in the `footer.php` immediately after the opening <body> tag.
+!!!
+
+<!-- <p><img src="/static/images/tag-manager/analytics-base-template.jpg" alt="CMS base template with analytics snippet" style="width: 60%;"></p> -->
+
+3. Click <span class="text-orange">**Update File**</span>.
+
+<!-- <p><img src="/static/images/tag-manager/base-template-publish.jpg" alt="CMS publish button" style="width: 28%;"></p> -->
+
 {% endtab %}
 {% tab title="Drupal" %}
-Coming soon...
+
+<h3 style="margin-top: 0;"><span class="text-teal" style="margin-top: 0;">Copy snippet in head tag</span></h3>
+
+1. Copy the first code snippet.
+
+<p><img src="/static/images/tag-manager/analytics-first-code-snippet.jpg" alt="GTM snippet code" style="width: 50%;"></p>
+
+2. Log in to your **Drupal Admin Dashboard**.
+
+3. Navigate to **Admin** and then to **Appearance** to find your active theme.
+
+<!-- <p><img src="/static/images/tag-manager/analytics-cms-update-website.jpg" alt="Update Website CMS" style="width: 40%;"></p> -->
+
+4. Find the `html.html.twig` file in your active theme directory (e.g., /themes/custom/[your-theme-name]/templates/).
+
+!!!Note:
+If it doesn’t exist, you may need to create one or copy it from the core or base theme.
+!!!
+
+5. Paste the code snippet in the `html.html.twig` file immediately before the closing `</head>` tag.
+
+<!-- <p><img src="/static/images/tag-manager/analytics-cms-meta-information.jpg" alt="CMS Meta Information Tab" style="width: 40%;"></p> -->
+
+<h3 style="margin-top: 0;"><span class="text-teal" style="margin-top: 0;">Copy snippet in body tag</span></h3>
+
+1. Copy the second code snippet.
+
+<p><img src="/static/images/tag-manager/analytics-second-code-snippet.jpg" alt="GTM snippet code" style="width: 50%;"></p>
+
+2. Paste the code snippet in the `html.html.twig` file immediately after the opening `<body>` tag.
+
+3. Clear your Drupal cache by navigating to **Configuration > Performance** and clicking <span class="text-orange">**Clear All Caches**</span>.
+
 {% endtab %}
 
 {% endtabs %}
