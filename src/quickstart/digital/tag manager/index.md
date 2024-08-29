@@ -38,19 +38,19 @@ Tag management made easy. Google Tag Manager delivers simple, reliable, easily i
 
 2. Navigate to the CMS and select the website where you want to add GTM to.
 
-2. Click on **Update Website**.
+3. Click on **Update Website**.
 
 <p><img src="/static/images/tag-manager/analytics-cms-update-website.jpg" alt="Update Website CMS" style="width: 40%;"></p>
 
-3. Navigate to the **Meta Information** tab.
+4. Navigate to the **Meta Information** tab.
 
 <p><img src="/static/images/tag-manager/analytics-cms-meta-information.jpg" alt="CMS Meta Information Tab" style="width: 40%;"></p>
 
-4. Paste the code snippet on the **Global Header Insert** textarea.
+5. Paste the code snippet on the **Global Header Insert** textarea.
 
 <p><img src="/static/images/tag-manager/analytics-cms-global-header.jpg" alt="CMS Global Header Insert Textarea" style="width: 40%;"></p>
 
-5. Click <span class="text-orange">**Submit**</span>.
+6. Click <span class="text-orange">**Submit**</span>.
 
 <h3 style="margin-top: 0;"><span class="text-teal" style="margin-top: 0;">Copy snippet in body tag</span></h3>
 
