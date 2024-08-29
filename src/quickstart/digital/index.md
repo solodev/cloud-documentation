@@ -35,6 +35,22 @@
       <p style="margin-bottom: 10px;"><a href="/quickstart/digital/ads">INSTALL</a></p>
     </div>
   </div>
+  <div class="col">
+    <div class="card text-center">
+      <img src="/static/images/logos/customerio-logo.png" alt="Customer.io Logo">
+      <h3>Customer.io</h3>
+      <p class="content">Send data-driven emails, SMS, and push notifications with total control</p>
+      <p style="margin-bottom: 10px;"><a href="/quickstart/digital/customer.io">INSTALL</a></p>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card text-center">
+      <img src="/static/images/logos/swiftype-logo.png" alt="Swiftype Logo">
+      <h3>Swiftype</h3>
+      <p class="content">Create custom search experiences to drive sales and conversions</p>
+      <p style="margin-bottom: 10px;"><a href="/quickstart/digital/swiftype">INSTALL</a></p>
+    </div>
+  </div>
 </div>
 
 <style>
