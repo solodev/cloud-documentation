@@ -13,6 +13,37 @@
 
 With Customer.io, you can craft and send data-driven emails, push notifications, and SMS messages with flexible data integrations, powerful segmentation, and automation workflows.
 
+## Prerequisites
+- Preexisting [website](https://cms.solodev.net/workspace/websites/).
+
+## Installation
+
+1. Go to **Customer.io** and login to your account. If you don't have one, [create a new account](https://fly.customer.io/signup/).
+
+2. Go to **Integrations** in the left-hand menu.
+
+3. Under **Tracking**, find the JavaScript snippet.
+
+4. Copy the code snippet provided.
+
+<!-- <p><img src="/static/images/swiftype/swiftype-snippet.jpg" alt="Swiftype code snippet" style="width: 55%;"></p> -->
+
+5. Go to **Google Tag Manager** and log in.
+
+6. Select the container for the website where you want to add Swiftype.
+
+7. Click on **"Tags"** in the left sidebar.
+
+8. Then, click the **New** button to create a new tag.
+
+9. Name your tag something descriptive, like "Customer.io Tracking".
+
+10. Choose **Tag Configuration** and select **Custom HTML**.
+
+11. Paste the Swiftype snippet.
+
+12. Click on **"Triggering"**. Select **All Pages** if you want the search script to be available on every page of your website.
+
 <style>
   /* Headers */
   .header {
