@@ -21,6 +21,14 @@
   </div>
   <div class="col">
     <div class="card text-center">
+      <img src="/static/images/logos/search-console-logo.svg" alt="Search Console Logo">
+      <h3>Search Console</h3>
+      <p class="content">Make your site shine in Google Search results</p>
+      <p style="margin-bottom: 10px;"><a href="/quickstart/digital/search-console/">INSTALL</a></p>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card text-center">
       <img src="/static/images/logos/analytics-logo.jpg" alt="Analytics Logo">
       <h3>Analytics</h3>
       <p class="content">Analyze your website data with the world's leading analytics platform</p>
@@ -45,7 +53,7 @@
   </div>
   <div class="col">
     <div class="card text-center">
-      <img src="/static/images/logos/swiftype-logo.png" alt="Swiftype Logo">
+      <img src="/static/images/logos/swiftype-logo.svg" alt="Swiftype Logo">
       <h3>Swiftype</h3>
       <p class="content">Create custom search experiences to drive sales and conversions</p>
       <p style="margin-bottom: 10px;"><a href="/quickstart/digital/swiftype">INSTALL</a></p>
