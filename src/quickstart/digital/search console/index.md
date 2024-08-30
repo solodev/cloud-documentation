@@ -96,7 +96,6 @@ Choose this option to add a TXT record to your domain's DNS settings.
 
 {% endtabs %}
 
-
 <style>
   /* Headers */
   .header {

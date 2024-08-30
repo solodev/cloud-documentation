@@ -21,29 +21,58 @@ Measure your website traffic and evaluate the performance of your marketing, con
 
 1. Go to **Google Analytics** and login to your account. If you don't have one, [create a new account](https://analytics.google.com/).
 
-2. Set up a property for your website and obtain your **Google Analytics Measurement ID** (for GA4, it starts with "G-").
+2. Create a property for your website by following the steps provided.
 
-3. Go to **Google Tag Manager** and log in.
+<p><img src="/static/images/analytics/analytics-create-property.jpg" alt="Analytics create a property" style="width: 50%;"></p>
 
-4. Select the container for the website where you want to add Google Analytics.
+3. Set up your web stream.
 
-5. Click on **"Tags"** in the left sidebar.
+<p><img src="/static/images/analytics/analytics-web-stream.jpg" alt="Analytics web stream" style="width: 75%;"></p>
 
-6. Then, click the **New** button to create a new tag.
+4. Click **Create & continue**.
 
-7. Name your tag something descriptive, like "GA4 Configuration".
+5. Obtain your **Google Analytics Measurement ID** (for GA4, it starts with "G-") by clicking on your property.
 
-8. Choose **Tag Configuration** and select **Google Analytics: GA4 Configuration**.
+<p><img src="/static/images/analytics/analytics-measurement-id.jpg" alt="Analytics Measurement ID" style="width: 60%;"></p>
 
-9. Paste your Google Analytics Measurement ID (e.g., G-XXXXXXX) into the appropriate field.
+{% tabs %}
 
-10. Click on **"Triggering"**. Choose **"All Pages"** as the trigger to fire this tag on every page of your website.
+{% tab title="Tag Manager" %}
 
-11. Click <span class="text-orange">**Save**</span>
+1. Go to **Google Tag Manager** and log in.
 
-12. Use the [**"Preview"** mode](https://support.google.com/tagmanager/answer/6107056) in Google Tag Manager to check if the tags are firing correctly, or use the Google Tag Assistant extension in your browser to verify the installation.
+2. Select the container for the website where you want to add Google Analytics.
 
-13. Click <span class="text-orange">**Publish**</span>.
+3. Click on **"Tags"** in the left sidebar.
+
+4. Then, click the **New** button to create a new tag.
+
+5. Name your tag something descriptive, like "GA4 Configuration".
+
+6. Choose **Tag Configuration** and select **Google Analytics: GA4 Configuration**.
+
+7. Paste your Google Analytics Measurement ID (e.g., G-XXXXXXX) into the appropriate field.
+
+8. Click on **"Triggering"**. Choose **"All Pages"** as the trigger to fire this tag on every page of your website.
+
+9. Click <span class="text-orange">**Save**</span>.
+
+10. Use the [**"Preview"** mode](https://support.google.com/tagmanager/answer/6107056) in Google Tag Manager to check if the tags are firing correctly, or use the Google Tag Assistant extension in your browser to verify the installation.
+
+11. Click <span class="text-orange">**Publish**</span>.
+
+{% endtab %}
+{% tab title="Manual" %}
+
+1. Copy the code snippet provided.
+
+<p><img src="/static/images/analytics/analytics-code-snippet.jpg" alt="Analytics code snippet" style="width: 80%;"></p>
+
+2. Paste it on every page of your website, immediately after the `<head>` element.
+
+{% endtab %}
+
+{% endtabs %}
 
 <style>
   /* Headers */
