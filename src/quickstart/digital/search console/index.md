@@ -20,23 +20,27 @@ Google Search Console offers tools and reports to help you measure your site's s
 
 1. Go to **Google Search Console** and login to your account. If you don't have one, [create a new account](https://search.google.com/).
 
-2. Click on the **Start now** button to add a new site, or **Add Property** if you already have other sites.
+2. Click on the **Start now** button to add a new site, or **Add property** if you already have other sites.
 
-3. Choose the **Domain** option for full domain coverage (including subdomains and protocols).
+<p><img src="/static/images/console/console-add-property.jpg" alt="Google Search Console add property" style="width: 30%;"></p>
 
-4. Choose the **URL Prefix** option to track only a specific URL prefix (like https://www.example.com).
+3. Choose the **Domain** option for full domain coverage (including subdomains and protocols) or choose the **URL Prefix** option to track only a specific URL prefix (like `https://www.example.com`).
 
-5. Verify your website ownership.
+<p><img src="/static/images/console/console-choose-domain.jpg" alt="Google Search options" style="width: 54%;"></p>
+
+4. Verify your website ownership.
 
 {% tabs %}
 
-{% tab title="HTML File Upload" %}
+{% tab title="HTML File" %}
 
 1. Download the HTML verification file provided.
 
 2. Upload this file to the root directory of your website.
 
-3. Click **Verify** in Google Search Console.
+<p><img src="/static/images/console/console-html-file-verification.jpg" alt="Google Search Console HTML File Record" style="width: 40%;"></p>
+
+3. Click **Verify**.
 
 {% endtab %}
 {% tab title="HTML Tag" %}
@@ -45,13 +49,17 @@ Google Search Console offers tools and reports to help you measure your site's s
 
 2. Paste it into the `<head>` section of your homepage HTML.
 
-3. Click **Verify** in Google Search Console.
+<p><img src="/static/images/console/console-html-tag-verification.jpg" alt="Google Search Console HTML Tag Record" style="width: 40%;"></p>
+
+3. Click **Verify**.
 
 {% endtab %}
 {% tab title="Google Analytics" %}
 Use this method if you have Google Analytics installed on your website.
 
 1. Select this method in Search Console.
+
+<p><img src="/static/images/console/console-analytics-verification.jpg" alt="Google Search Console HTML Tag Record" style="width: 40%;"></p>
 
 2. Click **Verify**.
 
@@ -66,6 +74,8 @@ Use this method if you have Google Tag Manager (GTM) installed on your website.
 
 1. Select this method in Search Console.
 
+<p><img src="/static/images/console/console-tag-manager-verification.jpg" alt="Google Search Console HTML Tag Record" style="width: 50%;"></p>
+
 2. Click **Verify**.
 
 !!!Note:
@@ -78,7 +88,10 @@ Choose this option to add a TXT record to your domain's DNS settings.
 
 1. Follow the instructions provided by Google to add the record through your domain registrar or DNS provider.
 
-2. Click **Verify** in Google Search Console.
+<p><img src="/static/images/console/console-dns-verification.jpg" alt="Google Search Console DNS Record" style="width: 40%;"></p>
+
+2. Click **Verify**.
+
 {% endtab %}
 
 {% endtabs %}
