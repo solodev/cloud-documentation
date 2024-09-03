@@ -67,13 +67,17 @@ Fast, relevant and powerful search experience for your website or custom applica
 
 5. Then, click the **New** button to create a new tag.
 
-6. Name your tag something descriptive, like "Swiftype Search Integration".
+<p><img src="/static/images/tag-manager/gtm-new-tag.jpg" alt="Google Tag Manager New Tag" style="width: 60%;"></p>
+
+6. Name your tag something descriptive, like **"Swiftype Search Integration"**.
 
 7. Choose **Tag Configuration** and select **Custom HTML**.
 
 8. Paste the Swiftype snippet.
 
 9. Click on **"Triggering"**. Select **All Pages** if you want the search script to be available on every page of your website.
+
+<p><img src="/static/images/tag-manager/gtm-new-tag-all-pages.jpg" alt="Google Tag Manager All Pages Trigger" style="width: 60%;"></p>
 
 !!!Note:
 Alternatively, you can choose a specific trigger, like only firing on a particular page (e.g., a search results page).
@@ -82,6 +86,8 @@ Alternatively, you can choose a specific trigger, like only firing on a particul
 10. Click <span class="text-orange">**Save**</span>.
 
 11. Use the [**"Preview"** mode](https://support.google.com/tagmanager/answer/6107056) in Google Tag Manager to check if the tags are firing correctly, or use the Google Tag Assistant extension in your browser to verify the installation.
+
+<p><img src="/static/images/tag-manager/gtm-preview.jpg" alt="Google Tag Manager Preview" style="width: 32%;"></p>
 
 12. Click <span class="text-orange">**Publish**</span>.
 

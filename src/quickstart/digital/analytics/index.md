@@ -47,17 +47,25 @@ Measure your website traffic and evaluate the performance of your marketing, con
 
 4. Then, click the **New** button to create a new tag.
 
-5. Name your tag something descriptive, like "GA4 Configuration".
+<p><img src="/static/images/tag-manager/gtm-new-tag.jpg" alt="Google Tag Manager New Tag" style="width: 60%;"></p>
 
-6. Choose **Tag Configuration** and select **Google Analytics: GA4 Configuration**.
+5. Name your tag something descriptive, like **"GA4 Configuration"**.
+
+6. Choose **Tag Configuration** and select **Google Tag**.
 
 7. Paste your Google Analytics Measurement ID (e.g., G-XXXXXXX) into the appropriate field.
 
+<p><img src="/static/images/tag-manager/gtm-new-tag-id.jpg" alt="Google Tag Manager New Tag ID" style="width: 60%;"></p>
+
 8. Click on **"Triggering"**. Choose **"All Pages"** as the trigger to fire this tag on every page of your website.
+
+<p><img src="/static/images/tag-manager/gtm-new-tag-all-pages.jpg" alt="Google Tag Manager All Pages Trigger" style="width: 60%;"></p>
 
 9. Click <span class="text-orange">**Save**</span>.
 
 10. Use the [**"Preview"** mode](https://support.google.com/tagmanager/answer/6107056) in Google Tag Manager to check if the tags are firing correctly, or use the Google Tag Assistant extension in your browser to verify the installation.
+
+<p><img src="/static/images/tag-manager/gtm-preview.jpg" alt="Google Tag Manager Preview" style="width: 32%;"></p>
 
 11. Click <span class="text-orange">**Publish**</span>.
 

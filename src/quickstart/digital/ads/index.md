@@ -26,9 +26,13 @@ Google is where people search for what to do, where to go, and what to buy. Your
 {% tabs %}
 
 {% tab title="Conversion" %}
-1. Go to **Tools & Settings** > **Measurement** > **Conversions**.
+1. Go to **Goals** > **Conversions** > **Summary**.
 
-2. Click on **New Conversion Action** and select the type (e.g., Website, App).
+<p><img src="/static/images/ads/ads-goals-nav.jpg" alt="Google Ads Left Nav" style="width: 26%;"></p>
+
+2. Click on **Create conversion action** and select the type (e.g., Website, App).
+
+<p><img src="/static/images/ads/ads-conversion-action.jpg" alt="Google Ads Create conversion action" style="width: 26%;"></p>
 
 3. Follow the steps to create a conversion action, and copy the **Conversion ID** and **Conversion Label** that are provided.
 
@@ -40,21 +44,31 @@ Google is where people search for what to do, where to go, and what to buy. Your
 
 7. Then, click the **New** button to create a new tag.
 
+<p><img src="/static/images/tag-manager/gtm-new-tag.jpg" alt="Google Tag Manager New Tag" style="width: 60%;"></p>
+
 8. Name your tag something descriptive, like "Google Ads Conversion Tracking".
 
 9. Choose **Tag Configuration** and select **Google Ads Conversion Tracking**.
+
+<p><img src="/static/images/tag-manager/gtm-new-tag-ads-conversion.jpg" alt="Google Tag Manager New Tag - Google Ads Conversion Tracking" style="width: 60%;"></p>
 
 10. Enter the Conversion ID and Conversion Label you obtained from Google Ads.
 
 11. Click on **"Triggering"**. Choose a specific trigger like **Thank You** page or any page that represents a completed conversion.
 
+<p><img src="/static/images/tag-manager/gtm-new-tag-page-view.jpg" alt="Google Tag Manager Page View Trigger" style="width: 60%;"></p>
+
 12. Click <span class="text-orange">**Save**</span>.
 
 {% endtab %}
 {% tab title="Remarketing" %}
-1. Go to **Tools & Settings** > **Shared Library** > **Audience Manager**.
+1. Go to **Tools** > **Shared Library** > **Audience Manager**.
 
-2. Click on **Audience Sources**, find Google Ads Tag, and set up the tag if needed.
+<p><img src="/static/images/ads/ads-tools-nav.jpg" alt="Google Ads Left Nav" style="width: 26%;"></p>
+
+2. Click on **Set Up Audience Source**, find Google Ads Tag, and set up the tag.
+
+<p><img src="/static/images/ads/ads-audience-source.jpg" alt="Google Ads Set Up Audience Source" style="width: 40%;"></p>
 
 3. Copy the **Conversion ID** for the remarketing tag.
 
@@ -66,13 +80,19 @@ Google is where people search for what to do, where to go, and what to buy. Your
 
 7. Then, click the **New** button to create a new tag.
 
-8. Name your tag something descriptive, like "Google Ads Remarketing".
+<p><img src="/static/images/tag-manager/gtm-new-tag.jpg" alt="Google Tag Manager New Tag" style="width: 60%;"></p>
+
+8. Name your tag something descriptive, like **"Google Ads Remarketing"**.
 
 9. Choose **Tag Configuration** and select **Google Ads Remarketing**.
+
+<p><img src="/static/images/tag-manager/gtm-new-tag-ads-remarketing.jpg" alt="Google Tag Manager New Tag - Google Ads Remarketing" style="width: 60%;"></p>
 
 10. Enter the Conversion ID you obtained from Google Ads.
 
 11. Click on **"Triggering"**. Choose **"All Pages"** as the trigger to fire this tag on every page of your website.
+
+<p><img src="/static/images/tag-manager/gtm-new-tag-all-pages.jpg" alt="Google Tag Manager All Pages Trigger" style="width: 60%;"></p>
 
 12. Click <span class="text-orange">**Save**</span>.
 {% endtab %}
@@ -80,6 +100,8 @@ Google is where people search for what to do, where to go, and what to buy. Your
 {% endtabs %}
 
 3. Use the [**"Preview"** mode](https://support.google.com/tagmanager/answer/6107056) in Google Tag Manager to check if the tags are firing correctly, or use the Google Tag Assistant extension in your browser to verify the installation.
+
+<p><img src="/static/images/tag-manager/gtm-preview.jpg" alt="Google Tag Manager Preview" style="width: 32%;"></p>
 
 4. Click <span class="text-orange">**Publish**</span>.
 

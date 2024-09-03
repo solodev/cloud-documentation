@@ -20,13 +20,15 @@ With Customer.io, you can craft and send data-driven emails, push notifications,
 
 1. Go to **Customer.io** and login to your account. If you don't have one, [create a new account](https://fly.customer.io/signup/).
 
-2. Go to **Integrations** in the left-hand menu.
+2. Go to **Data & Integrations** and click on **Integrations** in the left-hand menu.
 
-3. Under **Tracking**, find the JavaScript snippet.
+<p><img src="/static/images/customerio/cio-left-nav.jpg" alt="Customer.io Left Nav" style="width: 16%;"></p>
+
+3. Under **Customer.io API**, find the JavaScript snippet.
 
 4. Copy the code snippet provided.
 
-<!-- <p><img src="/static/images/swiftype/swiftype-snippet.jpg" alt="Swiftype code snippet" style="width: 55%;"></p> -->
+<p><img src="/static/images/customerio/cio-js-snippet.jpg" alt="Customer.io JavaScript snippet" style="width: 50%;"></p>
 
 5. Go to **Google Tag Manager** and log in.
 
@@ -36,13 +38,19 @@ With Customer.io, you can craft and send data-driven emails, push notifications,
 
 8. Then, click the **New** button to create a new tag.
 
-9. Name your tag something descriptive, like "Customer.io Tracking".
+<p><img src="/static/images/tag-manager/gtm-new-tag.jpg" alt="Google Tag Manager New Tag" style="width: 60%;"></p>
+
+9. Name your tag something descriptive, like **"Customer.io Tracking"**.
 
 10. Choose **Tag Configuration** and select **Custom HTML**.
 
-11. Paste the Swiftype snippet.
+<p><img src="/static/images/customerio/gtm-custom-html.jpg" alt="Google Tag Manager Custom HTML" style="width: 60%;"></p>
+
+11. Paste the Customer.io snippet.
 
 12. Click on **"Triggering"**. Select **All Pages** if you want the search script to be available on every page of your website.
+
+<p><img src="/static/images/tag-manager/gtm-new-tag-all-pages.jpg" alt="Google Tag Manager All Pages Trigger" style="width: 60%;"></p>
 
 <style>
   /* Headers */
