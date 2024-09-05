@@ -44,6 +44,22 @@ A Content Delivery Network (CDN) is a network of servers spread out across diffe
   </div>
 </div>
 
+<div class="card-lg" style="margin-bottom: 1.5rem;">
+  <div style="display: flex; align-items: center; justify-content: start;">
+    <div style="width: 120px;">
+      <img src="/static/images/logos/cdn.png" alt="Drupal CDN Logo" style="width: 100%;">
+    </div>
+    <div style="margin-left: 30px; width: 80%;">
+      <h2>Drupal CDN</h2>
+      <p style="font-size: .9rem;"><strong>Prerequisites:</strong> you need a <a href="https://console.aws.amazon.com/acm/" target="_blank">certificate</a> with the name of site you are trying to launch <br>and have an existing <a href="/quickstart/cms/drupal" target="_blank">Drupal</a>.</p>
+      <p class="mt-2">Speed up content delivery and improve performance.</p>
+    </div>
+  </div>
+  <div>
+    <a href="https://us-east-1.console.aws.amazon.com/cloudformation/home?region=us-east-1#/stacks/create?stackName=cms-cdn&templateURL=https://s3.amazonaws.com/drupal-release/cloudformation/cloudfront-drupal.yaml" class="btn-orange-lg" target="_blank">LAUNCH <img src="/static/images/icons/circle-play-solid.svg" style="width: 16px; margin-left: 1rem;"></a>
+  </div>
+</div>
+
 <style>
   .card-lg {
     border: 1px solid #dee2e6;

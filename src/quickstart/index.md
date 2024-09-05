@@ -28,6 +28,14 @@ Built from the ground up to leverage the power of AWS services, Solodev is a clo
       <p style="margin-bottom: 10px;"><a href="/quickstart/cms">ACCESS</a></p>
     </div>
   </div>
+  <div class="col">
+    <div class="card text-center">
+      <img src="/static/images/icons/icon-digital.svg" alt="Digital icon">
+      <h2>Digital</h2>
+      <p class="content">Manage SSO, martech, and commerce apps.</p>
+      <p style="margin-bottom: 10px;"><a href="/quickstart/digital">ACCESS</a></p>
+    </div>
+  </div>
 </div>
 
 <p class="text-center" style="margin-top: 2.5rem;">Enterprise-class software. Best-of-breed capabilities. World-class cloud hosting. It’s all here – and it’s all yours – with Solodev.</p>

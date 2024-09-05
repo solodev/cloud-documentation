@@ -23,6 +23,14 @@ Solodev Cloud is the best-of-breed cloud-based solution for almost anything you 
       <p style="margin-bottom: 10px;"><a href="/quickstart/cms">ACCESS</a></p>
     </div>
   </div>
+  <div class="col">
+    <div class="card text-center">
+      <img src="/static/images/icons/icon-digital.svg" alt="Digital icon">
+      <h2>Digital</h2>
+      <p class="content">Manage SSO, martech, and commerce apps.</p>
+      <p style="margin-bottom: 10px;"><a href="/quickstart/digital">ACCESS</a></p>
+    </div>
+  </div>
 </div>
 
 !!!Tip:
