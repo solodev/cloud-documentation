@@ -47,7 +47,7 @@ A Content Delivery Network (CDN) is a network of servers spread out across diffe
 <div class="card-lg" style="margin-bottom: 1.5rem;">
   <div style="display: flex; align-items: center; justify-content: start;">
     <div style="width: 120px;">
-      <img src="/static/images/icons/drupal-cdn.jpg" alt="Drupal CDN Logo" style="width: 100%;">
+      <img src="/static/images/logos/drupal-cdn.jpg" alt="Drupal CDN Logo" style="width: 100%;">
     </div>
     <div style="margin-left: 30px; width: 80%;">
       <h2>Drupal CDN</h2>
