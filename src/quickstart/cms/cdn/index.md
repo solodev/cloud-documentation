@@ -20,7 +20,7 @@ A Content Delivery Network (CDN) is a network of servers spread out across diffe
     <div style="margin-left: 30px; width: 80%;">
       <h2>CMS CDN</h2>
       <p style="font-size: .9rem;"><strong>Prerequisites:</strong> you need a <a href="https://console.aws.amazon.com/acm/" target="_blank">certificate</a> with the name of site you are trying to launch <br>and have an existing <a href="/quickstart/cms/solodev-cms" target="_blank">CMS</a>.</p>
-      <p class="mt-2">Enhance the performance of your CMS and speed up load times.</p>
+      <p class="mt-2" style="margin-bottom: 0;">Enhance the performance of your CMS and speed up load times.</p>
     </div>
   </div>
   <div>
@@ -36,7 +36,7 @@ A Content Delivery Network (CDN) is a network of servers spread out across diffe
     <div style="margin-left: 30px; width: 80%;">
       <h2>WordPress CDN</h2>
       <p style="font-size: .9rem;"><strong>Prerequisites:</strong> you need a <a href="https://console.aws.amazon.com/acm/" target="_blank">certificate</a> with the name of site you are trying to launch <br>and have an existing <a href="/quickstart/cms/wordpress" target="_blank">WordPress</a>.</p>
-      <p class="mt-2">Boost your site's speed by delivering content from servers near your visitors.</p>
+      <p class="mt-2" style="margin-bottom: 0;">Boost your site's speed by delivering content from servers near your visitors.</p>
     </div>
   </div>
   <div>
@@ -47,12 +47,12 @@ A Content Delivery Network (CDN) is a network of servers spread out across diffe
 <div class="card-lg" style="margin-bottom: 1.5rem;">
   <div style="display: flex; align-items: center; justify-content: start;">
     <div style="width: 120px;">
-      <img src="/static/images/logos/cdn.png" alt="Drupal CDN Logo" style="width: 100%;">
+      <img src="/static/images/icons/drupal-cdn.jpg" alt="Drupal CDN Logo" style="width: 100%;">
     </div>
     <div style="margin-left: 30px; width: 80%;">
       <h2>Drupal CDN</h2>
       <p style="font-size: .9rem;"><strong>Prerequisites:</strong> you need a <a href="https://console.aws.amazon.com/acm/" target="_blank">certificate</a> with the name of site you are trying to launch <br>and have an existing <a href="/quickstart/cms/drupal" target="_blank">Drupal</a>.</p>
-      <p class="mt-2">Speed up content delivery and improve performance.</p>
+      <p class="mt-2" style="margin-bottom: 0;">Speed up content delivery and improve performance.</p>
     </div>
   </div>
   <div>
