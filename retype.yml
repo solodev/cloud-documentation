@@ -27,6 +27,10 @@ links:
 - text: CMS
   link: https://cms.solodev.net/
   icon: container
+- text: Digital
+  link: https://www.solodev.com/platform/digital.stml
+  target: _blank
+  icon: "/static/images/icons/icon-digital-blue.svg"
 
 footer:
   copyright: "&copy; Copyright {{ year }}. All rights reserved."
