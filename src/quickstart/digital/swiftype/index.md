@@ -95,6 +95,16 @@ Alternatively, you can choose a specific trigger, like only firing on a particul
 
 {% endtabs %}
 
+9. Go to the HTML where you have your search form.
+
+10. On the input field, add the following class: `st-default-search-input`.
+
+```js
+<form>
+  <input type="text" class="st-default-search-input" />
+</form>
+```
+
 <style>
   /* Headers */
   .header {
