@@ -11,6 +11,9 @@ h3 .text-teal {
   display: block;
 }
 /* Colors */
+.text-blue {
+  color: #0488ce;
+}
 .text-orange {
   color: #e08902;
 }

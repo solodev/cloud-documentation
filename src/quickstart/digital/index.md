@@ -59,6 +59,14 @@
       <p style="margin-bottom: 10px;"><a href="/quickstart/digital/swiftype">INSTALL</a></p>
     </div>
   </div>
+  <div class="col">
+    <div class="card text-center">
+      <img src="/static/images/logos/recaptcha-logo.png" alt="reCAPTCHA Logo">
+      <h3>reCAPTCHA</h3>
+      <p class="content">Security service developed by Google to protect websites from spam and abuse</p>
+      <p style="margin-bottom: 10px;"><a href="/quickstart/digital/recaptcha">INSTALL</a></p>
+    </div>
+  </div>
 </div>
 
 <style>
