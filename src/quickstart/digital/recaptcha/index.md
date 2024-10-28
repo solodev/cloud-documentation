@@ -22,7 +22,11 @@ reCAPTCHA uses advanced algorithms and behavioral analysis to distinguish betwee
 
 2. Click the plus icon to **Create** a new project.
 
-3. Enter a label for your project. 
+<p><img src="/static/images/recaptcha/recaptcha-create.jpg" alt="reCAPTCHA create" style="width: 20%;"></p>
+
+3. Enter a label for your project.
+
+<p><img src="/static/images/recaptcha/recaptcha-project-form.jpg" alt="reCAPTCHA form" style="width: 35%;"></p>
 
 4. Select **"Score Based (v3)"** as the reCAPTCHA type.
 
@@ -30,9 +34,13 @@ reCAPTCHA uses advanced algorithms and behavioral analysis to distinguish betwee
 
 6. Click <span class="text-blue">**Submit**</span>.
 
-7. On the next screen, copy and save the **Site Key** and **Secret Key** for future use.
+### Site and Secret Keys
 
-<!-- <p><img src="/static/images/swiftype/swiftype-install-search.jpg" alt="Swiftype Install Search" style="width: 20%;"></p> -->
+1. On the next screen, copy and save the **Site Key** and **Secret Key** for future use.
+
+<p><img src="/static/images/recaptcha/recaptcha-keys.jpg" alt="reCAPTCHA keys" style="width: 50%;"></p>
+
+### Setup on CMS
 
 {% tabs %}
 
