@@ -77,7 +77,9 @@ To enable reCAPTCHA on your form:
 3. On the Modify modal, open the Advanced Accordion.
 
 4. Click the **"Enable reCAPTCHA"** checkbox.
- 
+
+<img src="/static/images/recaptcha/solodev-form-modify-advanced.jpg" alt="Solodev CMS Form Modify Advanced" style="width: 50%; margin-bottom: 1rem; display: block;">
+
 5. Click <span class="text-blue">**Submit**</span>.
 
 6. Go to your form code and add the following shortcode:
