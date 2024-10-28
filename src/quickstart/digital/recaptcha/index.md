@@ -48,9 +48,15 @@ reCAPTCHA uses advanced algorithms and behavioral analysis to distinguish betwee
 
 1. Log in to **Solodev CMS**.
 
+<img src="/static/images/quickstart/login-screen.jpg" alt="Solodev CMS Login Screen" style="width: 50%;">
+
 2. From the left navigation, go to **Settings** and then **Config**.
 
+<img src="/static/images/recaptcha/solodev-config-left-nav.jpg" alt="Solodev CMS Config Left Nav" style="width: 14%; margin-bottom: 1rem;">
+
 3. Open the **Google** Accordion.
+
+<img src="/static/images/recaptcha/solodev-recaptcha-keys.jpg" alt="Solodev CMS Config reCAPTCHA" style="width: 90%; margin-bottom: 1rem;">
 
 4. Paste the **Site** and **Secret Keys** you previously received.
 
@@ -66,11 +72,23 @@ To enable reCAPTCHA on your form:
 
 2. Click **Modify** on the actions bar.
 
+<img src="/static/images/recaptcha/solodev-form-modify.jpg" alt="Solodev CMS Form Modify" style="width: 60%; margin-bottom: 1rem;">
+
 3. On the Modify modal, open the Advanced Accordion.
 
 4. Click the **"Enable reCAPTCHA"** checkbox.
  
 5. Click <span class="text-blue">**Submit**</span>.
+
+6. Go to your form code and add the following shortcode:
+
+```js
+[recaptcha id="1"]
+```
+
+!!!Note:
+Update the ID number with your ID form.
+!!!
 
 {% endtab %}
 
