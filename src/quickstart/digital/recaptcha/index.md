@@ -65,6 +65,10 @@ Before installing reCAPTCHA, you will need a Google Account to set up your billi
 
 6. Click <span class="text-blue">**Submit**</span>.
 
+!!!Note: 
+If you are working with a third party to help set up your reCAPTCHA, you will need to obtain an admin email address from the vendor or developer, and add it as an “Owner” to your reCAPTCHA under Domain Settings. Example: **@solodev.com.
+!!!
+
 ### Site and Secret Keys
 
 1. On the next screen, copy and save the **Site Key** and **Secret Key** for future use.
