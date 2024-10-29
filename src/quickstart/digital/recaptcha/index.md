@@ -43,7 +43,7 @@ Before installing reCAPTCHA, you will need a Google Account to set up your billi
 
 <p><img src="/static/images/recaptcha/account-info-1.jpg" alt="Google console Account Information Step 1" style="width: 30%;"></p>
 
-6. Enter your credit card details and save them.
+6. Select your payment method and add your credit card or bank account details. Once completed, click **Submit and Enable Billing**.
 
 <p><img src="/static/images/recaptcha/account-info-2.jpg" alt="Google console Account Information Step 2" style="width: 23%;"></p>
 
