@@ -19,7 +19,7 @@ reCAPTCHA uses advanced algorithms and behavioral analysis to distinguish betwee
 
 ## Billing Information
 
-Before installing reCAPTCHA, you need a Google Account and setup your billing information.
+Before installing reCAPTCHA, you will need a Google Account to set up your billing information.
 
 1. Go to the [Google Cloud Console](https://console.cloud.google.com/). If you don't have a Google Account, [create a new account](https://accounts.google.com/signup).
 
@@ -29,9 +29,23 @@ Before installing reCAPTCHA, you need a Google Account and setup your billing in
 
 <p><img src="/static/images/recaptcha/billing-nav.jpg" alt="Google console navigation" style="width: 23%;"></p>
 
-4. Choose an existing **Billing Account** or create a new one.
+4. Link an existing **Billing Account** or create a new one by clicking **Manage Billing Accounts**.
 
-5. Enter your credit card details and save them.
+<p><img src="/static/images/recaptcha/billing.jpg" alt="Google console billing" style="width: 30%;"></p>
+
+### Manage Billing Accounts
+
+1. Select **Create Account**.
+
+<p><img src="/static/images/recaptcha/create-account.jpg" alt="Google console Create Account" style="width: 30%;"></p>
+
+2. Name your billing account and select your country and click **Agree & Continue**.
+
+<p><img src="/static/images/recaptcha/account-info-1.jpg" alt="Google console Account Information Step 1" style="width: 30%;"></p>
+
+6. Enter your credit card details and save them.
+
+<p><img src="/static/images/recaptcha/account-info-2.jpg" alt="Google console Account Information Step 2" style="width: 23%;"></p>
 
 ## Installation
 
