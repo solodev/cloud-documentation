@@ -15,10 +15,27 @@ reCAPTCHA uses advanced algorithms and behavioral analysis to distinguish betwee
 
 ## Prerequisites
 - Preexisting [website](https://cms.solodev.net/workspace/websites/).
+- Preexisting [Google Account](https://accounts.google.com/).
+
+## Billing Information
+
+Before installing reCAPTCHA, you need a Google Account and setup your billing information.
+
+1. Go to the [Google Cloud Console](https://console.cloud.google.com/). If you don't have a Google Account, [create a new account](https://accounts.google.com/signup).
+
+2. Log in with the Google account associated with your reCAPTCHA project.
+
+3. From the navigation menu, go to **Billing**.
+
+<p><img src="/static/images/recaptcha/billing-nav.jpg" alt="Google console navigation" style="width: 23%;"></p>
+
+4. Choose an existing **Billing Account** or create a new one.
+
+5. Enter your credit card details and save them.
 
 ## Installation
 
-1. Go to **reCAPTCHA** and login to your account. If you don't have one, [create a new account](https://www.google.com/recaptcha/admin).
+1. Go to **reCAPTCHA** and login to your account.
 
 2. Click the plus icon to **Create** a new project.
 
