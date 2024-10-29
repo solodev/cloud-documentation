@@ -16,7 +16,7 @@
       <img src="/static/images/logos/bitcoin-pro.png" alt="Bitcoin Logo">
       <h3>Bitcoin</h3>
       <p class="content">The leading decentralized digital currency for secure, global peer-to-peer transactions</p>
-      <p style="margin-bottom: 10px;"><a href="/quickstart/blockchain/tag-manager/">INSTALL</a></p>
+      <p style="margin-bottom: 10px;"><a href="/quickstart/blockchain/bitcoin/">INSTALL</a></p>
     </div>
   </div>
   <div class="col">
@@ -24,7 +24,7 @@
       <img src="/static/images/logos/litecoin.png" alt="Litecoin Logo">
       <h3>Litecoin</h3>
       <p class="content">A peer-to-peer cryptocurrency with faster transactions and a new blockchain algorithm</p>
-      <p style="margin-bottom: 10px;"><a href="/quickstart/blockchain/search-console/">INSTALL</a></p>
+      <p style="margin-bottom: 10px;"><a href="/quickstart/blockchain/litecoin/">INSTALL</a></p>
     </div>
   </div>
   <div class="col">
@@ -32,7 +32,7 @@
       <img src="/static/images/logos/cardano.png" alt="Cardano Logo">
       <h3>Cardano</h3>
       <p class="content">A blockchain platform focused on security, scalability, and sustainability through research</p>
-      <p style="margin-bottom: 10px;"><a href="/quickstart/blockchain/analytics">INSTALL</a></p>
+      <p style="margin-bottom: 10px;"><a href="/quickstart/blockchain/cardano">INSTALL</a></p>
     </div>
   </div>
 </div>
