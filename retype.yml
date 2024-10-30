@@ -30,11 +30,15 @@ links:
 - text: Blockchain
   link: https://www.solodev.com/platform/blockchain.stml
   target: _blank
-  icon: "/static/images/icons/solodev-developer-icons-thin-blockchain-blue.svg"
+  icon: "/static/images/icons/icon-blockchain-blue.svg"
 - text: Digital
   link: https://www.solodev.com/platform/digital.stml
   target: _blank
   icon: "/static/images/icons/icon-digital-blue.svg"
+- text: Mobile
+  link: https://www.solodev.com/platform/mobile.stml
+  target: _blank
+  icon: "/static/images/icons/icon-mobile-blue.svg"
 
 footer:
   copyright: "&copy; Copyright {{ year }}. All rights reserved."
