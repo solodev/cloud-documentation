@@ -45,6 +45,14 @@ Secure, scalable, and home to the most advanced services, from AI to IoT. Build 
       <p style="margin-bottom: 10px;"><a href="/quickstart/cloud/datadog">INSTALL</a></p>
     </div>
   </div>
+  <div class="col">
+    <div class="card text-center">
+      <img src="/static/images/logos/ses-logo.png" alt="SES Logo">
+      <h3>SES</h3>
+      <p class="content">Flexible, scalable, and cost-effective email service.</p>
+      <p style="margin-bottom: 10px;"><a href="/quickstart/cloud/ses">INSTALL</a></p>
+    </div>
+  </div>
 </div>
 
 <style>
