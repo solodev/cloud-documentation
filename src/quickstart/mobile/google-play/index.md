@@ -4,7 +4,7 @@
   <div class="inner">
     <img src="/static/images/logos/google-play.png" alt="Google Play Logo">
     <div>
-      <h1>Google Play Help Desk</h1>
+      <h1>Play Store Help Desk</h1>
       <p style="padding-left: 2rem; margin-bottom: 0;">Get help with your Android mobile app and Google Play store listing.</p>
     </div>
   </div>
@@ -17,7 +17,6 @@ Play Store Help Desk is fully managed by Solodev, a trusted AWS Advanced Tier Pa
 - **U.S.-based help desk:** Get expert guidance from qualified mobile engineers on issues with your Android app or Google Play Store listing. Available M - F, 8:30 am to 5:00 pm EST.
 - **Store listing support:** Leverage the Play Store Help Desk for assistance with updating or changing policies, graphics, screenshots, or other details. 
 - **Easy-to-use ticketing:** Submit your questions or issues 24/7 via a simple ticketing platform and track your ticket responses via an online portal.
-
 
 <style>
   /* Headers */
