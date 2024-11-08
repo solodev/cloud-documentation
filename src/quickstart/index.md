@@ -36,6 +36,22 @@ Built from the ground up to leverage the power of AWS services, Solodev is a clo
       <p style="margin-bottom: 10px;"><a href="/quickstart/digital">ACCESS</a></p>
     </div>
   </div>
+  <div class="col">
+    <div class="card text-center">
+      <img src="/static/images/icons/icon-blockchain.svg" alt="Blockchain icon">
+      <h2>Blockchain</h2>
+      <p class="content">Enterprise blockchain service with fast, trusted blockchain transactions and optimized for total cost of ownership.</p>
+      <p style="margin-bottom: 10px;"><a href="/quickstart/blockchain">ACCESS</a></p>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card text-center">
+      <img src="/static/images/icons/icon-mobile.svg" alt="Mobile icon">
+      <h2>Mobile</h2>
+      <p class="content">Manage your mobile apps and listings with a cloud-based solution or scale your enterprise strategy.</p>
+      <p style="margin-bottom: 10px;"><a href="/quickstart/mobile">ACCESS</a></p>
+    </div>
+  </div>
 </div>
 
 <p class="text-center" style="margin-top: 2.5rem;">Enterprise-class software. Best-of-breed capabilities. World-class cloud hosting. It’s all here – and it’s all yours – with Solodev.</p>
