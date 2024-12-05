@@ -26,7 +26,11 @@ links:
   icon: cloud
 - text: CMS
   link: https://cms.solodev.net/
-  icon: container
+  icon: cloud
+- text: AI
+  link: https://www.solodev.com/platform/ai.stml
+  target: _blank
+  icon: "/static/images/icons/icon-ai-blue.svg"
 - text: Blockchain
   link: https://www.solodev.com/platform/blockchain.stml
   target: _blank

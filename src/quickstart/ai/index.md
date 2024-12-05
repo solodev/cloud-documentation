@@ -2,45 +2,39 @@
 
 <div class="header">
   <div class="inner">
-    <img src="/static/images/icons/solodev-developer-icons-thin-blockchain.svg" alt="Blockchain Icon">
+    <img src="/static/images/icons/icons-ai.svg" alt="AI Icon">
     <div>
-      <h1>Blockchain</h1>
-      <p style="padding-left: 2rem; margin-bottom: 0;">Enterprise blockchain service with fast, trusted blockchain transactions and optimized for total cost of ownership.</p>
+      <h1>AI</h1>
+      <p style="padding-left: 2rem; margin-bottom: 0;">Deploy with containers and serverless on AWS.</p>
     </div>
   </div>
 </div>
 
+Secure, scalable, and home to the most advanced services, from AI to IoT. Build your future in the cloud with the leading ecosystem for innovation: Amazon Web Services.
+
 <div class="row" style="margin-top: 2.5rem;">
   <div class="col">
     <div class="card text-center">
-      <img src="/static/images/logos/bitcoin-pro.png" alt="Bitcoin Logo">
-      <h3>Bitcoin</h3>
-      <p class="content">The leading decentralized digital currency for secure, global peer-to-peer transactions</p>
-      <p style="margin-bottom: 10px;"><a href="/quickstart/blockchain/bitcoin/">INSTALL</a></p>
+      <img src="/static/images/logos/chatgpt-logo.png" alt="ChatGPT Logo">
+      <h3>ChatGPT</h3>
+      <p class="content">The leading conversational chatbot for natural language applications like answering questions.</p>
+      <p style="margin-bottom: 10px;"><a href="/quickstart/ai/chatgpt">INSTALL</a></p>
     </div>
   </div>
   <div class="col">
     <div class="card text-center">
-      <img src="/static/images/logos/litecoin.png" alt="Litecoin Logo">
-      <h3>Litecoin</h3>
-      <p class="content">A peer-to-peer cryptocurrency with faster transactions and a new blockchain algorithm</p>
-      <p style="margin-bottom: 10px;"><a href="/quickstart/blockchain/litecoin/">INSTALL</a></p>
+      <img src="/static/images/logos/amazonq-logo.png" alt="Amazon Q Logo">
+      <h3>Amazon Q</h3>
+      <p class="content">Workplace AI assistant using Amazon Titan and GPT to automate tasks like coding, data analysis, and more.</p>
+      <p style="margin-bottom: 10px;"><a href="/quickstart/ai/amazon-q">INSTALL</a></p>
     </div>
   </div>
   <div class="col">
     <div class="card text-center">
-      <img src="/static/images/logos/cardano.png" alt="Cardano Logo">
-      <h3>Cardano</h3>
-      <p class="content">A blockchain platform focused on security, scalability, and sustainability through research</p>
-      <p style="margin-bottom: 10px;"><a href="/quickstart/blockchain/cardano">INSTALL</a></p>
-    </div>
-  </div>
-  <div class="col">
-    <div class="card text-center">
-      <img src="/static/images/logos/dogecoin-icon.png" alt="Dogecoin Logo">
-      <h3>Dogecoin</h3>
-      <p class="content">A decentralized cryptocurrency featuring fast, low-cost transactions</p>
-      <p style="margin-bottom: 10px;"><a href="/quickstart/blockchain/dogecoin">INSTALL</a></p>
+      <img src="/static/images/logos/gronk-logo.png" alt="Gronk Logo">
+      <h3>Gronk</h3>
+      <p class="content">Provides real-time responses while integrating with the X platform to access live information.</p>
+      <p style="margin-bottom: 10px;"><a href="/quickstart/ai/gronk">INSTALL</a></p>
     </div>
   </div>
 </div>
