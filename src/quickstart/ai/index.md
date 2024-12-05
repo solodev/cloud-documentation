@@ -31,10 +31,10 @@ Secure, scalable, and home to the most advanced services, from AI to IoT. Build 
   </div>
   <div class="col">
     <div class="card text-center">
-      <img src="/static/images/logos/gronk-logo.png" alt="Gronk Logo">
-      <h3>Gronk</h3>
+      <img src="/static/images/logos/grok-logo.png" alt="Grok Logo">
+      <h3>Grok</h3>
       <p class="content">Provides real-time responses while integrating with the X platform to access live information.</p>
-      <p style="margin-bottom: 10px;"><a href="/quickstart/ai/gronk">INSTALL</a></p>
+      <p style="margin-bottom: 10px;"><a href="/quickstart/ai/grok">INSTALL</a></p>
     </div>
   </div>
 </div>

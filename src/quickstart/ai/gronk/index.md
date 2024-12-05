@@ -2,10 +2,10 @@
 
 <div class="header">
   <div class="inner">
-    <img src="/static/images/logos/gronk-logo.png" alt="Gronk Logo">
+    <img src="/static/images/logos/grok-logo.png" alt="Grok Logo">
     <div>
-      <h1>Gronk</h1>
-      <p style="padding-left: 2rem; margin-bottom: 0;">Gronk is an AI chatbot developed by xAI that provides real-time responses while integrating with the X platform to access live information.</p>
+      <h1>Grok</h1>
+      <p style="padding-left: 2rem; margin-bottom: 0;">Grok is an AI chatbot developed by xAI that provides real-time responses while integrating with the X platform to access live information.</p>
     </div>
   </div>
 </div>
