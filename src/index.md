@@ -25,10 +25,10 @@ Solodev Cloud is the best-of-breed cloud-based solution for almost anything you 
   </div>
   <div class="col">
     <div class="card text-center">
-      <img src="/static/images/icons/icon-digital.svg" alt="Digital icon">
-      <h2>Digital</h2>
-      <p class="content">Manage SSO, martech, and commerce apps.</p>
-      <p style="margin-bottom: 10px;"><a href="/quickstart/digital">ACCESS</a></p>
+      <img src="/static/images/icons/icon-ai.svg" alt="AI icon">
+      <h2>AI</h2>
+      <p class="content">Deploy with containers and serverless on AWS.</p>
+      <p style="margin-bottom: 10px;"><a href="/quickstart/ai">ACCESS</a></p>
     </div>
   </div>
   <div class="col">
@@ -37,6 +37,14 @@ Solodev Cloud is the best-of-breed cloud-based solution for almost anything you 
       <h2>Blockchain</h2>
       <p class="content">Enterprise blockchain service with fast, trusted blockchain transactions and optimized for total cost of ownership.</p>
       <p style="margin-bottom: 10px;"><a href="/quickstart/blockchain">ACCESS</a></p>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card text-center">
+      <img src="/static/images/icons/icon-digital.svg" alt="Digital icon">
+      <h2>Digital</h2>
+      <p class="content">Manage SSO, martech, and commerce apps.</p>
+      <p style="margin-bottom: 10px;"><a href="/quickstart/digital">ACCESS</a></p>
     </div>
   </div>
   <div class="col">

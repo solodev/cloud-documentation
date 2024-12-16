@@ -2,7 +2,7 @@
 
 <div class="header">
   <div class="inner">
-    <img src="/static/images/icons/icons-ai.svg" alt="AI Icon">
+    <img src="/static/images/icons/icon-ai.svg" alt="AI Icon">
     <div>
       <h1>AI</h1>
       <p style="padding-left: 2rem; margin-bottom: 0;">Deploy with containers and serverless on AWS.</p>
