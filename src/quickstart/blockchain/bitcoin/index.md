@@ -2,7 +2,7 @@
 
 <div class="header">
   <div class="inner">
-    <img src="/static/images/logos/bitcoin-pro.png" alt="Bitcoin Logo">
+    <img src="/static/images/logos/bitcoin-icon.png" alt="Bitcoin Logo">
     <div>
       <h1>Bitcoin</h1>
       <p style="padding-left: 2rem; margin-bottom: 0;">The leading decentralized digital currency using blockchain technology for secure, peer-to-peer transactions worldwide.</p>
