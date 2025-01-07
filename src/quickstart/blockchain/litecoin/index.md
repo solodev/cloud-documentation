@@ -25,7 +25,7 @@ The following steps cover the setup of the **Litecoin Pro** on the AWS Marketpla
 2. Review and accept the **"Terms and Conditions"**.
 3. Click **"Continue to Configuration"**.
 
-<!-- <p><img src="/static/images/dogecoin/dogecoin-subscribe-terms.jpg" alt="Litecoin Pro Continue to Configuration" style="width: 80%;"></p> -->
+<p><img src="/static/images/litecoin/litecoin-pro-subscription.jpg" alt="Litecoin Pro Continue to Configuration" style="width: 80%;"></p>
 
 !!!NOTE:
 Once accepted, you will receive a thank you message asking you to configure your software. <br>This process can take a few moments. Please do not exit the screen or refresh the page.
@@ -35,7 +35,7 @@ Once accepted, you will receive a thank you message asking you to configure your
 
 1. Choose a fulfillment option and software version to launch this software.
 
-<p><img src="/static/images/quickstart/configure-options.jpg" alt="Litecoin Configure options" style="width: 40%;"></p>
+<p><img src="/static/images/quickstart/configure-options-blockchain.jpg" alt="Litecoin Configure options" style="width: 30%;"></p>
 
 **Name** | **Description** 
 :--- | ---
@@ -45,7 +45,7 @@ Region | Select the AWS Region.
 
 2. Click <span class="text-orange">**"Continue to Launch."**</span>
 
-<!-- <p><img src="/static/images/dogecoin/dogecoin-continue-to-launch.jpg" alt="Litecoin continue to launch" style="width: 80%;"></p> -->
+<p><img src="/static/images/litecoin/litecoin-continue-to-launch.jpg" alt="Litecoin continue to launch" style="width: 80%;"></p>
 
 ### <span class="text-teal">Launch Software</span>
 
@@ -208,7 +208,7 @@ A tag is a label that you assign to an AWS resource. Each tag consists of a key 
 
 2. **Application and OS Images (Amazon Machine Image)**. An AMI contains the software configuration (operating system (OS), application server, and applications) required to launch your instance.
 
-<!-- <p><img src="/static/images/wordpress/wordpress-image-instance.jpg" alt="Litecoin Amazon Machine Image" style="width: 55%;"></p> -->
+<p><img src="/static/images/litecoin/litecoin-image-instance.jpg" alt="Litecoin Amazon Machine Image" style="width: 55%;"></p>
 
 For more information about Amazon Machine Image, <a href="https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AMIs.html" target="_blank">click here :icon-link-external:</a>.
 
@@ -236,7 +236,7 @@ An Amazon EC2 key pair is a set of security credentials consisting of a public a
 
 6. **Configure storage**. Specify the storage options for the instance.
 
-<p><img src="/static/images/quickstart/storage-instance.jpg" alt="Litecoin Storage" style="width: 55%;"></p>
+<p><img src="/static/images/quickstart/storage-instance-blockchain.jpg" alt="Litecoin Storage" style="width: 55%;"></p>
 
 For more information about storage, <a href="https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/Storage.html?icmpid=docs_ec2_console" target="_blank">click here :icon-link-external:</a>.
 
@@ -324,31 +324,13 @@ If you do not have a Key Pair, you will need to create one in your Key Pair Cons
 Ensure that your browser's address bar includes "http://" instead of "https://."
 !!! -->
 
-3. To log in, use **dogecoin** as the username and your **instance ID** as the password.
+3. To log in, use **litecoin** as the username and your **instance ID** as the password.
 
 <!-- <p><img src="/static/images/dogecoin/dogecoin-login-screen.jpg" alt="Litecoin Login Screen" style="width: 30%;"></p> -->
 
 {% endtab %}
 
 {% endtabs %}
-
-## Next Steps
-
-<div class="card-lg" style="margin-bottom: 1.5rem;">
-  <div style="display: flex; align-items: center; justify-content: start;">
-    <div style="width: 120px;">
-      <img src="/static/images/logos/cdn-wordpress.png" alt="Litecoin CDN Logo" style="width: 100%;">
-    </div>
-    <div style="margin-left: 30px; width: 80%;">
-      <h2>Litecoin CDN</h2>
-      <p style="font-size: .9rem;"><strong>Prerequisites:</strong> you need a <a href="https://console.aws.amazon.com/acm/" target="_blank">certificate</a> with the name of site you are trying to launch <br>and have an existing <a href="/quickstart/cms/wordpress" target="_blank">Litecoin</a>.</p>
-      <p class="mt-2">Boost your site's speed by delivering content from servers near your visitors.</p>
-    </div>
-  </div>
-  <div>
-    <a href="https://us-east-1.console.aws.amazon.com/cloudformation/home?region=us-east-1#/stacks/create?stackName=cms-cdn&templateURL=https://s3://wordpress-release/cloudformation/cloudfront-wordpress.yaml" class="btn-orange-lg" target="_blank">LAUNCH <img src="/static/images/icons/circle-play-solid.svg" style="width: 16px; margin-left: 1rem;"></a>
-  </div>
-</div>
 
 <style>
   /* Headers */
