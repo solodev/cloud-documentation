@@ -43,7 +43,6 @@ You have now successfully set up your domain in AWS! For advanced configurations
 3. Select **Request a public certificate** and click Next.
 
 4. Enter your domain name (e.g., example.com).
-
   - Use *.example.com for a wildcard certificate to include all subdomains.
 
 5. Click <span class="text-orange">**Next**</span>.
