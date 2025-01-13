@@ -108,7 +108,7 @@ Tags (key-value pairs) are used to apply metadata to AWS resources, which can he
 
 Name   | Description
 ---    | ---
-Behavior on provisioning failure | Specify the roll back behavior for a stack failure..
+Behavior on provisioning failure | Specify the roll back behavior for a stack failure.
 Delete newly created resources during a rollback | Specify whether resources that were created during a failed operation should be deleted regardless of their deletion policy.
 
 To learn more about the stack failure options, <a href="https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/stack-failure-options.html" target="_blank">click here :icon-link-external:</a>.
@@ -137,13 +137,30 @@ To learn more about the stack failure options, <a href="https://docs.aws.amazon.
 
 {% endtabs %}
 
-<!-- ## Point Domain
+## Point Your Domain
 
-1. Navigate to **CloudFront** by searching for it in the Services menu.
+1. Navigate to **Route 53** by searching for it in the Services menu.
 
-2. Click on the corresponding **Distribution**.
+2. Click on **Hosted Zones**.
 
-3.  -->
+3. Go into the corresponding **Hosted Zone**.
+
+4. Click <span class="text-orange">**Create Record**</span>.
+
+Name   | Description
+---    | ---
+Record Name | Enter the subdomain name but without the domain name. For example, to route traffic for www.example.com, enter only **www**.
+Record Type | Choose the applicable DNS record type. Select **A - Routes traffic to an IPv4 address and some AWS resources**.
+Alias | Enable **Alias** to show more options.
+Route traffic to | Select **Alias to CloudFront distribution**.
+Choose distribution | Select the corresponding CloudFront distribution.
+Routing policy | Select **Simple routing**.
+
+!!!Note:
+To confirm the correct CloudFront distribution, navigate to **CloudFront**, and check the entry under **Domain name**.
+!!!
+
+<p><img src="/static/images/tutorials/wordpress/create-record.jpg" alt="WordPress Pro CDN Stack" style="width: 980%;"></p>
 
 <hr>
 
