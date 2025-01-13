@@ -3,7 +3,7 @@ This tutorial guides you through setting up a domain, securing it with an SSL/TL
 ## Prerequisites
 
 - An active [AWS account](/quickstart/cloud/aws/).
-- Access to manage your domain (through AWS Route 53 or another registrar).
+- Access to manage or to create your domain (through AWS Route 53 or another registrar).
 - Sufficient permissions in your AWS account to create and manage resources.
 
 ## Launch WordPress Pro
@@ -16,17 +16,25 @@ This tutorial guides you through setting up a domain, securing it with an SSL/TL
 
 In this step, we’ll walk through the process of setting up a domain in AWS using Route 53.
 
-1. Log in to your **AWS Management Console**.
+1. Log in to your **AWS Management Console**.          
 
 2. Navigate to **Route 53** by searching for it in the Services menu.
 
 3. In the Route 53 dashboard, click on **Hosted zones**.
 
+<p><img src="/static/images/common/route-53/route-53-hosted-zones-nav.jpg" alt="Route 53 Left Navigation" style="width: 15%;"></p>
+
 4. Click **Create hosted zone** or select an existing one.
+
+<p><img src="/static/images/common/route-53/create-hosted-zones.jpg" alt="Route 53 Create hosted zone" style="width: 80%;"></p>
 
 5. Enter your domain name in the **"Domain name"** field (e.g., example.com).
 
+<p><img src="/static/images/common/route-53/hosted-zones-config.jpg" alt="Route 53 Domain name" style="width: 80%;"></p>
+
 6. Select the **Public hosted zone** type.
+
+<p><img src="/static/images/common/route-53/hosted-zones-config-type.jpg" alt="Route 53 Type" style="width: 80%;"></p>
 
 7. Click <span class="text-orange">**Create hosted zone**</span>.
 
