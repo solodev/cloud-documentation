@@ -74,11 +74,76 @@ If your AWS region is different from `us-east-1`, make sure to select your speci
 
 2. Click <span class="text-orange">**Next**</span>.
 
-3. Follow the steps.
+#### Provide a stack name
+
+1. Stack name must be 1 to 128 characters, start with a letter, and only contain alphanumeric characters.
+
+<p><img src="/static/images/tutorials/wordpress/wordpress-cdn-stack-name.jpg" alt="WordPress Pro CDN Create Stack" style="width: 50%;"></p>
+
+##### Parameters
+
+<p><img src="/static/images/tutorials/wordpress/wordpress-cdn-stack-parametes.jpg" alt="WordPress Pro CDN Parameters" style="width: 50%;"></p>
+
+Name   | Description
+---    | ---
+CloudFront Certificate ARN | The AWS Certification Manager certificate ARN for the CloudFront distribution certificate. To find the certificate navigate to **Certificate Manager,** click on the respective domain name and copy the **ARN.**
+Website Domain Name | The domain name of the Wordpress website (e.g. example.com).
+CMS DNS Name | The Wordpress DNS or IP used to login. To find the DNS navigate to **EC2,** click on the respective instance and copy the **Public IPv4 DNS.**
+
+#### Configure Stack Options
+
+1. Add a new tag. **This step is optional**.
+
+Tags (key-value pairs) are used to apply metadata to AWS resources, which can help in organizing, identifying, and categorizing those resources. You can add up to 50 unique tags for each stack. If you need more information about tags, click here.
+
+<p><img src="/static/images/quickstart/stack-tags.jpg" alt="WordPress Pro tags" style="width: 80%;"></p>
+
+2. Specify an existing AWS Identity and Access Management (IAM) service role that CloudFormation can assume. **This step is optional**.
+
+<p><img src="/static/images/quickstart/stack-permissions.jpg" alt="WordPress Pro permissions" style="width: 80%;"></p>
+
+3. Select the stack failure options.
+
+<p><img src="/static/images/quickstart/stack-failure.jpg" alt="WordPress Pro failure" style="width: 80%;"></p>
+
+Name   | Description
+---    | ---
+Behavior on provisioning failure | Specify the roll back behavior for a stack failure..
+Delete newly created resources during a rollback | Specify whether resources that were created during a failed operation should be deleted regardless of their deletion policy.
+
+To learn more about the stack failure options, <a href="https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/stack-failure-options.html" target="_blank">click here :icon-link-external:</a>.
+
+#### Advanced options
+
+1. You can set additional options for your stack, like notification options and a stack policy. For more information, <a href="https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/cfn-console-add-tags.html" target="_blank">click here :icon-link-external:</a>.
+
+<p><img src="/static/images/quickstart/stack-advanced.jpg" alt="WordPress Pro advanced options" style="width: 50%;"></p>
+
+2. Click <span class="text-orange">**Next**</span>.
+
+### Review and create
+
+1. Review your settings.
+
+2. Click <span class="text-orange">**Submit**</span>.
+
+### Stacks
+
+1. <span class="text-orange">**Watch your CDN being created!**</span> Once the status changes from **CREATE_IN_PROGRESS** to **CREATE_COMPLETE**, you can access your CDN.
+
+<p><img src="/static/images/tutorials/wordpress/wp-cdn-stack.jpg" alt="WordPress Pro CDN Stack" style="width: 70%;"></p>
 
 {% endtab %}
 
 {% endtabs %}
+
+<!-- ## Point Domain
+
+1. Navigate to **CloudFront** by searching for it in the Services menu.
+
+2. Click on the corresponding **Distribution**.
+
+3.  -->
 
 <hr>
 
