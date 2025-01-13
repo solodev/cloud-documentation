@@ -12,7 +12,7 @@ This tutorial guides you through setting up a domain, securing it with an SSL/TL
 
 2. Follow the steps under [Cloudformation](/quickstart/cms/wordpress/#launch-software).
 
-## Setup a Domain
+## Setup Domain
 
 In this step, we’ll walk through the process of setting up a domain in AWS using Route 53.
 
@@ -42,7 +42,7 @@ In this step, we’ll walk through the process of setting up a domain in AWS usi
 You have now successfully set up your domain in AWS! For advanced configurations, refer to the [AWS Route 53 Documentation](https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/Welcome.html).
 !!!
 
-## Request a Certificate
+## Request Certificate
 
 1. Navigate to **Certificate Manager** by searching for it in the Services menu.
 
@@ -121,13 +121,13 @@ To learn more about the stack failure options, <a href="https://docs.aws.amazon.
 
 2. Click <span class="text-orange">**Next**</span>.
 
-### Review and create
+#### Review and create
 
 1. Review your settings.
 
 2. Click <span class="text-orange">**Submit**</span>.
 
-### Stacks
+#### Stacks
 
 1. <span class="text-orange">**Watch your CDN being created!**</span> Once the status changes from **CREATE_IN_PROGRESS** to **CREATE_COMPLETE**, you can access your CDN.
 
@@ -137,7 +137,7 @@ To learn more about the stack failure options, <a href="https://docs.aws.amazon.
 
 {% endtabs %}
 
-## Point Your Domain
+## Point Domain
 
 1. Navigate to **Route 53** by searching for it in the Services menu.
 
@@ -160,8 +160,12 @@ Routing policy | Select **Simple routing**.
 To confirm the correct CloudFront distribution, navigate to **CloudFront**, and check the entry under **Domain name**.
 !!!
 
-<p><img src="/static/images/tutorials/wordpress/create-record.jpg" alt="WordPress Pro CDN Stack" style="width: 980%;"></p>
+<p><img src="/static/images/tutorials/wordpress/create-record.jpg" alt="WordPress Pro CDN Stack" style="width: 90%;"></p>
+
+<h3><span class="text-orange">Congratulations! Your website is now live and ready to go!</span></h3>
+
+<p><img src="/static/images/tutorials/wordpress/wordpress-website.jpg" alt="WordPress Pro Website" style="width: 90%;"></p>
 
 <hr>
 
-**Congratulations!** You’ve successfully set up your domain, secured it with SSL/TLS using AWS Certificate Manager, and enhanced its performance with a CDN. These steps ensure your website is accessible, secure, and optimized for faster delivery to users worldwide. With your WordPress CMS launched and configured, you’re ready to start building and managing your content.
+You’ve successfully set up your domain, secured it with SSL/TLS using AWS Certificate Manager, and enhanced its performance with a CDN. These steps ensure your website is accessible, secure, and optimized for faster delivery to users worldwide. With your WordPress CMS launched and configured, you’re ready to start building and managing your content.
