@@ -10,7 +10,7 @@ This tutorial guides you through setting up a domain, securing it with an SSL/TL
 
 1. Subscribe to [WordPress on the AWS Marketplace](https://aws.amazon.com/marketplace/pp/prodview-l5326ck4qjosk?sr=0-4&ref_=beagle&applicationId=AWSMPContessa).
 
-2. Follow the steps under [Cloudformation](quickstart/cms/wordpress/#launch-software).
+2. Follow the steps under [Cloudformation](/quickstart/cms/wordpress/#launch-software).
 
 ## Setup a Domain
 
