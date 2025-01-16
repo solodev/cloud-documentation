@@ -60,11 +60,17 @@ Let’s kick things off by securing your domain with a sleek new certificate!
 
 1. Pop into the AWS Management Console and search for **Certificate Manager** in the Services menu.
 
-2. Click on <span class="text-orange">**Request a certificate**</span> — think of it as applying for your domain's VIP pass.
+2. Click on <span class="text-orange">**Request**</span> — think of it as applying for your domain's VIP pass.
+
+<p><img src="/static/images/common/certificate/request-certificate.jpg" alt="Request Certificate" style="width: 80%;"></p>
 
 3. Select **Request a public certificate** and hit <span class="text-orange">**Next**</span>.
 
+<p><img src="/static/images/common/certificate/request-certificate-type.jpg" alt="Certificate Type" style="width: 80%;"></p>
+
 4. Drop in your domain name (e.g., `example.com`). Want to cover all your subdomains? Use `*.example.com` for wildcard coverage.
+
+<p><img src="/static/images/common/certificate/request-certificate-name.jpg" alt="Certificate Name" style="width: 80%;"></p>
 
 5. Give yourself a high-five and hit <span class="text-orange">**Next**</span>.
 
@@ -120,6 +126,8 @@ Claim your corner of the web using Route 53.
 
 3. Enter the subdomain name (like `www` for `www.example.com`), choose A - Routes traffic to IPv4, enable Alias, and select your CloudFront distribution.
 
+<p><img src="/static/images/tutorials/wordpress/create-record.jpg" alt="WordPress Pro CDN Stack" style="width: 90%;"></p>
+
 Name   | Description
 ---    | ---
 Record Name | Enter the subdomain name but without the domain name. For example, to route traffic for www.example.com, enter only **www**.
@@ -133,7 +141,25 @@ Routing policy | Select **Simple routing**.
 **Pro Tip:** Confirm the correct CloudFront distribution by matching its domain name in the CloudFront dashboard.
 !!!
 
-<p><img src="/static/images/tutorials/wordpress/create-record.jpg" alt="WordPress Pro CDN Stack" style="width: 90%;"></p>
+## Step 6: Dive into Your CMS
+
+It’s time to unlock your WordPress dashboard and bring your website to life! Here’s how:
+
+1. Head over to **CloudFormation** by typing it into the search bar in your AWS Management Console.
+
+2. Select your WordPress stack from the list.
+
+3. Navigate to the **Outputs** tab, where you’ll find all the golden nuggets of information. Copy the **AdminUrl** value—it’s your gateway to greatness.
+
+<p><img src="/static/images/wordpress/wordpress-stack-outputs.jpg" alt="WordPress Pro Stack Outputs" style="width: 62%;"></p>
+
+4. Open your favorite browser, paste the AdminUrl, and bask in the glory of your WordPress front-end website.
+
+!!!
+**Pro Tip:** Want to take full control? Simply tack on `/wp-admin` to your URL and log in using the credentials listed in the Outputs tab. It’s your backstage pass to the WordPress magic.
+!!!
+
+**You’re in!** Now it’s time to start customizing, creating, and building the site of your dreams. Your digital journey awaits!
 
 <hr>
 
