@@ -169,9 +169,13 @@ Tired of typing an IP address to reach your site? Let’s make your Fully Qualif
 
 1. Log in to **WordPress**. Head to your WordPress dashboard—your site’s command center.
 
+<p><img src="/static/images/wordpress/wordpress-login-screen.jpg" alt="WordPress Login Screen" style="width: 25%;"></p>
+
 2. Navigate to **Settings**. This is your control panel for all the important tweaks.
 
 3. In the **WordPress Address (URL)** and **Site Address (URL)** fields, replace the IP address with your shiny new domain name (e.g.,`https://www.example.com`).
+
+<p><img src="/static/images/tutorials/wordpress/wordpress-settings.jpg" alt="WordPress Settings" style="width: 82%;"></p>
 
 4. Click <span class="text-blue">**Save Changes**</span>.
 
