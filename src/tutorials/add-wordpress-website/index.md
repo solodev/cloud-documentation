@@ -141,28 +141,46 @@ Routing policy | Select **Simple routing**.
 **Pro Tip:** Confirm the correct CloudFront distribution by matching its domain name in the CloudFront dashboard.
 !!!
 
-## Step 6: Dive into Your CMS
+## Step 6: Dive into Your Website
 
-It’s time to unlock your WordPress dashboard and bring your website to life! Here’s how:
+It's time to unlock your WordPress dashboard and bring your website to life! Here's how:
 
 1. Head over to **CloudFormation** by typing it into the search bar in your AWS Management Console.
 
 2. Select your WordPress stack from the list.
 
-3. Navigate to the **Outputs** tab, where you’ll find all the golden nuggets of information. Copy the **AdminUrl** value—it’s your gateway to greatness.
+3. Navigate to the **Outputs** tab, where you'll find all the golden nuggets of information. Copy the **AdminUrl** value—it's your gateway to greatness.
 
 <p><img src="/static/images/wordpress/wordpress-stack-outputs.jpg" alt="WordPress Pro Stack Outputs" style="width: 62%;"></p>
 
 4. Open your favorite browser, paste the AdminUrl, and bask in the glory of your WordPress front-end website.
 
 !!!
-**Pro Tip:** Want to take full control? Simply tack on `/wp-admin` to your URL and log in using the credentials listed in the Outputs tab. It’s your backstage pass to the WordPress magic.
+**Pro Tip:** Want to take full control? Simply tack on `/wp-admin` to your URL and log in using the credentials listed in the Outputs tab. It's your backstage pass to the WordPress magic.
 !!!
 
-**You’re in!** Now it’s time to start customizing, creating, and building the site of your dreams. Your digital journey awaits!
+**You're in!** Now it's time to start customizing, creating, and building the site of your dreams. Your digital journey awaits!
 
 <hr>
 
-**Congratulations, you did it!** Your website is now fully optimized—blazing fast, secure, and equipped with all the tools to stand out in the digital world. Whether it's the sleek SSL certificate or the lightning-fast CDN, you’ve set up a solid foundation that will have your visitors impressed and engaged. Get ready to take on the internet!
+## Step 7: Use Your Fully Qualified Domain Name
+
+Tired of typing an IP address to reach your site? Let’s make your Fully Qualified Domain Name (FQDN) the star of the show:
+
+1. Log in to **WordPress**. Head to your WordPress dashboard—your site’s command center.
+
+2. Navigate to **Settings**. This is your control panel for all the important tweaks.
+
+3. In the **WordPress Address (URL)** and **Site Address (URL)** fields, replace the IP address with your shiny new domain name (e.g.,`https://www.example.com`).
+
+4. Click <span class="text-blue">**Save Changes**</span>.
+
+5. Voilà! Your WordPress is now accessible through your custom FQDN.
+
+Time to bookmark that URL and show it off!
+
+<hr>
+
+**Congratulations, you did it!** Your website is now fully optimized—blazing fast, secure, and equipped with all the tools to stand out in the digital world. Whether it's the sleek SSL certificate or the lightning-fast CDN, you've set up a solid foundation that will have your visitors impressed and engaged. Get ready to take on the internet!
 
 <!-- <p><img src="/static/images/tutorials/wordpress/wordpress-website.jpg" alt="WordPress Pro Website" style="width: 90%;"></p> -->
