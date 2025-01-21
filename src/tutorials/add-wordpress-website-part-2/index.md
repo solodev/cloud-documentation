@@ -1,40 +1,8 @@
-In part two, we’re cranking up the excitement! You’ll claim your domain, armor up your site with a shiny SSL/TLS certificate, and turbocharge performance with a CDN. Buckle up—the transformation is just getting started!
+Welcome to Part 2 of your WordPress website journey! In this section, we’ll explore the power of a Content Delivery Network (CDN). A CDN is a network of servers spread across the globe, designed to deliver your website’s content faster by storing copies of it closer to your visitors. This means they won’t have to wait as long for your site to load. By adding a CDN to your WordPress site, you'll boost load times, enhance security, and ensure smooth performance for your audience. It’s an essential tool for anyone looking to improve site speed and user experience!
 
-## Step 1: Set Up Your Domain
+## Request your certificate
 
-Now it’s time to stake your claim in the vast wilderness of the internet. Here’s how to tame your domain using AWS Route 53.
-
-1. Log in to your **AWS Management Console**.          
-
-2. Type **Route 53** into the search bar in the Services menu — your trusty GPS for all things AWS.
-
-3. In the Route 53 dashboard, click on **Hosted Zones** (your domain’s future home).
-
-<p><img src="/static/images/common/route-53/route-53-hosted-zones-nav.jpg" alt="Route 53 Left Navigation" style="width: 15%;"></p>
-
-4. Ready to build? Click **Create hosted zone** or choose an existing one if you’ve already started.
-
-<p><img src="/static/images/common/route-53/create-hosted-zones.jpg" alt="Route 53 Create hosted zone" style="width: 80%;"></p>
-
-5. In the **"Domain name"** field, type your chosen domain (e.g., example.com).
-
-<p><img src="/static/images/common/route-53/hosted-zones-config.jpg" alt="Route 53 Domain name" style="width: 80%;"></p>
-
-6. Select **Public hosted zone** because we are all about that public presence.
-
-<p><img src="/static/images/common/route-53/hosted-zones-config-type.jpg" alt="Route 53 Type" style="width: 80%;"></p>
-
-7. Click that glorious orange <span class="text-orange">**Create hosted zone**</span> button, and voilà!
-
-**Congrats!** Your domain is now set up and ready for action.
-
-!!!
-**Pro Tip:** Want to dig deeper? The [AWS Route 53 Documentation](https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/Welcome.html) is your go-to treasure map for advanced configurations.
-!!!
-
-## Step 2: Request Your Certificate
-
-Let’s kick things off by securing your domain with a sleek new certificate!
+First, let’s make your site secure. An SSL/TLS certificate protects your website by encrypting information between your site and visitors. It also shows a “padlock” in the browser to let users know your site is safe. Let’s get that certificate set up!
 
 1. Pop into the AWS Management Console and search for **Certificate Manager** in the Services menu.
 
@@ -52,15 +20,13 @@ Let’s kick things off by securing your domain with a sleek new certificate!
 
 5. Give yourself a high-five and hit <span class="text-orange">**Next**</span>.
 
-## Step 3: Add a CDN
+## Add a CDN
 
 Time to give your site some turbo-charged speed with a Content Delivery Network (CDN).
 
-{% tabs %}
+### Step 1: Create stack
 
-{% tab title="Cloudformation" %}
-
-1. **Launch it:** Click the button below and let CloudFormation work its magic.
+Click the button below and let CloudFormation work its magic.
 
 <a href="https://us-east-1.console.aws.amazon.com/cloudformation/home?region=us-east-1#/stacks/create?stackName=wordpress-cdn&templateURL=https://wordpress-release.s3.us-east-1.amazonaws.com/cloudformation/cloudfront-wordpress.yaml" rel="noopener noreferrer" target="_blank" class="btn-orange-lg mb-2">LAUNCH CDN<span><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="20" height="20" fill="#fff"><path d="M3.75 2h3.5a.75.75 0 0 1 0 1.5h-3.5a.25.25 0 0 0-.25.25v8.5c0 .138.112.25.25.25h8.5a.25.25 0 0 0 .25-.25v-3.5a.75.75 0 0 1 1.5 0v3.5A1.75 1.75 0 0 1 12.25 14h-8.5A1.75 1.75 0 0 1 2 12.25v-8.5C2 2.784 2.784 2 3.75 2Zm6.854-1h4.146a.25.25 0 0 1 .25.25v4.146a.25.25 0 0 1-.427.177L13.03 4.03 9.28 7.78a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042l3.75-3.75-1.543-1.543A.25.25 0 0 1 10.604 1Z"></path></svg></span></a>
 
@@ -70,11 +36,15 @@ Time to give your site some turbo-charged speed with a Content Delivery Network 
 
 <p><img src="/static/images/tutorials/wordpress/wordpress-create-stack-cdn.jpg" alt="WordPress Pro CDN Create Stack" style="width: 90%;"></p>
 
-2. **Name Your Stack:** Get creative—or keep it simple! Just make sure it’s 1–128 characters, starts with a letter, and skips the symbols.
+### Step 2: Name your stack & add details
+
+Pick a name that works for you—whether it’s fun, simple, or somewhere in between. Just make sure it’s between 1–128 characters, begins with a letter, and doesn’t include any special characters.
 
 <p><img src="/static/images/tutorials/wordpress/wordpress-cdn-stack-name.jpg" alt="WordPress Pro CDN Create Stack" style="width: 50%;"></p>
 
-3. **Fill in Parameters:** Add details like your domain name, certificate ARN, and CMS DNS. The wizard will guide you here.
+### Step 3: Customize your settings
+
+Add details like your domain name, certificate ARN, and CMS DNS. The wizard will guide you here.
 
 <p><img src="/static/images/tutorials/wordpress/wordpress-cdn-stack-parametes.jpg" alt="WordPress Pro CDN Parameters" style="width: 50%;"></p>
 
@@ -84,68 +54,41 @@ CloudFront Certificate ARN | The AWS Certification Manager certificate ARN for t
 Website Domain Name | The domain name of the Wordpress website (e.g. example.com).
 CMS DNS Name | The Wordpress DNS or IP used to login. To find the DNS navigate to **EC2,** click on the respective instance and copy the **Public IPv4 DNS.**
 
-4. **Advanced Options & Tags:** Optional but useful for organizing resources.
+### Step 4: Configure stack options
+
+Optional but useful for organizing resources.
 
 <p><img src="/static/images/quickstart/stack-advanced.jpg" alt="WordPress Pro advanced options" style="width: 50%;"></p>
 
-5. **Review & Submit:** Double-check everything and hit <span class="text-orange">Submit</span>.
+### Step 5: Review and create
 
-{% endtab %}
+Double-check everything and hit <span class="text-orange">**Submit**</span>.
 
-{% endtabs %}
+## Access your CMS
 
-## Step 4: Point Your Domain
-
-Claim your corner of the web using Route 53.
-
-1. Hop over to **Route 53** by searching for it in the Services menu.
-
-2. Find Hosted Zones and click <span class="text-orange">**Create Record**</span>.
-
-3. Enter the subdomain name (like `www` for `www.example.com`), choose A - Routes traffic to IPv4, enable Alias, and select your CloudFront distribution.
-
-<p><img src="/static/images/tutorials/wordpress/create-record.jpg" alt="WordPress Pro CDN Stack" style="width: 90%;"></p>
-
-Name   | Description
----    | ---
-Record Name | Enter the subdomain name but without the domain name. For example, to route traffic for www.example.com, enter only **www**.
-Record Type | Choose the applicable DNS record type. Select **A - Routes traffic to an IPv4 address and some AWS resources**.
-Alias | Enable **Alias** to show more options.
-Route traffic to | Select **Alias to CloudFront distribution**.
-Choose distribution | Select the corresponding CloudFront distribution.
-Routing policy | Select **Simple routing**.
-
-!!!
-**Pro Tip:** Confirm the correct CloudFront distribution by matching its domain name in the CloudFront dashboard.
-!!!
-
-## Step 5: Dive into Your Website
-
-It's time to unlock your WordPress dashboard and bring your website to life! Here's how:
+Now it’s time to log into your WordPress dashboard and start building your website! Here’s how:
 
 1. Head over to **CloudFormation** by typing it into the search bar in your AWS Management Console.
 
 2. Select your WordPress stack from the list.
 
-3. Navigate to the **Outputs** tab, where you'll find all the golden nuggets of information. Copy the **AdminUrl** value—it's your gateway to greatness.
+3. Navigate to the **Outputs** tab, where you'll find the essential details. Copy the **WebsiteURL** value — this is your ticket to your new website.
 
-<p><img src="/static/images/wordpress/wordpress-stack-outputs.jpg" alt="WordPress Pro Stack Outputs" style="width: 62%;"></p>
+<!-- <p><img src="/static/images/wordpress/wordpress-stack-outputs.jpg" alt="WordPress Pro Stack Outputs" style="width: 62%;"></p> -->
 
-4. Open your favorite browser, paste the AdminUrl, and bask in the glory of your WordPress front-end website.
+4. Open your browser and paste the WebsiteURL to see your WordPress front-end website live.
 
-!!!
-**Pro Tip:** Want to take full control? Simply tack on `/wp-admin` to your URL and log in using the credentials listed in the Outputs tab. It's your backstage pass to the WordPress magic.
-!!!
-
-**You're in!** Now it's time to start customizing, creating, and building the site of your dreams. Your digital journey awaits!
+5. For full control simply add `/wp-admin` to your URL and log in using the credentials listed in the Outputs tab.
 
 <hr>
 
-## Step 6: Use Your Fully Qualified Domain Name
+**Congratulations, you did it!** Your website is now fully optimized — blazing fast, secure, and equipped with all the tools to stand out in the digital world. With your sleek SSL certificate and lightning-fast CDN, you have built a solid foundation to impress and engage your visitors. Now it’s time to start customizing, creating, and bringing your vision to life. Get ready to take on the internet!
 
-Tired of typing an IP address to reach your site? Let’s make your Fully Qualified Domain Name (FQDN) the star of the show:
+<!-- ## Access your CMS
 
-1. Log in to **WordPress**. Head to your WordPress dashboard—your site’s command center.
+Now it’s time to log into your WordPress dashboard and start building your website! Here’s how: -->
+
+<!-- 1. Log in to **WordPress**. Head to your WordPress dashboard—your site’s command center.
 
 <p><img src="/static/images/wordpress/wordpress-login-screen.jpg" alt="WordPress Login Screen" style="width: 25%;"></p>
 
@@ -157,12 +100,6 @@ Tired of typing an IP address to reach your site? Let’s make your Fully Qualif
 
 4. Click <span class="text-blue">**Save Changes**</span>.
 
-5. Voilà! Your WordPress is now accessible through your custom FQDN.
-
-Time to bookmark that URL and show it off!
-
-<hr>
-
-**Congratulations, you did it!** Your website is now fully optimized—blazing fast, secure, and equipped with all the tools to stand out in the digital world. Whether it's the sleek SSL certificate or the lightning-fast CDN, you've set up a solid foundation that will have your visitors impressed and engaged. Get ready to take on the internet!
+5. Voilà! Your WordPress is now accessible through your custom FQDN. -->
 
 <!-- <p><img src="/static/images/tutorials/wordpress/wordpress-website.jpg" alt="WordPress Pro Website" style="width: 90%;"></p> -->
