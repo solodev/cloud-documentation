@@ -1,28 +1,6 @@
-Welcome to your next big adventure! Today, we’re diving into the steps to set up a WordPress website. We’ll begin with launching a  [WordPress CMS](/quickstart/cms/wordpress), followed by configuring your domain, securing it with an SSL/TLS certificate, and optimizing performance with a CDN.
+In part two, we’re cranking up the excitement! You’ll claim your domain, armor up your site with a shiny SSL/TLS certificate, and turbocharge performance with a CDN. Buckle up—the transformation is just getting started!
 
-## What You’ll Need
-
-Before we begin, here’s your backpack checklist:
-
-- An active [AWS account](/quickstart/cloud/aws/).
-- Access to manage or to create your domain (through AWS Route 53 or another registrar).
-- Sufficient permissions in your AWS account to create and manage resources.
-
-Ready? Let’s hit the ground running!
-
-## Step 1: Launch WordPress Pro
-
-First up, we’re getting WordPress ready to roll on AWS.
-
-1. Head over to the [AWS Marketplace](https://aws.amazon.com/marketplace/pp/prodview-l5326ck4qjosk?sr=0-4&ref_=beagle&applicationId=AWSMPContessa) and hit that <span class="text-orange">**Subscribe**</span> button. It’s like claiming your spot on the WordPress rocket.
-
-2. Follow the CloudFormation Guide. Solodev makes it super simple — just follow [these steps](/quickstart/cms/wordpress/#launch-software).
-
-!!!
-**Pro tip:** Keep your coffee nearby — this part's a breeze, but it’s always good to be prepared.
-!!!
-
-## Step 2: Set Up Your Domain
+## Step 1: Set Up Your Domain
 
 Now it’s time to stake your claim in the vast wilderness of the internet. Here’s how to tame your domain using AWS Route 53.
 
@@ -54,7 +32,7 @@ Now it’s time to stake your claim in the vast wilderness of the internet. Here
 **Pro Tip:** Want to dig deeper? The [AWS Route 53 Documentation](https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/Welcome.html) is your go-to treasure map for advanced configurations.
 !!!
 
-## Step 3: Request Your Certificate
+## Step 2: Request Your Certificate
 
 Let’s kick things off by securing your domain with a sleek new certificate!
 
@@ -74,7 +52,7 @@ Let’s kick things off by securing your domain with a sleek new certificate!
 
 5. Give yourself a high-five and hit <span class="text-orange">**Next**</span>.
 
-## Step 4: Add a CDN
+## Step 3: Add a CDN
 
 Time to give your site some turbo-charged speed with a Content Delivery Network (CDN).
 
@@ -116,7 +94,7 @@ CMS DNS Name | The Wordpress DNS or IP used to login. To find the DNS navigate t
 
 {% endtabs %}
 
-## Step 5: Point Your Domain
+## Step 4: Point Your Domain
 
 Claim your corner of the web using Route 53.
 
@@ -141,7 +119,7 @@ Routing policy | Select **Simple routing**.
 **Pro Tip:** Confirm the correct CloudFront distribution by matching its domain name in the CloudFront dashboard.
 !!!
 
-## Step 6: Dive into Your Website
+## Step 5: Dive into Your Website
 
 It's time to unlock your WordPress dashboard and bring your website to life! Here's how:
 
@@ -163,7 +141,7 @@ It's time to unlock your WordPress dashboard and bring your website to life! Her
 
 <hr>
 
-## Step 7: Use Your Fully Qualified Domain Name
+## Step 6: Use Your Fully Qualified Domain Name
 
 Tired of typing an IP address to reach your site? Let’s make your Fully Qualified Domain Name (FQDN) the star of the show:
 
