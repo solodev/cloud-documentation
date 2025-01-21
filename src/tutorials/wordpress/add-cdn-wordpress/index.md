@@ -64,7 +64,11 @@ Optional but useful for organizing resources.
 
 Double-check everything and hit <span class="text-orange">**Submit**</span>.
 
-## Access your CMS
+## Add Cloudfront
+
+Coming soon...
+
+<!-- ## Access your CMS
 
 Now it’s time to log into your WordPress dashboard and start building your website! Here’s how:
 
@@ -72,21 +76,17 @@ Now it’s time to log into your WordPress dashboard and start building your web
 
 2. Select your WordPress stack from the list.
 
-3. Navigate to the **Outputs** tab, where you'll find the essential details. Copy the **WebsiteURL** value — this is your ticket to your new website.
+3. Navigate to the **Outputs** tab, where you'll find the essential details. Copy the **WebsiteURL** value — this is your ticket to your new website.-->
 
 <!-- <p><img src="/static/images/wordpress/wordpress-stack-outputs.jpg" alt="WordPress Pro Stack Outputs" style="width: 62%;"></p> -->
 
-4. Open your browser and paste the WebsiteURL to see your WordPress front-end website live.
+<!-- 4. Open your browser and paste the WebsiteURL to see your WordPress front-end website live.
 
-5. For full control simply add `/wp-admin` to your URL and log in using the credentials listed in the Outputs tab.
+5. For full control simply add `/wp-admin` to your URL and log in using the credentials listed in the Outputs tab. -->
 
-## Add Cloudfront
+<!-- <hr> -->
 
-Coming soon...
-
-<hr>
-
-**Congratulations, you did it!** Your website is now fully optimized — blazing fast, secure, and equipped with all the tools to stand out in the digital world. With your sleek SSL certificate and lightning-fast CDN, you have built a solid foundation to impress and engage your visitors. Now it’s time to start customizing, creating, and bringing your vision to life. Get ready to take on the internet!
+<!-- **Congratulations, you did it!** Your website is now fully optimized — blazing fast, secure, and equipped with all the tools to stand out in the digital world. With your sleek SSL certificate and lightning-fast CDN, you have built a solid foundation to impress and engage your visitors. Now it’s time to start customizing, creating, and bringing your vision to life. Get ready to take on the internet! -->
 
 <!-- ## Access your CMS
 
