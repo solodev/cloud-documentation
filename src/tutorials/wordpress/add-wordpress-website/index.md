@@ -75,23 +75,23 @@ Take a moment to review your settings and ensure everything looks good. Once you
 **Pro tip:** Take a deep breath and relax — this part’s a breeze, but a little patience goes a long way!
 !!!
 
-## Point Your Domain
+## Point your domain
 
-Claim your corner of the web using Route 53.
+It’s time to claim your corner of the web using Route 53. Follow these steps to connect your domain to your WordPress site:
 
-1. Hop over to **Route 53** by searching for it in the Services menu.
+1. Navigate to **Route 53** by searching for it in the Services menu.
 
-2. Find Hosted Zones and click <span class="text-orange">**Create Record**</span>.
+2. Locate **Hosted Zones** and select the domain you created earlier.
 
-3. Enter the subdomain name (like `www` for `www.example.com`), choose CNAME, and paste your IP.
+3. Click <span class="text-orange">**Create Record**</span>.
 
-<p><img src="/static/images/tutorials/wordpress/create-record.jpg" alt="WordPress Pro CDN Stack" style="width: 90%;"></p>
+4. Enter the subdomain name (like `www` for `www.example.com`), select CNAME - Routes traffic to another domain name and some AWS resources, and paste the AdminUrl of your instance.
 
-Name   | Description
----    | ---
-Record Name | Enter the subdomain name but without the domain name. For example, to route traffic for www.example.com, enter only **www**.
-Record Type | Choose the applicable DNS record type. Select **CNAME - Routes traffic to another domain name and some AWS resources**.
-Value | Paste the **IPv4 address**. To find the DNS navigate to **EC2,** click on the respective instance and copy the **Public IPv4 DNS.**
+<!-- <p><img src="/static/images/tutorials/wordpress/create-record.jpg" alt="WordPress Pro CDN Stack" style="width: 90%;"></p> -->
+
+!!!
+**Pro Tip:** Need the AdminUrl for your WordPress dashboard? Go to CloudFormation, locate your WordPress instance, and click on the Outputs tab.
+!!!
 
 ## Access your WordPress instance
 

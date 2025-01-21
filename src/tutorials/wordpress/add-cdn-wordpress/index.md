@@ -80,6 +80,10 @@ Now it’s time to log into your WordPress dashboard and start building your web
 
 5. For full control simply add `/wp-admin` to your URL and log in using the credentials listed in the Outputs tab.
 
+## Add Cloudfront
+
+Coming soon...
+
 <hr>
 
 **Congratulations, you did it!** Your website is now fully optimized — blazing fast, secure, and equipped with all the tools to stand out in the digital world. With your sleek SSL certificate and lightning-fast CDN, you have built a solid foundation to impress and engage your visitors. Now it’s time to start customizing, creating, and bringing your vision to life. Get ready to take on the internet!
