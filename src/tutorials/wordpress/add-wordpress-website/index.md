@@ -98,7 +98,7 @@ It’s time to claim your corner of the web using Route 53. Follow these steps t
 Once your stack is up and running, it’s time to explore! Head to your browser and paste your website URL — your WordPress site is live and ready for action!
 
 !!!Note:
-If you're unsure of the URL you used for your stack, simply head to CloudFormation, click on the **Outputs** tab, locate the **WebsiteUrl**, and either click it or copy it to your browser.
+Ensure you use `http://` instead of `https://` when accessing your site.
 !!!
 
 In [Part 2](/tutorials/add-wordpress-website-part-2/), we’ll focus on enhancing your site’s performance by adding a lightning-fast CDN. This step will supercharge your website, ensuring faster load times and an optimized user experience for visitors around the world.
