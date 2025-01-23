@@ -64,10 +64,33 @@ Optional but useful for organizing resources.
 
 Double-check everything and hit <span class="text-orange">**Submit**</span>.
 
+## Update Record
+
+1. Go to **Route 53** by searching for it in the Services menu.
+
+2. Under **Hosted Zones**, select the domain you created earlier.
+
+3. Select your domain and click on <span class="text-orange">**Edit Record**</span>.
+
+<!-- <p><img src="/static/images/common/route-53/create-record-bar.jpg" alt="WordPress Pro create record bar" style="width: 90%;"></p> -->
+
+4. Update the **Record Type** to **A - Routes traffic to an IPv4 address and some AWS resources**
+
+5. Enable **Alias** and link it to your CloudFront distribution.
+
+!!!
+**Pro Tip:** Confirm the correct CloudFront distribution by matching its domain name in the CloudFront dashboard.
+!!!
+
+6. Under **Route traffic to** select **Alias to CloudFront distribution**.
+
+7. Select the corresponding CloudFront distribution.
+
+8. Click  <span class="text-orange">**Save**</span> and allow about 60 seconds for the changes to take effect.
 
 ## Access your CMS
 
-Now it’s time to log into your WordPress dashboard and start building your website! Here’s how:
+Now it's time to log into your WordPress dashboard and start building your website! Here's how:
 
 1. Open your browser and paste the WebsiteURL to see your WordPress front-end website live.
 
@@ -75,7 +98,7 @@ Now it’s time to log into your WordPress dashboard and start building your web
 
 <hr>
 
-**Congratulations, you did it!** Your website is now fully optimized — blazing fast, secure, and equipped with all the tools to stand out in the digital world. With your sleek SSL certificate and lightning-fast CDN, you have built a solid foundation to impress and engage your visitors. Now it’s time to start customizing, creating, and bringing your vision to life. Get ready to take on the internet!
+**Congratulations, you did it!** Your website is now fully optimized — blazing fast, secure, and equipped with all the tools to stand out in the digital world. With your sleek SSL certificate and lightning-fast CDN, you have built a solid foundation to impress and engage your visitors. Now it's time to start customizing, creating, and bringing your vision to life. Get ready to take on the internet!
 
 
 <!-- ## Access your CMS
