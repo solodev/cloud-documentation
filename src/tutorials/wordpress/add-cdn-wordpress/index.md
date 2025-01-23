@@ -72,21 +72,19 @@ Double-check everything and hit <span class="text-orange">**Submit**</span>.
 
 3. Select your domain and click on <span class="text-orange">**Edit Record**</span>.
 
-<!-- <p><img src="/static/images/common/route-53/create-record-bar.jpg" alt="WordPress Pro create record bar" style="width: 90%;"></p> -->
-
 4. Update the **Record Type** to **A - Routes traffic to an IPv4 address and some AWS resources**
 
-5. Enable **Alias** and link it to your CloudFront distribution.
-
-!!!
-**Pro Tip:** Confirm the correct CloudFront distribution by matching its domain name in the CloudFront dashboard.
-!!!
+5. Enable **Alias**.
 
 6. Under **Route traffic to** select **Alias to CloudFront distribution**.
 
 7. Select the corresponding CloudFront distribution.
 
-8. Click  <span class="text-orange">**Save**</span> and allow about 60 seconds for the changes to take effect.
+8. Click <span class="text-orange">**Save**</span> and allow about 60 seconds for the changes to take effect.
+
+!!!
+**Pro Tip:** Confirm the correct CloudFront distribution by matching its domain name in the CloudFront dashboard.
+!!!
 
 ## Access your CMS
 
