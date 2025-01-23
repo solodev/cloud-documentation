@@ -52,7 +52,7 @@ Name   | Description
 ---    | ---
 CloudFront Certificate ARN | The AWS Certification Manager certificate ARN for the CloudFront distribution certificate. To find the certificate navigate to **Certificate Manager,** click on the respective domain name and copy the **ARN.**
 Website Domain Name | The domain name of the Wordpress website (e.g. example.com).
-CMS DNS Name | The Wordpress DNS or IP used to login. To find the DNS navigate to **EC2,** click on the respective instance and copy the **Public IPv4 DNS.**
+CMS DNS Name | The Wordpress DNS or IP used to login. To find the DNS navigate to CloudFormation, locate your WordPress instance,  click on the Outputs tab, and copy the **AdminUrl.**
 
 ### Step 4: Configure stack options
 
@@ -64,29 +64,19 @@ Optional but useful for organizing resources.
 
 Double-check everything and hit <span class="text-orange">**Submit**</span>.
 
-## Add Cloudfront
 
-Coming soon...
-
-<!-- ## Access your CMS
+## Access your CMS
 
 Now it’s time to log into your WordPress dashboard and start building your website! Here’s how:
 
-1. Head over to **CloudFormation** by typing it into the search bar in your AWS Management Console.
+1. Open your browser and paste the WebsiteURL to see your WordPress front-end website live.
 
-2. Select your WordPress stack from the list.
+2. For full control simply add `/wp-admin` to your URL and log in using the credentials listed in the Outputs tab.
 
-3. Navigate to the **Outputs** tab, where you'll find the essential details. Copy the **WebsiteURL** value — this is your ticket to your new website.-->
+<hr>
 
-<!-- <p><img src="/static/images/wordpress/wordpress-stack-outputs.jpg" alt="WordPress Pro Stack Outputs" style="width: 62%;"></p> -->
+**Congratulations, you did it!** Your website is now fully optimized — blazing fast, secure, and equipped with all the tools to stand out in the digital world. With your sleek SSL certificate and lightning-fast CDN, you have built a solid foundation to impress and engage your visitors. Now it’s time to start customizing, creating, and bringing your vision to life. Get ready to take on the internet!
 
-<!-- 4. Open your browser and paste the WebsiteURL to see your WordPress front-end website live.
-
-5. For full control simply add `/wp-admin` to your URL and log in using the credentials listed in the Outputs tab. -->
-
-<!-- <hr> -->
-
-<!-- **Congratulations, you did it!** Your website is now fully optimized — blazing fast, secure, and equipped with all the tools to stand out in the digital world. With your sleek SSL certificate and lightning-fast CDN, you have built a solid foundation to impress and engage your visitors. Now it’s time to start customizing, creating, and bringing your vision to life. Get ready to take on the internet! -->
 
 <!-- ## Access your CMS
 
