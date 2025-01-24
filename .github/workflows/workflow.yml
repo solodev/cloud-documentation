@@ -24,6 +24,9 @@ jobs:
     #   run: |
     #     sed -i 's@v=1@v='"$TAG_VERSION"'@' src/_includes/head.html
         
+    - name: Install Retype
+      run: dotnet tool install --global retypeapp
+
     - name: Retype Build
       uses: retypeapp/action-build@latest
       id: build
