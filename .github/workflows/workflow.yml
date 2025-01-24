@@ -6,11 +6,11 @@ on:
       - 'v*'
 jobs:
   deploy:
-    runs-on: ubuntu-24.04
+    runs-on: ubuntu-22.04
     permissions:
       contents: write
     steps:
-    - uses: actions/checkout@v4
+    - uses: actions/checkout@latest
 
     - name: Get the current tag
       id: get_tag
