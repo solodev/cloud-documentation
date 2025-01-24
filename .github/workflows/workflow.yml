@@ -14,15 +14,15 @@ jobs:
     steps:
     - uses: actions/checkout@v3
 
-    - name: Get the current tag
-      id: get_tag
-      run: |
-        TAG_VERSION=$(git describe --tags)
-        echo "TAG_VERSION=$TAG_VERSION" >> $GITHUB_ENV
+    # - name: Get the current tag
+    #   id: get_tag
+    #   run: |
+    #     TAG_VERSION=$(git describe --tags)
+    #     echo "TAG_VERSION=$TAG_VERSION" >> $GITHUB_ENV
 
-    - name: Update CSS version
-      run: |
-        sed -i 's@v=1@v='"$TAG_VERSION"'@' src/_includes/head.html
+    # - name: Update CSS version
+    #   run: |
+    #     sed -i 's@v=1@v='"$TAG_VERSION"'@' src/_includes/head.html
         
     - name: Retype Build
       uses: retypeapp/action-build@latest
