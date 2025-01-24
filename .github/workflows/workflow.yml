@@ -13,6 +13,7 @@ jobs:
       contents: write
     steps:
     - uses: actions/checkout@v3
+    - uses: actions/setup-dotnet@v4
 
     # - name: Get the current tag
     #   id: get_tag
@@ -23,16 +24,12 @@ jobs:
     # - name: Update CSS version
     #   run: |
     #     sed -i 's@v=1@v='"$TAG_VERSION"'@' src/_includes/head.html
-    - name: Setup .NET
-      uses: actions/setup-dotnet@v3
-      with:
-        dotnet-version: '8.0.x'
 
     - name: Retype Build
       uses: retypeapp/action-build@latest
       id: build
       with:
-        config: retype.yml
+        strict: true
         license: "${{ secrets.RETYPE_LICENSE_KEY }}"
 
     - name: Configure AWS Credentials
