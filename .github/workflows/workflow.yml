@@ -2,11 +2,13 @@ name: Deploy to S3
 
 on:
   push:
+    branches:
+      - master
     # tags:
     #   - 'v*'
 jobs:
   deploy:
-    runs-on: ubuntu-22.04
+    runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
