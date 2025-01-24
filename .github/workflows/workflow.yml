@@ -12,7 +12,7 @@ jobs:
     permissions:
       contents: write
     steps:
-    - uses: actions/checkout@v3
+    - uses: actions/checkout@v2
 
     # - name: Get the current tag
     #   id: get_tag
@@ -23,15 +23,23 @@ jobs:
     # - name: Update CSS version
     #   run: |
     #     sed -i 's@v=1@v='"$TAG_VERSION"'@' src/_includes/head.html
-        
+    - name: Setup .NET
+      uses: actions/setup-dotnet@v2
+      with:
+        dotnet-version: '7.0.x'
+
     - name: Install Retype
       run: dotnet tool install --global retypeapp
 
     - name: Retype Build
-      uses: retypeapp/action-build@latest
-      id: build
-      with:
-        license: "${{ secrets.RETYPE_LICENSE_KEY }}"
+      run: |
+        retype build --verbose --secret ${{ secrets.RETYPE_LICENSE_KEY }}
+
+    # - name: Retype Build
+    #   uses: retypeapp/action-build@latest
+    #   id: build
+    #   with:
+    #     license: "${{ secrets.RETYPE_LICENSE_KEY }}"
 
     - name: Configure AWS Credentials
       uses: aws-actions/configure-aws-credentials@v4
