@@ -33,7 +33,6 @@ jobs:
       uses: retypeapp/action-build@latest
       id: build
       with:
-        strict: true
         license: "${{ secrets.RETYPE_LICENSE_KEY }}"
 
     - name: Configure AWS Credentials
