@@ -113,4 +113,4 @@ Once your stack is up and running, it’s time to explore! Head to your browser 
 Ensure you use `http://` instead of `https://` when accessing your site.
 !!!
 
-In [Part 2](/tutorials/add-wordpress-website-part-2/), we’ll focus on enhancing your site’s performance by adding a lightning-fast CDN. This step will supercharge your website, ensuring faster load times and an optimized user experience for visitors around the world.
+In [Part 2](/tutorials/wordpress/add-cdn-wordpress/), we’ll focus on enhancing your site’s performance by adding a lightning-fast CDN. This step will supercharge your website, ensuring faster load times and an optimized user experience for visitors around the world.
