@@ -72,7 +72,7 @@ Time to give your domain the VIP treatment with a shiny new certificate! Here’
 
 <p><img src="/static/images/common/certificate/request-certificate-name.jpg" alt="Certificate Name" style="width: 80%;"></p>
 
-5. GPat yourself on the back and click <span class="text-orange">**Next**</span>. Your certificate request is in motion!
+5. Pat yourself on the back and click <span class="text-orange">**Next**</span>. Your certificate request is in motion!
 
 ## Step 4: Add a CDN
 

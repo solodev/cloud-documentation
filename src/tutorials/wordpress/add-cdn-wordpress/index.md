@@ -14,11 +14,21 @@ First, let’s make your site secure. An SSL/TLS certificate protects your websi
 
 <p><img src="/static/images/common/certificate/request-certificate-type.jpg" alt="Certificate Type" style="width: 80%;"></p>
 
-4. Drop in your domain name (e.g., `example.com`). Want to cover all your subdomains? Use `*.example.com` for wildcard coverage.
+4. Drop in your domain name (e.g., `example.com`). 
+
+5. Click on **Add another name for this certificate** and add your domain with `*.` in front like (e.g., `*.example.com`).
 
 <p><img src="/static/images/common/certificate/request-certificate-name.jpg" alt="Certificate Name" style="width: 80%;"></p>
 
-5. Give yourself a high-five and hit <span class="text-orange">**Next**</span>.
+5. Hit <span class="text-orange">**Next**</span>.
+
+6. Click **Create records in Route 53** to validate your domain.
+
+<!-- <p><img src="/static/images/common/certificate/create-record.jpg" alt="Create records in Route 53 bar" style="width: 80%;"></p> -->
+
+7. Hit the <span class="text-orange">**Create record**</span> button.
+
+8. AWS is in the process of generating your certificate. This may take about 10 minutes.
 
 ## Add a CDN
 
