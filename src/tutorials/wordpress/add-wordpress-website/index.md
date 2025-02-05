@@ -61,7 +61,7 @@ Give your stack a name (get creative or keep it simple), then fill in the setup 
 ### Step 3: Fine-tune your settings
 
 #### Network Settings:
-Choose your VPCID, PublicSubnet1ID, PublicSubnet2ID, and KeyName from the dropdowns. Need a refresher? You can [learn more about these here](/quickstart/cms/wordpress/#parameters).
+Choose your VPCID, PublicSubnet1ID, PublicSubnet2ID, and KeyName from the dropdowns.
 
 <p><img src="/static/images/wordpress/wordpress-params-setup.jpg" alt="WordPress Pro params setup" style="width: 50%;"></p>
 
@@ -69,11 +69,6 @@ Choose your VPCID, PublicSubnet1ID, PublicSubnet2ID, and KeyName from the dropdo
 Set up the essentials like your AdminPassword, DatabasePassword, WebsiteURL, and Webmaster. Think of this as laying the groundwork for your site’s security and accessibility.
 
 <p><img src="/static/images/wordpress/wordpress-settings.jpg" alt="WordPress Pro Settings" style="width: 50%;"></p>
-
-#### SSO:
-If you want to integrate Single Sign-On (SSO) for a smoother login experience, now’s your chance! While optional, this step can make managing access a breeze.
-
-<p><img src="/static/images/wordpress/wordpress-optional-settings.jpg" alt="WordPress Pro Optional Settings" style="width: 40%;"></p>
 
 ### Step 4: Configure stack options
 This part is totally optional, so feel free to skip or explore as needed. If you’d like more details, [check out this guide](/quickstart/cms/wordpress/#configure-stack-options). Once you're ready, acknowledge the AWS CloudFormation terms, and hit <span class="text-orange">**Next**</span> to set things in motion!
