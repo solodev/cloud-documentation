@@ -71,11 +71,6 @@ Set up the essentials like your AdminPassword, DatabasePassword, WebsiteURL, and
 
 <!-- <p><img src="/static/images/wordpress/wordpress-settings.jpg" alt="WordPress Pro Settings" style="width: 50%;"></p> -->
 
-#### SSO:
-If you want to integrate Single Sign-On (SSO) for a smoother login experience, now’s your chance! While optional, this step can make managing access a breeze.
-
-<!-- <p><img src="/static/images/wordpress/wordpress-optional-settings.jpg" alt="WordPress Pro Optional Settings" style="width: 40%;"></p> -->
-
 ### Step 4: Configure stack options
 This part is totally optional, so feel free to skip or explore as needed. If you’d like more details, [check out this guide](/quickstart/cms/drupal/#configure-stack-options). Once you're ready, acknowledge the AWS CloudFormation terms, and hit <span class="text-orange">**Next**</span> to set things in motion!
 
@@ -114,4 +109,4 @@ Once your stack is up and running, it’s time to explore! Head to your browser 
 Ensure you use `http://` instead of `https://` when accessing your site.
 !!!
 
-<!-- In [Part 2](/tutorials/add-wordpress-website-part-2/), we’ll focus on enhancing your site’s performance by adding a lightning-fast CDN. This step will supercharge your website, ensuring faster load times and an optimized user experience for visitors around the world. -->
+In [Part 2](/tutorials/drupal/add-drupal-website/), we’ll focus on enhancing your site’s performance by adding a lightning-fast CDN. This step will supercharge your website, ensuring faster load times and an optimized user experience for visitors around the world.
