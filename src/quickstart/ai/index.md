@@ -23,10 +23,10 @@ Secure, scalable, and home to the most advanced services, from AI to IoT. Build 
   </div>
   <div class="col">
     <div class="card text-center">
-      <img src="/static/images/logos/amazonq-logo.png" alt="Amazon Q Logo">
-      <h3>Amazon Q</h3>
-      <p class="content">Workplace AI assistant using Amazon Titan and GPT to automate tasks like coding, data analysis, and more.</p>
-      <p style="margin-bottom: 10px;"><a href="/quickstart/ai/amazon-q">INSTALL</a></p>
+      <img src="/static/images/logos/hugging-face-icon.png" alt="Hugging Face Logo">
+      <h3>Hugging Face</h3>
+      <p class="content">An open-source platform for building and deploying AI models with 30,000+ datasets.</p>
+      <p style="margin-bottom: 10px;"><a href="/quickstart/ai/hugging-face">INSTALL</a></p>
     </div>
   </div>
   <div class="col">

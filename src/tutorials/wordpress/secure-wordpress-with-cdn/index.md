@@ -1,4 +1,4 @@
-Welcome to Part 2 of your WordPress website journey! In this section, we’ll explore the power of a Content Delivery Network (CDN). A CDN is a network of servers spread across the globe, designed to deliver your website’s content faster by storing copies of it closer to your visitors. This means they won’t have to wait as long for your site to load. By adding a CDN to your WordPress site, you'll boost load times, enhance security, and ensure smooth performance for your audience. It’s an essential tool for anyone looking to improve site speed and user experience!
+Welcome to Part 2 of your WordPress website journey! In [Part 1](/tutorials/wordpress/launch-wordpress-website-in-aws/), we launched a WordPress site on AWS. Now, we’ll explore how to enhance your site’s speed and security with a Content Delivery Network (CDN). A CDN improves performance by distributing your site’s content across global servers, ensuring faster load times for visitors regardless of location. Let’s dive into optimizing your WordPress site for a smoother, more secure user experience!
 
 ## Request your certificate
 

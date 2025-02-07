@@ -1,4 +1,6 @@
-Excited to bring your own Drupal-powered website to life? This guide will walk you through the steps of **creating a hosted zone** to establish your domain, **launching Drupal**, **connecting your domain**, and finally, **accessing your Drupal instance** to start building your site. Let’s get started!
+Launching a Drupal website on AWS unlocks the full potential of this highly customizable content management system. Known for its flexibility and advanced features, Drupal is perfect for creating dynamic, content-rich websites and applications. Hosting on AWS provides the scalability and reliability needed to support complex site architectures and heavy traffic loads. With AWS, you can seamlessly deploy, manage, and optimize your Drupal environment while benefiting from secure infrastructure and global reach, making it an excellent solution for developers and organizations seeking robust digital experiences.
+
+Ready to launch your own Drupal website? In this guide, we’ll take you through the process of setting up your domain with a **hosted zone**, **deploying Drupal on AWS**, **linking your domain**, and **accessing your site** to begin customization. Let’s dive in and get your site up and running!
 
 ## Create a hosted zone
 
@@ -109,4 +111,4 @@ Once your stack is up and running, it’s time to explore! Head to your browser 
 Ensure you use `http://` instead of `https://` when accessing your site.
 !!!
 
-In [Part 2](/tutorials/drupal/add-drupal-website/), we’ll focus on enhancing your site’s performance by adding a lightning-fast CDN. This step will supercharge your website, ensuring faster load times and an optimized user experience for visitors around the world.
+In [Part 2](/tutorials/drupal/secure-drupal-with-cdn/), we’ll focus on enhancing your site’s performance by adding a lightning-fast CDN. This step will supercharge your website, ensuring faster load times and an optimized user experience for visitors around the world.

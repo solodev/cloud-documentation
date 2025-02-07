@@ -1,3 +1,5 @@
+Launching a WordPress Pro website on AWS combines the power of one of the world’s most popular website platforms with the flexibility and scalability of cloud hosting. AWS offers a reliable, secure environment that can handle everything from small blogs to high-traffic business sites. By deploying WordPress Pro on AWS, you gain greater control over your site’s infrastructure, faster load times, and the ability to scale as your audience grows. Whether you're a beginner or a developer, AWS provides the tools you need to build a robust and efficient WordPress Pro site.
+
 Ready to embark on the journey to your very own WordPress-powered website? In this guide, we’ll start by **creating a hosted zone** — staking your claim in the digital world. Then, we’ll move on to **launching WordPress**, **pointing your domain**, and finally, **accessing your WordPress instance** to bring your vision to life. Let’s dive in!
 
 ## Create a hosted zone
@@ -108,4 +110,4 @@ Once your stack is up and running, it’s time to explore! Head to your browser 
 Ensure you use `http://` instead of `https://` when accessing your site.
 !!!
 
-In [Part 2](/tutorials/wordpress/add-cdn-wordpress/), we’ll focus on enhancing your site’s performance by adding a lightning-fast CDN. This step will supercharge your website, ensuring faster load times and an optimized user experience for visitors around the world.
+In [Part 2](/tutorials/wordpress/secure-wordpress-with-cdn/), we’ll focus on enhancing your site’s performance by adding a lightning-fast CDN. This step will supercharge your website, ensuring faster load times and an optimized user experience for visitors around the world.
