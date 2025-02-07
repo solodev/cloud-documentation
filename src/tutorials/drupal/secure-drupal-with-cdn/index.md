@@ -1,4 +1,4 @@
-Welcome to your next exciting challenge! Today, we’re exploring the power of a Content Delivery Network (CDN). A CDN is a network of servers spread across the globe, designed to deliver your website’s content faster by storing copies of it closer to your visitors. This means they won’t have to wait as long for your site to load. By adding a CDN to your Drupal site, you'll boost load times, enhance security, and ensure smooth performance for your audience. It’s an essential tool for anyone looking to improve site speed and user experience!
+Welcome to Part 2 of your Drupal website journey! In [Part 1](/tutorials/drupal/launch-drupal-website-in-aws/), we deployed Drupal on AWS. Now, we’ll take the next step in boosting your site's performance and security by integrating a Content Delivery Network (CDN). A CDN accelerates content delivery by caching your website on servers around the globe, providing faster load times for visitors everywhere. Let’s dive into optimizing your Drupal site for an enhanced user experience and increased protection!
 
 ## Request your certificate
 
