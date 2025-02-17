@@ -111,23 +111,7 @@ DatabasePassword | The database root password.
 WebsiteUrl | The website address to which your WordPress app will be pointed. If you're unsure, leave this field blank and update it later in the WordPress settings.
 Webmaster | The email address of the WordPress admin, also used as the webmaster's email for SSL certificates. Must be a valid email address.
 
-3. Optional: SSO.
-
-<p><img src="/static/images/wordpress/wordpress-optional-settings.jpg" alt="WordPress Pro Optional Settings" style="width: 50%;"></p>
-
-Name   | Description
----    | ---
-SsoClientId | The client ID registered with your OpenID Connect (OIDC) provider.
-SsoClientSecret | The client secret associated with the registered client ID at your OpenID Connect (OIDC) provider.
-SsoAuthorizeUrl | The authorization URL used for OpenID Connect authentication requests. This value can be found in the provider's Well-Known Configuration Endpoint endpoint under the "authorization_endpoint" field.
-SsoAccessToken | The endpoint URL for obtaining the access token in the OpenID Connect flow. This value can be found in the provider's Well-Known Configuration Endpoint endpoint under the "token_endpoint" field.
-SsoResourceOwner | The URL to retrieve user information from the OpenID Connect provider. This value can be found in the provider's Well-Known Configuration Endpoint endpoint under the "userinfo_endpoint" field.
-SsoApiToken | The API token used when connecting your WordPress app to Solodev Cloud. If you are not using Solodev Cloud, you can leave this empty. To find your API token, go to your Profile and click on "API Tokens."
-SsoScope | The scope that define the permissions requested during the OpenID Connect authentication. Specify the scopes separated by spaces. This app requires at least the following scopes: "openid email profile roles."
-SsoRedirectUri | The URI where users will be redirected after successful authentication. For this integration, it must be set to [https://your-wordpress-domain.com/wp-json/wp_SSO/login](https://your-wordpress-domain.com/wp-json/wp_SSO/login).
-SsoKeySet | The URL where the public keys for verifying the OpenID Connect tokens are hosted. This value can be found in the provider's Well-Known Configuration Endpoint endpoint under the "jwks_uri" field.
-
-4. Click <span class="text-orange">**Next**</span>.
+3. Click <span class="text-orange">**Next**</span>.
 
 #### Configure Stack Options
 

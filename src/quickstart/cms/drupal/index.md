@@ -116,18 +116,7 @@ DatabaseUsername | The database admin account username.
 DatabasePassword | The database root password.
 WebsiteUrl | Name of initial Drupal website.
 
-3. Optional: SSO.
-
-<p><img src="/static/images/drupal/drupal-optional-settings.jpg" alt="Drupal Pro Optional Settings" style="width: 24%;"></p>
-
-Name   | Description
----    | ---
-SsoBaseUrl | Base URL of your OpenID Server.
-SsoClientId | Unique identifier assigned to a client application that is registered with an AWS Single Sign-On (SSO) service, used to authenticate and authorize the application to access SSO resources.
-SsoClientSecret | Confidential key assigned to a client application registered with an AWS Single Sign-On (SSO) service, used in conjunction with the SSO Client ID to authenticate the application and secure access to SSO resources.
-SsoRealm | Security component that manages user authentication across multiple applications within a defined domain.
-
-4. Click <span class="text-orange">**Next**</span>.
+3. Click <span class="text-orange">**Next**</span>.
 
 #### Configure Stack Options
 

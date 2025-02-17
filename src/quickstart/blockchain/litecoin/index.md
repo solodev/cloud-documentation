@@ -107,18 +107,6 @@ AdminUser | The admin username to login onto your Litecoin.
 AdminPassword | The admin password to login onto your Litecoin.
 RestoreBucketName | Name of S3 bucket containing files for restore.
 
-3. Litecoin SSO (Optional).
-
-<p><img src="/static/images/dogecoin/dogecoin-sso.jpg" alt="Litecoin Pro SSO Settings" style="width: 40%;"></p>
-
-Name   | Description
----    | ---
-SsoBaseUrl | Base URL of your OpenID Server.
-SsoClientId | Unique identifier assigned to a client application that is registered with an AWS Single Sign-On (SSO) service, used to authenticate and authorize the application to access SSO resources.
-SsoClientSecret | Confidential key assigned to a client application registered with an AWS Single Sign-On (SSO) service, used in conjunction with the SSO Client ID to authenticate the application and secure access to SSO resources.
-SsoRealm | Security component that manages user authentication across multiple applications within a defined domain.
-CustomAMI | Create a custom AMI.
-
 3. Click <span class="text-orange">**Next**</span>.
 
 #### Configure Stack Options
