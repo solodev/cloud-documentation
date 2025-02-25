@@ -5,9 +5,10 @@
     <img src="/static/images/logos/grok-logo.png" alt="Grok Logo">
     <div>
       <h1>Grok</h1>
-      <p style="padding-left: 2rem; margin-bottom: 0;">Grok is an AI chatbot developed by xAI that provides real-time responses while integrating with the X platform to access live information.</p>
+      <p style="padding-left: 2rem; margin-bottom: 0;">Grok is an AI chatbot developed by xAI that provides real-time responses <br>while integrating with the X platform to access live information.</p>
     </div>
   </div>
+  <button class="btn-orange-lg" disabled>COMING SOON</button>
 </div>
 
 <style>

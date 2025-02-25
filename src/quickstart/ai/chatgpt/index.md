@@ -5,9 +5,10 @@
     <img src="/static/images/logos/chatgpt-logo.png" alt="ChatGPT Logo">
     <div>
       <h1>ChatGPT</h1>
-      <p style="padding-left: 2rem; margin-bottom: 0;">Developed by OpenAI, ChatGPT is the leading conversational chatbot for natural language applications like answering questions.</p>
+      <p style="padding-left: 2rem; margin-bottom: 0;">Developed by OpenAI, ChatGPT is the leading conversational chatbot for natural <br>language applications like answering questions.</p>
     </div>
   </div>
+  <button class="btn-orange-lg" disabled>COMING SOON</button>
 </div>
 
 <style>

@@ -5,9 +5,10 @@
     <img src="/static/images/logos/hugging-face-icon.png" alt="Hugging Face Logo">
     <div>
       <h1>Hugging Face</h1>
-      <p style="padding-left: 2rem; margin-bottom: 0;">An open source platform for building, deploying, and training AI models with over 30,000 datasets, collaborative spaces, libraries, and more.</p>
+      <p style="padding-left: 2rem; margin-bottom: 0;">An open source platform for building, deploying, and training AI models with over 30,000 <br>datasets, collaborative spaces, libraries, and more.</p>
     </div>
   </div>
+  <button class="btn-orange-lg" disabled>COMING SOON</button>
 </div>
 
 An open source platform for building, deploying, and training AI models with over 30,000 datasets, collaborative spaces, libraries, and more.
