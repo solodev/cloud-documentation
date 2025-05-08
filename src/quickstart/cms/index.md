@@ -4,8 +4,8 @@
   <div class="inner">
     <img src="/static/images/icons/icons-thin-cms.svg" alt="Solodev Logo">
     <div>
-      <h1>CMS</h1>
-      <p style="padding-left: 2rem; margin-bottom: 0;">Build websites with hybrid headless features.</p>
+      <h1 style="color: #222;">CMS</h1>
+      <p style="padding-left: 2rem; margin-bottom: 0; color: #222;">Build websites with hybrid headless features.</p>
     </div>
   </div>
 </div>

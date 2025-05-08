@@ -4,8 +4,8 @@
   <div class="inner">
     <img src="/static/images/logos/cdn.png" alt="CDN Logo">
     <div>
-      <h1>CDN</h1>
-      <p style="padding-left: 2rem; margin-bottom: 0;">Protect websites and apps with CDN.</p>
+      <h1 style="color: #222;">CDN</h1>
+      <p style="padding-left: 2rem; margin-bottom: 0; color: #222;">Protect websites and apps with CDN.</p>
     </div>
   </div>
 </div>

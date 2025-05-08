@@ -4,8 +4,8 @@
   <div class="inner">
     <img src="/static/images/icons/icon-ai.svg" alt="AI Icon">
     <div>
-      <h1>AI</h1>
-      <p style="padding-left: 2rem; margin-bottom: 0;">Deploy with containers and serverless on AWS.</p>
+      <h1 style="color: #222;">AI</h1>
+      <p style="padding-left: 2rem; margin-bottom: 0; color: #222;">Deploy with containers and serverless on AWS.</p>
     </div>
   </div>
 </div>

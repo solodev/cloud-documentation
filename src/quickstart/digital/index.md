@@ -4,8 +4,8 @@
   <div class="inner">
     <img src="/static/images/icons/icon-digital.svg" alt="Digital Icon">
     <div>
-      <h1>Digital</h1>
-      <p style="padding-left: 2rem; margin-bottom: 0;">Develop your next digital strategy with secure identity solutions and access best-of-breed martech, digital advertising, and payment processing apps.</p>
+      <h1 style="color: #222;">Digital</h1>
+      <p style="padding-left: 2rem; margin-bottom: 0; color: #222;">Develop your next digital strategy with secure identity solutions and access best-of-breed martech, digital advertising, and payment processing apps.</p>
     </div>
   </div>
 </div>

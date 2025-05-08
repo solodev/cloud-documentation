@@ -4,8 +4,8 @@
   <div class="inner">
     <img src="/static/images/logos/google-play.png" alt="Google Play Logo">
     <div>
-      <h1>Play Store Help Desk</h1>
-      <p style="padding-left: 2rem; margin-bottom: 0;">Get help with your Android mobile app and Google Play store listing.</p>
+      <h1 style="color: #222;">Play Store Help Desk</h1>
+      <p style="padding-left: 2rem; margin-bottom: 0; color: #222;">Get help with your Android mobile app and Google Play store listing.</p>
     </div>
   </div>
   <button class="btn-orange-lg" disabled>COMING SOON</button>

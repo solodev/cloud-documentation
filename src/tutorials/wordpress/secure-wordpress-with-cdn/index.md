@@ -98,6 +98,10 @@ Double-check everything and hit <span class="text-orange">**Submit**</span>.
 **Pro Tip:** Confirm the correct CloudFront distribution by matching its domain name in the CloudFront dashboard.
 !!!
 
+!!! warning Note:
+If your domain starts with www (e.g., `www.example.com`) and you want the root domain (`example.com`) to redirect to your website with www, or vice versa, create a new record. Leave the record name empty, and follow the same procedure as before: set the record type to A, choose alias, and select your CloudFront distribution.
+!!!
+
 ## Access your CMS
 
 Now it's time to log into your WordPress dashboard and start building your website! Here's how:

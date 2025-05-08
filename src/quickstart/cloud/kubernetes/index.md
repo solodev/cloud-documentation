@@ -1,11 +1,10 @@
 # 
-
-<div style="display: flex; align-items: center; justify-content: space-between; padding: 2rem 1.5rem; margin-bottom: 2rem; background-color: #eef6ff;">
-  <div  style="display: flex; align-items: center; justify-content: start;">
-    <img src="/static/images/logos/kubernetes-pro-logo.jpg" alt="Kubernetes Logo" style="width: 80px;">
+<div class="header">
+  <div class="inner">
+    <img src="/static/images/logos/kubernetes-pro-logo.jpg" alt="Kubernetes Logo">
     <div>
-      <h1 style="margin-left: 0; font-size: 2rem; margin-bottom: 0.25rem;">Kubernetes</h1>
-      <p style="padding-left: 2rem; margin-bottom: 0;">Deploy websites and apps in containers at scale with Kubernetes and AWS.</p>
+      <h1 style="color: #222;">Kubernetes</h1>
+      <p style="padding-left: 2rem; margin-bottom: 0; color: #222;">Deploy websites and apps in containers at scale with Kubernetes and AWS.</p>
     </div>
   </div>
 </div>

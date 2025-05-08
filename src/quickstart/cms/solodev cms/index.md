@@ -4,8 +4,8 @@
   <div class="inner">
     <img src="/static/images/logo.png" alt="Solodev CMS Logo">
     <div>
-      <h1>Solodev CMS</h1>
-      <p style="padding-left: 2rem; margin-bottom: 0;">Create powerful, secure, and scalable experiences with Solodev CMS, <br>a trusted cloud-first, hybrid headless system.</p>
+      <h1 style="color: #222;">Solodev CMS</h1>
+      <p style="padding-left: 2rem; margin-bottom: 0; color: #222;">Create powerful, secure, and scalable experiences with Solodev CMS, <br>a trusted cloud-first, hybrid headless system.</p>
     </div>
   </div>
 </div>

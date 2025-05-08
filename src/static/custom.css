@@ -92,6 +92,11 @@ h3 .text-teal {
   padding: .4rem 2.2rem;
 }
 
+/* Dark Mode */
+.dark img.dark-mode {
+  filter: invert(1);
+}
+
 /* Media Queries */
 @media (min-width: 1450px) {
   .col {

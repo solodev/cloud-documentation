@@ -4,8 +4,8 @@
   <div class="inner">
     <img src="/static/images/logos/eks-anywhere-logo.jpg" alt="EKS Anywhere Logo">
     <div>
-      <h1>EKS-A Developer</h1>
-      <p style="padding-left: 2rem; margin-bottom: 0;">Development Environment for Kubernetes EKS-Anywhere</p>
+      <h1 style="color: #222;">EKS-A Developer</h1>
+      <p style="padding-left: 2rem; margin-bottom: 0; color: #222;">Development Environment for Kubernetes EKS-Anywhere</p>
     </div>
   </div>
   <button class="btn-orange-lg" disabled>COMING SOON</button>

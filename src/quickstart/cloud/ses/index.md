@@ -4,8 +4,8 @@
   <div class="inner">
     <img src="/static/images/logos/ses-logo.png" alt="SES Logo">
     <div>
-      <h1>SES</h1>
-      <p style="padding-left: 2rem; margin-bottom: 0;">Flexible, scalable, and cost-effective email service.</p>
+      <h1 style="color: #222;">SES</h1>
+      <p style="padding-left: 2rem; margin-bottom: 0; color: #222;">Flexible, scalable, and cost-effective email service.</p>
     </div>
   </div>
   <button class="btn-orange-lg" disabled>COMING SOON</button>

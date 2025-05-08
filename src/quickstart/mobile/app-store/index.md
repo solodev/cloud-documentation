@@ -4,8 +4,8 @@
   <div class="inner">
     <img src="/static/images/logos/apple-logo.png" alt="App Store Logo">
     <div>
-      <h1>App Store Help Desk</h1>
-      <p style="padding-left: 2rem; margin-bottom: 0;">Expert support for your iOS app and Apple App store listing.</p>
+      <h1 style="color: #222;">App Store Help Desk</h1>
+      <p style="padding-left: 2rem; margin-bottom: 0; color: #222;">Expert support for your iOS app and Apple App store listing.</p>
     </div>
   </div>
   <button class="btn-orange-lg" disabled>COMING SOON</button>

@@ -4,8 +4,8 @@
   <div class="inner">
     <img src="/static/images/icons/solodev-developer-icons-thin-mobile.svg" alt="Mobile Icon">
     <div>
-      <h1>Mobile</h1>
-      <p style="padding-left: 2rem; margin-bottom: 0;">Manage your mobile apps and listings with a cloud-based solution or scale your enterprise strategy with a turnkey service for publishing to the app stores.</p>
+      <h1 style="color: #222;">Mobile</h1>
+      <p style="padding-left: 2rem; margin-bottom: 0; color: #222;">Manage your mobile apps and listings with a cloud-based solution or scale your enterprise strategy with a turnkey service for publishing to the app stores.</p>
     </div>
   </div>
 </div>

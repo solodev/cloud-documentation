@@ -4,8 +4,7 @@
   <div class="inner">
     <img src="/static/images/icons/code-simple-thin.svg" alt="Code Icon">
     <div>
-      <h1>Developer</h1>
-      <!-- <p style="padding-left: 2rem; margin-bottom: 0;">Protect websites and apps with CDN.</p> -->
+      <h1 style="color: #222;">Developer</h1>
     </div>
   </div>
 </div>

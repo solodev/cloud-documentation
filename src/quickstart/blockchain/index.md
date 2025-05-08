@@ -4,8 +4,8 @@
   <div class="inner">
     <img src="/static/images/icons/solodev-developer-icons-thin-blockchain.svg" alt="Blockchain Icon">
     <div>
-      <h1>Blockchain</h1>
-      <p style="padding-left: 2rem; margin-bottom: 0;">Enterprise blockchain service with fast, trusted blockchain transactions and optimized for total cost of ownership.</p>
+      <h1 style="color: #222;">Blockchain</h1>
+      <p style="padding-left: 2rem; margin-bottom: 0; color: #222;">Enterprise blockchain service with fast, trusted blockchain transactions and optimized for total cost of ownership.</p>
     </div>
   </div>
 </div>
@@ -110,6 +110,7 @@
     margin-left: 0;
     font-size: 2rem;
     margin-bottom: 0.25rem;
+    color: #222;
   }
   .header p {
     padding-left: 2rem;
