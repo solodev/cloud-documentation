@@ -1,4 +1,4 @@
 order: 195
-icon: "/static/images/logos/keycloak-logo.png"
-description: "Keycloak provides user federation, strong authentication, user management, fine-grained authorization, and more"
+icon: "/static/images/logos/mcp-logo.png"
+description: "MCP provides standardized AI-to-system integration, secure data access, tool orchestration, and context management for LLMs"
 title: "MCP"
