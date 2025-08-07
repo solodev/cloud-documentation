@@ -18,7 +18,7 @@ Google Search Console offers tools and reports to help you measure your site's s
 
 ## Installation
 
-1. Go to **Google Search Console** and login to your account. If you don't have one, [create a new account](https://search.google.com/).
+1. Go to **Google Search Console** and login to your account. If you don't have one, [create a new account](https://accounts.google.com/signup).
 
 2. Click on the **Start now** button to add a new site, or **Add property** if you already have other sites.
 

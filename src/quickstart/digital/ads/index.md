@@ -19,7 +19,7 @@ Google is where people search for what to do, where to go, and what to buy. Your
 
 ## Installation
 
-1. Go to **Google Ads** and login to your account. If you don't have one, [create a new account](https://ads.google.com/).
+1. Go to **Google Ads** and login to your account. If you don't have one, [create a new account](https://accounts.google.com/signup).
 
 2. Set up your conversion tracking or remarketing list.
 

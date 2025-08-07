@@ -18,7 +18,7 @@ Tag management made easy. Google Tag Manager delivers simple, reliable, easily i
 
 ## Install GTM on your Website
 
-1. Go to Google Tag Manager and login to your account. If you don't have one, [create a new account](https://tagmanager.google.com/).
+1. Go to Google Tag Manager and login to your account. If you don't have one, [create a new account](https://accounts.google.com/signup).
 
 2. Set up a container for your website (e.g., "www.example.com").
 

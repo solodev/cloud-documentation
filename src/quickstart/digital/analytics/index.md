@@ -19,7 +19,7 @@ Measure your website traffic and evaluate the performance of your marketing, con
 
 ## Installation
 
-1. Go to **Google Analytics** and login to your account. If you don't have one, [create a new account](https://analytics.google.com/).
+1. Go to **Google Analytics** and login to your account. If you don't have one, [create a new account](https://accounts.google.com/signup).
 
 2. Create a property for your website by following the steps provided.
 
