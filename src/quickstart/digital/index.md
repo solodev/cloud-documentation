@@ -16,7 +16,7 @@
       <img src="/static/images/logos/tag-manager-logo.png" alt="Tag Manager Logo">
       <h3>Tag Manager</h3>
       <p class="content">Manage all your website's tags in one place</p>
-      <p style="margin-bottom: 10px;"><a href="/quickstart/digital/tag-manager/">INSTALL</a></p>
+      <p style="margin-bottom: 10px;"><a href="/quickstart/digital/tag-manager/" class="no-link">INSTALL</a></p>
     </div>
   </div>
   <div class="col">
@@ -24,7 +24,7 @@
       <img src="/static/images/logos/search-console-logo.svg" alt="Search Console Logo">
       <h3>Search Console</h3>
       <p class="content">Make your site shine in Google Search results</p>
-      <p style="margin-bottom: 10px;"><a href="/quickstart/digital/search-console/">INSTALL</a></p>
+      <p style="margin-bottom: 10px;"><a href="/quickstart/digital/search-console/" class="no-link">INSTALL</a></p>
     </div>
   </div>
   <div class="col">
@@ -32,7 +32,7 @@
       <img src="/static/images/logos/analytics-logo.jpg" alt="Analytics Logo">
       <h3>Analytics</h3>
       <p class="content">Analyze your website data with the world's leading analytics platform</p>
-      <p style="margin-bottom: 10px;"><a href="/quickstart/digital/analytics">INSTALL</a></p>
+      <p style="margin-bottom: 10px;"><a href="/quickstart/digital/analytics" class="no-link">INSTALL</a></p>
     </div>
   </div>
   <div class="col">
@@ -40,7 +40,7 @@
       <img src="/static/images/logos/ads-logo.jpg" alt="Ads Logo">
       <h3>Ads</h3>
       <p class="content">Get in front of customers when they’re searching for businesses like yours</p>
-      <p style="margin-bottom: 10px;"><a href="/quickstart/digital/ads">INSTALL</a></p>
+      <p style="margin-bottom: 10px;"><a href="/quickstart/digital/ads" class="no-link">INSTALL</a></p>
     </div>
   </div>
   <div class="col">
@@ -48,7 +48,7 @@
       <img src="/static/images/logos/customerio-logo.png" alt="Customer.io Logo">
       <h3>Customer.io</h3>
       <p class="content">Send data-driven emails, SMS, and push notifications with total control</p>
-      <p style="margin-bottom: 10px;"><a href="/quickstart/digital/customer.io">INSTALL</a></p>
+      <p style="margin-bottom: 10px;"><a href="/quickstart/digital/customer.io" class="no-link">INSTALL</a></p>
     </div>
   </div>
   <div class="col">
@@ -56,7 +56,7 @@
       <img src="/static/images/logos/swiftype-logo.svg" alt="Swiftype Logo">
       <h3>Swiftype</h3>
       <p class="content">Create custom search experiences to drive sales and conversions</p>
-      <p style="margin-bottom: 10px;"><a href="/quickstart/digital/swiftype">INSTALL</a></p>
+      <p style="margin-bottom: 10px;"><a href="/quickstart/digital/swiftype" class="no-link">INSTALL</a></p>
     </div>
   </div>
   <div class="col">
@@ -64,7 +64,7 @@
       <img src="/static/images/logos/recaptcha-logo.png" alt="reCAPTCHA Logo">
       <h3>reCAPTCHA</h3>
       <p class="content">Security service developed by Google to protect websites from spam and abuse</p>
-      <p style="margin-bottom: 10px;"><a href="/quickstart/digital/recaptcha">INSTALL</a></p>
+      <p style="margin-bottom: 10px;"><a href="/quickstart/digital/recaptcha" class="no-link">INSTALL</a></p>
     </div>
   </div>
 </div>

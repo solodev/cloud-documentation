@@ -15,7 +15,7 @@
       <img src="/static/images/logos/eks-anywhere-logo.jpg" alt="CloudFront Logo">
       <h3>EKS-A</h3>
       <p class="content">Development Environment for Kubernetes EKS-Anywhere</p>
-      <p style="margin-bottom: 10px;"><a href="/quickstart/developer/eks-a">INSTALL</a></p>
+      <p style="margin-bottom: 10px;"><a href="/quickstart/developer/eks-a" class="no-link">INSTALL</a></p>
     </div>
   </div>
 </div>

@@ -2,7 +2,7 @@
 
 <div class="header">
   <div class="inner">
-    <img src="/static/images/logo.png" alt="Solodev CMS Logo">
+    <img src="/static/images/solodev-logo.png" alt="Solodev CMS Logo">
     <div>
       <h1 style="color: #222;">Solodev CMS</h1>
       <p style="padding-left: 2rem; margin-bottom: 0; color: #222;">Create powerful, secure, and scalable experiences with Solodev CMS, <br>a trusted cloud-first, hybrid headless system.</p>
@@ -18,7 +18,7 @@ The enterprise CMS for AWS, Solodev gives you the freedom to bring the most imag
       <img src="/static/images/logos/enterprise-logo.jpg" alt="CMS Enterprise Logo">
       <h3>CMS Enterprise</h3>
       <p class="content">Develop enterprise websites and apps on a scalable, redundant CMS</p>
-      <p style="margin-bottom: 10px;"><a href="https://cms.solodev.net/quickstart/solodev-enterprise" target="_blank">INSTALL</a></p>
+      <p style="margin-bottom: 10px;"><a href="https://cms.solodev.net/quickstart/solodev-enterprise" target="_blank" class="no-link">INSTALL</a></p>
     </div>
   </div>
   <div class="col">
@@ -26,7 +26,7 @@ The enterprise CMS for AWS, Solodev gives you the freedom to bring the most imag
       <img src="/static/images/logos/pro-logo.jpg" alt="CMS Professional Logo">
       <h3>CMS Professional</h3>
       <p class="content">Powerful CMS features on a single server for professional websites and apps</p>
-      <p style="margin-bottom: 10px;"><a href="https://cms.solodev.net/quickstart/solodev-pro" target="_blank">INSTALL</a></p>
+      <p style="margin-bottom: 10px;"><a href="https://cms.solodev.net/quickstart/solodev-pro" target="_blank" class="no-link">INSTALL</a></p>
     </div>
   </div>
   <div class="col">
@@ -34,7 +34,7 @@ The enterprise CMS for AWS, Solodev gives you the freedom to bring the most imag
       <img src="/static/images/logos/micro-logo.png" alt="CMS Micro Logo">
       <h3>CMS Micro</h3>
       <p class="content">Full featured CMS capabilities on a single server, ideal for small development projects</p>
-      <p style="margin-bottom: 10px;"><a href="https://cms.solodev.net/quickstart/solodev-micro" target="_blank">INSTALL</a></p>
+      <p style="margin-bottom: 10px;"><a href="https://cms.solodev.net/quickstart/solodev-micro" target="_blank" class="no-link">INSTALL</a></p>
     </div>
   </div>
   <div class="col">
@@ -42,7 +42,7 @@ The enterprise CMS for AWS, Solodev gives you the freedom to bring the most imag
       <img src="/static/images/logos/eks-logo.jpg" alt="CMS EKS Logo">
       <h3>CMS EKS</h3>
       <p class="content">Deploy highly scalable websites and apps on a containerized CMS with Elastic Kubernetes Service</p>
-      <p style="margin-bottom: 10px;"><a href="https://cms.solodev.net/quickstart/solodev-cms-for-kubernetes" target="_blank">INSTALL</a></p>
+      <p style="margin-bottom: 10px;"><a href="https://cms.solodev.net/quickstart/solodev-cms-for-kubernetes" target="_blank" class="no-link">INSTALL</a></p>
     </div>
   </div>
 </div>

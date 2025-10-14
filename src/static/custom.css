@@ -93,8 +93,27 @@ h3 .text-teal {
 }
 
 /* Dark Mode */
-.dark img.dark-mode {
-  filter: invert(1);
+:is(.dark [class*="dark\:text-"]) img[src*=".svg"] {
+  filter: brightness(0) saturate(100%) invert(81%) sepia(64%) saturate(3042%) hue-rotate(173deg) brightness(98%) contrast(88%);
+}
+#retype-branding-logo img[src*=".svg"],
+#retype-header-nav img[src*=".svg"] {
+  filter: none;
+}
+.retype-markdown a:not(.no-link),
+.md\:text-blue-500,
+#retype-header-nav a {
+  color: #0488ce!important;
+}
+.retype-markdown a:not(.no-link),
+:is(.dark .dark\:text-blue-400) {
+  color: #63bbeb!important;
+}
+:is(.dark [class*="dark\:text-"]) svg path,
+:is(.dark [class*="dark\:text-"]) svg .st0,
+#retype-header-nav svg path {
+  fill: #63bbeb;
+  stroke: #63bbeb;
 }
 
 /* Media Queries */

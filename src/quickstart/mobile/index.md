@@ -16,7 +16,7 @@
       <img src="/static/images/logos/apple-logo.png" alt="App Store Logo">
       <h3>App Store</h3>
       <p class="content">Expert support for your iOS app and Apple App store listing</p>
-      <p style="margin-bottom: 10px;"><a href="/quickstart/mobile/app-store/">INSTALL</a></p>
+      <p style="margin-bottom: 10px;"><a href="/quickstart/mobile/app-store/" class="no-link">INSTALL</a></p>
     </div>
   </div>
   <div class="col">
@@ -24,7 +24,7 @@
       <img src="/static/images/logos/google-play.png" alt="Google Play Logo">
       <h3>Google Play</h3>
       <p class="content">Get help with your Android app and Google Play store listing</p>
-      <p style="margin-bottom: 10px;"><a href="/quickstart/mobile/google-play/">INSTALL</a></p>
+      <p style="margin-bottom: 10px;"><a href="/quickstart/mobile/google-play/" class="no-link">INSTALL</a></p>
     </div>
   </div>
 </div>

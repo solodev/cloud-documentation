@@ -15,10 +15,10 @@ From enterprise-grade to open source, build amazing sites and apps with the righ
 <div class="row" style="margin-top: 2.5rem;">
   <div class="col">
     <div class="card text-center">
-      <img src="/static/images/logo.png" alt="Solodev CMS Logo">
+      <img src="/static/images/solodev-logo.png" alt="Solodev CMS Logo">
       <h3>Solodev CMS</h3>
       <p class="content">Create powerful, secure, and scalable experiences with Solodev CMS</p>
-      <p style="margin-bottom: 10px;"><a href="/quickstart/cms/solodev-cms/">INSTALL</a></p>
+      <p style="margin-bottom: 10px;"><a href="/quickstart/cms/solodev-cms/" class="no-link">INSTALL</a></p>
     </div>
   </div>
   <div class="col">
@@ -26,7 +26,7 @@ From enterprise-grade to open source, build amazing sites and apps with the righ
       <img src="/static/images/logos/wordpress-logo.jpg" alt="WordPress Logo">
       <h3>WordPress</h3>
       <p class="content">Build custom blogs and websites with themes, templates, and widgets</p>
-      <p style="margin-bottom: 10px;"><a href="/quickstart/cms/wordpress">INSTALL</a></p>
+      <p style="margin-bottom: 10px;"><a href="/quickstart/cms/wordpress" class="no-link">INSTALL</a></p>
     </div>
   </div>
   <div class="col">
@@ -34,7 +34,7 @@ From enterprise-grade to open source, build amazing sites and apps with the righ
       <img src="/static/images/logos/drupal-pro.png" alt="Drupal Logo">
       <h3>Drupal</h3>
       <p class="content">Build simple or complex websites and apps with a leading open source CMS.</p>
-      <p style="margin-bottom: 10px;"><a href="/quickstart/cms/drupal">INSTALL</a></p>
+      <p style="margin-bottom: 10px;"><a href="/quickstart/cms/drupal" class="no-link">INSTALL</a></p>
     </div>
   </div>
   <div class="col">
@@ -42,7 +42,7 @@ From enterprise-grade to open source, build amazing sites and apps with the righ
       <img src="/static/images/logos/cdn.png" alt="CDN Logo">
       <h3>CDN</h3>
       <p class="content">Protect websites and apps with CDN</p>
-      <p style="margin-bottom: 10px;"><a href="/quickstart/cms/cdn">INSTALL</a></p>
+      <p style="margin-bottom: 10px;"><a href="/quickstart/cms/cdn" class="no-link">INSTALL</a></p>
     </div>
   </div>
 </div>

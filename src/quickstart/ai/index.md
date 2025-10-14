@@ -18,7 +18,7 @@ Secure, scalable, and home to the most advanced services, from AI to IoT. Build 
       <img src="/static/images/logos/chatgpt-logo.png" alt="ChatGPT Logo">
       <h3>ChatGPT</h3>
       <p class="content">The leading conversational chatbot for natural language applications like answering questions.</p>
-      <p style="margin-bottom: 10px;"><a href="/quickstart/ai/chatgpt">INSTALL</a></p>
+      <p style="margin-bottom: 10px;"><a href="/quickstart/ai/chatgpt" class="no-link">INSTALL</a></p>
     </div>
   </div>
   <div class="col">
@@ -26,7 +26,7 @@ Secure, scalable, and home to the most advanced services, from AI to IoT. Build 
       <img src="/static/images/logos/hugging-face-icon.png" alt="Hugging Face Logo">
       <h3>Hugging Face</h3>
       <p class="content">An open-source platform for building and deploying AI models with 30,000+ datasets.</p>
-      <p style="margin-bottom: 10px;"><a href="/quickstart/ai/hugging-face">INSTALL</a></p>
+      <p style="margin-bottom: 10px;"><a href="/quickstart/ai/hugging-face" class="no-link">INSTALL</a></p>
     </div>
   </div>
   <div class="col">
@@ -34,7 +34,7 @@ Secure, scalable, and home to the most advanced services, from AI to IoT. Build 
       <img src="/static/images/logos/grok-logo.png" alt="Grok Logo">
       <h3>Grok</h3>
       <p class="content">Provides real-time responses while integrating with the X platform to access live information.</p>
-      <p style="margin-bottom: 10px;"><a href="/quickstart/ai/grok">INSTALL</a></p>
+      <p style="margin-bottom: 10px;"><a href="/quickstart/ai/grok" class="no-link">INSTALL</a></p>
     </div>
   </div>
 </div>

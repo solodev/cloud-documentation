@@ -1,7 +1,7 @@
 #
 
 <div style="display: flex; align-items: center; margin-bottom: 2rem;">
-  <img src="/static/images/logo.png" alt="Solodev Logo" style="width: 80px;">
+  <img src="/static/images/logo.svg" alt="SpaceMade Logo" style="width: 80px;">
   <span style="font-size: 2.5rem; padding-left: 1.5rem; font-weight: 600;">Solodev</span>
 </div>
 
@@ -17,7 +17,7 @@ Built from the ground up to leverage the power of AWS services, Solodev is a clo
       <img src="/static/images/icons/icons-thin-cloud.svg" alt="Cloud icon" class="dark-mode">
       <h2>Cloud</h2>
       <p class="content">Deploy and host on AWS and integrate with the most secure and scalable cloud services.</p>
-      <p style="margin-bottom: 10px;"><a href="/quickstart/cloud">ACCESS</a></p>
+      <p style="margin-bottom: 10px;"><a href="/quickstart/cloud" class="no-link">ACCESS</a></p>
     </div>
   </div>
   <div class="col">
@@ -25,7 +25,7 @@ Built from the ground up to leverage the power of AWS services, Solodev is a clo
       <img src="/static/images/icons/icons-thin-cms.svg" alt="CMS icon" class="dark-mode">
       <h2>CMS</h2>
       <p class="content">Power frontends in any framework, build headless apps, and create custom experiences with code.</p>
-      <p style="margin-bottom: 10px;"><a href="/quickstart/cms">ACCESS</a></p>
+      <p style="margin-bottom: 10px;"><a href="/quickstart/cms" class="no-link">ACCESS</a></p>
     </div>
   </div>
   <div class="col">
@@ -33,7 +33,7 @@ Built from the ground up to leverage the power of AWS services, Solodev is a clo
       <img src="/static/images/icons/icon-ai.svg" alt="AI icon" class="dark-mode">
       <h2>AI</h2>
       <p class="content">Deploy with containers and serverless on AWS.</p>
-      <p style="margin-bottom: 10px;"><a href="/quickstart/ai">ACCESS</a></p>
+      <p style="margin-bottom: 10px;"><a href="/quickstart/ai" class="no-link">ACCESS</a></p>
     </div>
   </div>
   <div class="col">
@@ -41,7 +41,7 @@ Built from the ground up to leverage the power of AWS services, Solodev is a clo
       <img src="/static/images/icons/icon-blockchain.svg" alt="Blockchain icon" class="dark-mode">
       <h2>Blockchain</h2>
       <p class="content">Enterprise blockchain service with fast, trusted blockchain transactions and optimized for total cost of ownership.</p>
-      <p style="margin-bottom: 10px;"><a href="/quickstart/blockchain">ACCESS</a></p>
+      <p style="margin-bottom: 10px;"><a href="/quickstart/blockchain" class="no-link">ACCESS</a></p>
     </div>
   </div>
   <div class="col">
@@ -49,7 +49,7 @@ Built from the ground up to leverage the power of AWS services, Solodev is a clo
       <img src="/static/images/icons/icon-digital.svg" alt="Digital icon" class="dark-mode">
       <h2>Digital</h2>
       <p class="content">Manage SSO, martech, and commerce apps.</p>
-      <p style="margin-bottom: 10px;"><a href="/quickstart/digital">ACCESS</a></p>
+      <p style="margin-bottom: 10px;"><a href="/quickstart/digital" class="no-link">ACCESS</a></p>
     </div>
   </div>
   <div class="col">
@@ -57,7 +57,7 @@ Built from the ground up to leverage the power of AWS services, Solodev is a clo
       <img src="/static/images/icons/icon-mobile.svg" alt="Mobile icon" class="dark-mode">
       <h2>Mobile</h2>
       <p class="content">Manage your mobile apps and listings with a cloud-based solution or scale your enterprise strategy.</p>
-      <p style="margin-bottom: 10px;"><a href="/quickstart/mobile">ACCESS</a></p>
+      <p style="margin-bottom: 10px;"><a href="/quickstart/mobile" class="no-link">ACCESS</a></p>
     </div>
   </div>
 </div>

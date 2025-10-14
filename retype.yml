@@ -4,7 +4,7 @@ url: cloud.solodev.net
 favicon: /static/images/favicon.png
 
 branding:
-  logo: /static/images/logo.png
+  logo: /static/images/logo.svg
   label: Cloud v1.1
 
 meta:
@@ -26,7 +26,7 @@ links:
   icon: cloud
 - text: CMS
   link: https://cms.solodev.net/
-  icon: cloud
+  icon: "/static/images/icons/icon-thin-cms-blue.svg"
 - text: AI
   link: https://www.solodev.com/platform/ai.stml
   target: _blank
@@ -49,3 +49,14 @@ footer:
 
 cache:
   strategy: query
+
+theme:
+  base:
+    base-color: "#0488ce"
+    base-link: "#0488ce"
+  dark:
+    base-text: "#ffffff"
+    base-link: "#63bbeb"
+    nav-item-text: "#ffffff"
+    nav-item-text-active: "#63bbeb"
+    heading-text: "#ffffff"

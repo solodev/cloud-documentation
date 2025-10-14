@@ -18,7 +18,7 @@ Secure, scalable, and home to the most advanced services, from AI to IoT. Build 
       <img src="/static/images/logos/aws-logo.jpg" alt="AWS Logo">
       <h3>AWS</h3>
       <p class="content">Host and scale your apps on the world's most powerful cloud platform.</p>
-      <p style="margin-bottom: 10px;"><a href="/quickstart/cloud/aws">INSTALL</a></p>
+      <p style="margin-bottom: 10px;"><a href="/quickstart/cloud/aws" class="no-link">INSTALL</a></p>
     </div>
   </div>
   <div class="col">
@@ -26,7 +26,7 @@ Secure, scalable, and home to the most advanced services, from AI to IoT. Build 
       <img src="/static/images/logos/serverless-keycloak.png" alt="Keycloak Logo">
       <h3>Keycloak</h3>
       <p class="content">Identity and access management solution for authentication and authorization services.</p>
-      <p style="margin-bottom: 10px;"><a href="/quickstart/cloud/keycloak">INSTALL</a></p>
+      <p style="margin-bottom: 10px;"><a href="/quickstart/cloud/keycloak" class="no-link">INSTALL</a></p>
     </div>
   </div>
   <div class="col">
@@ -34,7 +34,7 @@ Secure, scalable, and home to the most advanced services, from AI to IoT. Build 
       <img src="/static/images/logos/kubernetes-pro-logo.jpg" alt="Kubernetes Logo">
       <h3>Kubernetes</h3>
       <p class="content">Deploy websites and apps in containers at scale with Kubernetes and AWS.</p>
-      <p style="margin-bottom: 10px;"><a href="/quickstart/cloud/kubernetes">INSTALL</a></p>
+      <p style="margin-bottom: 10px;"><a href="/quickstart/cloud/kubernetes" class="no-link">INSTALL</a></p>
     </div>
   </div>
   <div class="col">
@@ -42,7 +42,7 @@ Secure, scalable, and home to the most advanced services, from AI to IoT. Build 
       <img src="/static/images/logos/datadog-logo.png" alt="Datadog Logo">
       <h3>Datadog</h3>
       <p class="content">Monitor cloud-scale apps, databases, containers and more with SaaS analytics.</p>
-      <p style="margin-bottom: 10px;"><a href="/quickstart/cloud/datadog">INSTALL</a></p>
+      <p style="margin-bottom: 10px;"><a href="/quickstart/cloud/datadog" class="no-link">INSTALL</a></p>
     </div>
   </div>
   <div class="col">
@@ -50,7 +50,7 @@ Secure, scalable, and home to the most advanced services, from AI to IoT. Build 
       <img src="/static/images/logos/ses-logo.png" alt="SES Logo">
       <h3>SES</h3>
       <p class="content">Flexible, scalable, and cost-effective email service.</p>
-      <p style="margin-bottom: 10px;"><a href="/quickstart/cloud/ses">INSTALL</a></p>
+      <p style="margin-bottom: 10px;"><a href="/quickstart/cloud/ses" class="no-link">INSTALL</a></p>
     </div>
   </div>
 </div>
