@@ -27,7 +27,7 @@ Trust the cloud power of Amazon Web Services to host and scale your digital expe
 
 ### Confirm Email
 
-1. Confirm your indentity by going to your email and copying the verification code sent.
+1. Confirm your identity by going to your email and copying the verification code sent.
 
 2. Paste the code on the AWS form.
 

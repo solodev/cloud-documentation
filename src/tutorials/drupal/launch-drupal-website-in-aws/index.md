@@ -42,7 +42,7 @@ Once your hosted zone is created, make sure your domain is properly connected. H
 
 ## Launch Drupal Pro
 
-The first step is straightforward — visit the [AWS Marketplace](https://aws.amazon.com/marketplace/pp/prodview-l5326ck4qjosk?sr=0-4&ref_=beagle&applicationId=AWSMPContessa) and click that <span class="text-orange">**Subscribe**</span> button.Think of it as reserving your spot on the Drupal express, ready to take you to new digital heights. Once subscribed, head back here, and we’ll walk you through the next steps!
+The first step is straightforward — visit the [AWS Marketplace](https://aws.amazon.com/marketplace/pp/prodview-wlzg335aurypc?sr=0-5&ref_=beagle&applicationId=AWSMPContessa) and click that <span class="text-orange">**Subscribe**</span> button.Think of it as reserving your spot on the Drupal express, ready to take you to new digital heights. Once subscribed, head back here, and we’ll walk you through the next steps!
 
 Eager to launch your Drupal instance? Follow the CloudFormation Guide. Solodev makes it easy — click the Launch button below, and let’s get rolling!
 
